@@ -1,0 +1,9 @@
+Coffee Beans can be found in the Nether, and must either be planted on Magma Blocks or Basalt. If grown in the Nether, they do not require anything else. However, in order to grow them in the overworld, they require "sacrificial" plants around them in order to produce Coffee Berries, which can be cut on a Cutting Board to produce Coffee Beans.
+
+The downside is that the sacrificed plants will turn into Wither Roots, which give the Wither effect to things which pass through or break them. That rules out automation with Starbuncles and Bookwyrms. I tried to automate the harvesting with Ars Nouveau Spell Turrets, but they didn't have an effect on the grown Berries. So what I've set up below works - a Create Deployer (well, 2 - one on top of the other to reach both blocks of the coffee), which can be powered by anything you like, but I've used Starbuncle Wheels from Ars Creo. The Starbuncles are safe from the wither effect. I am using an Item Collector to nab the drops before the Deployers can grab them and get stalled.
+
+The coffee plants only require a few sacrificial plants to grow (on the right you can see I was testing with only 1 block of surrounding plants), however, once they are all Wither Roots, they must be broken and replanted. I haven't found a way to automate that, yet, so in the meantime, I'm doing it manually. Therefore, it makes sense for me to use the full 5x5 area of sacrificial plants (coffee in the center), to keep the Coffee producing for as long as possible.
+
+Also, you can use Time in a Bottle on the coffee plants if you need some quickly!
+
+![](https://i.imgur.com/OD0XYus.png)

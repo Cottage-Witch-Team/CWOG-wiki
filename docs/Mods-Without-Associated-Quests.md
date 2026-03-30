@@ -1,0 +1,43 @@
+## Mods Without Associated Quests:
+Remove these from your mods folder if you have a weaker PC and need to cut some fat.
+
+- Snad
+- Ambient Sounds
+- Auto-Smelting
+- Baby Fat
+- Beautify (I think?)
+- Better Lily Pads
+- Casting Crystals?
+- Caupona (for now)
+- Chef's Delight
+- Chimes
+- ChoiceTheorem's Overhauled Village
+- Chunk Sending
+- Cluttered
+- Colorful Azaleas
+- Connected Glass
+- Dark Paintings
+- Decorative Blocks?
+- Double Slabs
+- Dramatic Doors
+- Effortless Building
+- Extended Mushrooms?
+- Fairy Lights
+- Farsight
+- Macaw's Bridges
+- Macaw's Doors
+- Macaw's Fences
+- Macaw's Fences (BYG Compatibility)
+- Macaw's Paintings
+- Macaw's Paths
+- Macaw's Roofs
+- Macaw's Roofs (BYG Compatibility)
+- Macaw's Trapdoors
+- Macaw's Windows
+- Mallard's Paintings
+- Missings Wilds
+- Night Lights
+- Snail Mail (for now)
+- Sooty Chimneys
+- Structory?
+- Twilight Forest: The Lost Blocks
