@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+[data-md-color-scheme="cw-light"] {
+
+    /* brand */
+    --md-primary-fg-color: #7E946E;
+    --md-primary-fg-color--light: #bad4a6;
+    --md-primary-fg-color--dark: #5F7354;
+
+    /* links / active */
+    --md-accent-fg-color: #5F7354;
+
+    /* page */
+    --md-default-bg-color: #ddf6c8;
+    --md-default-fg-color: #2E3A2C;
+
+    /* text */
+    --md-typeset-color: #2E3A2C;
+    --md-typeset-a-color: #d32c9f;
+}
+
+
+.md-header {
+    border-bottom: 3px solid #C9B37E;
+    box-shadow: none;
+}
+
+.md-header__title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    font-family: "Berkshire Swash", serif;
+}
+
+:root {
+    --md-text-font: "Faculty Glyphic", serif;
+    --md-code-font: "JetBrains Mono", monospace;
+}
+
