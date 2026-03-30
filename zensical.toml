@@ -1,41 +1,15 @@
-# ============================================================================
-#
-# The configuration produced by default is meant to highlight the features
-# that Zensical provides and to serve as a starting point for your own
-# projects.
-#
-# ============================================================================
-
 [project]
-
 # The site_name is shown in the page header and the browser window title
-#
-# Read more: https://zensical.org/docs/setup/basics/#site_name
 site_name = "Cottage Witch 1.19 (A.K.A. CWOG) Wiki"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
-#
-# Read more: https://zensical.org/docs/setup/basics/#site_description
 site_description = "Wiki for the original Cottage Witch modpack."
-
-# The site_author attribute. This is used in the HTML head element.
-#
-# Read more: https://zensical.org/docs/setup/basics/#site_author
-site_author = "Astrofush"
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-#site_url = "https://www.example.com/"
-
-# The copyright notice appears in the page footer and can contain an HTML
-# fragment.
-#
-# Read more: https://zensical.org/docs/setup/basics/#copyright
-#copyright = """
-#Copyright &copy; 2026 The authors
-#"""
+site_url = "https://cottage-witch-team.github.io/CWOG-wiki/"
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
@@ -49,15 +23,7 @@ site_author = "Astrofush"
 #   { "Markdown in 5min" = "markdown.md" },
 # ]
 
-# With the "extra_css" option you can add your own CSS styling to customize
-# your Zensical project according to your needs. You can add any number of
-# CSS files.
-#
-# The path provided should be relative to the "docs_dir".
-#
-# Read more: https://zensical.org/docs/customization/#additional-css
-#
-#extra_css = ["stylesheets/extra.css"]
+extra_css = ["stylesheets/extra.css"]
 
 # With the `extra_javascript` option you can add your own JavaScript to your
 # project to customize the behavior according to your needs.
@@ -233,24 +199,7 @@ features = [
     #"toc.integrate",
 ]
 
-# ----------------------------------------------------------------------------
-# You can configure your own logo to be shown in the header using the "logo"
-# option in the "theme" subsection. The logo must be a relative path to a file
-# in your "docs_dir", e.g., to use `docs/assets/logo.png` you would set:
-# ----------------------------------------------------------------------------
-#logo = "assets/logo.png"
-
-# ----------------------------------------------------------------------------
-# If you don't have a dedicated project logo, you can use a built-in icon from
-# the icon sets shipped in Zensical. Please note that the setting lives in a
-# different subsection, and that the above take precedence over the icon.
-#
-# Read more:
-# - https://zensical.org/docs/setup/logo-and-icons
-# - https://github.com/zensical/ui/tree/master/dist/.icons
-# ----------------------------------------------------------------------------
-#[project.theme.icon]
-#logo = "lucide/smile"
+logo = "assets/logo.png"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
@@ -258,9 +207,9 @@ features = [
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
-#[project.theme.font]
-#text = "Inter"
-#code = "Jetbrains Mono"
+[project.theme.font]
+text = "Faculty Glyphic"
+code = "Jetbrains Mono"
 
 # ----------------------------------------------------------------------------
 # In the "palette" subsection you can configure options for the color scheme.
@@ -272,12 +221,12 @@ features = [
 # - https://zensical.org/docs/setup/colors/
 # ----------------------------------------------------------------------------
 [[project.theme.palette]]
-scheme = "default"
+scheme = "cw-light"
 toggle.icon = "lucide/sun"
 toggle.name = "Switch to dark mode"
 
 [[project.theme.palette]]
-scheme = "slate"
+scheme = "cw-dark"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
