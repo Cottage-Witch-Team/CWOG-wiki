@@ -13,7 +13,7 @@ def main():
 
     tip_list = _get_tips(tips_dir)
 
-    all_tips = "# All loading screen tips!\n\n> " + "---\n> ".join(tip_list)
+    all_tips = "# All loading screen tips!\n\n" + "\n\n---\n\n".join(tip_list)
 
     with open(dest_file, "w") as f:
         f.write(all_tips)
