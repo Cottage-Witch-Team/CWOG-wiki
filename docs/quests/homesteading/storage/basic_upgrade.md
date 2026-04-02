@@ -1,9 +1,0 @@
-
-# Basic Upgrade
-
-
-
----
-The &bBasic Pipe Upgrade&r allows you to set a &aRedstone Mode&r for the Pipe. You can set it to &aonly be active&r when receiving a signal, or to &astop when it receives a signal&r. By default, it will &aignore Redstone input&r.
-
-            

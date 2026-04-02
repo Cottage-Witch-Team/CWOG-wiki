@@ -1,9 +1,0 @@
-
-# Tail Gradient Modifier
-
-
-
----
-Once you've dyed your tail, you can &aadd a gradient&r by &6crafting this item with &bdye&r and then &6crafting it with your necklace&r.
-
-            

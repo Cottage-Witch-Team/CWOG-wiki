@@ -1,9 +1,0 @@
-
-# Meet A Snuffle!
-
-> So Warm And Snuffly
-
----
-The &eSnuffle&r is a passive creature with a permanent blep. It can be found in snowy biomes, and &atamed with potatoes&r.
-
-            

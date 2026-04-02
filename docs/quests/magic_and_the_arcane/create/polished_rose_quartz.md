@@ -1,9 +1,0 @@
-
-# Polished Rose Quartz
-
-
-
----
-&bRose Quartz&r is a glassy crystal that can be both decorative and useful. Its most important usage is in &bElectron Tubes&r, which help to power &a"intelligent" machines&r.
-
-            

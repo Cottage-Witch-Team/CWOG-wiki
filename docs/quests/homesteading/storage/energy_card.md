@@ -1,9 +1,0 @@
-
-# Energy Card
-
-
-
----
-Is your &bResonant Aperture&r running low on &aresonance&r on a frequent basis? You can expand the capacity by &ainserting this upgrade&r.
-
-            

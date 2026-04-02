@@ -1,9 +1,0 @@
-
-# Rare Hats
-
-> Baby Crewmate
-
----
-You call this a rare hat? This hat is medium &oat best!&r 
-
-            

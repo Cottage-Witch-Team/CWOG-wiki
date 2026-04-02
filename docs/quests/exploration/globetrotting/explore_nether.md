@@ -1,9 +1,0 @@
-
-# Explore Nether
-
-
-
----
-Traverse all Nether biomes!
-
-            

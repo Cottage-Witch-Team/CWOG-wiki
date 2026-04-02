@@ -1,9 +1,0 @@
-
-# Sauteed Roots
-
-
-
----
-To test your Stir-Fry Skills, why not make some &bSauteed Roots&r? This dish is made with &aroot vegetables such as &bCarrots&r or &bPotatoes&r.
-
-            

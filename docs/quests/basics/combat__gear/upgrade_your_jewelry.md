@@ -1,9 +1,0 @@
-
-# Upgrade Your Jewelry
-
-> Taking It To The Next Level
-
----
-Upgrade to the next tier by &6adding an &bEnder Pearl&r to the Necklace!
-
-            

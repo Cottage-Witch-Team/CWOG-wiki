@@ -1,9 +1,0 @@
-
-# Hoglin Loin
-
-> Gird This
-
----
-By killing &eHoglins&r with your trusty &bKnife&r, you can gain &bHoglin Loin&r, &bHoglin Hide&r, and sometimes &bHam&r! These can be used in cooking recipes.
-
-            

@@ -1,9 +1,0 @@
-
-# Healer Pouch
-
-
-
----
-The &bHealer's Pouch&r will periodically &agrant you a speed boost&r when you're hit by an enemy. You'll be faster the more hurt you are. Level it up by &6taking damage&r.
-
-            

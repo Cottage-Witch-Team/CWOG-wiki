@@ -1,9 +1,0 @@
-
-# Breed Froststalker
-
-
-
----
-Earn this by successfully &abreeding two Froststalkers&r.
-
-            

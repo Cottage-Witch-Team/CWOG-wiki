@@ -1,9 +1,0 @@
-
-# The Full Set: Knightmetal
-
-> Knightmetal Helmet
-
----
-Obtain a full set of &bKnightmetal Armor&r from the &cTwilight Forest&r.
-
-            

@@ -1,9 +1,0 @@
-
-# Obtain A Knife
-
-> Baby's First Stabber
-
----
-&bKnives&r from this mod will guarantee you &aadditional drops from animals&r, such as &bfeathers&r or &bleather&r, as well as &aadditional drops when breaking grass&r. This makes it much easier to get started on your agricultural journey.
-
-            

@@ -1,9 +1,0 @@
-
-# The Full Set: Phantom
-
-> Phantom Helmet
-
----
-Obtain a full set of &bPhantom Knight Armor&r from the &cTwilight Forest&r.
-
-            

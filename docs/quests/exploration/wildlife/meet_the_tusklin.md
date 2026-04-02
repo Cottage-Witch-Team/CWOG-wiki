@@ -1,9 +1,0 @@
-
-# Meet The Tusklin
-
-> A Neutral But Defensive Beast
-
----
-The &eTusklin&r, found in snowy biomes, can be saddled and ridden wild, but will buck the player off after a while. They can be bred with &bBrown Mushrooms&r, but their young will still be mostly feral.
-
-            

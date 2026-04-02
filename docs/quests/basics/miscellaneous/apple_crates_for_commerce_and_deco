@@ -1,0 +1,24 @@
+
+# Apple Crates For Commerce And Deco!
+
+>  Tag
+
+---
+If you're playing with others, you can use Crates from the &lApple Crates&r mod to &asell items to one another&r!
+
+{image:cottagewitch:textures/quest_images/applecrates.png width:250 height:250 align:1}
+
+(&cRed&r - A) This is the &aCrate's inventory&r, where you place your stock for sale.
+
+(&1Dark Blue&r - B) This input is &athe item you want to receive&r as payment. Place one or more into the slot. 
+
+(&bLight Blue&r - C) This is the &aitem you're trading&r. Stack size matters - in this example the trade is &a1 Diamond for 4 Dark Oak Saplings&r.
+
+(&aGreen&r - D) You must &apress this button to lock in your trade&r. Items in Slots B and C will be returned to your personal inventory.
+
+(&dPink&r - E) This is where you can &aadd another player to the crate&r. Players added here are considered an owner and will have the same access as you!
+
+(&5Purple&r - F) This is where your &apayment is stored&r. As people purchase from you, the items they use to pay will go here. This slot can store a higher stack size than 64 items.
+
+(White - G) This is your personal inventory!
+            

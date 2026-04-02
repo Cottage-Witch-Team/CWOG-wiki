@@ -1,9 +1,0 @@
-
-# Create:hand Crank 000
-
-
-
----
-Turning a &bHand Crank&r is hungry work! Quick, eat this before you pass out.
-
-            

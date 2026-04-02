@@ -1,9 +1,0 @@
-
-# Netherite Gauntlet
-
-
-
----
-The &bNetherite Gauntlet&r is slightly more powerful than its sword counterpart, but what is truly impressive is &aits final upgrade&r: the &bPotioneer Gauntlet&r.
-
-            

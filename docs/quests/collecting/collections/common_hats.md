@@ -1,9 +1,0 @@
-
-# Common Hats
-
-> Acornhat
-
----
-The most common of headwear.
-
-            

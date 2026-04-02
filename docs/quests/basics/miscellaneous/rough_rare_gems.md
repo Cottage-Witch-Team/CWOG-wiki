@@ -1,9 +1,0 @@
-
-# Rough Rare Gems
-
-> Tag
-
----
-These rarer gems require a &bDiamond Grindstone&r to be polished.
-
-            

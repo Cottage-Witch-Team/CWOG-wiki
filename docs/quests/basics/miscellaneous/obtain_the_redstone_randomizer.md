@@ -1,9 +1,0 @@
-
-# Obtain The Redstone Randomizer
-
-> Flip A Coin. Or A Lever.
-
----
-As its name suggests, the &bRedstone Randomizer&r determines randomly whether to output the provided signal to the &aleft or to the right&r.
-
-            

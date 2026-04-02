@@ -1,9 +1,0 @@
-
-# Flying Fish Boots
-
-
-
----
-Made from parts from &eFlying Fish&r, these boots allow you to leap out the water and glide just like a fish.
-
-            

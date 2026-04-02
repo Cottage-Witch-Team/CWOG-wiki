@@ -1,9 +1,0 @@
-
-# Wanderer Boots
-
-
-
----
-Increases &amovement speed&r. Level up by &6traveling on foot!&r
-
-            

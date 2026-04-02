@@ -1,9 +1,0 @@
-
-# Obtain Straw
-
-> Just Don't Draw The Short One
-
----
-&bStraw&r can be used to make &bRope&r, which is very useful. It can also be used to make &bCanvas&r, &bCompost&r, and building materials such as &bDaub&r.
-
-            

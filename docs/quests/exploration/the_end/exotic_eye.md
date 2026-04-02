@@ -1,9 +1,0 @@
-
-# Exotic Eye
-
-
-
----
-The &bExotic Eye&r is associated with Atlantis - the legends say that folks used it to find the sunken city, but they never returned to confirm the tale. &6Craft it with aquatic items&r.
-
-            

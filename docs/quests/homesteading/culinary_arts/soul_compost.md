@@ -1,9 +1,0 @@
-
-# Soul Compost
-
-> Soul Compost? Boy That's A Mood
-
----
-You can also use &bHoglin Hides&r to create Soul &bCompost&r, which will slowly convert into &bRich Soul Soil&r. Simply &6place the Compost near Lava&r.
-
-            

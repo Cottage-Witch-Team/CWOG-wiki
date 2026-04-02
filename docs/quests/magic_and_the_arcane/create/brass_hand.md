@@ -1,9 +1,0 @@
-
-# Brass Hand
-
-
-
----
-The &bBrass Hand&r is used to craft both &bDeployers&r and the &bExtend-o Grip&r, the latter of which &aallows you to extend your main hand reach&r. It's very... handy. I'll see myself out.
-
-            

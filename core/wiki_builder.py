@@ -11,14 +11,13 @@ class WikiBuildTask:
         """Write the given text to the destination."""
         self.destination.write_text(text)
 
-    def write_document_to_destination_directory(
+    def write_document_to_path(
         self,
         text: str,
-        file_path: str,
+        file_path: Path,
     ) -> None:
         """Write the given text to the destination directory."""
-        path = self.destination / file_path
-        if not path.parent.exists():
-            path.parent.mkdir(parents=True, exist_ok=True)
-        path.touch()
-        path.write_text(text, encoding="utf8")
+        if not file_path.parent.exists():
+            file_path.parent.mkdir(parents=True, exist_ok=True)
+        file_path.touch()
+        file_path.write_text(text, encoding="utf8")

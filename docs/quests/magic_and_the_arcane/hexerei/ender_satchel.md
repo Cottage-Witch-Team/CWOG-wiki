@@ -1,9 +1,0 @@
-
-# Ender Satchel
-
-
-
----
-The &bEnder Satchel&r is a storage upgrade which &agrants easy access to your Ender Chest inventory!&r.
-
-            

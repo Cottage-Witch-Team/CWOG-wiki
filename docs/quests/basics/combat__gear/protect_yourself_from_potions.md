@@ -1,9 +1,0 @@
-
-# Protect Yourself From Potions
-
-> Tag
-
----
-Ever wished you could &ashield yourself from thrown Potions&r? Well, you can. Just bring your trusty &bUmbrella!&r.
-
-            

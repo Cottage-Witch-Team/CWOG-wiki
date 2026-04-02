@@ -1,9 +1,0 @@
-
-# Pupfish Locator
-
-> Based On A True Story
-
----
-This item seeks out the rarest creature in the world: the &eDevil's Hole Pupfish&r, a creature which spawns only in a single chunk, ever, in a given world.
-
-            

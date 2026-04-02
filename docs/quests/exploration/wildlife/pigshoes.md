@@ -1,9 +1,0 @@
-
-# Pigshoes
-
-
-
----
-These can be obtained by &acrafting&r, and are used to &afully tame a &eTusklin&r.
-
-            

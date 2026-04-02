@@ -1,9 +1,0 @@
-
-# Strider Slice
-
-> Heartless!
-
----
-In order to obtain &bStrider Slices&r, you need to slay &eStriders&r with a &bKnife&r. It's quite tragic, really. But if you do so, you can &6cook them as they are&r, or place the Slices on the &bCutting Board&r to obtain &bGround Strider&r, which has further recipe uses.
-
-            

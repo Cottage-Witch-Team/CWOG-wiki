@@ -1,9 +1,0 @@
-
-# Daytime Naptime!
-
-> Hammock White
-
----
-Make a &bHammock&r to &asleep through the day&r, making it night easily. Then, get up to shenanigans!
-
-            

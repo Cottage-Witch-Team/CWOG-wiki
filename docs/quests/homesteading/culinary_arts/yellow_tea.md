@@ -1,9 +1,0 @@
-
-# Yellow Tea
-
-> Oooh, Long!
-
----
-Yellow tea, known to most as Oolong, is an earthier flavored tea with the &aability to grant resistance&r.
-
-            

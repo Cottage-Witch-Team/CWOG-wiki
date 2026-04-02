@@ -1,9 +1,0 @@
-
-# Obtain A Lantern
-
-> I Love Lantern
-
----
-Lanterns can now be placed on walls! That's it, that's the tweet.
-
-            

@@ -1,9 +1,0 @@
-
-# Find The Tower
-
-
-
----
-The beginning of your journey should bring you to a &cTower&r, looming over the surrounding lands. Found most often in plains, forests, and mountains, these Towers &ahold countless treasures&r, as well as a &bmap to the next dungeon...&r
-
-            

@@ -1,0 +1,12 @@
+
+# Wixie Charm
+
+>  The World's Cutest Crafting Table
+
+---
+The &bWixie&r's &bShards&r are obtained by using the &aDispel&r effect on a &aWitch&r when they're under half health. Once you craft the &bCharm&r, you can &6right click it on a &bCauldron&r to summon the &aWixie&r.
+
+Wixies will &aincrease the duration of consumed potions&r while they are following you. They will also &aapply negative potion effects on enemies&r.
+
+When a Wixie is bound to a Cauldron, it will &aautomatically craft an item or potion&r it is told to. It will draw from nearby inventories, and can be paused if it receives a redstone signal.
+            
