@@ -1,0 +1,11 @@
+
+# Brass Ingot
+
+
+
+---
+Another important &aalloy&r is &bBrass&r, which is formed of &bCopper&r and &bZinc&r.
+To craft it, you'll need a &bMixer&r with a &bBlaze Burner&r underneath. Throw the ingredients into the mixer, &6feed the Blaze Burner&r, and make sure the &bMixer&r is receiving enough su.
+You can remove the finished product by setting up a &bConveyor Belt&r, or just by &6right clicking with an empty hand&r.
+
+            

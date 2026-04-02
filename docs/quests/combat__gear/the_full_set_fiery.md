@@ -1,0 +1,9 @@
+
+# The Full Set: Fiery
+
+> Fiery Helmet
+
+---
+Obtain a full set of &bFiery Metal Armor&r from the &cTwilight Forest&r.
+
+            

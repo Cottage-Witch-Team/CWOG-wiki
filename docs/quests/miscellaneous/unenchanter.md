@@ -1,0 +1,11 @@
+
+# Unenchanter
+
+
+
+---
+Did you know you can grind the enchantment off of the &bEnchanted Golden Apple&r?
+
+That would be utterly ridiculous to do, and yet...
+
+            

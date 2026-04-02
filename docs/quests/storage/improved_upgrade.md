@@ -1,0 +1,9 @@
+
+# Improved Upgrade
+
+
+
+---
+The &bImproved Upgrade&r gives you &aRedstone Mode&r control, and also allows you to change the &aDistribution mode&r, such as whether to deliver to the &afirst inventory&r, &aRound Robin&r, or &acompletely random&r.
+
+            

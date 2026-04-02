@@ -14,3 +14,15 @@ dev = [
     "ruff>=0.15.8",
     "zensical>=0.0.30",
 ]
+
+[tool.ruff]
+line-length = 80
+indent-width = 4
+
+
+[tool.ruff.lint]
+select = ["ALL"]
+ignore = [
+    "D101",
+    "D100",
+]

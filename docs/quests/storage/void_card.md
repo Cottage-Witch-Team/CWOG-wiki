@@ -1,0 +1,9 @@
+
+# Void Card
+
+
+
+---
+A very important upgrade - this tablet, when configured, will &avoid overflow items&r which would &dotherwise clog your system&r and cause lag.
+
+            

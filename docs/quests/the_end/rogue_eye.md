@@ -1,0 +1,9 @@
+
+# Rogue Eye
+
+
+
+---
+A &bRogue Eye&r can be found in a &dJungle Temple&r, and is rumored to have given our ancestors Redstone.
+
+            

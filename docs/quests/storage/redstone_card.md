@@ -1,0 +1,9 @@
+
+# Redstone Card
+
+> Chaos Control
+
+---
+When inserted, this upgrade allows you to &acontrol the upgraded block with &bRedstone&r. This can include &apowering, deactivating, and pulsing&r.
+
+            

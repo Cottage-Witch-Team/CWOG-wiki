@@ -1,0 +1,9 @@
+
+# Obtain Novice Robes
+
+> Unlike Witches, Mages Do Wear Pants.
+
+---
+Use your newly-acquired &bMagebloom Fiber&r to craft yourself a set of &bNovice Robes&r, which will &aincrease the amount of mana&r you have access to.
+
+            

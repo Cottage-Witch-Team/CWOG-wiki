@@ -1,0 +1,25 @@
+
+# Photography Is Witchcraft
+
+> Camera
+
+---
+There have long been superstitions about whether &aphotography holds magical sway&r in our world. Some say photographs steal souls - others say they grant a form of immortality.
+
+Whatever you believe the power of the picture truly is, it cannot be denied that it &ais at least somewhat magical&r. The ability to capture light from a moment in time and look back on it long since it has passed? That's a small miracle without a doubt.
+
+You, too, can &acapture photos with a camera&r! &6Right click&r the camera to enter photo mode. From here, you can &6crouch&r to access the &aphoto settings&r - Focal Length, Shutter Speed, Flash Mode, and Composition Guides.
+
+But first, you'll need some &bFilm&r, and you can also upgrade your camera with &aother items&r!
+
+Continued on next page.
+{@pagebreak}
+&6Shift right click&r while holding the &bCamera&r to access the interface. Here you can load &bFilm&r - color, or black and white. You can also add the following:
+
+- &bRedstone Lamp&r to add a &aflash&r
+- &bSpyglass&r to add a &azoom&r
+- &bGlass Pane&r to add &afilters&r
+
+{image:cottagewitch:textures/quest_images/cameraui.png width:100 height:100 align:1 fit:true}
+
+            

@@ -1,0 +1,9 @@
+
+# Rose Hip Tea
+
+> These Rose Hips Don't Lie
+
+---
+Rose hip tea will grant you a small amount of &aRegeneration&r!
+
+            

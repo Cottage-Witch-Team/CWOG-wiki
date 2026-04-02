@@ -1,0 +1,9 @@
+
+# Crow Ankh Amulet
+
+
+
+---
+Equip your &eCrow&r with this &bAnkh&r to protect it from danger. It will grant it &aRegen&r while it's playing dead, and &aacts as a &bTotem of Undying&r in case the &eCrow&r dies.
+
+            

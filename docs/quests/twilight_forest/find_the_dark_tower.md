@@ -1,0 +1,12 @@
+
+# Find The Dark Tower
+
+> I Ain't Afraid Of No Ghast
+
+---
+In the Center of the &dDark Forest&r, the Dark Tower can be found. It is a massive structure, filled with monsters, and ruled over by a deadly &eUr-Ghast&r.
+There are four smaller turrets, each containing a &bTower Key&r. These keys are used to unlock the central tower. There are many challenges here to undergo, so be prepared for a long expedition.
+To defeat the &eUr-Ghast&r, you must defeat his &eCarminite Ghastlings&r in the nearby rooms, near the Ghast Traps. Then and when the beast draws near, activate the trap.
+The Ur-Ghast is one of the 3 bosses you must defeat to access the &dHighlands&r.
+
+            

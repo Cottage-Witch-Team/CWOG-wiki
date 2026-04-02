@@ -1,0 +1,9 @@
+
+# Smore
+
+> Toasty Roasty Goodness
+
+---
+This quest exists purely so that when you make a &bS'more&r...you get some more!
+
+            

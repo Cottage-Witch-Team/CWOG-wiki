@@ -1,0 +1,13 @@
+
+# Bring Them To Life
+
+> Wake Them Up Inside
+
+---
+Where are all the fish...? &lAquaculture&r fish &ado not spawn in the world&r, you can only &6fish them up&r. 
+
+Don't worry though, they aren't dead- only sleeping! &6Combine that fish with a water bucket&r to wake them right up.
+
+If you'd like something with a bit more pizazz, you can &6strike a dead fish with lightning&r to get its heart pumping. Make sure you have a bucket ready though- or you &dmay end up with a cooked fish&r!
+
+            

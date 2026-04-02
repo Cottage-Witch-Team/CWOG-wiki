@@ -1,0 +1,9 @@
+
+# Obtain Infused Fabric
+
+> Of Course It's Black
+
+---
+&bInfused Fabric&r is the basis for creating your very first set of &bWitch Robes&r. The warp and weft are perfectly balanced, giving this extra defense despite only being fabric.
+
+            

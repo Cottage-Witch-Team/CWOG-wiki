@@ -1,0 +1,10 @@
+
+# Idas:nexus
+
+
+
+---
+&aDeep underground&r is the structure known as &cThe Nexus&r. This carved deepslate monstrosity contains broken portals to other worlds, such as the &cNether&r and &cThe Twilight Forest&r.
+These gateways are broken and in need of mending. Unfortunately it seems &amost are broken irreparably&r, and those worlds cannot be visited.
+
+            

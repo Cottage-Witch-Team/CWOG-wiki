@@ -1,0 +1,15 @@
+
+# Fluid On The Go
+
+> Baby Got Camelback
+
+---
+Collecting lots of water or lava but don't want to carry all those buckets? The &bTank Upgrade&r allows you to &6add and remove buckets of fluid from the tank&r, storing far more while only sacrificing a few slots of the backpack. &bStack Upgrades&r also increase your tank size.
+
+Going on a deep mining trip with your mending tools? Consider equipping the tank alongside an &bExperience Pump&r to store exp and dish it out as needed. Keep in mind, you will need to &dfully empty the previous fluid&r before using the pump.
+
+To get the most of these upgrades, we suggest &6checking out the settings tab&r for each one. 
+
+Your settings will be saved for each upgrade &aeven if you remove it.&r
+
+            

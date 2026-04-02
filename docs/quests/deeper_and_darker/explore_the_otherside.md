@@ -1,0 +1,11 @@
+
+# Explore The Otherside
+
+
+
+---
+The &cOtherside&r is a dark and dangerous place. It's likely you &awon't be able to see&r more than a few feet ahead of you.
+Thankfully, the &bWarden Helmet&r will alleviate this issue.
+Within the Otherside are &athree different biomes&r, each rather unwelcoming.
+
+            

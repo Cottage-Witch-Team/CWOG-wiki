@@ -1,0 +1,9 @@
+
+# Yellow Dock Leaves
+
+
+
+---
+&bYellow Dock&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r.
+
+            

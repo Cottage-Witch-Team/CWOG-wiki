@@ -1,0 +1,9 @@
+
+# Flower Picking: Black And White
+
+> Azure Bluet
+
+---
+Collect one each of every flower in the game to earn rewards!
+
+            

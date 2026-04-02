@@ -1,0 +1,22 @@
+
+# Guide Book
+
+
+
+---
+&lCaupona&r is a cooking mod that employs a freeform style of recipe.
+With most recipes, you will &amaintain a ratio&r of ingredients, such as ensuring that you have &a"mostly beef"&r and &a"some vegetables"&r, with &a"no fish"&r, and so on.
+You can use &bthe guidebook&r or &lJEI&r to learn the recipes.
+{image:cottagewitch:textures/cauponajei.png width:100 height:80 align:1 fit:true}
+When viewing &bStews and Soups&r, ensure that you &6click these icons&r to access their recipes.
+
+{image:cottagewitch:textures/cauponarecipe.png width:100 height:90 align:1 fit:true}
+A) This is the &bSoup Base&r. For example, for &bNail Soup&r, you &6boil water&r.
+B) This is the &aratio of ingredients to liquid&r. For example, 3 or more ingredients to 1 bucket/4 bowls of liquid.
+C) This is the &aoutput&r, or what the recipe will make.
+D) These are ingredients which &amust not be included&r.
+E and F) These are the &aratio of items to each other&r, for example, a majority of &bbeef&r and at least one &bvegetable&r.
+
+Now that you know how to read the recipes, let's make some!
+
+            

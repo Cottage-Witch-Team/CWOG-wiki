@@ -1,0 +1,9 @@
+
+# End Ruins
+
+
+
+---
+The journals from which I discovered these dungeons had this to say: "Once you defeat the dragon and gain access to the &couter islands&r, you may be lucky enough to find this &cdilapidated structure&r. There isn’t much loot inside, but at the top of the tower, you can find a &bdragon egg&r. Be careful though, the &eendermen&r inside &aaren’t quite as peaceful&r as the ones outside of the structure."
+
+            

@@ -1,0 +1,11 @@
+
+# Black Tea
+
+> Hello, Little Darjeeling
+
+---
+Black tea is the leaf with the greatest amount of tannins, making it the most resistant to heat and also the most strongly-flavored.
+
+Oh, it's also the most &aCaffeinated&r, and will grant you that effect.
+
+            

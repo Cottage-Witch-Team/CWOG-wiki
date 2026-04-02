@@ -1,0 +1,9 @@
+
+# Music Lover
+
+> I Can't Get This Song Out Of My Head!
+
+---
+Obtain all vanilla music discs.
+
+            

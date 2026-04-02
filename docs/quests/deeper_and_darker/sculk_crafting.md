@@ -1,0 +1,11 @@
+
+# Sculk Crafting
+
+> Sculk
+
+---
+&bSculk&r is the signature block of the &cDeep Dark&r, a biome in which &cAncient Cities&r rest, occupied only by the Sculk and its associated creatures.
+
+Where &bSculk&r comes from and what it does is not entirely known... but it is clear that it is &lalive&r.
+
+            

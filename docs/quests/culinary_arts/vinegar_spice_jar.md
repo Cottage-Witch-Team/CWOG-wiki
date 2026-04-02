@@ -1,0 +1,11 @@
+
+# Vinegar Spice Jar
+
+
+
+---
+You can also &aadd Spices to your food&r! One such spice is &bVinegar&r, which is created by leaving &bSweet Berries&r to &arest in the Dolium&r with a &bFlower Pot&r.
+
+Adding spices to your food &agives it greater saturation&r.
+
+            

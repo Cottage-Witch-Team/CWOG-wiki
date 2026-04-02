@@ -1,0 +1,9 @@
+
+# Warped Garden
+
+> It's Not In The Nether
+
+---
+The journals from which I discovered these dungeons had this to say: "This shell of an &cundersea town&r is home to many axe-wielding &edrowned&r and provides a renewable source of &bcoral blocks&r. Weapons from a time forgotten, such as the &bWarped Axe&r, can still be found inside."
+
+            

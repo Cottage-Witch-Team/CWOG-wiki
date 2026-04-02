@@ -1,0 +1,9 @@
+
+# Basic Spell Turret
+
+> Tower Defense Game Time!
+
+---
+&bSpell Turrets&r can cast &aTouch&r and &aProjectile&r spells when provided with &bParchment Scrolls&r, &bSource&r, and a redstone signal.
+
+            

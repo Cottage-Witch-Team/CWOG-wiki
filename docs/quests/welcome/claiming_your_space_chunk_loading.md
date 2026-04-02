@@ -1,0 +1,19 @@
+
+# Claiming Your Space \& Chunk Loading
+
+> When You're Away, Your Base Will Play
+
+---
+If you want your base to stay active even when you're not there, you want &achunk loading&r. This will also help if you &ahave a vanilla-style mob farm&r.
+
+Open your inventory and look at the top left of your screen. The &amap icon&r will lead you to the &aFTB Chunks&r screen.
+
+{image:cottagewitch:textures/quest_images/ftbmenu.png width:200 height:150 align:1}
+
+Choose &bClaimed Chunks&r and &6left click&r on a chunk to claim it for your own. To unclaim, &bright click&r it. To &aload the chunk when you're not in it&r, &6shift and left click the claimed chunk&r. You can unload it by holding &6shift and right clicking&r.
+
+{image:cottagewitch:textures/quest_images/claimchunks.png width:200 height:120 align:1}
+
+When a chunk is claimed, &dother server members cannot break or interact with blocks in it&r. In order to grant someone access to your chunks, you need to &aadd them or their Team as an Ally&r.
+
+            

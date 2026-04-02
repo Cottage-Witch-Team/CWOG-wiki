@@ -1,0 +1,9 @@
+
+# Idas:apothecary Abode
+
+
+
+---
+Locate the &cApothecary's Abode&r, a large structure filled with bizarre machines and absolutely loaded with &eIllagers&r.
+
+            

@@ -1,0 +1,12 @@
+
+# Obtain A Pickarang
+
+> Seriously This Is Like The Coolest Item In The Game
+
+---
+The &bPickarang&r is a tool which can &aremotely break blocks and return the drops to you&r.
+It can also be used to &agrab dropped items&r and &adamage enemies&r.
+
+You can upgrade it to the &bFlamarang&r, and both versions can be Enchanted.
+
+            

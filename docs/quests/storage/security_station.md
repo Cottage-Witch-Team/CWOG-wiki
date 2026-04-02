@@ -1,0 +1,11 @@
+
+# Security Station
+
+> Magical Security
+
+---
+Although covens are common amongst modern witches, there is something to be said for &aprivacy&r. In order to claim your Nexus - and link your &bResonant Apertures&r - you will need a &bGuardian Ward&r.
+
+The &eGuardian&r is a spirit which inhabits the mechanical chassis known as the &bWard&r, and they will protect your Nexus so long as they are &aproperly connected&r (it merely has to be touching the other blocks).
+
+            

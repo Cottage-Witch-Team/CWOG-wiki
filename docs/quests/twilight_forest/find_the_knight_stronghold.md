@@ -1,0 +1,13 @@
+
+# Find The Knight Stronghold
+
+> Better Bring Some Extra Torches
+
+---
+Located in the gloomy depths of the &dDark Forest&r, the Knight Stronghold is infested with &eGoblins&r, and you cannot enter without one of the &bTrophies&r from the previous bosses.
+You can use &bMaze Maps&r here, but the structures are so massive that you may need a number of them.
+It is recommended to &6mark your path with torches&r to ensure that you don't double back by mistake.
+The end of this dungeon contains a fight against the &eKnight Phantoms&r. These will not follow you out of the room, and can swarm you if you simply charge in. It is recommended to &6retreat out to the hallway periodically if healing is needed&r.
+Once you defeat them, you can now challenge the &dDark Tower&r.
+
+            

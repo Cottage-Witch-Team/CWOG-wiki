@@ -1,0 +1,9 @@
+
+# Ends Delight:get Assorted Salad
+
+
+
+---
+Make this advancement by crafting the &bAssorted Salad&r.
+
+            

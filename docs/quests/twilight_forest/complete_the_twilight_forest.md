@@ -1,0 +1,9 @@
+
+# Complete The Twilight Forest
+
+> Twilightforest:progress Troll
+
+---
+Once you complete the &eFinal Castle&r, obtained the &bLamp of Cinders&r, and even &6Completed the &eQuest Ram&r, you will finally have earned this unique armor set. Wear it with pride!
+
+            

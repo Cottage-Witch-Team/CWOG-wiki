@@ -1,0 +1,9 @@
+
+# Making More Sculk
+
+> A Catalyst For Greatness. Or At Least Sculk.
+
+---
+Once you have obtained &bEcho Shards&r, you can produce your own &bSculk&r and &bSculk Veins&r by &6feeding exp to a &bSculk Catalyst&r, which will &atransform the surrounding blocks&r. The primary method of doing this is to &6slay monsters nearby&r.
+
+            

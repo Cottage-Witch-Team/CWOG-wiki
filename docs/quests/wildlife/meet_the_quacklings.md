@@ -1,0 +1,9 @@
+
+# Meet The Quacklings
+
+> Queck
+
+---
+Quacklings are bizarre, yet friendly creatures that primarily live in Swamps. They can be traded with, just like human villagers!
+
+            

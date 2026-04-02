@@ -1,0 +1,18 @@
+
+# Obtain A Novice Spell Book
+
+> Good Beginner's Luck!
+
+---
+To obtain the &bNovice Spell Book&r, you must &6remove the Worn Notebook&r and craft it with &bGold&r in a &bCrafting Table&r.
+
+To retrieve your &bWorn Notebook&r from your &bAkashic Tome&r, &6select the Worn Notebook in the tome&r, then &6crouch and throw the book&r. This will eject the Worn Notebook so you can craft with it.
+
+The name will look funny. That's normal, you can craft with it just fine.
+
+Once you have your &bNovice Spell Book&r, you can &6hold it and press c&r to access the interface.
+The top tab is &athe worn notebook, a reference guide for the mod&r. The next tab lets you &abuild and save spells&r. We'll address the rest later.
+
+Note that &dwhile holding your book, you cannot use the ` key&r.
+
+            

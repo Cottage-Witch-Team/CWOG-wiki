@@ -1,0 +1,11 @@
+
+# Wind Vane
+
+> Make It Rain
+
+---
+Depending on weather, this decorative block will output a redstone signal.
+
+When it is &araining&r, it will output a signal of 1. When it is &athundering&r, it will output a signal of 2.
+
+            

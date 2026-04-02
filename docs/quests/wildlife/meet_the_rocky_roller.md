@@ -1,0 +1,10 @@
+
+# Meet The Rocky Roller
+
+> I Don't Give A Damn About My Reputation
+
+---
+The &eRocky Roller&r dwells in Dripstone Caves and will roll at its prey to crush them. It is weak but the strong armor on its back will protect it from most blows.
+If it drops its &bRocky Hide&r, this can be crafted into a chestplate which allows the player to &aroll into mobs&r and damage them while sprinting. It will also cause the player to &asink in water&r.
+
+            

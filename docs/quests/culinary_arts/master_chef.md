@@ -1,0 +1,9 @@
+
+# Master Chef
+
+
+
+---
+Achieve this advancement by &6eating a course of every meal available&r! You can search for "food" in JEI or your storage, but &donly foods from the &lFarmer's Delight&r &dmod&r count.
+
+            

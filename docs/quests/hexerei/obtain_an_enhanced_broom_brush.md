@@ -1,0 +1,9 @@
+
+# Obtain An Enhanced Broom Brush
+
+> Fancy Enhancery
+
+---
+The &bEnhanced Broom Brush&r has increased durability. Don't forget to hang it out to dry once you've crafted it!
+
+            

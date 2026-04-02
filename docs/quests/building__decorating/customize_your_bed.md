@@ -1,0 +1,9 @@
+
+# Customize Your Bed
+
+> Tag
+
+---
+Sick of boring old flat beds? Make a &afancy one&r! To craft a &bBed&r, you'll need planks, wool, and &ba Cushion&r!
+
+            

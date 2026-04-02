@@ -1,0 +1,11 @@
+
+# Meet The Catfish
+
+> A Hungry Fellow
+
+---
+&eCatfish&r, which come in three different size categories, will habitually &aswallow up dropped items or smaller entities&r they come across.
+However, if they take any damage - or encounter a sea pickle, which they loathe - &athey will eject the contents of their stomachs&r.
+One can &6lure them in&r with a &bSea Lantern&r, and grab them with a &bBucket&r.
+
+            

@@ -1,0 +1,11 @@
+
+# Cure Zombie Villager
+
+> Extreme Couponing
+
+---
+Villagers who have &abeen zombified and then cured&r will offer &asignificant discounts&r.
+
+Should you find a &eZombie Villager&r, &6hit them with a Splash Potion of Weakness&r, and then &6give them a golden apple&r. After a time, they will be cured!
+
+            

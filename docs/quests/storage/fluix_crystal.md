@@ -1,0 +1,13 @@
+
+# Fluix Crystal
+
+
+
+---
+To obtain &bFluix Crystals&r, you need to &6submerge a &bConsecrated Certus Quartz&r with &bRedstone Dust&r and mundane &bQuartz&r in a &bliquid&r. Did you keep that &bTomato Sauce&r?
+
+...You already drank it? Fine, you can &aalso use &bWater&r, I guess. Since you hate fun.
+
+{image:cottagewitch:textures/quest_images/fluix_tomato_water.png width:250 height:250 align:1}
+
+            

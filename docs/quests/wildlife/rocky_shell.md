@@ -1,0 +1,9 @@
+
+# Rocky Shell
+
+
+
+---
+Defeat a &eRocky Roller&r and obtain its shell, plus get this little bonus!
+
+            

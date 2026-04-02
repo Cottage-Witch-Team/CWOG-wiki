@@ -1,0 +1,13 @@
+
+# Gravy Boat
+
+
+
+---
+A &bGravy Boat&r is crucial to making &aStir Fried dishes&r. It's crafted by &aresting&r, which is a unique mechanic involving &6putting things in a &bDolium&r and then &6leaving it the heck alone&r.
+{image:cottagewitch:textures/gravyboat.png width:100 height:100 align:1 fit:true}
+In this image, you can see there are &aat least 8 &bWalnuts&r, one &bAnvil&r, and one &bGlass Bottle&r (you can also use an empty Gravy Boat) in the &bDolium&r. All of these must be present in order for the &aresting process&r to begin. Be aware that this &dtakes a very long time&r. Most resting takes &dan in-game day&r to complete.
+
+You can speed it up by using &bTime in a Bottle&r.
+
+            

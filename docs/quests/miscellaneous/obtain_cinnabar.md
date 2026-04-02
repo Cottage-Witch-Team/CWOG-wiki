@@ -1,0 +1,9 @@
+
+# Obtain Cinnabar
+
+> Cinnabar
+
+---
+&bRough Cinnabar&r is dropped from &bRedstone Ore&r. To gain the refined version, &6polish it on a Grindstone&r.
+
+            

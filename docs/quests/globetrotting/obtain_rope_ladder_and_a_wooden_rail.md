@@ -1,0 +1,9 @@
+
+# Obtain Rope Ladder And A Wooden Rail
+
+> It’s Probably Strong Enough, Right?
+
+---
+Craft yourself some &bRope Ladders&r and &bWooden Rails&r to carefully traverse difficult terrain - easy to make, easy to place, and able to &achain across air gaps&r without support blocks below them. Vertical and Horizontal travel has never been so handy! Both can be placed similarly to &bScaffolding&r- &6right click one onto another&r and they’ll build in the direction you face. You can even &apull your rope ladder up&r behind you by right clicking the top piece! 
+
+            

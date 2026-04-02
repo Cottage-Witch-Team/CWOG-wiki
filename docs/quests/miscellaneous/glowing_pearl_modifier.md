@@ -1,0 +1,9 @@
+
+# Glowing Pearl Modifier
+
+
+
+---
+This &bGlowing Pearl&r will make your mermaid top and tail shimmer as if &aenchanted&r!
+
+            

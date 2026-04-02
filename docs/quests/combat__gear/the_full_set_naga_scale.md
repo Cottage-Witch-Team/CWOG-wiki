@@ -1,0 +1,9 @@
+
+# The Full Set: Naga Scale
+
+> Naga Chestplate
+
+---
+Obtain a full set of &bNaga Scale Armor&r from the &cTwilight Forest&r.
+
+            

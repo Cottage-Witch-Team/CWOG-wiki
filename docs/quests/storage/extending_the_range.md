@@ -1,0 +1,10 @@
+
+# Extending The Range
+
+> Sculk Transmitter
+
+---
+By default, &bEmitters&r and &bReceivers&r have to be &awithin 8 blocks of one another&r to function. However, you can &aextend that distance&r by &6placing down Sculk Transmitters&r.
+The &bTransmitters&r can also be configured to &aaccept or deny&r certain items placed on their sides. You can &6read more about this&r in the Guidebook.
+
+            

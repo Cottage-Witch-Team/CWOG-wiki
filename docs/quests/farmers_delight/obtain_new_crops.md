@@ -1,0 +1,33 @@
+
+# Obtain New Crops
+
+> More, Give Me More
+
+---
+This pack adds a number of new crop types! Wild versions of these can be found throughout the world while exploring, and then you can plant them in your garden at home.
+
+From &lFarmer's Delight&r:
+-&bTomatoes&r come from &cHot and Dry biomes&r.
+-&bRice&r can be found in &cWet biomes&r, but only above ground.
+-&bCabbage&r can be found on &cBeaches&r!
+-&bOnions&r grow &ceverywhere&r except Mushroom Biomes and Lush Caves.
+
+
+&lExtra Delight&r:
+- You can find &bGinger&r in &chot climates&r, look for red flowering leaves!
+- &bCinnamon&r is found commonly in &cJungle Biomes&r.
+- And finally, &bMint&r can be found in &cCold biomes&r, and will &aspread to a 5x5 region when planted&r.
+
+&lCultural Delight&r:
+- &bCucumbers&r come from &cSwamps&r.
+- &bEggplant&r and &bAvocado&r can be found in &cJungle&r biomes.
+- &bCorn&r grows in &cPlains&r.
+
+&lMiner's Delight&r:
+- &bCave Carrots&r can be found &cunderground&r, except in Lush Caves.
+
+&lCollector's Reap&r:
+- &bLimes&r are located solely in &cFlower Forest&r biomes, and require &apollination by &eBees&r to produce fruit.
+- &bPomegranates&r can only be found in &cWarped Forest&r biomes, and either need to be &agrown in the &cNether&r, or &arequire &apollination by &eBees&r to produce fruit.
+
+            

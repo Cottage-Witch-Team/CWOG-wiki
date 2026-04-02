@@ -1,0 +1,19 @@
+
+# Too Many Hats!
+
+> I'm Down To My Ankles In Hats
+
+---
+Maybe you're feeling overencumbered with hats... or perhaps you just have a hat you &oreally hate&r. Time to clean up your storage space and &aupcycle those lids&r!
+
+&6Place the&r &bhat&r &6and&r &ba pair of shears&r &6into a crafting grid&r. This will give you a &bHat Scrap&r. You can do two things with that hat scrap: 
+
+&6Combine 4 of them&r in a crafting menu to get a &bnew hatbag&r of that type:
+{image:cottagewitch:textures/hatscrap_bag.png width:160 height:65 align:1}
+
+Or &6combine 2 of them&r to get 1 &oupgraded&r &bhat scrap&r.
+{image:cottagewitch:textures/hatscrap_upgrade.png width:160 height:65 align:1}
+
+Unfortunately, &dEpic Hats&r are not able to be broken down as they are too epic.
+
+            

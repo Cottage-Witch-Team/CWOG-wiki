@@ -1,0 +1,9 @@
+
+# Lizard Net
+
+> You Could Also Use A Mob Catcher, But Where's The Fun In That?
+
+---
+You can use a &bNet&r to catch &eLizards&r and put them in your inventory!
+
+            

@@ -1,0 +1,16 @@
+
+# Snail Mail
+
+> A Way To Communicate In Multiplayer
+
+---
+You can send letters and packages to your friends! You can &asend and receive mail&r using a &bSnailbox&r. Placing it down claims it, and you can even give it a name by &6right clicking on it&r and entering text in the name field.
+To &asend mail&r, you'll need a &bStamp&r and an &bOpen Envelope&r. These envelopes can be reused, so they're good for the environment. &6Place the Envelope in the upper right of the &bSnailbox&r. Then click &6"Open Envelope&r."
+{image:cottagewitch:textures/quest_images/snailmail1.png width:250 height:300 align:1}
+In here, you can put your mail! You can send &bpostcards, wrapped parcels, and more&r! &aDon't forget to add a Stamp&r! Enter the name of the recipient, your name if desired, and then &6Hit Esc to go back to the previous window&r!
+{image:cottagewitch:textures/quest_images/snailmail2.png width:250 height:200 align:1}
+Once you've hit &dEsc&r, you can &aselect the Snailbox to send to&r, and ta-da! You're done!
+{image:cottagewitch:textures/quest_images/snailmail3.png width:250 height:80 align:1}
+{image:cottagewitch:textures/quest_images/snailmail4.png width:250 height:150 align:1}
+
+            

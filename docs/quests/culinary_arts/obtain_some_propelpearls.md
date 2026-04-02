@@ -1,0 +1,9 @@
+
+# Obtain Some Propelpearls
+
+> Don't Be Too Hasty
+
+---
+&bPropelplants&r can be found in the Nether. They look similar to Bamboo, but are black in color, with glowing globules at the top. &dBe careful when harvesting them&r! You'll need &bShears&r to obtain the &bPropelpearls&r.
+
+            

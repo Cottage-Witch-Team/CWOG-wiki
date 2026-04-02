@@ -1,0 +1,9 @@
+
+# Flower Picking: Purple
+
+> Allium
+
+---
+Collect one each of every flower in the game to earn rewards!
+
+            

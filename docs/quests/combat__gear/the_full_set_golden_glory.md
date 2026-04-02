@@ -1,0 +1,9 @@
+
+# The Full Set: Golden Glory
+
+> Golden Helmet
+
+---
+Obtain a full set of &bGolden Everything&r to earn the right to &aPraise the Sun&r.
+
+            

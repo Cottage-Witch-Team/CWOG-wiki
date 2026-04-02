@@ -1,0 +1,11 @@
+
+# A Better Stone
+
+> Andesite Alloy
+
+---
+&bAndesite&r is one of the foundational blocks of beginning your factory. However, though stone by itself is strong, it is not malleable. So, it is best to mix it with &bIron&r to create a more versatile material: &bAndesite Alloy&r.
+&bAndesite Alloy&r is used in making both &bShafts&r (which are then used to make &bCogs&r), and also to reinforce stripped logs into &bAndesite Casing&r. Together, these make up the basis of most of the recipes in this mod.
+&6Equip these Goggles in your Curio slot&r to &aeasily see detailed information&r about all your machines.
+
+            

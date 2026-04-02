@@ -1,0 +1,15 @@
+
+# Aesthetics
+
+
+
+---
+Nearly every part of your &lApplied Energistics 2&r system can be coloured simply by &6attaching it to a colored cable&r! 
+
+To hide unsightly cables, you can &6craft any block with &b4 Cable Anchors&r to make 4 &bFacades&r. &bFacades&r can be &6applied to any side&r of a &bcable&r, including sides with attachments such as the &bNexus Crafting Aperture&r and will be &ainside the block &owith&r &athe cable&r- not taking up any extra space! 
+
+Facades &dcan be removed&r once they have been placed on a &bcable block&r by &6shift+right clicking them with a wrench&r.
+
+{image:cottagewitch:textures/quest_images/facade_recipe.png width:300 height:125 align:1}
+
+            

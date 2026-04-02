@@ -1,0 +1,9 @@
+
+# Kill 100x Spiders
+
+> Repeatable Quest
+
+---
+Just an easier way to get some of them harder to find insect items...
+
+            

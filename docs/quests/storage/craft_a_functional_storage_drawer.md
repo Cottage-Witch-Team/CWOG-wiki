@@ -1,0 +1,13 @@
+
+# Craft A Functional Storage Drawer
+
+> I'm An Artist, Not A Drawer
+
+---
+&bStorage Drawers&r are inventory items which can hold massive amounts of a single item in one block.
+
+You can make multiple variations, holding from 1-4 items, and in many different wood types.
+
+&bFramed Drawers&r can be made to show any block texture. &6Hold shift&r while hovering over a &bFramed Drawer&r to read instructions.
+
+            

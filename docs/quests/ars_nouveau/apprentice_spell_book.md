@@ -1,0 +1,9 @@
+
+# Apprentice Spell Book
+
+
+
+---
+You can &aupgrade your spell book&r in order to &alearn higher tiers of glyphs&r.
+
+            

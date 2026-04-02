@@ -1,0 +1,10 @@
+
+# Obtain An Ore Magnet
+
+> I'm A Total Ore Magnet
+
+---
+The &bOre Magnet&r can sometimes be found inside &dHollow Hills&r, and when used, will &apull entire veins of ores from the ground&r! Simply &6hold right click while aiming at the ground&r and the ores will be moved up to you!
+It can be enchanted with Unbreaking or Mending.
+
+            

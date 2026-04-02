@@ -1,0 +1,13 @@
+
+# Creeper Collector
+
+> Kill One Of Each Creeper Type
+
+---
+Although they may not all be hostile, it would still be pretty cool if you killed one of every type of &eCreeper&r. It's like a world tour, but with murder!
+
+As a reward, here's a &eparticularly rare creeper&r that doesn't spawn in the world... maybe keep it in an aquarium as a trophy?
+
+Note: As some creepers may be harder to find than others, you may choose to &atackle them all at once&r using a &bCreeper Gate Pearl&r. But be warned- &dif a single creeper blows up&r, the gate will collapse. Reach the final wave to meet and defeat every creeper!
+
+            

@@ -1,0 +1,10 @@
+
+# An Eggshellent Bowl
+
+> Half Dragon Egg Shell
+
+---
+To serve the unbridled taste sensation that is &adragon protein&r, you'll need an appropriate vessel.
+Craft the &bHalf Dragon Egg Shell&r.
+
+            

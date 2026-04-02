@@ -1,44 +1,111 @@
-import json
-import re
-from pathlib import Path
+import pprint
+import shutil
+from string import capwords
 
-import ftb_snbt_lib as slib
-
-
-def main():
-    root = Path(__file__).absolute().parent.parent
-
-    quest_dir = root / "repo_code/config/ftbquests/quests/chapters/ars_nouveau.snbt"
-
-    full = ['# Ars Nouveau Quests\n\n']
-
-    with open(quest_dir) as f:
-        quests = json.loads(json.dumps(slib.load(f)))
-
-        descs = [(qu.get("description"),
-                  qu.get("title") or qu.get("subtitle")) for qu in quests["quests"]]
-
-        for d, t in descs:
-            if type(d) == str:
-                d = [d]
-
-            if not d: continue
-
-            text = '\n'.join(d)
-
-            quest = ('---\n# ' + t if t else '---') + '\n' + text + '\n'
-
-            full.append(quest)
-
-    dest_file = root / "docs/wiki/ars_quests.md"
-
-    fulltext = re.sub(
-        r'&[a-zA-Z0-9]', r'**', '\n'.join(full))
-
-    with open(dest_file, "w") as f:
-        print("writing", dest_file)
-        f.write(fulltext)
+from constants import DOCS_ROOT, MODPACK_ROOT
+from functions import get_all_files, snbt_to_dict
+from markdown.extensions.toc import slugify
+from wiki_builder import WikiBuildTask
 
 
-if __name__ == "__main__":
-    main()
+class Quests(WikiBuildTask):
+    source_directory = MODPACK_ROOT / "config/ftbquests/quests/chapters"
+    destination = DOCS_ROOT / "quests"
+
+    def launch(self):
+
+        shutil.rmtree(self.destination, ignore_errors=True)
+
+        chapters = self._build_chapter_dict_from_files()
+
+        for chapter_title, chapter in chapters.items():
+            print(chapter_title)
+            for q in chapter["quests"]:
+                if not q.get("secret"):
+                    quest_title, text = self._process_quest_to_string(q)
+
+                    if not quest_title or not text:
+                        continue
+
+                    self.write_document_to_destination_directory(
+                        text,
+                        (
+                            self.destination
+                            / chapter_title
+                            / (slugify(quest_title, "_") + ".md")
+                        ),
+                    )
+
+    def _build_chapter_dict_from_files(self):
+        chapters = {}
+        for chapter in get_all_files(self.source_directory):
+            with chapter.open("r", encoding="utf8") as f:
+                chapters[chapter.stem] = snbt_to_dict(f)
+        return chapters
+
+    def _process_quest_to_string(self, quest: dict) -> tuple[str, str]:
+
+        new_dict = {
+            "title": quest.get("title"),
+            "subtitle": quest.get("subtitle"),
+            "description": quest.get("description"),
+            "item": quest.get("tasks")[0].get("item"),
+            "advancement": quest.get("tasks")[0].get("advancement"),
+            "to_observe": quest.get("tasks")[0].get("to_observe"),
+            "task_title": quest.get("tasks")[0].get("title"),
+        }
+
+        if isinstance(new_dict["item"], dict) and "id" in new_dict["item"]:
+            new_dict["item"] = new_dict["item"]["id"]
+        if isinstance(new_dict["description"], str):
+            new_dict["description"] = [new_dict["description"]]
+        if not new_dict["description"]:
+            return None, None
+
+        title_array = []
+
+        for thing in [
+            new_dict["title"],
+            new_dict["task_title"],
+            self.__advancement_to_string(new_dict["advancement"]),
+            self.__item_to_string(new_dict["item"]),
+            self.__item_to_string(new_dict["to_observe"]),
+            new_dict["subtitle"],
+        ]:
+            if thing:
+                title_array.append(capwords(thing))
+
+        if not title_array or not new_dict["description"]:
+            return None, None
+
+        print(title_array[0], new_dict["description"][0])
+        return (
+            title_array[0],
+            f"""
+# {title_array[0]}
+
+{"> " + title_array[-1] if len(title_array) > 1 else ""}
+
+---
+{"\n".join(new_dict["description"])}
+
+            """,
+        )
+
+    def __convert_description_to_string(self, desc: list[str]) -> str:
+        """Convert the description to string."""
+        return "\n".join(desc)
+
+    @staticmethod
+    def __item_to_string(item: str):
+        if not item:
+            return None
+        return item.rsplit(":", maxsplit=1)[-1].replace("_", " ").title()
+
+    def __advancement_to_string(self, advancement: str):
+        if not advancement:
+            return None
+        return advancement.rsplit("/", maxsplit=1)[-1].replace("_", " ").title()
+
+
+Quests().launch()

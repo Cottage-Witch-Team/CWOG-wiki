@@ -1,0 +1,13 @@
+
+# The Echoing Forest
+
+
+
+---
+According to the ancient texts:
+
+This biome often generates in layers consisting of &bSculk, Sculk Stone, and Echo Soil&r. Echo trees populate the biome making The Otherside more vibrant with their purple leaves and &bSculk Gleam&r. The fog color in this biome is purple much like the leaves, and &athe only mobs that spawn here are &eShattered&r, which makes this biome a pleasant change from the many horrors of the Otherside Deeplands.
+
+However, this area is &anot safe from the &eWarden&r.
+
+            

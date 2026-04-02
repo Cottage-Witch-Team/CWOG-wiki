@@ -1,0 +1,9 @@
+
+# Vitalic Sourcelink
+
+
+
+---
+The &bVitalic Sourcelink&r generates source when it is around &eAnimals&r. When animals &abreed, grow up, or die&r, it will generate source.
+
+            

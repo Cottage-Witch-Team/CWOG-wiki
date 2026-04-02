@@ -1,0 +1,9 @@
+
+# Book Of Shadows Altar
+
+> A Focal Point For Magic
+
+---
+You'll need an &bAltar&r to place your &bBook of Shadows&r on. In order to craft this magical pedestal, you'll need to find a &bMahogany Tree&r, located in &aJungle&r Biomes.
+
+            

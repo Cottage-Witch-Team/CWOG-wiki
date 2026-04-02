@@ -1,0 +1,13 @@
+
+# Portal Fluid Bottle
+
+
+
+---
+&bDimensional Tears&r are a fluid which &ateleports an entity&r to its point of origin. If a &eplayer&r has a &arespawn point&r set, it will bring them there. If they don't, and for &eall other entities&r, it will transport them to &cworld spawn&r.
+
+You can obtain this item from &acertain chests&r, or by &6right clicking a bottle&r onto &bCrying Obsidian&r or an activated &bRespawn Anchor&r.
+
+To use the item, either &6drink it from the bottle&r or &6place it in a cauldron&r and jump into it.
+
+            

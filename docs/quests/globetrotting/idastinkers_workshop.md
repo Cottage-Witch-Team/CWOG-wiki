@@ -1,0 +1,10 @@
+
+# Idas:tinkers Workshop
+
+
+
+---
+The &cTinker's Workshop&r appears to be a fairly innocuous place upon first glance. Perhaps an &eEngineer&r once lived here. Or perhaps someone a little less... sane.
+Beware of &ePillagers&r, and should you find any ladders down... well, &aproceed with caution&r. And maybe bring your broom.
+
+            

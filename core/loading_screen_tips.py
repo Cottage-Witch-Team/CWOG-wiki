@@ -1,31 +1,42 @@
 import json
-import os
-from pathlib import Path
-from typing import Generator
+from io import TextIOWrapper
+
+from core.constants import DOCS_ROOT, MODPACK_ROOT
+from core.functions import get_all_files
+from core.wiki_builder import WikiBuildTask
 
 
-def main():
-    root = Path(__file__).absolute().parent.parent
+class LoadingScreenTips(WikiBuildTask):
+    source_directory = MODPACK_ROOT / "kubejs/assets/cottagewitch/tips/"
+    destination_file = DOCS_ROOT / "wiki/all_loading_screen_tips.md"
 
-    tips_dir = root / "repo_code/kubejs/assets/cottagewitch/tips/"
+    def launch(self) -> None:
+        """Task to get all loading screen tips, and updates the wiki page."""
+        tip_list = self.__build_tip_list_from_files()
+        document = self.__build_document_from_tip_list(tip_list)
 
-    dest_file = root / "docs/wiki/all_loading_screen_tips.md"
+        self.write_document(document)
 
-    tip_list = _get_tips(tips_dir)
+    def __build_tip_list_from_files(self) -> list[str]:
+        """Build the list of tip texts from the files in the directory."""
+        tip_list = []
+        for tip_file in get_all_files(self.source_directory):
+            with tip_file.open("r", encoding="utf8") as f:
+                tip_list.append(self.__get_tip_from_file(f))
+        return tip_list
 
-    all_tips = "# All loading screen tips!\n\n" + "\n\n---\n\n".join(tip_list)
+    @staticmethod
+    def __get_tip_from_file(file: TextIOWrapper) -> dict[str, str]:
+        """Load the tip text from the file."""
+        return json.load(file)["tip"]["text"]
 
-    with open(dest_file, "w") as f:
-        f.write(all_tips)
+    def __build_document_from_tip_list(self, tip_list: list[str]) -> str:
+        """Build the Markdown document from the list of tip texts."""
+        tip_list_text = "\n---\n".join(tip_list)
 
+        self.text_ = f"""
+        # All loading screen tips!
 
-def _get_tips(tips_path: Path) -> Generator[str]:
-    for dir, _, files in os.walk(tips_path):
-        for file in files:
-            with open(Path(dir) / file) as f:
-                file_object = json.load(f)
-                yield file_object["tip"]["text"]
-
-
-if __name__ == "__main__":
-    main()
+        {tip_list_text}
+        """
+        return self.text_

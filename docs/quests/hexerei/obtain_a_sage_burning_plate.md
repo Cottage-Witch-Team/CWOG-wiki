@@ -1,0 +1,9 @@
+
+# Obtain A Sage Burning Plate
+
+> Sage Burning Plate
+
+---
+The &bSage Burning Plate&r will allow you to burn &bSage Bundles&r, which &aprevents hostile mobs from spawning&r within a large radius.
+
+            

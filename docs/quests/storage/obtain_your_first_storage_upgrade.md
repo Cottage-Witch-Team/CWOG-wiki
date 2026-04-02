@@ -1,0 +1,13 @@
+
+# Obtain Your First Storage Upgrade
+
+> We Must Have More Storage!
+
+---
+This &bStorage Upgrade&r will &aincrease the amount of items&r your Drawers can hold.
+
+There are multiple tiers of upgrades, which can be used together or mix-and-matched.
+
+Each drawer can accept 7 different upgrades.
+
+            

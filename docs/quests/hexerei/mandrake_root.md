@@ -1,0 +1,9 @@
+
+# Mandrake Root
+
+
+
+---
+&bMandrake Root&r is used to upgrade your &bBroom&r, and can also be used to create &bCompost&r.
+
+            

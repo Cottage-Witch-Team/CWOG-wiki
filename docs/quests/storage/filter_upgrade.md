@@ -1,0 +1,11 @@
+
+# Filter Upgrade
+
+
+
+---
+The &bFilter Upgrade&r is meant to be used in conjunction with &bPipez&r or other item transport system.
+
+It will &ahelp control what items get placed&r in the storage you use it on.
+
+            

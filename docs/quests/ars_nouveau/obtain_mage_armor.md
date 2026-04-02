@@ -1,0 +1,9 @@
+
+# Obtain Mage Armor
+
+> Apprentice Hood
+
+---
+This armor grants additional &aMana&r over the basic set.
+
+            

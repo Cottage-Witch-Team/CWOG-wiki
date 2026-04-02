@@ -1,0 +1,9 @@
+
+# Obtain Archmage Armor
+
+> Archmage Hood
+
+---
+The highest tier armor, this &bArchmage set&r is almost as good as &bNetherite&r, with hefty bonuses to &amana&r.
+
+            

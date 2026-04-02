@@ -1,0 +1,10 @@
+
+# First Swings Of A Sword
+
+
+
+---
+Prove your mettle by killing...wait, just one &ezombie&r and one &eskeleton&r? That seems pretty easy...
+Maybe the next quests will be more difficult.
+
+            

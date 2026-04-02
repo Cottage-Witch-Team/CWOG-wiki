@@ -1,0 +1,11 @@
+
+# Star Bin
+
+
+
+---
+The &bStarbin&r will allow your &aStarbuncle&r to &adelete items it picks up&r. Be sure to set a filter first!
+
+You can set a filter by &6preparing an Allow/Deny Scroll&r and &6clicking your Starbuncle&r with it.
+
+            

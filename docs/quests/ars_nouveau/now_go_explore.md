@@ -1,0 +1,9 @@
+
+# Now Go Explore!
+
+> I~ Can Do Anything!
+
+---
+There is much more that this mod has to offer! &bRunes&r, &bEnchanter's Weapons&r, &bSource Relays&r and more! Check out the documentation in your &bSpell Book&r to help you learn even more!
+
+            

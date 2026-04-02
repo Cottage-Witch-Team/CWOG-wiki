@@ -1,0 +1,9 @@
+
+# Herb Drying Rack
+
+
+
+---
+The &bDrying Rack&r allows you to &6hang your herbs to dry&r. It also makes a lovely decoration.
+
+            

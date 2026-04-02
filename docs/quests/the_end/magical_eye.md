@@ -1,0 +1,9 @@
+
+# Magical Eye
+
+
+
+---
+Starting a &aRaid&r might be the easiest way of obtaining the &bMagical Eye&r, which are used by &eEvokers&r for their powerful properties.
+
+            
