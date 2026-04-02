@@ -20,6 +20,10 @@ class Quests(WikiBuildTask):
 
         for chapter_title, chapter in chapters.items():
             print(chapter_title)
+
+            chapter_group = self.__get_chapter_group(chapter)
+            print(chapter_group)
+
             for q in chapter["quests"]:
                 if not q.get("secret"):
                     quest_title, text = self._process_quest_to_string(q)
@@ -31,7 +35,7 @@ class Quests(WikiBuildTask):
                         text,
                         (
                             self.destination
-                            / chapter_title
+                            / (chapter_group + chapter_title).lower().replace(" ", "_")
                             / (slugify(quest_title, "_") + ".md")
                         ),
                     )
@@ -43,7 +47,7 @@ class Quests(WikiBuildTask):
                 chapters[chapter.stem] = snbt_to_dict(f)
         return chapters
 
-    def _process_quest_to_string(self, quest: dict) -> tuple[str, str]:
+    def _process_quest_to_string(self, quest: dict) -> tuple[str | None, str | None]:
 
         new_dict = {
             "title": quest.get("title"),
@@ -62,18 +66,18 @@ class Quests(WikiBuildTask):
         if not new_dict["description"]:
             return None, None
 
-        title_array = []
-
-        for thing in [
-            new_dict["title"],
-            new_dict["task_title"],
-            self.__advancement_to_string(new_dict["advancement"]),
-            self.__item_to_string(new_dict["item"]),
-            self.__item_to_string(new_dict["to_observe"]),
-            new_dict["subtitle"],
-        ]:
-            if thing:
-                title_array.append(capwords(thing))
+        title_array = [
+            capwords(thing)
+            for thing in [
+                new_dict["title"],
+                new_dict["task_title"],
+                self.__advancement_to_string(new_dict["advancement"]),
+                self.__item_to_string(new_dict["item"]),
+                self.__item_to_string(new_dict["to_observe"]),
+                new_dict["subtitle"],
+            ]
+            if thing
+        ]
 
         if not title_array or not new_dict["description"]:
             return None, None
@@ -91,6 +95,19 @@ class Quests(WikiBuildTask):
 
             """,
         )
+
+    def __get_chapter_group(self, chapter: dict) -> dict:
+        group_code = chapter["group"]
+
+        chapter_group_file = MODPACK_ROOT / "config/ftbquests/quests/chapter_groups.snbt"
+
+        with chapter_group_file.open("r", encoding="utf8") as f:
+            chapter_group_map = snbt_to_dict(f)["chapter_groups"]
+
+        for group in chapter_group_map:
+            if group_code == group["id"]:
+                return group["title"] + "/"
+        return None
 
     def __convert_description_to_string(self, desc: list[str]) -> str:
         """Convert the description to string."""
