@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Kill Spider (100)
+
+!!! tip "Task:"
+
+	- Kill Spider (100)
 ---
+
 
 Just an easier way to get some of them harder to find insect items...
+
 ---
+
 
             

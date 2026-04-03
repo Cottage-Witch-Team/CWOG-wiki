@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Meet Direwolf
+
+!!! tip "Task:"
+
+	- Meet Direwolf
 ---
+
 
 They aren't man's best friend... yet. ==Try offering one== a **bone**. Find them in any type of *taiga biome*.
 
@@ -23,6 +26,8 @@ List of All Biomes:
 - *Maple Taiga*, 
 - *Frosted Coniferous Forest*, 
 - *Dark Forest* (in Twilight Forest)
+
 ---
+
 
             

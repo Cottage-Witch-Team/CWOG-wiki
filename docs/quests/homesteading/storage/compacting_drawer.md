@@ -2,12 +2,13 @@
 # Compacting Drawer
 
 
-# Task:
-## Acquire :
-- Compacting Drawer
-- Simple Compacting Drawer
+!!! tip "Task:"
+	## Acquire :
+	- Compacting Drawer
+	- Simple Compacting Drawer
 
 ---
+
 
 The **Compacting Drawer** is unique from other drawers because it allows you to access *multiple compressions of an item*.
 
@@ -16,6 +17,8 @@ The **Compacting Drawer** is unique from other drawers because it allows you to 
 However, this also works for items such as **Crops**, which can be withdrawn as Crates. This works with any item which has a *3x3 compression recipe*.
 
 The **Simple Compacting Drawer** does the same thing, except for items which only have 2 variations, such as crops or eggs.
+
 ---
+
 
             

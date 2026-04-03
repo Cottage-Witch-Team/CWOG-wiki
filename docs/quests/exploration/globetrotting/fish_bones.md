@@ -2,14 +2,17 @@
 # Fish Bones
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Fish Bones
+	- Unlock Fish Bones
 ---
+
 
 Find a *Fortress of the Undead*, and survive!*
 
 *survival optional
+
 ---
+
 
             

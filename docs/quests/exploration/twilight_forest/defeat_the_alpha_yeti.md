@@ -2,12 +2,15 @@
 # Defeat the Alpha Yeti
 
 
-# Task:
+!!! tip "Task:"
 
-- Kill Alpha Yeti
+	- Kill Alpha Yeti
 ---
 
 
+
+
 ---
+
 
             

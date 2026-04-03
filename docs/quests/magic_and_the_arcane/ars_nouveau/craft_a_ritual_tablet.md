@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Acquire Any Ritual Tablets
+
+!!! tip "Task:"
+
+	- Acquire Any Ritual Tablets
 ---
+
 
 In order to perform a *Ritual*, you'll need a **Tablet** for the Ritual you want to perform. You can check your *spell book documentation* to find out what each ritual does.
+
 ---
+
 
             

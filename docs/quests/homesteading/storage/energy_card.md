@@ -2,12 +2,15 @@
 # Energy Card
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Energy Card
+	- Acquire Energy Card
 ---
+
 
 Is your **Resonant Aperture** running low on *resonance* on a frequent basis? You can expand the capacity by *inserting this upgrade*.
+
 ---
+
 
             

@@ -5,12 +5,15 @@
 
 ---
 
-# Task:
-## Acquire :
-- Iron To Gold Tier Upgrade
-- Basic To Gold Tier Upgrade
+
+
+!!! tip "Task:"
+	## Acquire :
+	- Iron To Gold Tier Upgrade
+	- Basic To Gold Tier Upgrade
 
 ---
+
 
 There are two ways you can upgrade your storage, *level by level*, or *basic on upwards*.
 
@@ -20,6 +23,8 @@ To upgrade from *Basic upwards*, you'll need the **Basic to Gold** (or other lev
 
 With each tier of upgrades, *your storage improves*. At Gold tier it has *more slots and an additional upgrade slot* on the left.
 {image:cottagewitch:textures/sophgold.png width:100 height:100 align:1 fit:true}
+
 ---
+
 
             

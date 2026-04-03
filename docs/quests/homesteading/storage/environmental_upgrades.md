@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire Any Sophb Environmental
+
+!!! tip "Task:"
+
+	- Acquire Any Sophb Environmental
 ---
+
 
 These upgrades allow your backpack to operate outside the confines of its leather!
 
@@ -19,6 +22,8 @@ These upgrades allow your backpack to operate outside the confines of its leathe
 To get the most of these upgrades, we suggest ==checking out the settings tab== for each one. 
 
 Your settings will be saved for each upgrade *even if you remove it.*
+
 ---
+
 
             

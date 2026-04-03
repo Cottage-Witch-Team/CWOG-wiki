@@ -2,24 +2,30 @@
 # Kill: Guardian
 
 
-# Task:
+!!! tip "Task:"
 
-- Kill Guardian (30)
+	- Kill Guardian (30)
 ---
+
 
 This quest is repeatable.
+
 ---
+
 
             
 # Kill: Guardian
 
 
-# Task:
+!!! tip "Task:"
 
-- Kill Guardian (10)
+	- Kill Guardian (10)
 ---
+
 
 This quest is repeatable.
+
 ---
+
 
             

@@ -2,12 +2,15 @@
 # Defeat the Ur-Ghast
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Progress Ur Ghast
+	- Unlock Progress Ur Ghast
 ---
 
 
+
+
 ---
+
 
             

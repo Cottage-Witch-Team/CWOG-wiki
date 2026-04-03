@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Meet Kakapo
+
+!!! tip "Task:"
+
+	- Meet Kakapo
 ---
+
 
 These loveable fellows may not do much besides grunt and dance and sit pretty, but they happen to be my ^^favourite animal^^, and I require nothing more than their existence.
 
@@ -17,6 +20,8 @@ These loveable fellows may not do much besides grunt and dance and sit pretty, b
 There are currently only ^^247 living Kākāpō in existence^^. As such, they have been made *incredibly scarce* in the modpack here as well- being found only in the *Guiana Shield* biome. To increase your chances of finding this bird, ==try using the== **Summoning Ritual** ==from== ***Ars Nouveau*** in a *Guiana Shield*.
 
 If you are interested in the conservation of these precious creatures, you can learn more here: &9www.doc.govt.nz/kakapo-donate&r
+
 ---
+
 
             

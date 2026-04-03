@@ -2,10 +2,11 @@
 # Finding Items In Containers
 
 
-# Task:
+!!! tip "Task:"
 
-- I know how to find things now
+	- I know how to find things now
 ---
+
 
 Looking for a particular item in a nearby inventory?
 
@@ -17,6 +18,8 @@ Hover over the item in JEI or your inventory and ==press the keybind==. This ^^n
 Then, inventories containing that item will be highlighted with these little particle effects:
 
 {image:cottagewitch:textures/quest_images/findme2.png width:100 height:100 align:1 fit:true}
+
 ---
+
 
             

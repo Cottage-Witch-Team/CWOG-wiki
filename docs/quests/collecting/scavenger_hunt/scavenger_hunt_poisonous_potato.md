@@ -2,12 +2,15 @@
 # Scavenger Hunt: Poisonous Potato
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Poisonous Potato
+	- Acquire Poisonous Potato
 ---
 
 
+
+
 ---
+
 
             

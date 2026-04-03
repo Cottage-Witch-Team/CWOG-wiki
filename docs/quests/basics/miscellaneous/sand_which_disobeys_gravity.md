@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Acquire Gravisand (5)
+
+!!! tip "Task:"
+
+	- Acquire Gravisand (5)
 ---
+
 
 This unique End-enchanted item will only *fall when provided with a Redstone signal*. If it is provided a redstone signal and *cannot fall, it will float up instead*.
+
 ---
+
 
             

@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Meet Colelytra
+
+!!! tip "Task:"
+
+	- Meet Colelytra
 ---
+
 
 Found only in *mushroom fields*, they can ==be tamed== with **sugar**, **mushrooms**, and all Vanilla **flowers**.
 
@@ -20,6 +23,8 @@ List of All Biomes:
 - *Rose Fields*, 
 - *Blossom Valleys*, 
 - *Mushroom Forest* (in Twilight Forest)
+
 ---
+
 
             

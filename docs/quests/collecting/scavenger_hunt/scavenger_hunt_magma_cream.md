@@ -2,12 +2,15 @@
 # Scavenger Hunt: Magma Cream
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Magma Cream
+	- Acquire Magma Cream
 ---
 
 
+
+
 ---
+
 
             

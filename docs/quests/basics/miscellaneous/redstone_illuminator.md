@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Acquire Redstone Illuminator
+
+!!! tip "Task:"
+
+	- Acquire Redstone Illuminator
 ---
+
 
 The **Redstone Illuminator** is a light source which is on by default. It grows dimmer depending on how much *Redstone signal* it receives. One can use a **Crank** instead of a **Lever** for more fine-tuned control.
+
 ---
+
 
             

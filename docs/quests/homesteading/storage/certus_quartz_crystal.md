@@ -2,10 +2,11 @@
 # Certus Quartz Crystal
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Certus Quartz Crystal
+	- Acquire Certus Quartz Crystal
 ---
+
 
 To begin, familiarize yourself with the basic crafting ingredients of ***Applied Energistics***: **Certus Quartz** can be found growing in *Geodes underground*.
 
@@ -18,6 +19,8 @@ With the lower 3 tiers, every time a bud grows by another stage, the &abudding b
 You can grow buds faster by &6placing the budding blocks adjacent to a **Crystal Growth Accelerator**, which needs to be powered from the top or bottom.
 
 Now, hold onto this **Bucket of Tomato Sauce**, it's important.
+
 ---
+
 
             

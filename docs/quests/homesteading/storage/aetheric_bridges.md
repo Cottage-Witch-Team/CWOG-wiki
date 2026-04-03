@@ -2,12 +2,13 @@
 # Aetheric Bridges
 
 
-# Task:
-## Acquire :
-- Quantum Ring (8)
-- Quantum Link
+!!! tip "Task:"
+	## Acquire :
+	- Quantum Ring (8)
+	- Quantum Link
 
 ---
+
 
 *Connecting across the dimensions* requires a bigger antenna than just one **Aetheric Beacon**. To accomplish this you'll need to build... a square! ==Build this 3x3 structure==, called an **Aetheric Bridge**, consisting of 8 **Aetheric Rings** surrounding 1 **Aetheric Chamber** and ==connect it to your **Nexus** &6using a cable==. It can be *standing upright*, like in the image below, or *flat on the ground*!
 
@@ -18,6 +19,8 @@
 ^^Make sure to chunk load this location so you can access your system while you're away. ^^
 
 Alternatively, to *connect two systems together at a large distance*, ==build two== **Aetheric Bridges**, one at each system. Then place linked **Entangled Aetheric Fragments** into both **Aetheric Bridges**.
+
 ---
+
 
             

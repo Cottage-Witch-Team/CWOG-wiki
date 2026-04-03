@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Acquire Naga Scale (20)
+
+!!! tip "Task:"
+
+	- Acquire Naga Scale (20)
 ---
+
 
 Defeat **Naga** in the ^^Twilight Forest^^ to obtain their scales. Then, relinquish those scales in exchange for loot!
+
 ---
+
 
             

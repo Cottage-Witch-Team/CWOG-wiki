@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Claim and Load Chunks
+
+!!! tip "Task:"
+
+	- Claim and Load Chunks
 ---
+
 
 If you want your base to stay active even when you're not there, you want *chunk loading*. This will also help if you *have a vanilla-style mob farm*.
 
@@ -21,6 +24,8 @@ Choose **Claimed Chunks** and ==left click== on a chunk to claim it for your own
 {image:cottagewitch:textures/quest_images/claimchunks.png width:200 height:120 align:1}
 
 When a chunk is claimed, ^^other server members cannot break or interact with blocks in it^^. In order to grant someone access to your chunks, you need to *add them or their Team as an Ally*.
+
 ---
+
 
             

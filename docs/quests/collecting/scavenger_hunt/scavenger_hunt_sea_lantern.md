@@ -2,12 +2,15 @@
 # Scavenger Hunt: Sea Lantern
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Sea Lantern
+	- Acquire Sea Lantern
 ---
 
 
+
+
 ---
+
 
             

@@ -2,12 +2,15 @@
 # Pickle some Pickles
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Pickled Pickles
+	- Acquire Pickled Pickles
 ---
+
 
 **Pickles** need a *nice, cold* Keg to marinate in.
+
 ---
+
 
             

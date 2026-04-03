@@ -5,16 +5,21 @@
 
 ---
 
-# Task:
-## Acquire :
-- Bayad
-- Boulti
-- Capitaine
-- Synodontis
+
+
+!!! tip "Task:"
+	## Acquire :
+	- Bayad
+	- Boulti
+	- Capitaine
+	- Synodontis
 
 ---
+
 
 These fish can be found near *Arid biomes* such as Deserts or Plateaus.
+
 ---
+
 
             

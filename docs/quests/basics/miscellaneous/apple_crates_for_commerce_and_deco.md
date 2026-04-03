@@ -2,10 +2,11 @@
 # Apple Crates for Commerce and Deco!
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Any Apple Crates
+	- Acquire Any Apple Crates
 ---
+
 
 If you're playing with others, you can use Crates from the ***Apple Crates*** mod to *sell items to one another*!
 
@@ -24,6 +25,8 @@ If you're playing with others, you can use Crates from the ***Apple Crates*** mo
 (&5Purple&r - F) This is where your *payment is stored*. As people purchase from you, the items they use to pay will go here. This slot can store a higher stack size than 64 items.
 
 (White - G) This is your personal inventory!
+
 ---
+
 
             

@@ -2,12 +2,15 @@
 # Get Assorted Salad
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Get Assorted Salad
+	- Unlock Get Assorted Salad
 ---
+
 
 Make this advancement by crafting the **Assorted Salad**.
+
 ---
+
 
             

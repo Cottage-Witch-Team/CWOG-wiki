@@ -2,25 +2,28 @@
 # Flower Picking: Pink
 
 
-# Task:
-## Acquire :
-- Pink Allium
-- Tall Pink Allium
-- Peach Leather Flower
-- Pink Allium Flower Bush
-- Lilac
-- Magenta Amaranth
-- Japanese Orchid
-- Pink Tulip
-- Pink Forget Me Not
-- Pink Anemone
-- Pink Delphinium
-- Pink Hibiscus
-- Pink Lily Of The Valley
+!!! tip "Task:"
+	## Acquire :
+	- Pink Allium
+	- Tall Pink Allium
+	- Peach Leather Flower
+	- Pink Allium Flower Bush
+	- Lilac
+	- Magenta Amaranth
+	- Japanese Orchid
+	- Pink Tulip
+	- Pink Forget Me Not
+	- Pink Anemone
+	- Pink Delphinium
+	- Pink Hibiscus
+	- Pink Lily Of The Valley
 
 ---
+
 
 Collect one each of every flower in the game to earn rewards!
+
 ---
+
 
             

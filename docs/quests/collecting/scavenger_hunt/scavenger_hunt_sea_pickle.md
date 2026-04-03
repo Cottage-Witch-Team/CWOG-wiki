@@ -2,12 +2,15 @@
 # Scavenger Hunt: Sea Pickle
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Sea Pickle
+	- Acquire Sea Pickle
 ---
 
 
+
+
 ---
+
 
             

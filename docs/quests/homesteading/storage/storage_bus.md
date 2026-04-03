@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire Storage Bus
+
+!!! tip "Task:"
+
+	- Acquire Storage Bus
 ---
+
 
 You can easily connect external storage to your system using... the **Nexus Storage Anchor**! 
 
@@ -34,6 +37,8 @@ Note: once you start connecting multiple storages, you will want to start Priori
 The number here can be ==adjusted using the buttons==, or by ==typing a value== into the box. *Priority* can be a positive or negative number.
 
 ^^Here's an example^^: you keep much of your storage in your **Glyphic Repository**. But you have a gold farm which feeds into a simple ***Functional Storage*** **drawer** setup. If you set a higher priority to the **Storage Anchor** connected to these drawers, any time you *add or remove gold from your console*, the system will *check the priority list* and choose this location first.
+
 ---
+
 
             

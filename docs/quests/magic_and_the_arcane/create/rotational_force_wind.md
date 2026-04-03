@@ -2,10 +2,11 @@
 # Rotational Force: Wind
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Windmill Bearing
+	- Acquire Windmill Bearing
 ---
+
 
 A mid-game method of generating rotational force is with a windmill. A small windmill can be made relatively easily, and can be expanded later on to generate more stress units.
 
@@ -18,6 +19,8 @@ Once you have attached 8 or more **Sails** or sail-like blocks, ==right click th
 You can expand a windmill up to 128 sail/sail-like blocks to generate a maximum of *8192 su* at a speed of *16 rpm*. Any additional **Sails** or **Wools** *does not generate more stress units or rotational speed*.
 
 Other non-**Sails** or **Wools** blocks can also be attached to the windmill structure. These additional blocks *will not affect the efficiency of the windmill* so feel free to decorate the windmill as you please!
+
 ---
+
 
             

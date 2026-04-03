@@ -2,10 +2,11 @@
 # Akashic Controls
 
 
-# Task:
+!!! tip "Task:"
 
-- Akashic Controls
+	- Akashic Controls
 ---
+
 
 To read a book in your **Akashic Tome**, ==right click== while holding the book and ==select the book you want==.
 
@@ -14,6 +15,8 @@ To *return the Akashic Tome* to its regular form, ==hold it and left click in th
 To *remove a book from the tome*, you need to ==crouch and throw== the item (default keybind is Q).
 
 To *add a book*, you should &6craft the book with the **Tome**.
+
 ---
+
 
             

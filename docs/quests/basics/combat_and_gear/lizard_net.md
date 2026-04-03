@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Acquire Entity Net
+
+!!! tip "Task:"
+
+	- Acquire Entity Net
 ---
+
 
 You can use a **Net** to catch **Lizards** and put them in your inventory!
+
 ---
+
 
             

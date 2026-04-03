@@ -2,10 +2,11 @@
 # Configuration Tool
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Configuration Tool
+	- Acquire Configuration Tool
 ---
+
 
 *Configuration Tools* alter the function of Drawers. ==Right click on a Drawer while holding a Key== to activate its ability.
 
@@ -15,6 +16,8 @@ The **Hide/Show Amounts** mode toggles whether or not the amount of items contai
 The **Hide/Show Item Renders** mode will completely hide the item image and all other labels from the front of the Drawer.
 
 The **Hide/Show Upgrades** will show or hide what upgrades a Drawer currently contains.
+
 ---
+
 
             

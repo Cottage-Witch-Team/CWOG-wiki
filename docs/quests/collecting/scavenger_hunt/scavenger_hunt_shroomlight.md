@@ -2,12 +2,15 @@
 # Scavenger Hunt: Shroomlight
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Shroomlight
+	- Acquire Shroomlight
 ---
 
 
+
+
 ---
+
 
             

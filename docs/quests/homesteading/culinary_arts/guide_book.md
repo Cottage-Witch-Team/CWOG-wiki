@@ -2,10 +2,11 @@
 # Guide Book
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Guide Book
+	- Acquire Guide Book
 ---
+
 
 ***Caupona*** is a cooking mod that employs a freeform style of recipe.
 With most recipes, you will *maintain a ratio* of ingredients, such as ensuring that you have *"mostly beef"* and *"some vegetables"*, with *"no fish"*, and so on.
@@ -21,6 +22,8 @@ D) These are ingredients which *must not be included*.
 E and F) These are the *ratio of items to each other*, for example, a majority of **beef** and at least one **vegetable**.
 
 Now that you know how to read the recipes, let's make some!
+
 ---
+
 
             

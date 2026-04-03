@@ -2,14 +2,17 @@
 # Scavenger Hunt: Amethyst
 
 
-# Task:
-## Acquire :
-- Budding Amethyst
-- Amethyst Shard
+!!! tip "Task:"
+	## Acquire :
+	- Budding Amethyst
+	- Amethyst Shard
 
 ---
 
 
+
+
 ---
+
 
             

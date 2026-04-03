@@ -2,12 +2,15 @@
 # The Magicians
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock The Magicians
+	- Unlock The Magicians
 ---
+
 
 Kill all three **Illager Magicians**. Please.
+
 ---
+
 
             

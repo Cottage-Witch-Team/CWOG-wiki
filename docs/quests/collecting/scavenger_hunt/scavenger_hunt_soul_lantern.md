@@ -2,12 +2,15 @@
 # Scavenger Hunt: Soul Lantern
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Soul Lantern
+	- Acquire Soul Lantern
 ---
 
 
+
+
 ---
+
 
             
