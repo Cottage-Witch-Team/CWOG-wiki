@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Progress Lich**
 ---

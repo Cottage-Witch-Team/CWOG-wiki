@@ -7,7 +7,7 @@ A full set of **Netherite Tools**, well! That's an achievement to be lauded. Con
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Netherite Sword**
 	- **Netherite Shovel**

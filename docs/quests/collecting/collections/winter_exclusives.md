@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Bigribbon**
 	- **Chocolate Sauced**

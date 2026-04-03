@@ -11,7 +11,7 @@ And you can &aapply a **Cushion** to a **Chair** as well! Why not see what other
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Any Tables**
 	- **Any Chairs**

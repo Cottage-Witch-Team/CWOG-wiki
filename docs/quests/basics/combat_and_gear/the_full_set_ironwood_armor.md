@@ -7,7 +7,7 @@ Obtain a full set of **Ironwood Armor** from the *Twilight Forest*.
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Ironwood Helmet**
 	- **Ironwood Chestplate**

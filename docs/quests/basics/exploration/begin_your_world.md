@@ -18,7 +18,7 @@ Your most useful tool is ***JEI***, a mod that appears on the right of your inve
 
 
 
-!!! tip
+!!! tip ""
 
 	- Enter **Overworld**
 ---

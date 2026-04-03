@@ -14,7 +14,7 @@ This can be sped up later by *giving it access to Source*, such as that containe
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Imbuement Chamber**
 ---

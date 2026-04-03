@@ -14,7 +14,7 @@ You can *craft duplicate accessories together* to get a chance at an accessory w
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Lucky Rock**
 	- **Miner Guide**

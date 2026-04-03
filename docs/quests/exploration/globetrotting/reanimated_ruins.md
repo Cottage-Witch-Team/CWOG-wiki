@@ -7,7 +7,7 @@ There are *three types* of *Reanimated Ruins*. Which one you complete will deter
 
 
 
-!!! tip
+!!! tip ""
 	### Find :
 	- **Reanimated Ruins Frozen**
 	- **Reanimated Ruins Mesa**

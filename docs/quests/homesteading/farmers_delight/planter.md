@@ -12,7 +12,7 @@ The **Planter** is useful both as a decorative block, and as a utility. It can g
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Planter**
 ---

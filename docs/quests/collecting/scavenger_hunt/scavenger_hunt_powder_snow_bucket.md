@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Powder Snow Bucket**
 ---

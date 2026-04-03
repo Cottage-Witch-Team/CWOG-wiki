@@ -12,7 +12,7 @@ Additionally, some mobs which have been ^^removed for phobia reasons^^ can be fo
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Gate Pearl**
 ---

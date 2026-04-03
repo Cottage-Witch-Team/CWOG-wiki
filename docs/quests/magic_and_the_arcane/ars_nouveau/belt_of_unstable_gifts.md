@@ -7,7 +7,7 @@ Despite the worrisome name, this Curio is all positive! The **Belt of Unstable G
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Belt Of Unstable Gifts**
 ---

@@ -9,7 +9,7 @@ Change the color of your **Lava Lily** by placing it over Lava or Magma.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Volcanic Sourcelink**
 ---

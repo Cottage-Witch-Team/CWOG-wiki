@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Glow Ink Sac**
 	- **Ink Sac**

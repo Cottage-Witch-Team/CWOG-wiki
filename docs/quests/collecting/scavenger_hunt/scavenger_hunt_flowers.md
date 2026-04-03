@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Sunflower**
 	- **Blue Orchid**

@@ -9,7 +9,7 @@ The **Electron Tube** is a source of magical intelligence, allowing machines to 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Electron Tube**
 ---

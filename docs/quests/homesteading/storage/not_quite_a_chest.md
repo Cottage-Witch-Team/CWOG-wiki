@@ -14,7 +14,7 @@ it's just like an **Ender Chest**- with feet!
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Ender Luggage**
 ---

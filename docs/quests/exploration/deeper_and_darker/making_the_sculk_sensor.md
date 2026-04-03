@@ -14,7 +14,7 @@ You can ==block their listening with wool==, directionally, or ==surround them w
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Sculk Sensor**
 ---

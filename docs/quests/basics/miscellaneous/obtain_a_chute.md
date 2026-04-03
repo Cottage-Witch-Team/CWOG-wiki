@@ -14,7 +14,7 @@ It can be disabled with a Redstone signal, or by placing a block directly below 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Chute**
 ---

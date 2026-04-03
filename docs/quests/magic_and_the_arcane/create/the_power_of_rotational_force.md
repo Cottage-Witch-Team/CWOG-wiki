@@ -8,7 +8,7 @@ The Stressometer allows you to *view your maximum su and how much of it is remai
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Stressometer**
 ---

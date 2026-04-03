@@ -7,7 +7,7 @@ Who doesn't love pie? ==Make each type of pie and cake==, and at the end you'll 
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Pumpkin Pie**
 	- **Crimson Berry Pie**

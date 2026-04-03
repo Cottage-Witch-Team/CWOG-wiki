@@ -9,7 +9,7 @@ It's not a bad idea to fill it with emergency items. You can *gain more storage 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Ender Chest**
 ---

@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Batwinghat**
 	- **Eevee Ears**

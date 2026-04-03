@@ -7,7 +7,7 @@ Have you ever had lasagna so good that it was frightening? Well, *what are you w
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Horror Lasagna**
 ---

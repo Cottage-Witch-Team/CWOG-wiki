@@ -7,7 +7,7 @@ Defeat a horde of **Endermen**, take their SKIN and WEAR IT - oh, was that too m
 
 
 
-!!! tip
+!!! tip ""
 
 	- Kill **Enderman (100)**
 ---

@@ -7,7 +7,7 @@ Obtain a full set of **Naga Scale Armor** from the *Twilight Forest*.
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Naga Chestplate**
 	- **Naga Leggings**

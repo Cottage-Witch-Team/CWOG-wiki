@@ -9,7 +9,7 @@ To do so will cost some **Experience**. And most *Curses cannot be removed*.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Disenchanter**
 ---

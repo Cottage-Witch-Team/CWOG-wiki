@@ -14,7 +14,7 @@ note: the **Fishing Line** and **Unbreakable Fishing Line** are unrelated items.
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Bobber**
 	- **Fishing Line**

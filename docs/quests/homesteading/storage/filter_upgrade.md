@@ -9,7 +9,7 @@ It will *help control what items get placed* in the storage you use it on.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Filter Upgrade**
 ---

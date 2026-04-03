@@ -13,7 +13,7 @@ I wonder what would happen if you ate it?
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Rainbow Jelly**
 ---

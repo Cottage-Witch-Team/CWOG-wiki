@@ -13,7 +13,7 @@ To begin, ==equip your robes and set up your hotbar==. Then, open the radial and
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Wizards Armarium**
 ---

@@ -12,7 +12,7 @@
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Moonworm Queen**
 ---

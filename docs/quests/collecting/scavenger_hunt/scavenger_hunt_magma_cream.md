@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Magma Cream**
 ---

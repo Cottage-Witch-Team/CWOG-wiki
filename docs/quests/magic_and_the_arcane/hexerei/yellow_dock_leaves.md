@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Yellow Dock Leaves**
 ---

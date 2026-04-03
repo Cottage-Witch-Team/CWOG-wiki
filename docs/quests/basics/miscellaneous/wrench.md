@@ -8,7 +8,7 @@ Does not work on objects which have the same texture on all sides (such as plank
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Wrench**
 ---

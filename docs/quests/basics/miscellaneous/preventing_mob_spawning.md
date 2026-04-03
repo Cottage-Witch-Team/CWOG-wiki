@@ -18,7 +18,7 @@ The **Amethyst Magnum Torch** prevents ***ALL*** mob spawns.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Any Magnum Torches**
 ---

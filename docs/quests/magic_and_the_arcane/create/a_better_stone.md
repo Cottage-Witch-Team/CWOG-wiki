@@ -9,7 +9,7 @@
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Andesite Alloy (4)**
 ---

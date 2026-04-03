@@ -9,7 +9,7 @@ Find a *Fortress of the Undead*, and survive!*
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Fish Bones**
 ---

@@ -12,7 +12,7 @@
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Basic Spell Turret**
 ---

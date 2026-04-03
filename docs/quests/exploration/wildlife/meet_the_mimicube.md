@@ -7,7 +7,7 @@ The **Mimicube** is a defender of End Cities, and is capable of mimicking its at
 
 
 
-!!! tip
+!!! tip ""
 
 	- Meet **Mimicube**
 ---

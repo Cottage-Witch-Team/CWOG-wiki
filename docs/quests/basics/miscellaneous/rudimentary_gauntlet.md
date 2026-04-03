@@ -8,7 +8,7 @@ As it is, it is &acomparable to an **Iron Sword**.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Rudimentary Gauntlet**
 ---

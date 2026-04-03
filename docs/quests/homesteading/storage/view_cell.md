@@ -18,7 +18,7 @@ Once you have finished configuring the glyphstone, you can &6place the **Discern
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **View Cell**
 ---

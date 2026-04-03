@@ -16,7 +16,7 @@ If you ==right click them with a compass==, they will point in the direction the
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Any Sign Posts**
 ---

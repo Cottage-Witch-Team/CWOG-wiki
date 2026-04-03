@@ -18,7 +18,7 @@ This will let you view how to make anything in the game!
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Get to know the mods**
 ---

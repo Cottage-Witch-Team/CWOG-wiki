@@ -14,7 +14,7 @@ Then, you can *obtain dishes* from the remainder of the meal by ==clicking on th
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Hoglin Ear**
 	- **Plate Of Stuffed Hoglin Snout**

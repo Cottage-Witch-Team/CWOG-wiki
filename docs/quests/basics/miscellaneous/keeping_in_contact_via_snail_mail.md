@@ -11,7 +11,7 @@ You can wrap gifts up in **Wrapping Paper**. Each parcel can hold 4 items. There
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Postcard**
 ---

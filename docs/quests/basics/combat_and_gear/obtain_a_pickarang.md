@@ -15,7 +15,7 @@ You can upgrade it to the **Flamarang**, and both versions can be Enchanted.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Pickarang**
 ---

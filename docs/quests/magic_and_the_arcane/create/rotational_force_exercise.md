@@ -8,7 +8,7 @@ Give them a *wheel to run around in*, and they will reliably generate you ^^256 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Starbuncle Wheel**
 ---

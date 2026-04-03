@@ -12,7 +12,7 @@ When inserted, this upgrade allows you to *control the upgraded block with **Red
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Redstone Card**
 ---

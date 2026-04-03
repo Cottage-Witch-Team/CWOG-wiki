@@ -7,7 +7,7 @@ Increases *movement speed*. Level up by ==traveling on foot!==
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Wanderer Boots**
 ---

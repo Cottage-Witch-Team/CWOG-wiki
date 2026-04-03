@@ -13,7 +13,7 @@ Can you find the whole Arcana?
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Any Tarot Cards**
 ---

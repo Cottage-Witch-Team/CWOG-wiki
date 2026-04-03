@@ -21,7 +21,7 @@ Set "Allow All Fake Players" to true.
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Adding Allies**
 ---

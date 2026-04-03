@@ -7,7 +7,7 @@ The **Brass Hand** is used to craft both **Deployers** and the **Extend-o Grip**
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Brass Hand**
 ---

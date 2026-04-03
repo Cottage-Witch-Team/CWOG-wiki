@@ -8,7 +8,7 @@ These gateways are broken and in need of mending. Unfortunately it seems *most a
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Nexus**
 ---

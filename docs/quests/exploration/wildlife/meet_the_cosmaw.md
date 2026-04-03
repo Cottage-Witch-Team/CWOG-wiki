@@ -13,7 +13,7 @@ It can be ==tamed with Cosmic Cod==, its natural prey.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Meet **Cosmaw**
 ---

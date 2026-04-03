@@ -7,7 +7,7 @@ The **Nether Eye** once belonged to a demon, who lost it in a might battle betwe
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Nether Eye**
 ---

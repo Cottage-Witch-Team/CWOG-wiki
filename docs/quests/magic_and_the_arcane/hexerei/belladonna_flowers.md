@@ -9,7 +9,7 @@ Beware, though! The *Berries are poisonous*.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Belladonna Flowers**
 ---

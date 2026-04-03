@@ -11,7 +11,7 @@ You can give them **Soul Sand** or **Magma Blocks** to change their appearance.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Firenando Charm**
 ---

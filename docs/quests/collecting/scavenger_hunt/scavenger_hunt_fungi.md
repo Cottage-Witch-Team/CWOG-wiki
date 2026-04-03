@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Crimson Fungus**
 	- **Warped Fungus**

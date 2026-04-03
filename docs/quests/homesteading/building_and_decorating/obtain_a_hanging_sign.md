@@ -14,7 +14,7 @@ You can add text to it by *right clicking with an empty hand*, or you can use it
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Any Hanging Signs**
 ---

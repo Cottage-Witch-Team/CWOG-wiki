@@ -12,7 +12,7 @@ Possibly the *most helpful item* in the *Shulkren Forest*, this tea helpfully *c
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Chorus Flower Tea**
 ---

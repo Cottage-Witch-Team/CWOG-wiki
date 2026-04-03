@@ -9,7 +9,7 @@ You'll also need them in your quest to &amake **Blaze Cakes**. Take this **Nethe
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Crushing Wheel (2)**
 ---

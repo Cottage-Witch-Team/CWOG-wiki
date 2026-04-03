@@ -7,7 +7,7 @@ The **Sage Burning Plate** will allow you to burn **Sage Bundles**, which *preve
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Sage Burning Plate**
 ---

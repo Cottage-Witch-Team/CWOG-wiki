@@ -13,7 +13,7 @@ The **Fuzzy Tablet** allows for additional filtering by *damage levels*. This ca
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Fuzzy Card**
 ---

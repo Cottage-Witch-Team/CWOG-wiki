@@ -7,7 +7,7 @@ Equip your **Crow** with this **Ankh** to protect it from danger. It will grant 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Crow Ankh Amulet**
 ---

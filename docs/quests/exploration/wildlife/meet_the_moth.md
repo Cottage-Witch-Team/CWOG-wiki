@@ -27,7 +27,7 @@ List of All Biomes:
 
 
 
-!!! tip
+!!! tip ""
 
 	- Meet **Moth**
 ---

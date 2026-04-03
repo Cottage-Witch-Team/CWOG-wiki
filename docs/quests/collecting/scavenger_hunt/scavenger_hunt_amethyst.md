@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Budding Amethyst**
 	- **Amethyst Shard**

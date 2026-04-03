@@ -8,7 +8,7 @@ Beware of **Pillagers**, and should you find any ladders down... well, *proceed 
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Tinkers Workshop**
 ---

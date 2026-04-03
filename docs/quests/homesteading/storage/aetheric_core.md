@@ -16,7 +16,7 @@ The two **Entangled Aetheric Fragments** you create represent *two halves of a s
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Singularity**
 	- **Quantum Entangled Singularity (2)**

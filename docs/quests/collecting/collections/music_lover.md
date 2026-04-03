@@ -12,7 +12,7 @@ Obtain all vanilla music discs.
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Music Disc 13**
 	- **Music Disc Cat**

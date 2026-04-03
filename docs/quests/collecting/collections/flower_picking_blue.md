@@ -7,7 +7,7 @@ Collect one each of every flower in the game to earn rewards!
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Blue Orchid**
 	- **Blue Forget Me Not**

@@ -12,7 +12,7 @@ The **Enhanced Broom Brush** has increased durability. Don't forget to hang it o
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Herb Enhanced Broom Brush**
 ---

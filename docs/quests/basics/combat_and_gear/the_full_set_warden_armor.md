@@ -7,7 +7,7 @@ You managed to get enough **Warden Carapaces** to upgrade a *full set of Netheri
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Warden Helmet**
 	- **Warden Chestplate**

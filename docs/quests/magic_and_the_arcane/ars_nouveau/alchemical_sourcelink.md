@@ -7,7 +7,7 @@ The **Alchemical Sourcelink** generates source when provided with **Potions**. T
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Alchemical Sourcelink**
 ---

@@ -9,7 +9,7 @@ It's used for some important recipes, such high level **Storage Glyphs**, so it'
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Redstone (4)**
 	- **Glowstone Dust (4)**

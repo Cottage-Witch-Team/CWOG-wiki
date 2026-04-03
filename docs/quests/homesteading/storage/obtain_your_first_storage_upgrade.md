@@ -16,7 +16,7 @@ Each drawer can accept 7 different upgrades.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Copper Upgrade**
 ---

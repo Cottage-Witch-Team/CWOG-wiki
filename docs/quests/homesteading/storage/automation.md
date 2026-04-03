@@ -15,7 +15,7 @@ The **Vibrant Communicator** is similar, but instead of interacting with externa
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Import Bus**
 	- **Export Bus**

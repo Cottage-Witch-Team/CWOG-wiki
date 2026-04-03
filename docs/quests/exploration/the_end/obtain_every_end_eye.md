@@ -8,7 +8,7 @@ Once you have ==collected at least 1 of each Eye==, you may check this button an
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Obtain Every End Eye**
 ---

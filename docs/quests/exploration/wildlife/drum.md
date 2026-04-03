@@ -7,7 +7,7 @@ The **Command Drum** is an item which allows you to command multiple tamed creat
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Drum**
 ---

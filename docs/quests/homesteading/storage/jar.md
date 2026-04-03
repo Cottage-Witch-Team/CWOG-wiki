@@ -14,7 +14,7 @@ You can *place the jar by crouching and right clicking* it. If you *simply right
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Jar**
 ---

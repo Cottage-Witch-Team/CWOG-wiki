@@ -7,7 +7,7 @@ Obtain a full set of **Golden Everything** to earn the right to *Praise the Sun*
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Golden Helmet**
 	- **Golden Chestplate**

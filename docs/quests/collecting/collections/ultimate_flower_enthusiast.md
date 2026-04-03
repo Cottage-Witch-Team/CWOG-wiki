@@ -8,7 +8,7 @@ Ya-ha-ha!
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Ultimate Flower Enthusiast**
 ---

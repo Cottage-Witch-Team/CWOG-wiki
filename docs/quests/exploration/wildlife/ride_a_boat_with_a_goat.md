@@ -17,7 +17,7 @@ You win!
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Ride A Boat With A Goat**
 ---

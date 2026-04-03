@@ -9,7 +9,7 @@ However, be wary, as *each time a Vase is broken*, there is a chance to spawn **
 
 
 
-!!! tip
+!!! tip ""
 
 	- Break **Ancient Vase**
 ---

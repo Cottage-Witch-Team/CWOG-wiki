@@ -8,7 +8,7 @@ The *Pillager Fortress* is best taken on with a group of friends. However, a par
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Pillager Fortress**
 ---

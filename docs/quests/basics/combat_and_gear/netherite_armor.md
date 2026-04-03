@@ -13,7 +13,7 @@ At least four **Netherite**. Anyway the important thing isn't the math, just go 
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Netherite Armor**
 ---

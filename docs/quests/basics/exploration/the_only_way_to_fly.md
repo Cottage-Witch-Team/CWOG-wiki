@@ -14,7 +14,7 @@ You can achieve *quite a bit of air time* this way! And the **Slime Boots** make
 
 
 
-!!! tip
+!!! tip ""
 
 	- **The Only Way to "Fly"**
 ---

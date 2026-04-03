@@ -7,7 +7,7 @@ Wow, you've caught 999 fish? That's bonkers.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Stats: **Fish Caught = 999**
 ---

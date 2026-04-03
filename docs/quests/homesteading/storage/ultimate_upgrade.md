@@ -9,7 +9,7 @@ It is also significantly more expensive.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Ultimate Upgrade**
 ---

@@ -23,7 +23,7 @@ List of All Biomes:
 
 
 
-!!! tip
+!!! tip ""
 
 	- Meet **Colelytra**
 ---

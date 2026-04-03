@@ -11,7 +11,7 @@ You'll also want it if you're planning on growing any **Mushroom Colonies**.
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Rich Soil**
 	- **Organic Compost**

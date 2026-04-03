@@ -7,7 +7,7 @@ Did you know that **Undead** are susceptible to *Spores* and *Grow* spells? You 
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Spore Blossom**
 ---

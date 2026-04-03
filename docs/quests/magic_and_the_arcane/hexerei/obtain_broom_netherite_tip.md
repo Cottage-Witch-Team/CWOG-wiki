@@ -12,7 +12,7 @@ Much like the Waterproof Tip, the **Netherite Broom Tip** will prevent players g
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Broom Netherite Tip**
 ---

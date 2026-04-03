@@ -7,7 +7,7 @@ Congratulation on operating your first machine! Hopefully if you were feeling in
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Mechanical Press**
 ---

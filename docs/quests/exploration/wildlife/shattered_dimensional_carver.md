@@ -11,7 +11,7 @@ Instead, use it to craft a **Farseer Gate Pearl**, an item which brings all the 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Shattered Dimensional Carver**
 ---

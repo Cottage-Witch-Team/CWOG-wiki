@@ -8,7 +8,7 @@ The different levels of **Quantity Modifiers** will allow **Sculk Emitters** to 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Quantity Modifier Tier 1**
 ---

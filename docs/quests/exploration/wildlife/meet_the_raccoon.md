@@ -14,7 +14,7 @@ They can be &atamed by giving it an **Egg** and letting it wash it.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Meet **Raccoon**
 ---

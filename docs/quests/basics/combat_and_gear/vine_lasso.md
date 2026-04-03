@@ -7,7 +7,7 @@ The **Vine Lasso** is crafted with the shed skins of well-fed **Anacondas**. It 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Vine Lasso**
 ---

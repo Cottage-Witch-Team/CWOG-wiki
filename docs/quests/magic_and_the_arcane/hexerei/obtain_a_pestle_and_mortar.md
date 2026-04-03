@@ -12,7 +12,7 @@ The **Mortar and Pestle** is a tool for grinding herbs. For right now, its prima
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Pestle And Mortar**
 ---

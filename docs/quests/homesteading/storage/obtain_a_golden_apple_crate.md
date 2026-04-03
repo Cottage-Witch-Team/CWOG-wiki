@@ -12,7 +12,7 @@ Oh I know, it's such a bother... your storage is just &olousy&r with **Golden Ap
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Golden Apple Crate (5)**
 ---

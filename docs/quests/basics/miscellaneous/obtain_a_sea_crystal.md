@@ -20,7 +20,7 @@ To ^^remove dyes or upgrades^^, you need to ==hold the necklace== in your hand a
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Sea Crystal**
 ---

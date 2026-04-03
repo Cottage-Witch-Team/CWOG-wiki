@@ -13,7 +13,7 @@ It does not count towards, nor require, any progression through the Forest.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Find **Hedge Maze**
 ---

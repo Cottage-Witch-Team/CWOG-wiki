@@ -8,7 +8,7 @@ They'll also sometimes *give you Regeneration*, and once they do so, you'll know
 
 
 
-!!! tip
+!!! tip ""
 
 	- **Kill Axolotl Target**
 ---

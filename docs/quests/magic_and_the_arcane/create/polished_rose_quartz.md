@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Polished Rose Quartz**
 	- **Rose Quartz**

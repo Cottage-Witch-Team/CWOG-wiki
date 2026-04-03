@@ -7,7 +7,7 @@ Although **Wraiths** are not hostile, they sure are spooky. Put 50 of them *out 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Kill **Wraith (50)**
 ---

@@ -7,7 +7,7 @@ The journals from which I discovered these dungeons had this to say: "Once you d
 
 
 
-!!! tip
+!!! tip ""
 
 	- Find **End Ruins**
 ---

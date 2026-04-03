@@ -7,7 +7,7 @@ Kill all three **Illager Magicians**. Please.
 
 
 
-!!! tip
+!!! tip ""
 
 	- **The Magicians**
 ---

@@ -11,7 +11,7 @@ You will need to use a **Linking Tool** to connect each **Drawer** with the **Co
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Storage Controller**
 ---

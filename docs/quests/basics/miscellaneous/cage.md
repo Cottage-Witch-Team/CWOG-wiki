@@ -12,7 +12,7 @@ The **Cage** is similar to the **Capture Cell**, in that you can ==right click i
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Cage**
 ---

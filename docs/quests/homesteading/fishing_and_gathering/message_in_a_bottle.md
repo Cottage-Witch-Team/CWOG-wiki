@@ -12,7 +12,7 @@ Lucky you, you found a **Message in a Bottle**! What does it say?
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Message In A Bottle**
 ---

@@ -13,7 +13,7 @@ Then you can surround it with **Paper** to create a Magic Map, which will prove 
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Magic Map Focus**
 ---

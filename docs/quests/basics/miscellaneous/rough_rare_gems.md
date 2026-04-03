@@ -7,7 +7,7 @@ These rarer gems require a **Diamond Grindstone** to be polished.
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Any Diamond Grindable**
 ---

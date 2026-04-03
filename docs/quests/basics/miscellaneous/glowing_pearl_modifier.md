@@ -7,7 +7,7 @@ This **Glowing Pearl** will make your mermaid top and tail shimmer as if *enchan
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Glowing Pearl Modifier**
 ---

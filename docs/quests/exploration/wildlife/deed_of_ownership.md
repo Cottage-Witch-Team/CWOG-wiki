@@ -9,7 +9,7 @@ You can learn that the **Deed of Ownership** is only obtainable by *trading with
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Deed Of Ownership**
 ---

@@ -7,7 +7,7 @@ The **Ender Drawer** can be *attuned to a frequency&a using the **Linking Tool**
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Ender Drawer**
 ---

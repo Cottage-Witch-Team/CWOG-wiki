@@ -16,7 +16,7 @@ The **Soul of Minecraft** can be equipped in your pocket.
 
 
 
-!!! tip
+!!! tip ""
 	### Acquire :
 	- **Adventurer Rune**
 	- **Angler Rune**

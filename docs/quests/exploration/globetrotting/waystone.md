@@ -8,7 +8,7 @@
 
 
 
-!!! tip
+!!! tip ""
 
 	- Acquire **Waystone**
 ---
