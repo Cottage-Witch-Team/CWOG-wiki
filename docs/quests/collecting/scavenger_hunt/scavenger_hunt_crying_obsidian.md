@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Crying Obsidian
 
-None
+
+# Task:
+
+- Acquire Crying Obsidian
 ---
 
----
 
-['']
 ---
 
             

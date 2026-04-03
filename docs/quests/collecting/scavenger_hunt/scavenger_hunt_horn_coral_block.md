@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Horn Coral Block
 
-None
+
+# Task:
+
+- Acquire Horn Coral Block
 ---
 
----
 
-['']
 ---
 
             

@@ -1,13 +1,16 @@
+
 # Obtain Infused Fabric
 
 > Of course it's black
 
 ---
 
+# Task:
+
+- Acquire Infused Fabric
 ---
 
-['**Infused Fabric** is the basis for creating your very first set of **Witch Robes
-**. The warp and weft are perfectly balanced, giving this extra defense despite only being fabric.']
+**Infused Fabric** is the basis for creating your very first set of **Witch Robes**. The warp and weft are perfectly balanced, giving this extra defense despite only being fabric.
 ---
 
             

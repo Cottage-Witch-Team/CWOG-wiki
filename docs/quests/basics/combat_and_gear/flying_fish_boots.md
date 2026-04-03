@@ -1,11 +1,13 @@
+
 # Flying Fish Boots
 
-None
+
+# Task:
+
+- Acquire Flying Fish Boots
 ---
 
----
-
-['Made from parts from **Flying Fish**, these boots allow you to leap out the water and glide just like a fish.']
+Made from parts from **Flying Fish**, these boots allow you to leap out the water and glide just like a fish.
 ---
 
             

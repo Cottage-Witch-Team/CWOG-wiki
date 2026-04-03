@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Soul Lantern
 
-None
+
+# Task:
+
+- Acquire Soul Lantern
 ---
 
----
 
-['']
 ---
 
             

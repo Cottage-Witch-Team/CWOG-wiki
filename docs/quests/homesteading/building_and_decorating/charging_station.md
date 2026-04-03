@@ -1,11 +1,13 @@
+
 # Charging Station
 
-None
+
+# Task:
+
+- Acquire Charging Station
 ---
 
----
-
-['The **Charging Station** will *burn fuel in order to charge your Building Gadgets*.']
+The **Charging Station** will *burn fuel in order to charge your Building Gadgets*.
 ---
 
             

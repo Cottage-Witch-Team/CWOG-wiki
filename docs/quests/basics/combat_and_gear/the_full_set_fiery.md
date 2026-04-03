@@ -1,11 +1,17 @@
+
 # The Full Set: Fiery
 
-None
----
+
+# Task:
+## Acquire :
+- Fiery Helmet
+- Fiery Chestplate
+- Fiery Leggings
+- Fiery Boots
 
 ---
 
-['Obtain a full set of **Fiery Metal Armor** from the *Twilight Forest*.']
+Obtain a full set of **Fiery Metal Armor** from the *Twilight Forest*.
 ---
 
             

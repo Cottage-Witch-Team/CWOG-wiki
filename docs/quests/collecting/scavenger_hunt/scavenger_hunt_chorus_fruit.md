@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Chorus Fruit
 
-None
+
+# Task:
+
+- Acquire Chorus Fruit
 ---
 
----
 
-['']
 ---
 
             

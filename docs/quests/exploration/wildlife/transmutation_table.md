@@ -1,12 +1,14 @@
+
 # Transmutation Table
 
-None
+
+# Task:
+
+- Acquire Transmutation Table
 ---
 
----
-
-['The **Transmutation Table** is an item which will drain your *experience* in exchange for *transforming your
-items*.', 'You can *feed the Table items* for a chance at getting them back in exchange for something else.']
+The **Transmutation Table** is an item which will drain your *experience* in exchange for *transforming your items*.
+You can *feed the Table items* for a chance at getting them back in exchange for something else.
 ---
 
             

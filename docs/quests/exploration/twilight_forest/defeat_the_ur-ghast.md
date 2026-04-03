@@ -1,11 +1,13 @@
+
 # Defeat the Ur-Ghast
 
-None
+
+# Task:
+
+- Unlock Progress Ur Ghast
 ---
 
----
 
-['']
 ---
 
             

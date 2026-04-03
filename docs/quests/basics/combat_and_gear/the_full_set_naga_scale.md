@@ -1,11 +1,15 @@
+
 # The Full Set: Naga Scale
 
-None
----
+
+# Task:
+## Acquire :
+- Naga Chestplate
+- Naga Leggings
 
 ---
 
-['Obtain a full set of **Naga Scale Armor** from the *Twilight Forest*.']
+Obtain a full set of **Naga Scale Armor** from the *Twilight Forest*.
 ---
 
             

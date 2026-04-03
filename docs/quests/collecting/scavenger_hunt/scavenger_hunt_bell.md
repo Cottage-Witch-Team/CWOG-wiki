@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Bell
 
-None
+
+# Task:
+
+- Acquire Bell
 ---
 
----
 
-['']
 ---
 
             

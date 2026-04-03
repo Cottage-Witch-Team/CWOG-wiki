@@ -1,11 +1,13 @@
+
 # Breed Froststalker
 
-None
+
+# Task:
+
+- Unlock Breed Froststalker
 ---
 
----
-
-['Earn this by successfully *breeding two Froststalkers*.']
+Earn this by successfully *breeding two Froststalkers*.
 ---
 
             

@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Poisonous Potato
 
-None
+
+# Task:
+
+- Acquire Poisonous Potato
 ---
 
----
 
-['']
 ---
 
             

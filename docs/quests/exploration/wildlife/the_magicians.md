@@ -1,11 +1,13 @@
+
 # The Magicians
 
-None
+
+# Task:
+
+- Unlock The Magicians
 ---
 
----
-
-['Kill all three **Illager Magicians**. Please.']
+Kill all three **Illager Magicians**. Please.
 ---
 
             

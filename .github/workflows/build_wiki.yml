@@ -1,4 +1,46 @@
-name: build_wiki.yml
+name: Run Script Using External Repo
+
 on:
+  workflow_dispatch:
 
 jobs:
+  update-origin:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout origin repository
+        uses: actions/checkout@v4
+
+      - name: Checkout external repository
+        uses: actions/checkout@v4
+        with:
+          repository: katubug/CottageWitch119
+          path: repo_code
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Run Python script
+        run: python ./main.py
+
+      - name: Commit changes back to origin repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add .
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated update"
+            git push
+          fi

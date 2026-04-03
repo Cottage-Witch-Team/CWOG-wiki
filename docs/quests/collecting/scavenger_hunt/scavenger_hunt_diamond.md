@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Diamond
 
-None
+
+# Task:
+
+- Acquire Diamond
 ---
 
----
 
-['']
 ---
 
             

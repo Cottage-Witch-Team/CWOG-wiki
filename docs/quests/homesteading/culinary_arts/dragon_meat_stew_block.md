@@ -1,12 +1,15 @@
+
 # Dragon Meat Stew Block
 
-None
+
+# Task:
+
+- Acquire Dragon Meat Stew Block
 ---
 
----
+**Dragon Meat Stew**... what could be a greater show of power than *consuming your fallen enemies*?
 
-['**Dragon Meat Stew**... what could be a greater show of power than *consuming your fallen
-enemies*?', '', "Was that too much? That was too much, wasn't it?"]
+Was that too much? That was too much, wasn't it?
 ---
 
             

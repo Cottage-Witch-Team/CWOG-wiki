@@ -1,11 +1,13 @@
+
 # Architect Belt
 
-None
+
+# Task:
+
+- Acquire Architect Belt
 ---
 
----
-
-['Increases *Reach Distance*. Level up by ==placing blocks==!']
+Increases *Reach Distance*. Level up by ==placing blocks==!
 ---
 
             

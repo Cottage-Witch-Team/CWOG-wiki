@@ -1,12 +1,15 @@
+
 # Disenchanter
 
-None
+
+# Task:
+
+- Acquire Disenchanter
 ---
 
----
+The **Disenchanter** is a station which can *separate enchantments* from gear or books.
 
-['The **Disenchanter** is a station which can *separate enchantments* from gear or books.', '', 'To do so will cost some
-**Experience**. And most *Curses cannot be removed*.']
+To do so will cost some **Experience**. And most *Curses cannot be removed*.
 ---
 
             

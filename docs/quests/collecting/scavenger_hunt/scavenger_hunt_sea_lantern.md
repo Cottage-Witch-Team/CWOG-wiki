@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Sea Lantern
 
-None
+
+# Task:
+
+- Acquire Sea Lantern
 ---
 
----
 
-['']
 ---
 
             

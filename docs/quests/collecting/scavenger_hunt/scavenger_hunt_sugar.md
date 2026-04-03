@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Sugar
 
-None
+
+# Task:
+
+- Acquire Sugar
 ---
 
----
 
-['']
 ---
 
             

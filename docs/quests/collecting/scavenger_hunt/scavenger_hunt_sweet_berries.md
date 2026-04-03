@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Sweet Berries
 
-None
+
+# Task:
+
+- Acquire Sweet Berries
 ---
 
----
 
-['']
 ---
 
             

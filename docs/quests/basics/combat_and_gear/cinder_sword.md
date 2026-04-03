@@ -1,13 +1,18 @@
+
 # Cinder Sword
 
 > The downside is killing cindershells
 
 ---
 
+# Task:
+
+- Acquire Cinder Sword
 ---
 
-['Made from fallen **Cindershells**, a passive mob in the Nether, this sword has a strong affinity for **Lava
-**!', '', '==Right click the blade on Lava== to recharge it, providing it with a damage boost and the Flame effect!']
+Made from fallen **Cindershells**, a passive mob in the Nether, this sword has a strong affinity for **Lava**!
+
+==Right click the blade on Lava== to recharge it, providing it with a damage boost and the Flame effect!
 ---
 
             

@@ -1,11 +1,13 @@
+
 # Get Assorted Salad
 
-None
+
+# Task:
+
+- Unlock Get Assorted Salad
 ---
 
----
-
-['Make this advancement by crafting the **Assorted Salad**.']
+Make this advancement by crafting the **Assorted Salad**.
 ---
 
             

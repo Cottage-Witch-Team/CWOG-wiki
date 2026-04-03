@@ -1,13 +1,16 @@
+
 # Obtain an Ancient Tome
 
 > I tome you so
 
 ---
 
+# Task:
+
+- Acquire Any Tomes
 ---
 
-['Found as loot in chests, the **Ancient Tomes** are books of long-lost knowledge which will allow you to *add a level
-to the specified enchantment* by combining the Tome with the **Enchanted Book** at an **Anvil**.']
+Found as loot in chests, the **Ancient Tomes** are books of long-lost knowledge which will allow you to *add a level to the specified enchantment* by combining the Tome with the **Enchanted Book** at an **Anvil**.
 ---
 
             

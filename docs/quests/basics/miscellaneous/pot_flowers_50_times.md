@@ -1,12 +1,15 @@
+
 # Pot Flowers 50 times
 
-None
+
+# Task:
+
+- Stats Pot Flowers 50 times
 ---
 
----
+What soothes the soul more than houseplants?
 
-['What soothes the soul more than houseplants?', '', 'Plant *50 lovely green (or pink or blue) friends* in basic *
-*Flower Pots**.']
+Plant *50 lovely green (or pink or blue) friends* in basic **Flower Pots**.
 ---
 
             

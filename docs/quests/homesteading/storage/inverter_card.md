@@ -1,11 +1,13 @@
+
 # Inverter Card
 
-None
+
+# Task:
+
+- Acquire Inverter Card
 ---
 
----
-
-['The **Inverter Tablet** changes Nexus filters from a whitelist to a blacklist.']
+The **Inverter Tablet** changes Nexus filters from a whitelist to a blacklist.
 ---
 
             

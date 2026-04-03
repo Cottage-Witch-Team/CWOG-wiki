@@ -1,11 +1,15 @@
+
 # Scavenger Hunt: Amethyst
 
-None
----
+
+# Task:
+## Acquire :
+- Budding Amethyst
+- Amethyst Shard
 
 ---
 
-['']
+
 ---
 
             

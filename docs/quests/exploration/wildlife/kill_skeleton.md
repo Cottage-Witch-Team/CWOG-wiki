@@ -1,11 +1,13 @@
+
 # Kill: Skeleton
 
-None
+
+# Task:
+
+- Kill Skeleton (100)
 ---
 
----
 
-['']
 ---
 
             

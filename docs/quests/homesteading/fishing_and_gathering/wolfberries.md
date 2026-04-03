@@ -1,12 +1,16 @@
+
 # Wolfberries
 
 > Real world lore
 
 ---
 
+# Task:
+
+- Acquire Wolfberries
 ---
 
-['It is said that wolfberry allows for deep inner processing to happen without the need to consciously confront it.']
+It is said that wolfberry allows for deep inner processing to happen without the need to consciously confront it.
 ---
 
             

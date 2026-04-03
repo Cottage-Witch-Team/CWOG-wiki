@@ -1,11 +1,13 @@
+
 # Defeat The Hydra
 
-None
+
+# Task:
+
+- Unlock Progress Hydra
 ---
 
----
 
-['']
 ---
 
             

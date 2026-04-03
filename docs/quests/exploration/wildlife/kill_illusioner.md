@@ -1,11 +1,13 @@
+
 # Kill Illusioner
 
-None
+
+# Task:
+
+- Unlock Kill Illusioner
 ---
 
----
-
-['Defeat the **Illusioner** - if you can find him - and obtain his riches!']
+Defeat the **Illusioner** - if you can find him - and obtain his riches!
 ---
 
             

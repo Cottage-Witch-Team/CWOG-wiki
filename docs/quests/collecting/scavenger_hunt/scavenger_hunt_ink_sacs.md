@@ -1,11 +1,15 @@
+
 # Scavenger Hunt: Ink Sacs
 
-None
----
+
+# Task:
+## Acquire :
+- Glow Ink Sac
+- Ink Sac
 
 ---
 
-['']
+
 ---
 
             

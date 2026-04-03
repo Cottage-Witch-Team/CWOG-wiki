@@ -1,11 +1,16 @@
+
 # Scavenger Hunt: Trio of Stews
 
-None
----
+
+# Task:
+## Acquire :
+- Mushroom Stew
+- Beef Stew
+- Strider Moss Stew
 
 ---
 
-['']
+
 ---
 
             

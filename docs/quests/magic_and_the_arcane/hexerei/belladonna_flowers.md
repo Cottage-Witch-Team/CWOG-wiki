@@ -1,12 +1,15 @@
+
 # Belladonna Flowers
 
-None
+
+# Task:
+
+- Acquire Belladonna Flowers
 ---
 
----
+**Belladonna** is used to upgrade your **Broom**, and can also be used to create **Compost**.
 
-['**Belladonna** is used to upgrade your **Broom**, and can also be used to create **Compost
-**.', '', 'Beware, though! The *Berries are poisonous*.']
+Beware, though! The *Berries are poisonous*.
 ---
 
             

@@ -1,11 +1,15 @@
+
 # Scavenger Hunt: Honey
 
-None
----
+
+# Task:
+## Acquire :
+- Honeycomb
+- Honey Bottle
 
 ---
 
-['']
+
 ---
 
             

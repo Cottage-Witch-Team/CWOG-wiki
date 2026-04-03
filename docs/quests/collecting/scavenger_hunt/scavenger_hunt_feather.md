@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Feather
 
-None
+
+# Task:
+
+- Acquire Feather
 ---
 
----
 
-['']
 ---
 
             

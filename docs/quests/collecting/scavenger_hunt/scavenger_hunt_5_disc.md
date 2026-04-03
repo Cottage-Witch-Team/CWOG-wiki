@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: 5 Disc
 
-None
+
+# Task:
+
+- Acquire Music Disc 5
 ---
 
----
 
-['']
 ---
 
             

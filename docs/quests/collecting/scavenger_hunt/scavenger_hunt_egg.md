@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Egg
 
-None
+
+# Task:
+
+- Acquire Egg
 ---
 
----
 
-['']
 ---
 
             

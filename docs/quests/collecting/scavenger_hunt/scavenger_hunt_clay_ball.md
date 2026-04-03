@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Clay Ball
 
-None
+
+# Task:
+
+- Acquire Clay Ball
 ---
 
----
 
-['']
 ---
 
             

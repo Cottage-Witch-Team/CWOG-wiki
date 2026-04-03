@@ -1,10 +1,11 @@
 import re
 import shutil
 
-from constants import DOCS_ROOT, MODPACK_ROOT
-from functions import get_all_files, snbt_to_dict
 from markdown.extensions.toc import slugify
-from wiki_builder import WikiBuildTask
+
+from .constants import DOCS_ROOT, MODPACK_ROOT
+from .functions import get_all_files, snbt_to_dict
+from .wiki_builder import WikiBuildTask
 
 
 class Quests(WikiBuildTask):
@@ -28,15 +29,15 @@ class Quests(WikiBuildTask):
         self.build_quest_book()
 
         for chapter_group_title, chapter_group in sorted(self.quest_book.items(), key=self.ordinal_sort):
-            print(f"\n\n{chapter_group_title.center(30, '-')}")
+            # print(f"\n\n{chapter_group_title.center(30, '-')}")
             for chapter_title, chapter in sorted(chapter_group.items(), key=self.ordinal_sort):
                 if chapter_title == "ordinal":
                     continue
-                print(f"\n{chapter_title.center(20, '~')}")
+                # print(f"\n{chapter_title.center(20, '~')}")
                 for quest_title, quest in sorted(chapter.items(), key=self.ordinal_sort):
                     if quest_title == "ordinal":
                         continue
-                    print(f"-> {quest_title}")
+                    # print(f"-> {quest_title}")
                     path_to_write = (
                         self.destination
                         / slugify(chapter_group_title, "_")
@@ -112,17 +113,20 @@ class Quests(WikiBuildTask):
             "tasks": task_string,
         }
 
-        title, subtitle, task, description = new_dict.values()
+        title, subtitle, description, task = new_dict.values()
 
-        if subtitle:
-            subtitle = f"\n> {subtitle.capitalize()}\n"
+        print(tasks, task_string, task)
 
-        if task:
-            task = f"\n{task}\n---\n"
+        subtitle = f"\n> {subtitle.capitalize()}\n\n---" if subtitle is not None else ""
 
-        if description and isinstance(description, str):
-            description = [description]
-            quest_description = self.__convert_description_to_string(description)
+        task = f"\n{task}\n---\n" if task is not None else ""
+
+        if description is not None:
+            if isinstance(description, str):
+                description = [description]
+            print(description)
+            quest_description = self.__convert_description_to_string(description) + "\n---\n"
+            print(quest_description)
         else:
             quest_description = ""
 
@@ -131,14 +135,12 @@ class Quests(WikiBuildTask):
             f"""
 # {title}
 {subtitle}
----
-{quest_description}
----
 {task}
+{quest_description}
             """,
         )
 
-    def __process_tasks_on_quest(self, quest: dict) -> dict | None:
+    def __process_tasks_on_quest(self, quest: dict) -> dict | None:  # noqa: C901
         quest_tasks = quest.get("tasks")
         if not quest_tasks:
             return None
@@ -275,7 +277,4 @@ class Quests(WikiBuildTask):
                 task_string += "## " + task_matrix[task_type] + ":\n"
                 for item in [f"- {t}\n" for t in subtask]:
                     task_string += item
-        print(task_string)
-
-
-Quests().launch()
+        return task_string

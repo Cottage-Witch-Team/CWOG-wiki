@@ -1,11 +1,13 @@
+
 # Protect Yourself from Potions
 
-None
+
+# Task:
+
+- Acquire Any Umbrellas
 ---
 
----
-
-['Ever wished you could *shield yourself from thrown Potions*? Well, you can. Just bring your trusty **Umbrella!**.']
+Ever wished you could *shield yourself from thrown Potions*? Well, you can. Just bring your trusty **Umbrella!**.
 ---
 
             

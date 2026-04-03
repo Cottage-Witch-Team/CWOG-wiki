@@ -1,11 +1,13 @@
+
 # Fishermans Lodge
 
-None
+
+# Task:
+
+- Unlock Fishermans Lodge
 ---
 
----
-
-["This quaint *Fisherman's Lodge* is water-bound, and is a great place to go fishing."]
+This quaint *Fisherman's Lodge* is water-bound, and is a great place to go fishing.
 ---
 
             

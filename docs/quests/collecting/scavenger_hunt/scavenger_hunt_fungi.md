@@ -1,11 +1,15 @@
+
 # Scavenger Hunt: Fungi
 
-None
----
+
+# Task:
+## Acquire :
+- Crimson Fungus
+- Warped Fungus
 
 ---
 
-['']
+
 ---
 
             

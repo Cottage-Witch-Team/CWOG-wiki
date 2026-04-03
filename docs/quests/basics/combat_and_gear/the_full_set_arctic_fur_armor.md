@@ -1,11 +1,17 @@
+
 # The Full Set: Arctic Fur Armor
 
-None
----
+
+# Task:
+## Acquire :
+- Arctic Helmet
+- Arctic Chestplate
+- Arctic Leggings
+- Arctic Boots
 
 ---
 
-['Obtain a full set of **Arctic Fur Armor** from the Yeti caves in *Twilight Forest*.']
+Obtain a full set of **Arctic Fur Armor** from the Yeti caves in *Twilight Forest*.
 ---
 
             

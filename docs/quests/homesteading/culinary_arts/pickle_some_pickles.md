@@ -1,11 +1,13 @@
+
 # Pickle some Pickles
 
-None
+
+# Task:
+
+- Acquire Pickled Pickles
 ---
 
----
-
-['**Pickles** need a *nice, cold* Keg to marinate in.']
+**Pickles** need a *nice, cold* Keg to marinate in.
 ---
 
             

@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Raw Rabbit
 
-None
+
+# Task:
+
+- Acquire Rabbit
 ---
 
----
 
-['']
 ---
 
             

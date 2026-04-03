@@ -1,11 +1,15 @@
+
 # Fish Bones
 
-None
+
+# Task:
+
+- Unlock Fish Bones
 ---
 
----
+Find a *Fortress of the Undead*, and survive!*
 
-['Find a *Fortress of the Undead*, and survive!*', '', '*survival optional']
+*survival optional
 ---
 
             

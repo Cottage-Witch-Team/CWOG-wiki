@@ -1,11 +1,13 @@
+
 # Yellow Dock Leaves
 
-None
+
+# Task:
+
+- Acquire Yellow Dock Leaves
 ---
 
----
-
-['**Yellow Dock** is used to upgrade your **Broom**, and can also be used to create **Compost**.']
+**Yellow Dock** is used to upgrade your **Broom**, and can also be used to create **Compost**.
 ---
 
             

@@ -1,11 +1,13 @@
+
 # Rough Rare Gems
 
-None
+
+# Task:
+
+- Acquire Any Diamond Grindable
 ---
 
----
-
-['These rarer gems require a **Diamond Grindstone** to be polished.']
+These rarer gems require a **Diamond Grindstone** to be polished.
 ---
 
             

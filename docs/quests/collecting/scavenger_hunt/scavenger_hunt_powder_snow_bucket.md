@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Powder Snow Bucket
 
-None
+
+# Task:
+
+- Acquire Powder Snow Bucket
 ---
 
----
 
-['']
 ---
 
             

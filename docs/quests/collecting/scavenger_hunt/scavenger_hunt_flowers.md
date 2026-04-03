@@ -1,11 +1,16 @@
+
 # Scavenger Hunt: Flowers
 
-None
----
+
+# Task:
+## Acquire :
+- Sunflower
+- Blue Orchid
+- Pink Allium Flower Bush
 
 ---
 
-['']
+
 ---
 
             

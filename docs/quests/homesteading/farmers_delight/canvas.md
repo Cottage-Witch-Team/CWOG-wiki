@@ -1,12 +1,16 @@
+
 # Canvas
 
 > A blank canvas is a powerful thing
 
 ---
 
+# Task:
+
+- Acquire Canvas
 ---
 
-['**Canvas** is a versatile material which can create **Mats**, **Signs**, and more!']
+**Canvas** is a versatile material which can create **Mats**, **Signs**, and more!
 ---
 
             

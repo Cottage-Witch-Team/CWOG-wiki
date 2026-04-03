@@ -1,11 +1,15 @@
+
 # Crafting Upgrades
 
-None
----
+
+# Task:
+## Acquire :
+- Stonecutter Upgrade
+- Crafting Upgrade
 
 ---
 
-['The **Crafting** and **Stonecutter** upgrades provide those *crafting interfaces* in the storage you place them in.']
+The **Crafting** and **Stonecutter** upgrades provide those *crafting interfaces* in the storage you place them in.
 ---
 
             

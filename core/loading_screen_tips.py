@@ -8,14 +8,14 @@ from core.wiki_builder import WikiBuildTask
 
 class LoadingScreenTips(WikiBuildTask):
     source_directory = MODPACK_ROOT / "kubejs/assets/cottagewitch/tips/"
-    destination_file = DOCS_ROOT / "wiki/all_loading_screen_tips.md"
+    destination = DOCS_ROOT / "wiki/all_loading_screen_tips.md"
 
     def launch(self) -> None:
         """Task to get all loading screen tips, and updates the wiki page."""
         tip_list = self.__build_tip_list_from_files()
         document = self.__build_document_from_tip_list(tip_list)
 
-        self.write_document(document)
+        self.write_document_to_destination(document)
 
     def __build_tip_list_from_files(self) -> list[str]:
         """Build the list of tip texts from the files in the directory."""

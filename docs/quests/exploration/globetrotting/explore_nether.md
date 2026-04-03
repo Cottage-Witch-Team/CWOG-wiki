@@ -1,11 +1,13 @@
+
 # Explore Nether
 
-None
+
+# Task:
+
+- Unlock Explore Nether
 ---
 
----
-
-['Traverse all Nether biomes!']
+Traverse all Nether biomes!
 ---
 
             

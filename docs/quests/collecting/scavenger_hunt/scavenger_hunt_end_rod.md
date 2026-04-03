@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: End Rod
 
-None
+
+# Task:
+
+- Acquire End Rod
 ---
 
----
 
-['']
 ---
 
             

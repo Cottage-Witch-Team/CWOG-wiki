@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Hay Bale
 
-None
+
+# Task:
+
+- Acquire Hay Block
 ---
 
----
 
-['']
 ---
 
             

@@ -1,11 +1,13 @@
+
 # Thief Hood
 
-None
+
+# Task:
+
+- Acquire Thief Hood
 ---
 
----
-
-['Increases your ability to *remain undetected*. Level it up by ==killing mobs==.']
+Increases your ability to *remain undetected*. Level it up by ==killing mobs==.
 ---
 
             

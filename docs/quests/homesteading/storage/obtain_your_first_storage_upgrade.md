@@ -1,13 +1,20 @@
+
 # Obtain your first Storage Upgrade
 
 > We must have more storage!
 
 ---
 
+# Task:
+
+- Acquire Copper Upgrade
 ---
 
-['This **Storage Upgrade** will *increase the amount of
-items* your Drawers can hold.', '', 'There are multiple tiers of upgrades, which can be used together or mix-and-matched.', '', 'Each drawer can accept 7 different upgrades.']
+This **Storage Upgrade** will *increase the amount of items* your Drawers can hold.
+
+There are multiple tiers of upgrades, which can be used together or mix-and-matched.
+
+Each drawer can accept 7 different upgrades.
 ---
 
             

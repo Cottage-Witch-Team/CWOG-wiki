@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Pufferfish
 
-None
+
+# Task:
+
+- Acquire Pufferfish
 ---
 
----
 
-['']
 ---
 
             

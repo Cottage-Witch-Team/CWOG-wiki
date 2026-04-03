@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Magma Cream
 
-None
+
+# Task:
+
+- Acquire Magma Cream
 ---
 
----
 
-['']
 ---
 
             

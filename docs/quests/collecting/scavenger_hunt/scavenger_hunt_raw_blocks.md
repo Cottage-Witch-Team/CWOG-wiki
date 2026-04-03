@@ -1,11 +1,16 @@
+
 # Scavenger Hunt: Raw Blocks
 
-None
----
+
+# Task:
+## Acquire :
+- Raw Iron Block
+- Raw Copper Block
+- Raw Gold Block
 
 ---
 
-['']
+
 ---
 
             

@@ -1,11 +1,13 @@
+
 # Kill: Pillager
 
-None
+
+# Task:
+
+- Kill Pillager (100)
 ---
 
----
 
-['']
 ---
 
             

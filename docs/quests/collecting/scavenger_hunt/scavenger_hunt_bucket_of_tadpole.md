@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Bucket of Tadpole
 
-None
+
+# Task:
+
+- Acquire Tadpole Bucket
 ---
 
----
 
-['']
 ---
 
             

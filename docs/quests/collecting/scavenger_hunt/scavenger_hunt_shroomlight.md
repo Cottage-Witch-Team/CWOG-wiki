@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Shroomlight
 
-None
+
+# Task:
+
+- Acquire Shroomlight
 ---
 
----
 
-['']
 ---
 
             

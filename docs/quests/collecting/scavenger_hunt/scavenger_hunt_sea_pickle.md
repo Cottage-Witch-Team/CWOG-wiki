@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Sea Pickle
 
-None
+
+# Task:
+
+- Acquire Sea Pickle
 ---
 
----
 
-['']
 ---
 
             

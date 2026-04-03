@@ -1,11 +1,13 @@
+
 # Scavenger Hunt: Dead Bush
 
-None
+
+# Task:
+
+- Acquire Dead Bush
 ---
 
----
 
-['']
 ---
 
             

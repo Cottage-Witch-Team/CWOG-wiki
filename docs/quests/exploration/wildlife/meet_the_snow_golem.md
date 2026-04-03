@@ -1,11 +1,13 @@
+
 # Meet the Snow Golem
 
-None
+
+# Task:
+
+- Meet Snow Golem
 ---
 
----
-
-["He's just a good boi. Don't let him stay out in the sun too long."]
+He's just a good boi. Don't let him stay out in the sun too long.
 ---
 
             

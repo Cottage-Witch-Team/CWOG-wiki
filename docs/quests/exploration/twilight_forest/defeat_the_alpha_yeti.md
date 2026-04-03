@@ -1,11 +1,13 @@
+
 # Defeat the Alpha Yeti
 
-None
+
+# Task:
+
+- Kill Alpha Yeti
 ---
 
----
 
-['']
 ---
 
             

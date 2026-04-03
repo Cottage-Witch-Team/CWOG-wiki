@@ -1,11 +1,13 @@
+
 # Kill: Zombie
 
-None
+
+# Task:
+
+- Kill Zombie (100)
 ---
 
----
 
-['']
 ---
 
             
