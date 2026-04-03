@@ -1,4 +1,4 @@
-name: Run Script Using External Repo
+name: Build Wiki
 
 on:
   workflow_dispatch:
