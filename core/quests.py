@@ -117,15 +117,15 @@ class Quests(WikiBuildTask):
 
         print(tasks, task_string, task)
 
-        subtitle = f"\n> {subtitle.capitalize()}\n\n---" if subtitle is not None else ""
+        subtitle = f"\n> {subtitle.capitalize()}\n\n---\n\n" if subtitle is not None else ""
 
-        task = f"\n{task}\n---\n" if task is not None else ""
+        task = f"\n{task}\n---\n\n" if task is not None else ""
 
         if description is not None:
             if isinstance(description, str):
                 description = [description]
             print(description)
-            quest_description = self.__convert_description_to_string(description) + "\n---\n"
+            quest_description = self.__convert_description_to_string(description) + "\n\n---\n\n"
             print(quest_description)
         else:
             quest_description = ""
