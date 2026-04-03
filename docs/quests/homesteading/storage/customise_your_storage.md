@@ -20,9 +20,9 @@ Select the *Sword icon* to choose a slot whose *item will be displayed* on the f
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Customise Your Storage
+	- **Customise Your Storage**
 ---
 
 

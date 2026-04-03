@@ -9,9 +9,9 @@ In the ^^center of the temple^^, there are some blocks which, when broken, allow
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find Ancient Temple
+	- Find **Ancient Temple**
 ---
 
 

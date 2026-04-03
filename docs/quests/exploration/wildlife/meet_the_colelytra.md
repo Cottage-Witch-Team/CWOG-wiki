@@ -23,9 +23,9 @@ List of All Biomes:
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Colelytra
+	- Meet **Colelytra**
 ---
 
 

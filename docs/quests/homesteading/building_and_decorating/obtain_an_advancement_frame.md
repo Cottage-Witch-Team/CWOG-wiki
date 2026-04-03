@@ -12,9 +12,9 @@ The **Advancement Frame** is an item which can be used to show off your achievem
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Advancement Frame
+	- Acquire **Advancement Frame**
 ---
 
 

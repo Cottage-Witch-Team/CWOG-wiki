@@ -12,10 +12,10 @@ Craft yourself some **Rope Ladders** and **Wooden Rails** to carefully traverse 
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Rope Ladder
-	- Wooden Rail
+!!! tip
+	### Acquire :
+	- **Rope Ladder**
+	- **Wooden Rail**
 
 ---
 

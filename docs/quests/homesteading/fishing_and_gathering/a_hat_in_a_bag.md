@@ -21,9 +21,9 @@ Some hats may allow further customizations, such as *dyeing* or *variant-cycling
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Hatbags
+	- Acquire **Any Hatbags**
 ---
 
 

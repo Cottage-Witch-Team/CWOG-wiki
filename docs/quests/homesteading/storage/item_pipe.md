@@ -20,9 +20,9 @@ Once in *Extract Mode*, you can ==right click on the pipe== to access its menu.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Item Pipe
+	- Acquire **Item Pipe**
 ---
 
 

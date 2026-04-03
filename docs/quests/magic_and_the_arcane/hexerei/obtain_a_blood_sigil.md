@@ -9,9 +9,9 @@ Once it is installed, make sure there is no liquid in your Cauldron, and then *j
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Blood Sigil
+	- Acquire **Blood Sigil**
 ---
 
 

@@ -7,9 +7,9 @@ As you could probably guess, **Speed Modifiers** allow **Emitters** and **Receiv
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Speed Modifier Tier 1
+	- Acquire **Speed Modifier Tier 1**
 ---
 
 

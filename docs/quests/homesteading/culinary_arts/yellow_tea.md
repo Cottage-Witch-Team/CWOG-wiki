@@ -12,9 +12,9 @@ Yellow tea, known to most as Oolong, is an earthier flavored tea with the *abili
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Yellow Tea
+	- Acquire **Yellow Tea**
 ---
 
 

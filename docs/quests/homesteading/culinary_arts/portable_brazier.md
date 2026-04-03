@@ -9,9 +9,9 @@ The **Brazier** can be done while traveling, but it will require a **Bowl of Wat
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Portable Brazier
+	- Acquire **Portable Brazier**
 ---
 
 

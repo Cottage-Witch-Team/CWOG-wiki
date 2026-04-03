@@ -12,9 +12,9 @@ The **Forest Raven** is a creature that can often be found near *Obsidian Obelis
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Raven
+	- Meet **Raven**
 ---
 
 

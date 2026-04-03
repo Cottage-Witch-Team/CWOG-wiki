@@ -14,10 +14,10 @@ The **Exchanging Gadget** is a tool which will *replace blocks in the world with
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Gadget Building
-	- Gadget Exchanging
+!!! tip
+	### Acquire :
+	- **Gadget Building**
+	- **Gadget Exchanging**
 
 ---
 

@@ -13,9 +13,9 @@ This tool mines Labyrinth blocks faster, and with less durability loss, than any
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mazebreaker Pickaxe
+	- Acquire **Mazebreaker Pickaxe**
 ---
 
 

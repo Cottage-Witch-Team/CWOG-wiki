@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Collar Tag
+	- Acquire **Collar Tag**
 ---
 
 

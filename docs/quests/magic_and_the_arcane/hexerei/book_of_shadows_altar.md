@@ -12,9 +12,9 @@ You'll need an **Altar** to place your **Book of Shadows** on. In order to craft
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Book Of Shadows Altar
+	- Acquire **Book Of Shadows Altar**
 ---
 
 

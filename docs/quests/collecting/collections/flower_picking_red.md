@@ -12,21 +12,21 @@ Collect one each of every flower in the game to earn rewards!
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Thorn Rose
-	- Amaranth
-	- Foxglove
-	- Lazarus Bellflower
-	- Poppy
-	- Richea
-	- Red Tulip
-	- Begonia
-	- Rose Bush
-	- Kovan Flower
-	- Rose
-	- Red Lotus Flower
-	- Red Hibiscus
+!!! tip
+	### Acquire :
+	- **Thorn Rose**
+	- **Amaranth**
+	- **Foxglove**
+	- **Lazarus Bellflower**
+	- **Poppy**
+	- **Richea**
+	- **Red Tulip**
+	- **Begonia**
+	- **Rose Bush**
+	- **Kovan Flower**
+	- **Rose**
+	- **Red Lotus Flower**
+	- **Red Hibiscus**
 
 ---
 

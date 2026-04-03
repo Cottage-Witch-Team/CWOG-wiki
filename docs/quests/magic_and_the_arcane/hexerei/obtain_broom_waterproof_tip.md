@@ -12,9 +12,9 @@ Normally, when you enter water while flying, your Broom will dismount you. Howev
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Broom Waterproof Tip
+	- Acquire **Broom Waterproof Tip**
 ---
 
 

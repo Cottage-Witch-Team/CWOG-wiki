@@ -7,9 +7,9 @@ The first time you trade with a villager, their *profession and possible trades 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Trade
+	- **Trade**
 ---
 
 

@@ -12,9 +12,9 @@ Is there much overlap between Ninjas and Witches? I'm not sure, but this armor i
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Stats Climb One Cms 90000 times
+	- Stats: **Climb One Cm = 90000**
 ---
 
 

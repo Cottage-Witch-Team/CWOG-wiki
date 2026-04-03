@@ -24,9 +24,9 @@ List of All Biomes:
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Firebird
+	- Meet **Firebird**
 ---
 
 

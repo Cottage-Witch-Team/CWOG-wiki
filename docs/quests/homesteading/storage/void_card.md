@@ -7,9 +7,9 @@ A very important upgrade - this tablet, when configured, will *void overflow ite
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Void Card
+	- Acquire **Void Card**
 ---
 
 

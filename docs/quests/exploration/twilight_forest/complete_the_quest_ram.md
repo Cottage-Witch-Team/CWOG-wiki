@@ -8,9 +8,9 @@ Maybe give it some *more wool*. Specifically, ==one of each color of wool==.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Quest Ram
+	- **Quest Ram**
 ---
 
 

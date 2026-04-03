@@ -16,9 +16,9 @@ You can make multiple variations, holding from 1-4 items, and in many different 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Drawer
+	- Acquire **Any Drawer**
 ---
 
 

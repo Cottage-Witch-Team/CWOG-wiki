@@ -14,9 +14,9 @@ It likes to prey on **Giant Squid**, and will sometimes drop one of its teeth du
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Cachalot Whale
+	- Meet **Cachalot Whale**
 ---
 
 

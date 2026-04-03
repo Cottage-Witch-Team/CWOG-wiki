@@ -16,9 +16,9 @@ To which I reply, "*They do if they've eaten recently*." Obtain these items from
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sculk Bone
+	- Acquire **Sculk Bone**
 ---
 
 

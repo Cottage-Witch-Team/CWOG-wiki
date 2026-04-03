@@ -21,10 +21,10 @@ Be aware that this ^^works best when your broom is in sight^^. It will try to fl
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Broom Whistle
-	- Any Brooms
+!!! tip
+	### Acquire :
+	- **Broom Whistle**
+	- **Any Brooms**
 
 ---
 

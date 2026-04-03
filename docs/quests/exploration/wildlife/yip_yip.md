@@ -12,9 +12,9 @@ Craft a **Summoning Staff** to bind to your mount (==right click them with the s
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Summoning Staff
+	- Acquire **Summoning Staff**
 ---
 
 

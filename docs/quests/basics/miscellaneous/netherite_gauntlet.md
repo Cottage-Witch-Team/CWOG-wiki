@@ -7,9 +7,9 @@ The **Netherite Gauntlet** is slightly more powerful than its sword counterpart,
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Netherite Gauntlet
+	- Acquire **Netherite Gauntlet**
 ---
 
 

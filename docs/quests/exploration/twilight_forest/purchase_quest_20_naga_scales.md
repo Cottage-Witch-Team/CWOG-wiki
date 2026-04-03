@@ -12,9 +12,9 @@ Defeat **Naga** in the ^^Twilight Forest^^ to obtain their scales. Then, relinqu
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Naga Scale (20)
+	- Acquire **Naga Scale (20)**
 ---
 
 

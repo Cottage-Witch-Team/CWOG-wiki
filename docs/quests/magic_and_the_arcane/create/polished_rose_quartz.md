@@ -7,10 +7,10 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Polished Rose Quartz
-	- Rose Quartz
+!!! tip
+	### Acquire :
+	- **Polished Rose Quartz**
+	- **Rose Quartz**
 
 ---
 

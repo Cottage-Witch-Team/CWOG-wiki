@@ -14,9 +14,9 @@ It can be disabled with a Redstone signal, or by placing a block directly below 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Chute
+	- Acquire **Chute**
 ---
 
 

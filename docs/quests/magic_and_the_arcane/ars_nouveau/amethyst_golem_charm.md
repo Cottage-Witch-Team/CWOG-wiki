@@ -11,9 +11,9 @@ The **Amethyst Golem** can be summoned by using the ==Ritual of Awakening== on s
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Amethyst Golem Charm
+	- Acquire **Amethyst Golem Charm**
 ---
 
 

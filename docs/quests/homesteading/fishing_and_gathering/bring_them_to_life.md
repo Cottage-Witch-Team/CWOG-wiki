@@ -16,9 +16,9 @@ If you'd like something with a bit more pizazz, you can ==strike a dead fish wit
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Aquafish
+	- Acquire **Any Aquafish**
 ---
 
 

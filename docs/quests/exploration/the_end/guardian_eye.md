@@ -7,9 +7,9 @@ You can perhaps guess where the **Guardian Eye** can be located. Beneath the sur
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Guardian Eye
+	- Acquire **Guardian Eye**
 ---
 
 

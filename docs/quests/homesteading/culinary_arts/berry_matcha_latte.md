@@ -13,9 +13,9 @@ Well, if it is, then I don't wanna be right.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Berry Matcha Latte
+	- Acquire **Berry Matcha Latte**
 ---
 
 

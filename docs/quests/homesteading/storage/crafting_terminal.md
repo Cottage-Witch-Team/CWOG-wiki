@@ -11,11 +11,11 @@ That's it- that's literally *all you need to know* for a basic setup. Everything
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Crafting Terminal
-	- Terminal
-	- Fluix Covered Cable
+!!! tip
+	### Acquire :
+	- **Crafting Terminal**
+	- **Terminal**
+	- **Fluix Covered Cable**
 
 ---
 

@@ -12,9 +12,9 @@ Make some purulent tea. It may give you weakness, but it also extends a random e
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Purulent Tea
+	- Acquire **Purulent Tea**
 ---
 
 

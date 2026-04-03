@@ -7,12 +7,12 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Cookie
-	- Sweet Berry Cookie
-	- Honey Cookie
-	- Green Tea Cookie
+!!! tip
+	### Acquire :
+	- **Cookie**
+	- **Sweet Berry Cookie**
+	- **Honey Cookie**
+	- **Green Tea Cookie**
 
 ---
 

@@ -16,9 +16,9 @@ Best of all, if you obtain enough Tomes, you can ==combine them for a more power
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Heal Spell Book 1
+	- Acquire **Heal Spell Book 1**
 ---
 
 

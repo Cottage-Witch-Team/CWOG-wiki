@@ -12,9 +12,9 @@ This unique End-enchanted item will only *fall when provided with a Redstone sig
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Gravisand (5)
+	- Acquire **Gravisand (5)**
 ---
 
 

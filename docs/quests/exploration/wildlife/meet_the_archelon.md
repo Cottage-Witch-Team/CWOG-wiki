@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Archelon
+	- Meet **Archelon**
 ---
 
 

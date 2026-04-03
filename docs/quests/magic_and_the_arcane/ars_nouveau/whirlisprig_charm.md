@@ -11,9 +11,9 @@ The **Whirlisprig**, when bound to its flower, will &aduplicate nearby **organic
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Whirlisprig Charm
+	- Acquire **Whirlisprig Charm**
 ---
 
 

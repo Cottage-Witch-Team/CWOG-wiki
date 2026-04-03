@@ -23,9 +23,9 @@ If you're playing with others, you can use Crates from the ***Apple Crates*** mo
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Apple Crates
+	- Acquire **Any Apple Crates**
 ---
 
 

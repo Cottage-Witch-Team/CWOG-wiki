@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Dead Bush
+	- Acquire **Dead Bush**
 ---
 
 

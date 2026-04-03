@@ -16,9 +16,9 @@ Why use a rod when you can just dive in to hit 'em with your sword? Well, some f
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Fishing Rods
+	- Acquire **Any Fishing Rods**
 ---
 
 

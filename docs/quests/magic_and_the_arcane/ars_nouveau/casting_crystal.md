@@ -9,9 +9,9 @@ You can *wear up to three* of these, and by default they are accessible with ==C
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Casting Crystal
+	- Acquire **Casting Crystal**
 ---
 
 

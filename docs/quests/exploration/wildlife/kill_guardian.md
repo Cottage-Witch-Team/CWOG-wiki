@@ -7,9 +7,9 @@ This quest is repeatable.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Guardian (30)
+	- Kill **Guardian (30)**
 ---
 
 
@@ -22,9 +22,9 @@ This quest is repeatable.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Guardian (10)
+	- Kill **Guardian (10)**
 ---
 
 

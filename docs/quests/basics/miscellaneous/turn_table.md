@@ -14,9 +14,9 @@ When placed sideways, it can turn an **Hourglass** to reset it.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Turn Table
+	- Acquire **Turn Table**
 ---
 
 

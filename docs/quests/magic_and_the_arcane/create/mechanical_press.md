@@ -7,9 +7,9 @@ Congratulation on operating your first machine! Hopefully if you were feeling in
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Mechanical Press
+	- **Mechanical Press**
 ---
 
 

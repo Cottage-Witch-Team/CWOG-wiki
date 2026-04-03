@@ -9,9 +9,9 @@ It will defend its owner if told to follow - and can be given a **Flower Pot** t
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Flutter
+	- Meet **Flutter**
 ---
 
 

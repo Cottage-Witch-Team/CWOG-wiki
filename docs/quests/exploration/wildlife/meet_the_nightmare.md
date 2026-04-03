@@ -21,9 +21,9 @@ List of All Biomes:
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Nightmare
+	- Meet **Nightmare**
 ---
 
 

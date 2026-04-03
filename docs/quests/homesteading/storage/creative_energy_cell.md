@@ -14,9 +14,9 @@ Every other block in your storage system will ==have to be connected to this blo
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Creative Energy Cell
+	- Acquire **Creative Energy Cell**
 ---
 
 

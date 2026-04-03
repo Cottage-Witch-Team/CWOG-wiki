@@ -7,9 +7,9 @@ Increases *Reach Distance*. Level up by ==placing blocks==!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Architect Belt
+	- Acquire **Architect Belt**
 ---
 
 

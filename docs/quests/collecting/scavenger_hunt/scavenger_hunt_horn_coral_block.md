@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Horn Coral Block
+	- Acquire **Horn Coral Block**
 ---
 
 

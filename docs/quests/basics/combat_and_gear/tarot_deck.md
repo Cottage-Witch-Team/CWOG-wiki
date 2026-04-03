@@ -14,9 +14,9 @@ Although it is difficult to make, the **Tarot Deck** will allow you to hold *all
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Tarot Deck
+	- Acquire **Tarot Deck**
 ---
 
 

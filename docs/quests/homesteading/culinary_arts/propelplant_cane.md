@@ -14,9 +14,9 @@ The **Cane** can also be &aplanted on **Rich Soul Soil**.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Propelplant Cane
+	- Acquire **Propelplant Cane**
 ---
 
 

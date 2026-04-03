@@ -14,9 +14,9 @@ They can be placed in water to *harden into an obsidian variant*, and can be *he
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Laviathan
+	- Meet **Laviathan**
 ---
 
 

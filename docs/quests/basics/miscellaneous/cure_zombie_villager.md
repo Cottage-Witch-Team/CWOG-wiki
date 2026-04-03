@@ -14,9 +14,9 @@ Should you find a **Zombie Villager**, ==hit them with a Splash Potion of Weakne
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Cure Zombie Villager
+	- **Cure Zombie Villager**
 ---
 
 

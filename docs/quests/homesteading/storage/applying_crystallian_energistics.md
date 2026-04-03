@@ -16,9 +16,9 @@ Oh, and take this **squirrel** - &oit's a secret tool that will help us later!&r
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Ready To Begin
+	- **Ready To Begin**
 ---
 
 

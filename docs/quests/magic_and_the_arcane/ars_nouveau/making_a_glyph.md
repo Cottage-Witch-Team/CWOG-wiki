@@ -18,10 +18,10 @@ Once it's done, pull it from the Chamber and ==throw both items== onto your Scri
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Glyph Harvest
-	- Earth Essence
+!!! tip
+	### Acquire :
+	- **Glyph Harvest**
+	- **Earth Essence**
 
 ---
 

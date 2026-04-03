@@ -7,9 +7,9 @@ The journals from which I discovered these dungeons had this to say: "Once you d
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find End Ruins
+	- Find **End Ruins**
 ---
 
 

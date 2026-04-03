@@ -7,9 +7,9 @@ Locate the *Apothecary's Abode*, a large structure filled with bizarre machines 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Apothecary Abode
+	- **Apothecary Abode**
 ---
 
 

@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Creeper (100)
+	- Kill **Creeper (100)**
 ---
 
 
@@ -22,9 +22,9 @@ If you can manage to slay 500 **Creepers**, then you shall have earned this **Cr
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Creeper (500)
+	- Kill **Creeper (500)**
 ---
 
 

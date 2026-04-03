@@ -16,9 +16,9 @@ Your *experience*, however, drops near your grave, so make sure to collect it!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Grave Finder
+	- Acquire **Grave Finder**
 ---
 
 

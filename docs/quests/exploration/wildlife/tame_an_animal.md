@@ -16,9 +16,9 @@ The following quests will explore some other options for empowering your buddy.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Tame An Animal
+	- **Tame An Animal**
 ---
 
 

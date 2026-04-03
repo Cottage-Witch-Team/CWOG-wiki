@@ -9,11 +9,11 @@ The **Emitter** must be &6placed on top of the **Sculk Barrel** in order to func
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Sculk Emitter
-	- Sculk Receiver
-	- Sculk Barrel
+!!! tip
+	### Acquire :
+	- **Sculk Emitter**
+	- **Sculk Receiver**
+	- **Sculk Barrel**
 
 ---
 

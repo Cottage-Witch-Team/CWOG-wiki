@@ -12,9 +12,9 @@ Additionally, some mobs which have been ^^removed for phobia reasons^^ can be fo
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Gate Pearl
+	- Acquire **Gate Pearl**
 ---
 
 

@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Clay Ball
+	- Acquire **Clay Ball**
 ---
 
 

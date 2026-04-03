@@ -18,9 +18,9 @@ Your settings will be saved for each upgrade *even if you remove it.*
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Sophb Quick
+	- Acquire **Any Sophb Quick**
 ---
 
 

@@ -7,9 +7,9 @@ The **Inverter Tablet** changes Nexus filters from a whitelist to a blacklist.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Inverter Card
+	- Acquire **Inverter Card**
 ---
 
 

@@ -13,9 +13,9 @@ Looking for something to spend some time on? Why not *a Scavenger Hunt?*. Obtain
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Begin the Hunt
+	- **Begin the Hunt**
 ---
 
 

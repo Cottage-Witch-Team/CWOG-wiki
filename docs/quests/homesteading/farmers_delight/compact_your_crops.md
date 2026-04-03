@@ -12,23 +12,23 @@ Crops can be easily compacted into Bags or Crates in order to *save on storage s
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Rice Bag
-	- Onion Crate
-	- Tomato Crate
-	- Cabbage Crate
-	- Beetroot Crate
-	- Potato Crate
-	- Carrot Crate
-	- Item Carton Of Eggs
-	- Lime Crate
-	- Pomegranate Crate
-	- Avocado Crate
-	- Cucumber Crate
-	- Pickle Crate
-	- Corn Cob Crate
-	- Eggplant Crate
+!!! tip
+	### Acquire :
+	- **Rice Bag**
+	- **Onion Crate**
+	- **Tomato Crate**
+	- **Cabbage Crate**
+	- **Beetroot Crate**
+	- **Potato Crate**
+	- **Carrot Crate**
+	- **Item Carton Of Eggs**
+	- **Lime Crate**
+	- **Pomegranate Crate**
+	- **Avocado Crate**
+	- **Cucumber Crate**
+	- **Pickle Crate**
+	- **Corn Cob Crate**
+	- **Eggplant Crate**
 
 ---
 

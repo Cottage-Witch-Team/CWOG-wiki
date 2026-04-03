@@ -8,9 +8,9 @@ The **Transmitters** can also be configured to *accept or deny* certain items pl
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sculk Transmitter
+	- Acquire **Sculk Transmitter**
 ---
 
 

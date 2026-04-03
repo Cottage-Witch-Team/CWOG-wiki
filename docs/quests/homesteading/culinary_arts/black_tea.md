@@ -14,9 +14,9 @@ Oh, it's also the most *Caffeinated*, and will grant you that effect.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Black Tea
+	- Acquire **Black Tea**
 ---
 
 

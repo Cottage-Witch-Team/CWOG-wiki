@@ -14,9 +14,9 @@ it's just like an **Ender Chest**- with feet!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Ender Luggage
+	- Acquire **Ender Luggage**
 ---
 
 

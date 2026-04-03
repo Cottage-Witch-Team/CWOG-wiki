@@ -9,9 +9,9 @@ Once you have these ingredients, you can convert your **Elytra** to a **Soul Ely
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Soul Elytra
+	- Acquire **Soul Elytra**
 ---
 
 

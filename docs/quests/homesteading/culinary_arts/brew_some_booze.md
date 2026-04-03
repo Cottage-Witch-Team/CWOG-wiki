@@ -13,10 +13,10 @@ Time to put that Keg to use! **Mead** grants the effect ^^Sweetheart^^, which in
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Mead
-	- Rice Wine
+!!! tip
+	### Acquire :
+	- **Mead**
+	- **Rice Wine**
 
 ---
 

@@ -12,17 +12,17 @@ You can find **Eggplant** in *Jungles*, **Cucumber** in *Swamps*, **Corn** in *P
 
 
 
-!!! tip "Task:"
-	## Break :
-	- Wild Cabbages
-	- Wild Potatoes
-	- Wild Carrots
-	- Wild Rice
-	- Wild Onions
-	- Wild Cucumbers
-	- Wild Corn
-	- Wild Eggplants
-	- Wild Tomatoes
+!!! tip
+	### Break :
+	- **Wild Cabbages**
+	- **Wild Potatoes**
+	- **Wild Carrots**
+	- **Wild Rice**
+	- **Wild Onions**
+	- **Wild Cucumbers**
+	- **Wild Corn**
+	- **Wild Eggplants**
+	- **Wild Tomatoes**
 
 ---
 

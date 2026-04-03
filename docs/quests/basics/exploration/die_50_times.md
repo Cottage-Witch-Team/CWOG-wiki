@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Stats Deathss 50 times
+	- Stats: **Deaths = 50**
 ---
 
 

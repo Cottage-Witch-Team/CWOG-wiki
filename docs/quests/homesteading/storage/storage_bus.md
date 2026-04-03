@@ -37,9 +37,9 @@ The number here can be ==adjusted using the buttons==, or by ==typing a value== 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Storage Bus
+	- Acquire **Storage Bus**
 ---
 
 

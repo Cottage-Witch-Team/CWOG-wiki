@@ -7,9 +7,9 @@ Find an **Iceologer** during a raid or in his secluded home. And then murder him
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Kill Iceologer
+	- **Kill Iceologer**
 ---
 
 

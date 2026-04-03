@@ -14,12 +14,12 @@ Then, you can *obtain dishes* from the remainder of the meal by ==clicking on th
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Hoglin Ear
-	- Plate Of Stuffed Hoglin Snout
-	- Plate Of Stuffed Hoglin Roast
-	- Plate Of Stuffed Hoglin Ham
+!!! tip
+	### Acquire :
+	- **Hoglin Ear**
+	- **Plate Of Stuffed Hoglin Snout**
+	- **Plate Of Stuffed Hoglin Roast**
+	- **Plate Of Stuffed Hoglin Ham**
 
 ---
 

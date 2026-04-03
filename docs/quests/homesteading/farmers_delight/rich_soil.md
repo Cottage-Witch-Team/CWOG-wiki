@@ -11,10 +11,10 @@ You'll also want it if you're planning on growing any **Mushroom Colonies**.
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Rich Soil
-	- Organic Compost
+!!! tip
+	### Acquire :
+	- **Rich Soil**
+	- **Organic Compost**
 
 ---
 

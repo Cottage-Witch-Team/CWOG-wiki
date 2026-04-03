@@ -13,9 +13,9 @@ It can be enchanted with Unbreaking or Mending.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Ore Magnet
+	- Acquire **Ore Magnet**
 ---
 
 

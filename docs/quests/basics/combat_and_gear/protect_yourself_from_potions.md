@@ -7,9 +7,9 @@ Ever wished you could *shield yourself from thrown Potions*? Well, you can. Just
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Umbrellas
+	- Acquire **Any Umbrellas**
 ---
 
 

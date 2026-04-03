@@ -13,9 +13,9 @@ They can be lured and bred with **Chorus Fruit**.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Chorus On A Stick
+	- Acquire **Chorus On A Stick**
 ---
 
 

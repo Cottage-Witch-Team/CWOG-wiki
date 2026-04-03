@@ -27,9 +27,9 @@ However, they can also be enchanted with *Executioner*, which ^^currently has no
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Scythe
+	- Acquire **Any Scythe**
 ---
 
 

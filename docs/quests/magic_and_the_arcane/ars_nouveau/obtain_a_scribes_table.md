@@ -18,9 +18,9 @@ You may need *some unique items called Essences*. These are crafted on the **Imb
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Scribes Table
+	- Acquire **Scribes Table**
 ---
 
 

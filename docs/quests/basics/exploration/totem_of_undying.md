@@ -7,9 +7,9 @@ Congratulations on cheating death! Sorry about your totem, though.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Totem Of Undying
+	- **Totem Of Undying**
 ---
 
 

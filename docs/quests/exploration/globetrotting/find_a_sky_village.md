@@ -8,9 +8,9 @@ If one were to have a **flying Broomstick**, one could easily reach such a place
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find Skyvillage
+	- Find **Skyvillage**
 ---
 
 

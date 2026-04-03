@@ -13,9 +13,9 @@ You can optionally bind your flute to a specific pet by ==shift right clicking==
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Flute
+	- Acquire **Flute**
 ---
 
 

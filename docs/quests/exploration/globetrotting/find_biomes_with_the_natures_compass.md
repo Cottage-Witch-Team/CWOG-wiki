@@ -8,9 +8,9 @@ Simply ==right click while holding it== in order to search for the biome you wan
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Naturescompass
+	- Acquire **Naturescompass**
 ---
 
 

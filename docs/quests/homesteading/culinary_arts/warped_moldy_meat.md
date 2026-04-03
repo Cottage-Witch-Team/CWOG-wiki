@@ -12,9 +12,9 @@ This moldy meat is frankly pretty gross. But if you want to complete all your qu
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Warped Moldy Meat
+	- Acquire **Warped Moldy Meat**
 ---
 
 

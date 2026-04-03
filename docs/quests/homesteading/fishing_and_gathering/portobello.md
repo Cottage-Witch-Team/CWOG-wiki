@@ -12,9 +12,9 @@ Cooking with Portobello mushrooms can be powerful magic if you are in need of em
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Portobello
+	- Acquire **Portobello**
 ---
 
 

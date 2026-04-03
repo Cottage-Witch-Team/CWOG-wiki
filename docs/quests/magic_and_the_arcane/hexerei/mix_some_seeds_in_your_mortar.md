@@ -12,9 +12,9 @@ Create some **Mixed Seeds** in order to tame **Wild Crows**. Once you tame a Cro
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Seed Mixture
+	- Acquire **Seed Mixture**
 ---
 
 

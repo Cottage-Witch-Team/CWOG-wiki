@@ -7,10 +7,10 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Honeycomb
-	- Honey Bottle
+!!! tip
+	### Acquire :
+	- **Honeycomb**
+	- **Honey Bottle**
 
 ---
 

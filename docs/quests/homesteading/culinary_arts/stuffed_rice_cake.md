@@ -7,9 +7,9 @@ Not a fan of red bean paste? Why not try **Chorus Fruit** in your **Rice Cakes**
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Stuffed Rice Cake
+	- Acquire **Stuffed Rice Cake**
 ---
 
 

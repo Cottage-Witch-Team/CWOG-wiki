@@ -7,9 +7,9 @@ The journals from which I discovered these dungeons had this to say: "This *anci
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find Leviathan
+	- Find **Leviathan**
 ---
 
 

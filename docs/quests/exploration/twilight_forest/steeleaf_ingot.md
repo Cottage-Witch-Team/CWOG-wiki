@@ -13,9 +13,9 @@ Additionally, blocks of Steeleaf will reduce fall damage by 25% when landed on.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Steeleaf Ingot
+	- Acquire **Steeleaf Ingot**
 ---
 
 

@@ -12,9 +12,9 @@ Lucky you, you found a **Message in a Bottle**! What does it say?
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Message In A Bottle
+	- Acquire **Message In A Bottle**
 ---
 
 

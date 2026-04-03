@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sourcestone
+	- Acquire **Sourcestone**
 ---
 
 

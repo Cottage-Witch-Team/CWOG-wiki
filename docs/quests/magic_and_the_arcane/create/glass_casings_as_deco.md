@@ -7,9 +7,9 @@ You can enhance your Create machines by integrating **Glass Casings**, which are
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Glass Casings
+	- Acquire **Any Glass Casings**
 ---
 
 

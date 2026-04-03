@@ -8,9 +8,9 @@ The different levels of **Quantity Modifiers** will allow **Sculk Emitters** to 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Quantity Modifier Tier 1
+	- Acquire **Quantity Modifier Tier 1**
 ---
 
 

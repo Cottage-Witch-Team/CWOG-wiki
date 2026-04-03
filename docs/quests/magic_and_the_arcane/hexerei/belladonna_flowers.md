@@ -9,9 +9,9 @@ Beware, though! The *Berries are poisonous*.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Belladonna Flowers
+	- Acquire **Belladonna Flowers**
 ---
 
 

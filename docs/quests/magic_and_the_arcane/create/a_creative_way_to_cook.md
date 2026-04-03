@@ -14,9 +14,9 @@ This quest is repeatable.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Blaze Cake (1000)
+	- Acquire **Blaze Cake (1000)**
 ---
 
 

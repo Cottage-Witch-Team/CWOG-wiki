@@ -8,9 +8,9 @@ As it is, it is &acomparable to an **Iron Sword**.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Rudimentary Gauntlet
+	- Acquire **Rudimentary Gauntlet**
 ---
 
 

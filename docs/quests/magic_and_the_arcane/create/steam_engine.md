@@ -8,9 +8,9 @@ To find out how to power a **Steam Engine**, as well as how to ^^upgrade the out
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Steam Engine
+	- Acquire **Steam Engine**
 ---
 
 

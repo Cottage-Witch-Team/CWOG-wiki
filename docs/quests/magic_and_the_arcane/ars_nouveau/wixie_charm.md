@@ -16,9 +16,9 @@ When a Wixie is bound to a Cauldron, it will *automatically craft an item or pot
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Wixie Charm
+	- Acquire **Wixie Charm**
 ---
 
 

@@ -9,9 +9,9 @@ Fluix as a crystal has certain properties - a pseudo-sentience, if you will. In 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Advanced Card
+	- Acquire **Advanced Card**
 ---
 
 

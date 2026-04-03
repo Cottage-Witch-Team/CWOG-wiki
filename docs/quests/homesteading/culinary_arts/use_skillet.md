@@ -7,9 +7,9 @@ To complete this quest, you'll want to trigger the advancement by doing some rea
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Use Skillet
+	- **Use Skillet**
 ---
 
 

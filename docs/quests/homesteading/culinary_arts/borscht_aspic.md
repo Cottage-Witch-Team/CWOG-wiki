@@ -7,9 +7,9 @@ Soups will *convert to Aspic* if left to sit in a **Stew Pot** or **Dolium** for
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Borscht Aspic
+	- Acquire **Borscht Aspic**
 ---
 
 

@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Drowned (100)
+	- Kill **Drowned (100)**
 ---
 
 

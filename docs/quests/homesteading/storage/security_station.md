@@ -14,9 +14,9 @@ The **Guardian** is a spirit which inhabits the mechanical chassis known as the 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Security Station
+	- Acquire **Security Station**
 ---
 
 

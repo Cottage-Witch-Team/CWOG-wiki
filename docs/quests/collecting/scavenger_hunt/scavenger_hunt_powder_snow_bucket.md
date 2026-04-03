@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Powder Snow Bucket
+	- Acquire **Powder Snow Bucket**
 ---
 
 

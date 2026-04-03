@@ -8,9 +8,9 @@ Simply ==hold right click with it in your hand== in order to activate it. If you
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Warp Stone
+	- Acquire **Warp Stone**
 ---
 
 

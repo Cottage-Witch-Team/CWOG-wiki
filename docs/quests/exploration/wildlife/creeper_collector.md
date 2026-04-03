@@ -16,24 +16,24 @@ Note: As some creepers may be harder to find than others, you may choose to *tac
 
 
 
-!!! tip "Task:"
-	## Kill :
-	- Badlands Creeper
-	- Badlands Creeper
-	- Bamboo Creeper
-	- Beach Creeper
-	- Cave Creeper
-	- Dark Oak Creeper
-	- Desert Creeper
-	- Dripstone Creeper
-	- Hills Creeper
-	- Jungle Creeper
-	- Mushroom Creeper
-	- Savannah Creeper
-	- Snowy Creeper
-	- Spruce Creeper
-	- Swamp Creeper
-	- Creeper
+!!! tip
+	### Kill :
+	- **Badlands Creeper**
+	- **Badlands Creeper**
+	- **Bamboo Creeper**
+	- **Beach Creeper**
+	- **Cave Creeper**
+	- **Dark Oak Creeper**
+	- **Desert Creeper**
+	- **Dripstone Creeper**
+	- **Hills Creeper**
+	- **Jungle Creeper**
+	- **Mushroom Creeper**
+	- **Savannah Creeper**
+	- **Snowy Creeper**
+	- **Spruce Creeper**
+	- **Swamp Creeper**
+	- **Creeper**
 
 ---
 

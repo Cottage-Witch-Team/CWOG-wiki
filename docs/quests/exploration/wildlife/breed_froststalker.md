@@ -7,9 +7,9 @@ Earn this by successfully *breeding two Froststalkers*.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Breed Froststalker
+	- **Breed Froststalker**
 ---
 
 

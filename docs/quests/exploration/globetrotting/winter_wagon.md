@@ -12,9 +12,9 @@ Should you happen upon a very large wagon, be sure to greet its inhabitants! The
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Winter Wagon
+	- **Winter Wagon**
 ---
 
 

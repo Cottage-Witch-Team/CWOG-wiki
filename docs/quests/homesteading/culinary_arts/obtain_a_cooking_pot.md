@@ -18,9 +18,9 @@ When the **Cooking Pot** is broken, it retains its contents.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Cooking Pot
+	- Acquire **Cooking Pot**
 ---
 
 

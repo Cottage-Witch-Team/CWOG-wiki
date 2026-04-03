@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Propelpearl
+	- Acquire **Propelpearl**
 ---
 
 

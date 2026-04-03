@@ -14,9 +14,9 @@ Once you have defeated the beast, you have completed one task which will let you
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find Hydra Lair
+	- Find **Hydra Lair**
 ---
 
 

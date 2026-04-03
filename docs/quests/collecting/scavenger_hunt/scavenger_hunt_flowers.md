@@ -7,11 +7,11 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Sunflower
-	- Blue Orchid
-	- Pink Allium Flower Bush
+!!! tip
+	### Acquire :
+	- **Sunflower**
+	- **Blue Orchid**
+	- **Pink Allium Flower Bush**
 
 ---
 

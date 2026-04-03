@@ -8,9 +8,9 @@ Ya-ha-ha!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Ultimate Flower Enthusiast
+	- **Ultimate Flower Enthusiast**
 ---
 
 

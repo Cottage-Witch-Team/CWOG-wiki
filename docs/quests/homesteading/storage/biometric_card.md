@@ -15,9 +15,9 @@ To claim a **Ward Bypass**, a player should ==hold it in their hand and shift-cl
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Biometric Card
+	- Acquire **Biometric Card**
 ---
 
 

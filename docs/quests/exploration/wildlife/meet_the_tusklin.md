@@ -12,9 +12,9 @@ The **Tusklin**, found in snowy biomes, can be saddled and ridden wild, but will
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Tusklin
+	- Meet **Tusklin**
 ---
 
 

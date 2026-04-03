@@ -8,9 +8,9 @@ These gateways are broken and in need of mending. Unfortunately it seems *most a
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Nexus
+	- **Nexus**
 ---
 
 

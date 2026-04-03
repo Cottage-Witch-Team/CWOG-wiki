@@ -13,9 +13,9 @@ Iron Hook not cutting it anymore? *Upgrade your hook* to one of these!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Upgraded Hooks
+	- Acquire **Any Upgraded Hooks**
 ---
 
 

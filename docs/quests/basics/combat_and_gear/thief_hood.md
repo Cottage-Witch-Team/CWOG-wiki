@@ -7,9 +7,9 @@ Increases your ability to *remain undetected*. Level it up by ==killing mobs==.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Thief Hood
+	- Acquire **Thief Hood**
 ---
 
 

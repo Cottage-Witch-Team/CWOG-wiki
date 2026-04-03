@@ -12,17 +12,17 @@ These fish live in *Freshwater-containing biomes* such as rivers, forests, and s
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Smallmouth Bass
-	- Bluegill
-	- Brown Trout
-	- Carp
-	- Catfish
-	- Muskellunge
-	- Gar
-	- Minnow
-	- Perch
+!!! tip
+	### Acquire :
+	- **Smallmouth Bass**
+	- **Bluegill**
+	- **Brown Trout**
+	- **Carp**
+	- **Catfish**
+	- **Muskellunge**
+	- **Gar**
+	- **Minnow**
+	- **Perch**
 
 ---
 

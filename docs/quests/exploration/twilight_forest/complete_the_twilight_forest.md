@@ -7,9 +7,9 @@ Once you complete the **Final Castle**, obtained the **Lamp of Cinders**, and ev
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Progress Troll
+	- **Progress Troll**
 ---
 
 

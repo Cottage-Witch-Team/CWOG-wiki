@@ -13,9 +13,9 @@ The *Skelewag* also has an exceptionally small chance at dropping the **Novelty 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Skelewag
+	- Meet **Skelewag**
 ---
 
 

@@ -14,9 +14,9 @@ What, are you surprised coffee comes from the Nether? Why do you think it's so h
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Coffee Beans
+	- Acquire **Coffee Beans**
 ---
 
 

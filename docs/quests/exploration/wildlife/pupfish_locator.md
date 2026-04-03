@@ -12,9 +12,9 @@ This item seeks out the rarest creature in the world: the **Devil's Hole Pupfish
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Pupfish Locator
+	- Acquire **Pupfish Locator**
 ---
 
 

@@ -12,9 +12,9 @@ Wanna show off that you're made of tough stuff? Defeat 100 Wardens to win a &apr
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Warden (100)
+	- Kill **Warden (100)**
 ---
 
 

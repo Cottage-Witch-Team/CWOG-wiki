@@ -27,9 +27,9 @@ List of All Biomes:
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Acencia
+	- Meet **Acencia**
 ---
 
 

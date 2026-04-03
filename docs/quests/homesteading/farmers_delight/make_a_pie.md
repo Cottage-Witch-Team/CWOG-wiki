@@ -14,9 +14,9 @@ When eaten, they grant you a short speed boost!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Pie Crust
+	- Acquire **Pie Crust**
 ---
 
 

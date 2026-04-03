@@ -13,9 +13,9 @@ Remember that if you need to explore out over the void, you can do so on your **
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Enter The End
+	- Enter **The End**
 ---
 
 

@@ -12,9 +12,9 @@ The best witches are those who are worldly. As such, ==prove your mettle by trav
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Adventuring Time
+	- **Adventuring Time**
 ---
 
 

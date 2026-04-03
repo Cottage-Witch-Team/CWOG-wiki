@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Skeleton (100)
+	- Kill **Skeleton (100)**
 ---
 
 

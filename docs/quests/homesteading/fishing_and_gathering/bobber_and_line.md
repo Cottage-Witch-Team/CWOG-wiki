@@ -14,10 +14,10 @@ note: the **Fishing Line** and **Unbreakable Fishing Line** are unrelated items.
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Bobber
-	- Fishing Line
+!!! tip
+	### Acquire :
+	- **Bobber**
+	- **Fishing Line**
 
 ---
 

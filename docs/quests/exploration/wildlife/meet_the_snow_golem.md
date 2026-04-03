@@ -7,9 +7,9 @@ He's just a good boi. Don't let him stay out in the sun too long.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Snow Golem
+	- Meet **Snow Golem**
 ---
 
 

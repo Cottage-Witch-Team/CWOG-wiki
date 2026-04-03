@@ -12,9 +12,9 @@ The **Redstone Illuminator** is a light source which is on by default. It grows 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Redstone Illuminator
+	- Acquire **Redstone Illuminator**
 ---
 
 

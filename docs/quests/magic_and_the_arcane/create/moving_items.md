@@ -9,11 +9,11 @@ You can learn more about how they work by ==holding w to Ponder==.
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Belt Connector
-	- Chute
-	- Smart Chute
+!!! tip
+	### Acquire :
+	- **Belt Connector**
+	- **Chute**
+	- **Smart Chute**
 
 ---
 

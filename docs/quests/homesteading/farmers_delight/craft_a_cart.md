@@ -18,9 +18,9 @@ The **Animal Cart** will help you *transport entities*! ==Right click the cart i
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Carts
+	- Acquire **Any Carts**
 ---
 
 

@@ -7,9 +7,9 @@ The **Evil Eye** is a symbol of protection, staring down the foes of its owner. 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Evil Eye
+	- Acquire **Evil Eye**
 ---
 
 

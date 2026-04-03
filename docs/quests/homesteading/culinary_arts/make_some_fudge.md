@@ -12,9 +12,9 @@ In order to make **Fudge**, your **Keg** will need to be at *max heat*.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Cocoa Fudge
+	- Acquire **Cocoa Fudge**
 ---
 
 

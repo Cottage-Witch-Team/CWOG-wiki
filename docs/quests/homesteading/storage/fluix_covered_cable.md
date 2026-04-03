@@ -16,10 +16,10 @@ The **Quartz Fiber** works like the **Cable**, however it only transfers power a
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Fluix Covered Cable
-	- Quartz Fiber
+!!! tip
+	### Acquire :
+	- **Fluix Covered Cable**
+	- **Quartz Fiber**
 
 ---
 

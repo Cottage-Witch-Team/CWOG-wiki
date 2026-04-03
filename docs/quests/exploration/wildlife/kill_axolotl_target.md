@@ -8,9 +8,9 @@ They'll also sometimes *give you Regeneration*, and once they do so, you'll know
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Kill Axolotl Target
+	- **Kill Axolotl Target**
 ---
 
 

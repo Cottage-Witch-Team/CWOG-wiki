@@ -12,9 +12,9 @@ In order to obtain **Strider Slices**, you need to slay **Striders** with a **Kn
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Strider Slice
+	- Acquire **Strider Slice**
 ---
 
 

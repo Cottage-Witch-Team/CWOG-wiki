@@ -7,9 +7,9 @@ The **Stink Ray** can be used to create a disturbance among creatures. While pas
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Stink Ray
+	- Acquire **Stink Ray**
 ---
 
 

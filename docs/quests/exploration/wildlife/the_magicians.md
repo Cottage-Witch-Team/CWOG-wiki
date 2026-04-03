@@ -7,9 +7,9 @@ Kill all three **Illager Magicians**. Please.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock The Magicians
+	- **The Magicians**
 ---
 
 

@@ -13,9 +13,9 @@ Then you can surround it with **Paper** to create a Magic Map, which will prove 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Magic Map Focus
+	- Acquire **Magic Map Focus**
 ---
 
 

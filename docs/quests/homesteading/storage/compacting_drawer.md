@@ -13,10 +13,10 @@ The **Simple Compacting Drawer** does the same thing, except for items which onl
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Compacting Drawer
-	- Simple Compacting Drawer
+!!! tip
+	### Acquire :
+	- **Compacting Drawer**
+	- **Simple Compacting Drawer**
 
 ---
 

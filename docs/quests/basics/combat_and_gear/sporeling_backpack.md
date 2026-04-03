@@ -14,9 +14,9 @@ Well, you can!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sporeling Backpack
+	- Acquire **Sporeling Backpack**
 ---
 
 

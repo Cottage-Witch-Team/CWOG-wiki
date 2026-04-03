@@ -11,9 +11,9 @@ Then, take your jar and ==right click it== on the area you want to transfer the 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Empty Biome Jar
+	- Acquire **Empty Biome Jar**
 ---
 
 

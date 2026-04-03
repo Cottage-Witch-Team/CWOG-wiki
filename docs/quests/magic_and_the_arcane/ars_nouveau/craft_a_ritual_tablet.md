@@ -12,9 +12,9 @@ In order to perform a *Ritual*, you'll need a **Tablet** for the Ritual you want
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Ritual Tablets
+	- Acquire **Any Ritual Tablets**
 ---
 
 

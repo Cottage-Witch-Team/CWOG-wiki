@@ -12,12 +12,12 @@ Use your newly-acquired **Magebloom Fiber** to craft yourself a set of **Novice 
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Novice Hood
-	- Novice Robes
-	- Novice Leggings
-	- Novice Boots
+!!! tip
+	### Acquire :
+	- **Novice Hood**
+	- **Novice Robes**
+	- **Novice Leggings**
+	- **Novice Boots**
 
 ---
 

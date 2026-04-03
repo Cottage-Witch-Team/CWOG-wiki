@@ -15,9 +15,9 @@ Be sure to ==click the Pin in the upper right== to keep this sidebar open perman
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Pin the Quest Categories
+	- **Pin the Quest Categories**
 ---
 
 

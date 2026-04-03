@@ -9,9 +9,9 @@ Where **Sculk** comes from and what it does is not entirely known... but it is c
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sculk
+	- Acquire **Sculk**
 ---
 
 

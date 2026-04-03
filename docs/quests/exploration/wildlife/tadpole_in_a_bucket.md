@@ -8,9 +8,9 @@ They're also susceptible to **Buckets**, and if you should capture one in such a
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Tadpole In A Bucket
+	- **Tadpole In A Bucket**
 ---
 
 

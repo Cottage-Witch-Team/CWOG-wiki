@@ -14,9 +14,9 @@ Use a **water bucket** or 3 **water bottles** to fill the **kettle** with water 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Kettle
+	- Acquire **Kettle**
 ---
 
 

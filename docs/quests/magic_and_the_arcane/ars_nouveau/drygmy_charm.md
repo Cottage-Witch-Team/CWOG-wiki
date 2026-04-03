@@ -11,9 +11,9 @@ Multiple **Drygmy** can be assigned to a single **Henge**, and these creatures w
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Drygmy Charm
+	- Acquire **Drygmy Charm**
 ---
 
 

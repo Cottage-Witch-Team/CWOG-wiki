@@ -8,9 +8,9 @@ Beware, though. Within lie many dangers, and even a final boss!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Labyrinth
+	- **Labyrinth**
 ---
 
 

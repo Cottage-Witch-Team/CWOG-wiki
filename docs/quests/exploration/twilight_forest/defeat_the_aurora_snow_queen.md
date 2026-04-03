@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Progress Glacier
+	- **Progress Glacier**
 ---
 
 

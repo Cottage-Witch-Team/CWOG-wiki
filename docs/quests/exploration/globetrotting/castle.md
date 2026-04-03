@@ -7,9 +7,9 @@ The **Castle** is home to several friendly **Villagers**, and their ruler sits a
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Castle
+	- **Castle**
 ---
 
 

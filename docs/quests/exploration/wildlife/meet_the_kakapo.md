@@ -18,9 +18,9 @@ If you are interested in the conservation of these precious creatures, you can l
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Kakapo
+	- Meet **Kakapo**
 ---
 
 

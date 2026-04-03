@@ -8,9 +8,9 @@ You no longer need to break a villager's job block to cycle through their trades
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Cycle some Trades
+	- **Cycle some Trades**
 ---
 
 

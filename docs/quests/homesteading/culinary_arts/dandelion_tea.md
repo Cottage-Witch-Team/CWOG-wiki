@@ -12,9 +12,9 @@ Brew some delightful Dandelion Tea for a sunny afternoon picnic. It will grant y
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Dandelion Tea
+	- Acquire **Dandelion Tea**
 ---
 
 

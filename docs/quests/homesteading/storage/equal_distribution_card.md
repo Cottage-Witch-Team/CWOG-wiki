@@ -7,9 +7,9 @@ The **Equal Distribution Tablet** *splits a Glyphstone into equally sized sectio
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Equal Distribution Card
+	- Acquire **Equal Distribution Card**
 ---
 
 

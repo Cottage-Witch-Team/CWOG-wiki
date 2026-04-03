@@ -13,9 +13,9 @@ Be sure that the **Cooking Guide** is outside of your **Akashic Tome**! ^^The bo
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Cooking Guide
+	- Acquire **Cooking Guide**
 ---
 
 

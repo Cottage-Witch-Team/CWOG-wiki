@@ -11,9 +11,9 @@ Once you have ==chosen your photo with left click==, you can then ==click the ch
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Lightroom
+	- Acquire **Lightroom**
 ---
 
 

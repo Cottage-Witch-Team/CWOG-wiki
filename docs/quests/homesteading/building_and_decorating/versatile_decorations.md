@@ -11,10 +11,10 @@ And you can &aapply a **Cushion** to a **Chair** as well! Why not see what other
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Any Tables
-	- Any Chairs
+!!! tip
+	### Acquire :
+	- **Any Tables**
+	- **Any Chairs**
 
 ---
 

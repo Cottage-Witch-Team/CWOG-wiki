@@ -12,9 +12,9 @@ Swimming in **Eggs**? That sounds unpleasant. You can &atrade in a **Dragon Egg*
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Dragon Egg
+	- Acquire **Dragon Egg**
 ---
 
 

@@ -14,9 +14,9 @@ You'll also need a **bowl** in order to eat them, so here, take this one.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Stuffed Pumpkin Block
+	- Acquire **Stuffed Pumpkin Block**
 ---
 
 

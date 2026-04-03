@@ -9,9 +9,9 @@ Find a *Fortress of the Undead*, and survive!*
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Fish Bones
+	- **Fish Bones**
 ---
 
 

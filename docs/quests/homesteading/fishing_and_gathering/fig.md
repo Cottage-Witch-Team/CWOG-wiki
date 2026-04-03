@@ -12,9 +12,9 @@ Write a question on a fig leaf to receive a divinatory answer. If the leaf dries
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Fig
+	- Acquire **Fig**
 ---
 
 

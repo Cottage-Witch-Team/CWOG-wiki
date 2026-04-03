@@ -12,9 +12,9 @@ The **Enhanced Broom Brush** has increased durability. Don't forget to hang it o
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Herb Enhanced Broom Brush
+	- Acquire **Herb Enhanced Broom Brush**
 ---
 
 

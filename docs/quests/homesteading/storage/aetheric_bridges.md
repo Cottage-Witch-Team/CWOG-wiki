@@ -15,10 +15,10 @@ Alternatively, to *connect two systems together at a large distance*, ==build tw
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Quantum Ring (8)
-	- Quantum Link
+!!! tip
+	### Acquire :
+	- **Quantum Ring (8)**
+	- **Quantum Link**
 
 ---
 

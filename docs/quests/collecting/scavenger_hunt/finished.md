@@ -13,9 +13,9 @@ The check mark above unlocks ==once all Scavenger Hunt Quests are done==.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Finished!
+	- **Finished!**
 ---
 
 

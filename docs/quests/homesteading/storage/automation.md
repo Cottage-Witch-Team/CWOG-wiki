@@ -15,11 +15,11 @@ The **Vibrant Communicator** is similar, but instead of interacting with externa
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Import Bus
-	- Export Bus
-	- Io Port
+!!! tip
+	### Acquire :
+	- **Import Bus**
+	- **Export Bus**
+	- **Io Port**
 
 ---
 

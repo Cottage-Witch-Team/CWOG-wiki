@@ -12,9 +12,9 @@ As its name suggests, the **Redstone Randomizer** determines randomly whether to
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Redstone Randomizer
+	- Acquire **Redstone Randomizer**
 ---
 
 

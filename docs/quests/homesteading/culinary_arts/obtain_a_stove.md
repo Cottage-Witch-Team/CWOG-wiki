@@ -9,9 +9,9 @@ Strictly speaking, a **Stove** is not the only *heat source usable by the mod*. 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Stoves
+	- Acquire **Any Stoves**
 ---
 
 

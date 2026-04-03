@@ -13,9 +13,9 @@ First, you'll need to find yourself the *Ancient City*, often signified by the p
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Sculk
+	- Meet **Sculk**
 ---
 
 

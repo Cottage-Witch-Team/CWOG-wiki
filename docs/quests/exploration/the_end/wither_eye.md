@@ -9,9 +9,9 @@ And all you need to do is ==defeat a Wither==,
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Wither Eye
+	- Acquire **Wither Eye**
 ---
 
 

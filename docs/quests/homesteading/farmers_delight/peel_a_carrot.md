@@ -9,9 +9,9 @@ Peeled **Melons** can have their seeds removed with an **Axe**, and then juiced 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Peeled Overweight Carrot Block
+	- Acquire **Peeled Overweight Carrot Block**
 ---
 
 

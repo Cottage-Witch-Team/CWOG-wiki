@@ -22,9 +22,9 @@ List of All Biomes:
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Netherbat
+	- Meet **Netherbat**
 ---
 
 

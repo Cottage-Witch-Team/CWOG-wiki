@@ -13,9 +13,9 @@ While some **Elephants** are large and occasionally aggressive, there are varian
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Elephant
+	- Meet **Elephant**
 ---
 
 

@@ -11,9 +11,9 @@ To begin with, you'll want a **Guidebook**, and to &6harvest some **Sculk**.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Guide Book
+	- Acquire **Guide Book**
 ---
 
 

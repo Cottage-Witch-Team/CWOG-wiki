@@ -7,9 +7,9 @@ Wow, you went a long while without dying! Nice work, buddy. Keep it up!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Stats Time Since Deaths 999999 times
+	- Stats: **Time Since Death = 999999**
 ---
 
 

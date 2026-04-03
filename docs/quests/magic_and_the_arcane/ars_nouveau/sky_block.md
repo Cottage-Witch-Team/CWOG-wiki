@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sky Block
+	- Acquire **Sky Block**
 ---
 
 

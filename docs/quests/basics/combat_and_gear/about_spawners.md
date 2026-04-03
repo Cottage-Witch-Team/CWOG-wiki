@@ -14,9 +14,9 @@ By default, any **Spawners** you pick up *will be empty*. You'll need to ==right
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Spawner Key
+	- Acquire **Spawner Key**
 ---
 
 

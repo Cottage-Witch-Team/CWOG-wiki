@@ -7,9 +7,9 @@ The **Cold Eye** once belonged to an Iceologer, and can be found hidden in ^^an 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Cold Eye
+	- Acquire **Cold Eye**
 ---
 
 

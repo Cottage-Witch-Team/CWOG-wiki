@@ -7,9 +7,9 @@ Starting a *Raid* might be the easiest way of obtaining the **Magical Eye**, whi
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Magical Eye
+	- Acquire **Magical Eye**
 ---
 
 

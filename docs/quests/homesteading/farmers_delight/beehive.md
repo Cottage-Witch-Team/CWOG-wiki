@@ -10,9 +10,9 @@ Well, nevermind that. Collect one of each type of **Beehive**, and see how much 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Beehive
+	- **Beehive**
 ---
 
 

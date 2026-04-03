@@ -7,11 +7,11 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Mushroom Stew
-	- Beef Stew
-	- Strider Moss Stew
+!!! tip
+	### Acquire :
+	- **Mushroom Stew**
+	- **Beef Stew**
+	- **Strider Moss Stew**
 
 ---
 

@@ -7,9 +7,9 @@ The **Basic Pipe Upgrade** allows you to set a *Redstone Mode* for the Pipe. You
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Basic Upgrade
+	- Acquire **Basic Upgrade**
 ---
 
 

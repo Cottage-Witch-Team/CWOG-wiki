@@ -9,9 +9,9 @@ They are deceptively simple to make, so long as you have some **Consecrated Quar
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Basic Card
+	- Acquire **Basic Card**
 ---
 
 

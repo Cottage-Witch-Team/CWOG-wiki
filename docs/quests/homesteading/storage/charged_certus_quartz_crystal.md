@@ -11,9 +11,9 @@ Vanilla candles will *extinguish with use*, but Hexerei ones will not. Additiona
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Charged Certus Quartz Crystal
+	- Acquire **Charged Certus Quartz Crystal**
 ---
 
 

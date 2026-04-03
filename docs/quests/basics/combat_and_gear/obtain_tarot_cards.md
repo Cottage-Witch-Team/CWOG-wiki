@@ -13,9 +13,9 @@ Can you find the whole Arcana?
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Tarot Cards
+	- Acquire **Any Tarot Cards**
 ---
 
 

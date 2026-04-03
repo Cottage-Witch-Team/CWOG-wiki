@@ -12,9 +12,9 @@ Winning a *Raid* can be a satisfying challenge. Even better, win a bunch of raid
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Stats Raid Wins 10 times
+	- Stats: **Raid Win = 10**
 ---
 
 

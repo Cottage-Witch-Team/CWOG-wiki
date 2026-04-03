@@ -20,11 +20,11 @@ There may be even greater, rarer treasures to be found...
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Box
-	- Lockbox
-	- Treasure Chest
+!!! tip
+	### Acquire :
+	- **Box**
+	- **Lockbox**
+	- **Treasure Chest**
 
 ---
 

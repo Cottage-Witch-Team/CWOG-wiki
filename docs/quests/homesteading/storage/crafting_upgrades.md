@@ -7,10 +7,10 @@ The **Crafting** and **Stonecutter** upgrades provide those *crafting interfaces
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Stonecutter Upgrade
-	- Crafting Upgrade
+!!! tip
+	### Acquire :
+	- **Stonecutter Upgrade**
+	- **Crafting Upgrade**
 
 ---
 

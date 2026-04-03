@@ -14,9 +14,9 @@ The **Dowsing rod**'s leaves will *change colors when it points towards* one of 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Dowsing Rod
+	- Acquire **Dowsing Rod**
 ---
 
 

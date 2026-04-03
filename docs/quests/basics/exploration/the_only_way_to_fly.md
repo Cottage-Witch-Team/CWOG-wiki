@@ -14,9 +14,9 @@ You can achieve *quite a bit of air time* this way! And the **Slime Boots** make
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- The Only Way to "Fly"
+	- **The Only Way to "Fly"**
 ---
 
 

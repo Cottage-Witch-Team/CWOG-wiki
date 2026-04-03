@@ -11,9 +11,9 @@ Be aware that ^^Modded banner patterns do not work^^!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Elytra Wing
+	- Acquire **Elytra Wing**
 ---
 
 

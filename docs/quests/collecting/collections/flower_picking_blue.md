@@ -7,13 +7,13 @@ Collect one each of every flower in the game to earn rewards!
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Blue Orchid
-	- Blue Forget Me Not
-	- Winter Scilla
-	- Cornflower
-	- Blue Delphinium
+!!! tip
+	### Acquire :
+	- **Blue Orchid**
+	- **Blue Forget Me Not**
+	- **Winter Scilla**
+	- **Cornflower**
+	- **Blue Delphinium**
 
 ---
 

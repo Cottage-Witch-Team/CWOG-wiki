@@ -12,9 +12,9 @@ Adding mushrooms to your hat is a glorious aesthetic choice, although it doesn't
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mushroom Witch Hat
+	- Acquire **Mushroom Witch Hat**
 ---
 
 

@@ -8,9 +8,9 @@ Once you have ==collected at least 1 of each Eye==, you may check this button an
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Obtain Every End Eye
+	- **Obtain Every End Eye**
 ---
 
 

@@ -14,9 +14,9 @@ Try ==breeding them together in different biomes==! There's &omany types&r of sl
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Slabfish
+	- Meet **Slabfish**
 ---
 
 

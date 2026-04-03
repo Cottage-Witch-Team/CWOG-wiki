@@ -8,9 +8,9 @@ The **Advanced Upgrade** gives you access to the previous two modes, as well as 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Advanced Upgrade
+	- Acquire **Advanced Upgrade**
 ---
 
 

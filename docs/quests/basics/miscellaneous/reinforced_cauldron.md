@@ -15,9 +15,9 @@ There is supposedly a way to dip one's weapon in it, but this seems to be dysfun
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Reinforced Cauldron
+	- Acquire **Reinforced Cauldron**
 ---
 
 

@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Hay Block
+	- Acquire **Hay Block**
 ---
 
 

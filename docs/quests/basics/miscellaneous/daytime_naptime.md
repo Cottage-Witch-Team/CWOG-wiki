@@ -7,10 +7,10 @@ Make a **Hammock** to *sleep through the day*, making it night easily. Then, get
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Hammock White
-	- Rope And Nail (2)
+!!! tip
+	### Acquire :
+	- **Hammock White**
+	- **Rope And Nail (2)**
 
 ---
 

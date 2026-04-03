@@ -7,9 +7,9 @@ Sick of boring old flat beds? Make a *fancy one*! To craft a **Bed**, you'll nee
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Fancy Beds
+	- Acquire **Any Fancy Beds**
 ---
 
 

@@ -9,9 +9,9 @@ To find a *list of all villager professions and their job blocks*, hover over an
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Emerald
+	- Acquire **Emerald**
 ---
 
 

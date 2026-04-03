@@ -8,9 +8,9 @@ It must be crafted from one of their horns. Once it is worn, you can ==breed the
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Froststalker Helmet
+	- Acquire **Froststalker Helmet**
 ---
 
 

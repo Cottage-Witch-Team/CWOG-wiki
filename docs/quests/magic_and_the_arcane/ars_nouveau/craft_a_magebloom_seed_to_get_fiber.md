@@ -18,10 +18,10 @@ Magebloom is used in many recipes, but is especially valued for its **Fiber**, f
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Magebloom Crop
-	- Magebloom Fiber
+!!! tip
+	### Acquire :
+	- **Magebloom Crop**
+	- **Magebloom Fiber**
 
 ---
 

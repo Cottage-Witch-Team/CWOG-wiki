@@ -14,11 +14,11 @@ You can *craft duplicate accessories together* to get a chance at an accessory w
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Certificate Of Taming
-	- Idol Of Fertility
-	- Tamed Potato Beetle
+!!! tip
+	### Acquire :
+	- **Certificate Of Taming**
+	- **Idol Of Fertility**
+	- **Tamed Potato Beetle**
 
 ---
 

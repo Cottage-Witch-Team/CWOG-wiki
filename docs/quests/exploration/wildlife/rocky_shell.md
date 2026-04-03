@@ -7,9 +7,9 @@ Defeat a **Rocky Roller** and obtain its shell, plus get this little bonus!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Rocky Shell
+	- **Rocky Shell**
 ---
 
 

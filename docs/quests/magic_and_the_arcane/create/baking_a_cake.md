@@ -12,9 +12,9 @@ Using your **Spout** setup from earlier, you can &apipe lava into your **Blaze C
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Blaze Cake
+	- Acquire **Blaze Cake**
 ---
 
 

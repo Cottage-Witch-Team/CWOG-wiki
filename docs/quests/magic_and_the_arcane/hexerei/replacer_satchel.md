@@ -7,9 +7,9 @@ The **Replacer Satchel** is incredibly useful, as it will *replace broken **Broo
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Replacer Satchel
+	- Acquire **Replacer Satchel**
 ---
 
 

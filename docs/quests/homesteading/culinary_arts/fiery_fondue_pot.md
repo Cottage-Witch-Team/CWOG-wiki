@@ -12,9 +12,9 @@ Served in a **Cauldron**, this fanciful feast is *devilishly good*!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Fiery Fondue Pot
+	- Acquire **Fiery Fondue Pot**
 ---
 
 

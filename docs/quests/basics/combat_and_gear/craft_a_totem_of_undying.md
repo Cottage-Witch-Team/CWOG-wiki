@@ -12,9 +12,9 @@ Did you know you can craft a **Totem of Undying?**. It's not cheap, but maybe it
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Totem Of Undying
+	- Acquire **Totem Of Undying**
 ---
 
 

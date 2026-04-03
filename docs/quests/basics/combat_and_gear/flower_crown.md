@@ -7,9 +7,9 @@ Whether it's the Solstice or simply a Tuesday, **Flower Crowns** are a fabulous 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Flower Crown
+	- Acquire **Flower Crown**
 ---
 
 

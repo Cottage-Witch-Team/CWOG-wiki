@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Progress Ur Ghast
+	- **Progress Ur Ghast**
 ---
 
 

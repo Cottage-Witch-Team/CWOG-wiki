@@ -13,9 +13,9 @@ If it drops its **Rocky Hide**, this can be crafted into a chestplate which allo
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Rocky Roller
+	- Meet **Rocky Roller**
 ---
 
 

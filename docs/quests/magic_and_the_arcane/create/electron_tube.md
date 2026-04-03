@@ -9,9 +9,9 @@ The **Electron Tube** is a source of magical intelligence, allowing machines to 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Electron Tube
+	- Acquire **Electron Tube**
 ---
 
 

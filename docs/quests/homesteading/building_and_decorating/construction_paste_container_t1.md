@@ -16,9 +16,9 @@ The **Paste Containers** allow you to hold significantly more paste than you wou
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Construction Paste Container T1
+	- Acquire **Construction Paste Container T1**
 ---
 
 

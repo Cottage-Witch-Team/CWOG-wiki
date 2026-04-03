@@ -7,9 +7,9 @@ The **Vitalic Sourcelink** generates source when it is around **Animals**. When 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Vitalic Sourcelink
+	- Acquire **Vitalic Sourcelink**
 ---
 
 

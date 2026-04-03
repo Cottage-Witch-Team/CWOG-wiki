@@ -7,9 +7,9 @@ To test your Stir-Fry Skills, why not make some **Sauteed Roots**? This dish is 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sauteed Roots
+	- Acquire **Sauteed Roots**
 ---
 
 

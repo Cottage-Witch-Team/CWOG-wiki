@@ -13,9 +13,9 @@ I wonder what would happen if you ate it?
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Rainbow Jelly
+	- **Rainbow Jelly**
 ---
 
 

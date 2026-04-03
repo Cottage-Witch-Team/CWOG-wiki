@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Deployer
+	- Acquire **Deployer**
 ---
 
 

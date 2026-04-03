@@ -16,9 +16,9 @@ Defeating the **Lich** grants you access to the ^^Yeti's Lair^^, the ^^Dark Fore
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find Lich Tower
+	- Find **Lich Tower**
 ---
 
 

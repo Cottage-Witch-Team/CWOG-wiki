@@ -15,12 +15,12 @@ The **Bombegranate** comes from the *Blazing Archwood* Tree. ^^Its effects are u
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Bombegranate Pod
-	- Mendosteen Pod
-	- Bastion Pod
-	- Frostaya Pod
+!!! tip
+	### Acquire :
+	- **Bombegranate Pod**
+	- **Mendosteen Pod**
+	- **Bastion Pod**
+	- **Frostaya Pod**
 
 ---
 

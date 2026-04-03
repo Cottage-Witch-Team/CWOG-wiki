@@ -171,7 +171,7 @@ class Quests(WikiBuildTask):
                 task_type = "survive"
                 task_goal = f"{task['days']} days"
             elif task_type == "stat":
-                number = "" if task["value"] == 1 else f"s {task['value']} times"
+                number = f" = {task['value']}"
                 task_goal = f"{self.__advancement_to_string(task_goal)}{number}"
 
             if task_type not in tasks_list:
@@ -250,9 +250,9 @@ class Quests(WikiBuildTask):
     def __get_task_string(self, tasks):
         task_matrix = {
             "checkmark": "",
-            "advancement": "Unlock ",
+            "advancement": "",
             "item": "Acquire ",
-            "stat": "Stats ",
+            "stat": "Stats: ",
             "survive": "Survive ",
             "break": "Break ",
             "kill": "Kill ",
@@ -262,15 +262,15 @@ class Quests(WikiBuildTask):
             "observation": "Meet ",
         }
         single_task = len(tasks) == 1
-        task_string = '!!! tip "Task' + ("s" if not single_task else "") + ':"\n'
+        task_string = "!!! tip\n"
 
         for task_type, subtask in tasks.items():
             single_subtask = len(subtask) == 1
 
             if single_subtask:
-                task_string += f"\n\t- {task_matrix[task_type]}{subtask[0]}"
+                task_string += f"\n\t- {task_matrix[task_type]}**{subtask[0]}**"
             else:
-                task_string += "\t## " + task_matrix[task_type] + ":\n"
-                for item in [f"\t- {t}\n" for t in subtask]:
+                task_string += "\t### " + task_matrix[task_type] + ":\n"
+                for item in [f"\t- **{t}**\n" for t in subtask]:
                     task_string += item
         return task_string

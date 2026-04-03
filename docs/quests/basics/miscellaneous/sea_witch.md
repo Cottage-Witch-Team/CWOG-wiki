@@ -9,9 +9,9 @@ To craft it, you'll need a **Sea Crystal**, which you can craft with a little lu
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Guardian Eye
+	- Acquire **Guardian Eye**
 ---
 
 

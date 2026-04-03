@@ -14,9 +14,9 @@ Welcome to the world of &1Majruzs's Accessories&r. Although at first glance, the
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Maj Acs
+	- Acquire **Any Maj Acs**
 ---
 
 

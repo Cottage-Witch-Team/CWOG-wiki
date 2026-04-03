@@ -12,12 +12,12 @@ These fish can be found near *Arid biomes* such as Deserts or Plateaus.
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Bayad
-	- Boulti
-	- Capitaine
-	- Synodontis
+!!! tip
+	### Acquire :
+	- **Bayad**
+	- **Boulti**
+	- **Capitaine**
+	- **Synodontis**
 
 ---
 

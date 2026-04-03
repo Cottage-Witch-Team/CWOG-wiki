@@ -17,9 +17,9 @@ This ^^item is under construction^^ and so the quest is temporarily a *checkmark
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Bookwyrm Charm
+	- Acquire **Bookwyrm Charm**
 ---
 
 

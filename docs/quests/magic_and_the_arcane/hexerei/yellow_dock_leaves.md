@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Yellow Dock Leaves
+	- Acquire **Yellow Dock Leaves**
 ---
 
 

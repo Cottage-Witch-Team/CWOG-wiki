@@ -7,9 +7,9 @@ Once you've dyed your tail, you can *add a gradient* by ==crafting this item wit
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Tail Gradient Modifier
+	- Acquire **Tail Gradient Modifier**
 ---
 
 

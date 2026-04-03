@@ -7,9 +7,9 @@ Congratulations, you've cooked some of the *most magically imbued food* in the g
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Dragon Egg Shell Feast
+	- **Dragon Egg Shell Feast**
 ---
 
 

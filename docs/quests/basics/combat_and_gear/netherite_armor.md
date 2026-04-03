@@ -13,9 +13,9 @@ At least four **Netherite**. Anyway the important thing isn't the math, just go 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Netherite Armor
+	- **Netherite Armor**
 ---
 
 

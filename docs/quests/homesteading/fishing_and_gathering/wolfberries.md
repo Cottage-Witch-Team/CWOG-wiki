@@ -12,9 +12,9 @@ It is said that wolfberry allows for deep inner processing to happen without the
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Wolfberries
+	- Acquire **Wolfberries**
 ---
 
 

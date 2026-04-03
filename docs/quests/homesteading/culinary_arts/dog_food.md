@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Dog Food
+	- Acquire **Dog Food**
 ---
 
 

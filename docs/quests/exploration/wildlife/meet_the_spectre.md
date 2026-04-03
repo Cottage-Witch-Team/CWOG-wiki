@@ -7,9 +7,9 @@ The **Spectre** is a ghostly creature that dwells in The End. It can be lured in
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Spectre
+	- Meet **Spectre**
 ---
 
 

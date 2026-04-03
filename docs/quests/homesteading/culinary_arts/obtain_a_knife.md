@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Knives
+	- Acquire **Any Knives**
 ---
 
 

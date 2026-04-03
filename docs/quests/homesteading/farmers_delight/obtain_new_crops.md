@@ -36,22 +36,22 @@ From ***Farmer's Delight***:
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Tomato
-	- Onion
-	- Rice Panicle
-	- Cabbage
-	- Mint
-	- Ginger
-	- Cinnamon Stick
-	- Avocado
-	- Cucumber
-	- Eggplant
-	- Corn Cob
-	- Cave Carrot
-	- Pomegranate
-	- Lime
+!!! tip
+	### Acquire :
+	- **Tomato**
+	- **Onion**
+	- **Rice Panicle**
+	- **Cabbage**
+	- **Mint**
+	- **Ginger**
+	- **Cinnamon Stick**
+	- **Avocado**
+	- **Cucumber**
+	- **Eggplant**
+	- **Corn Cob**
+	- **Cave Carrot**
+	- **Pomegranate**
+	- **Lime**
 
 ---
 

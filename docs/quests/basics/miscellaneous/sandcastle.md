@@ -14,9 +14,9 @@ However, there is ^^a bug currently^^ which prevents eggs in a **Sand Castle** f
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sandcastle
+	- Acquire **Sandcastle**
 ---
 
 

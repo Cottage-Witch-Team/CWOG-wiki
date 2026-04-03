@@ -9,10 +9,10 @@ It's used for some important recipes, such high level **Storage Glyphs**, so it'
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Redstone (4)
-	- Glowstone Dust (4)
+!!! tip
+	### Acquire :
+	- **Redstone (4)**
+	- **Glowstone Dust (4)**
 
 ---
 

@@ -13,9 +13,9 @@ The image above shows the radius of two **Aetheric Beacons** that have no **Reso
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Wireless Access Point
+	- Acquire **Wireless Access Point**
 ---
 
 

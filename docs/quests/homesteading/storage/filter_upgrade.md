@@ -9,9 +9,9 @@ It will *help control what items get placed* in the storage you use it on.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Filter Upgrade
+	- Acquire **Filter Upgrade**
 ---
 
 

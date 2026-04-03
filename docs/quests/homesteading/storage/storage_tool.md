@@ -8,9 +8,9 @@ To *remotely link Sophisticated Storages* which are not touching the main networ
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Storage Tool
+	- Acquire **Storage Tool**
 ---
 
 

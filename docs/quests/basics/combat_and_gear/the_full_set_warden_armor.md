@@ -7,12 +7,12 @@ You managed to get enough **Warden Carapaces** to upgrade a *full set of Netheri
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Warden Helmet
-	- Warden Chestplate
-	- Warden Leggings
-	- Warden Boots
+!!! tip
+	### Acquire :
+	- **Warden Helmet**
+	- **Warden Chestplate**
+	- **Warden Leggings**
+	- **Warden Boots**
 
 ---
 

@@ -7,9 +7,9 @@ Feed a **Rabbit** some **Mungal Spores** to create a **Bunfungus**, a rather lar
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mungal Spores
+	- Acquire **Mungal Spores**
 ---
 
 

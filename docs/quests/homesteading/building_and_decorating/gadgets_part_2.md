@@ -16,10 +16,10 @@ I cannot put all the information in this quest description. &oMore information c
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Gadget Copy Paste
-	- Template Manager
+!!! tip
+	### Acquire :
+	- **Gadget Copy Paste**
+	- **Template Manager**
 
 ---
 

@@ -12,9 +12,9 @@ Found as loot in chests, the **Ancient Tomes** are books of long-lost knowledge 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Tomes
+	- Acquire **Any Tomes**
 ---
 
 

@@ -15,9 +15,9 @@ Different **Hooks** give different effects. Some are pure upgrades, but these wi
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Niche Hooks
+	- Acquire **Any Niche Hooks**
 ---
 
 

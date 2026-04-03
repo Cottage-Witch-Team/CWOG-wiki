@@ -7,9 +7,9 @@ Want to be the Little Mermaid? This upgrade will *give you Ariel's appearance*.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Ursula Shell Modifier
+	- Acquire **Ursula Shell Modifier**
 ---
 
 

@@ -9,30 +9,30 @@ You did it. &oYou won fishing&r.
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Angel And Devil
-	- Artsy
-	- Artsy Doll
-	- Axolotl On Head
-	- Babydolphin
-	- Babyturtle
-	- Beehat
-	- Druid Antlers Rare
-	- Eyeholder Beeholder
-	- Eyeholder Xanath
-	- Fakeblight
-	- Greenbirb
-	- Kirbymouthful
-	- Mimic Head Gold
-	- Mindflayer Alhoon
-	- Pohatoe
-	- Potionhead
-	- Rainboworbiters
-	- Raincloud
-	- Rgbpartyhat
-	- Slime Cube Dnd
-	- Tomato Splats
+!!! tip
+	### Acquire :
+	- **Angel And Devil**
+	- **Artsy**
+	- **Artsy Doll**
+	- **Axolotl On Head**
+	- **Babydolphin**
+	- **Babyturtle**
+	- **Beehat**
+	- **Druid Antlers Rare**
+	- **Eyeholder Beeholder**
+	- **Eyeholder Xanath**
+	- **Fakeblight**
+	- **Greenbirb**
+	- **Kirbymouthful**
+	- **Mimic Head Gold**
+	- **Mindflayer Alhoon**
+	- **Pohatoe**
+	- **Potionhead**
+	- **Rainboworbiters**
+	- **Raincloud**
+	- **Rgbpartyhat**
+	- **Slime Cube Dnd**
+	- **Tomato Splats**
 
 ---
 

@@ -26,9 +26,9 @@ All the upgrades *can be combined*.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Magic Mirror
+	- Acquire **Magic Mirror**
 ---
 
 

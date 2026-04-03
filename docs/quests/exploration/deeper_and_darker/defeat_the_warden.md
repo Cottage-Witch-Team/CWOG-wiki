@@ -9,9 +9,9 @@ The **Warden** is blind, and will seek out players by *smell and hearing*. If it
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Warden
+	- Kill **Warden**
 ---
 
 

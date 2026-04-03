@@ -7,12 +7,12 @@ Obtain a full set of **Diamond Armor** to keep those cute cheeks of yours safe a
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Diamond Helmet
-	- Diamond Chestplate
-	- Diamond Leggings
-	- Diamond Boots
+!!! tip
+	### Acquire :
+	- **Diamond Helmet**
+	- **Diamond Chestplate**
+	- **Diamond Leggings**
+	- **Diamond Boots**
 
 ---
 

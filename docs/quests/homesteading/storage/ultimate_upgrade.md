@@ -9,9 +9,9 @@ It is also significantly more expensive.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Ultimate Upgrade
+	- Acquire **Ultimate Upgrade**
 ---
 
 

@@ -14,9 +14,9 @@ Now you can *gild your Netherite armor* in a **Smithing Station** to enhance it 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Gilded Netherite Items
+	- Acquire **Any Gilded Netherite Items**
 ---
 
 

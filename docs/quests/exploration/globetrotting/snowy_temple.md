@@ -12,9 +12,9 @@ The journals from which I discovered these dungeons had this to say: "This *aban
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find Snowy Temple
+	- Find **Snowy Temple**
 ---
 
 

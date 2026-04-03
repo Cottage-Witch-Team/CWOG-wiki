@@ -17,10 +17,10 @@ These *grant bonuses* when held in inventory, but ^^cannot be worn as Curios^^.
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Pearl Necklace 1
-	- Pearl
+!!! tip
+	### Acquire :
+	- **Pearl Necklace 1**
+	- **Pearl**
 
 ---
 

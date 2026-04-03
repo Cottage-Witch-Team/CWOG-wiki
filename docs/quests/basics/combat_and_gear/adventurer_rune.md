@@ -14,10 +14,10 @@ You can *craft duplicate accessories together* to get a chance at an accessory w
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Adventurer Kit
-	- Swimmer Guide
+!!! tip
+	### Acquire :
+	- **Adventurer Kit**
+	- **Swimmer Guide**
 
 ---
 

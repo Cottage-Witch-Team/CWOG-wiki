@@ -13,9 +13,9 @@ This image is only *one example* of a shape you can place them in. You can do a 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mechanical Crafter (21)
+	- Acquire **Mechanical Crafter (21)**
 ---
 
 

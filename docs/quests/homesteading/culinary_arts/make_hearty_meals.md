@@ -12,9 +12,9 @@ You can make **Pasta with Meatballs** in a **Cooking Pot**. Eating Full-Course m
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Pasta With Meatballs
+	- Acquire **Pasta With Meatballs**
 ---
 
 

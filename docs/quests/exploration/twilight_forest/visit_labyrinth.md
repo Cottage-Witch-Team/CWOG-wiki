@@ -13,9 +13,9 @@ The Minoshroom will drop **Meef Stroganoff**, which when eaten, will innoculate 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find Labyrinth
+	- Find **Labyrinth**
 ---
 
 

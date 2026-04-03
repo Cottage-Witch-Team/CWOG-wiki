@@ -14,9 +14,9 @@ This upgrade is not needed if you use the **Aetheric Core Link Ring** for *cross
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Wireless Booster
+	- Acquire **Wireless Booster**
 ---
 
 

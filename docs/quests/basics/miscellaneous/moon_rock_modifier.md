@@ -7,9 +7,9 @@ Use this item to look like you're in h2o: Just Add Water!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Moon Rock Modifier
+	- Acquire **Moon Rock Modifier**
 ---
 
 

@@ -9,9 +9,9 @@ If you connect the shafts of a **Small** and then a **Large Cog**, it will *incr
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Cogwheel
+	- Acquire **Cogwheel**
 ---
 
 

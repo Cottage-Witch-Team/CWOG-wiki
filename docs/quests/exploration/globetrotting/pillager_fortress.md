@@ -8,9 +8,9 @@ The *Pillager Fortress* is best taken on with a group of friends. However, a par
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Pillager Fortress
+	- **Pillager Fortress**
 ---
 
 

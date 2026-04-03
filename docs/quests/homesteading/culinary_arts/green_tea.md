@@ -12,9 +12,9 @@ This tea is bright, grassy, and delicious! It also grants you the *Haste* effect
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Green Tea
+	- Acquire **Green Tea**
 ---
 
 

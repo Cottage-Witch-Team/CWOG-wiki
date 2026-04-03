@@ -17,9 +17,9 @@ You win!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Ride A Boat With A Goat
+	- **Ride A Boat With A Goat**
 ---
 
 

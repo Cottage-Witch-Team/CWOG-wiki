@@ -14,9 +14,9 @@ A **Mungus** which has 5 mushrooms on its back will explode when slain, changing
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Mungus
+	- Meet **Mungus**
 ---
 
 

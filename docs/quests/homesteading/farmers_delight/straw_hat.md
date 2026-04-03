@@ -14,9 +14,9 @@ It also gives a chance of breeding twins or triplets! ...of the animals. Not you
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Straw Hat
+	- Acquire **Straw Hat**
 ---
 
 

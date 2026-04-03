@@ -13,9 +13,9 @@ A pomegranate branch brings undiscovered wealth or new riches to the owner. You 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Pomegranate
+	- Acquire **Pomegranate**
 ---
 
 

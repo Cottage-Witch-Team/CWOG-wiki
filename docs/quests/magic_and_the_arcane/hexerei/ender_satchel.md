@@ -7,9 +7,9 @@ The **Ender Satchel** is a storage upgrade which *grants easy access to your End
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Ender Satchel
+	- Acquire **Ender Satchel**
 ---
 
 

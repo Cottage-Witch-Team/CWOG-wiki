@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sweet Berries
+	- Acquire **Sweet Berries**
 ---
 
 

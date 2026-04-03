@@ -11,9 +11,9 @@ The **Starbuncle** is capable of *item transport*. Use a **Dominion Wand** to as
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Starbuncle Charm
+	- Acquire **Starbuncle Charm**
 ---
 
 

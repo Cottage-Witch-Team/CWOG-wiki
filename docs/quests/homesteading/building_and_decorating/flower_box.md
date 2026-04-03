@@ -7,9 +7,9 @@ There are two types of **Flower Box**. One can hold 2 flowers, and the other one
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Flower Box
+	- Acquire **Flower Box**
 ---
 
 

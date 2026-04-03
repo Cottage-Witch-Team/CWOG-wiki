@@ -18,9 +18,9 @@ Crouch and right-click your Broom to access its *accessories and inventory*.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Small Satchel
+	- Acquire **Small Satchel**
 ---
 
 

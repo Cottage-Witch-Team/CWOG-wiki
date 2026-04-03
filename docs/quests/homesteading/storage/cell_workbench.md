@@ -16,9 +16,9 @@ You can insert an **Inverter Tablet** to make the Glyphstone *reject the configu
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Cell Workbench
+	- Acquire **Cell Workbench**
 ---
 
 

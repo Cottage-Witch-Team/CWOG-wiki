@@ -9,9 +9,9 @@ It's not a bad idea to fill it with emergency items. You can *gain more storage 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Ender Chest
+	- Acquire **Ender Chest**
 ---
 
 

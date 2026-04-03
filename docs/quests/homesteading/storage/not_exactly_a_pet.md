@@ -16,9 +16,9 @@ The **Luggage** can *wear a collar*, which will grant it the enchanted abilities
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Luggage
+	- Acquire **Luggage**
 ---
 
 

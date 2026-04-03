@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mugwort Leaves
+	- Acquire **Mugwort Leaves**
 ---
 
 

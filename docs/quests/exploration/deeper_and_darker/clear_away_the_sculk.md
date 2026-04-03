@@ -9,9 +9,9 @@ Once it's clear, you can ==right click it== with the **Heart of the Deep** to ac
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Break Sculk Vein
+	- Break **Sculk Vein**
 ---
 
 

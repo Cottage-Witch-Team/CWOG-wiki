@@ -12,9 +12,9 @@ Break down the *Liveroots* beneath a Tree in order to obtain them. This item can
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Liveroot
+	- Acquire **Liveroot**
 ---
 
 

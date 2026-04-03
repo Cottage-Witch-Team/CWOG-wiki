@@ -7,9 +7,9 @@ You've found your way into an **Ancient City**. Good luck adventurer, for here l
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Find Ancient City
+	- **Find Ancient City**
 ---
 
 

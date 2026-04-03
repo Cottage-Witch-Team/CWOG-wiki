@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Azalea Tea
+	- Acquire **Azalea Tea**
 ---
 
 

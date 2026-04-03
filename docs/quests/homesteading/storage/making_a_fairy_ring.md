@@ -13,10 +13,10 @@ Collecting 8 mushrooms and *placing them in a ring* will create a fairy ring. Ma
 
 
 
-!!! tip "Tasks:"
+!!! tip
 
-	- Acquire Any Mushrooms (8)
-	- Build the Fairy Circle
+	- Acquire **Any Mushrooms (8)**
+	- **Build the Fairy Circle**
 ---
 
 

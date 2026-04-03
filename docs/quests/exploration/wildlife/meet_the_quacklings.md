@@ -12,9 +12,9 @@ Quacklings are bizarre, yet friendly creatures that primarily live in Swamps. Th
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Quackling
+	- Meet **Quackling**
 ---
 
 

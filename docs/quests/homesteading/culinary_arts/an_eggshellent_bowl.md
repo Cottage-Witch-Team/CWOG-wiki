@@ -8,9 +8,9 @@ Craft the **Half Dragon Egg Shell**.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Half Dragon Egg Shell
+	- Acquire **Half Dragon Egg Shell**
 ---
 
 

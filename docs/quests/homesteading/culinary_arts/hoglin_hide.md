@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Hoglin Hide
+	- Acquire **Hoglin Hide**
 ---
 
 

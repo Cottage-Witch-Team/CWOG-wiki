@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Basic Spell Turret
+	- Acquire **Basic Spell Turret**
 ---
 
 

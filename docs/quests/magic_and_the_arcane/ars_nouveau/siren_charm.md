@@ -11,9 +11,9 @@ The **Siren Shrine** will generate *fishing loot*, as long as it is provided wit
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Siren Charm
+	- Acquire **Siren Charm**
 ---
 
 

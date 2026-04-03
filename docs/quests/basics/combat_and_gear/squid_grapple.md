@@ -9,9 +9,9 @@ By firing the Squok like a bow, the player can ==grapple to high places== or eve
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Squid Grapple
+	- Acquire **Squid Grapple**
 ---
 
 

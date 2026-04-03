@@ -7,10 +7,10 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Glow Ink Sac
-	- Ink Sac
+!!! tip
+	### Acquire :
+	- **Glow Ink Sac**
+	- **Ink Sac**
 
 ---
 

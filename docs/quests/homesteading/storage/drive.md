@@ -23,10 +23,10 @@ It is used to determine things such as how much damage a tool has taken, what ki
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Drive
-	- Any of: Item Storage Cell 1K, Item Storage Cell 4K, Item Storage Cell 16K, Item Storage Cell 64K, Item Storage Cell 256K
+!!! tip
+	### Acquire :
+	- **Drive**
+	- **Any of: Item Storage Cell 1K, Item Storage Cell 4K, Item Storage Cell 16K, Item Storage Cell 64K, Item Storage Cell 256K**
 
 ---
 

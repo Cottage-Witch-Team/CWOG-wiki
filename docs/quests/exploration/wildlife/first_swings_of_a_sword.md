@@ -8,10 +8,10 @@ Maybe the next quests will be more difficult.
 
 
 
-!!! tip "Task:"
-	## Kill :
-	- Zombie
-	- Skeleton
+!!! tip
+	### Kill :
+	- **Zombie**
+	- **Skeleton**
 
 ---
 

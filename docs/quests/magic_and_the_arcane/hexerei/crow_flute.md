@@ -16,9 +16,9 @@ If you ==crouch and right click a Crow with the Flute==, you can Select it with 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Crow Flute
+	- Acquire **Crow Flute**
 ---
 
 

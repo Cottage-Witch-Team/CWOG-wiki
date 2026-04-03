@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire End Rod
+	- Acquire **End Rod**
 ---
 
 

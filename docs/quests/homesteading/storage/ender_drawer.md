@@ -7,9 +7,9 @@ The **Ender Drawer** can be *attuned to a frequency&a using the **Linking Tool**
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Ender Drawer
+	- Acquire **Ender Drawer**
 ---
 
 

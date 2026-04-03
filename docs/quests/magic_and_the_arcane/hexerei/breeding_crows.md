@@ -12,9 +12,9 @@ You can breed two tamed **Crows** by gifting one of them a shiny **Golden Nugget
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Gold Nugget
+	- Acquire **Gold Nugget**
 ---
 
 

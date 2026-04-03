@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mandrake Root
+	- Acquire **Mandrake Root**
 ---
 
 

@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Progress Hydra
+	- **Progress Hydra**
 ---
 
 

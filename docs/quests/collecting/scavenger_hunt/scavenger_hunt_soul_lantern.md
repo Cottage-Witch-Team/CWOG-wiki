@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Soul Lantern
+	- Acquire **Soul Lantern**
 ---
 
 

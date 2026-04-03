@@ -14,11 +14,11 @@ You can *craft duplicate accessories together* to get a chance at an accessory w
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Discount Voucher
-	- Dream Catcher
-	- Secret Ingredient
+!!! tip
+	### Acquire :
+	- **Discount Voucher**
+	- **Dream Catcher**
+	- **Secret Ingredient**
 
 ---
 

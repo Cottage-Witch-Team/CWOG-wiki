@@ -12,9 +12,9 @@ This upgrade *allows you to add further filter refinement* (say that five times 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Capacity Card
+	- Acquire **Capacity Card**
 ---
 
 

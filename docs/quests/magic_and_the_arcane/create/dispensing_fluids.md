@@ -11,9 +11,9 @@ Spouts can be used in making **Chocolate-Covered Berries**, **Honeyed Apples**, 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Spout
+	- Acquire **Spout**
 ---
 
 

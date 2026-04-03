@@ -12,9 +12,9 @@ Once you have obtained **Echo Shards**, you can produce your own **Sculk** and *
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sculk Catalyst
+	- Acquire **Sculk Catalyst**
 ---
 
 

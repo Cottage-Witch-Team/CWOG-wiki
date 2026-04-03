@@ -12,11 +12,11 @@ In order to make magical accessories, you must make their mundane counterparts!
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Mundane Belt
-	- Ring Of Potential
-	- Dull Trinket
+!!! tip
+	### Acquire :
+	- **Mundane Belt**
+	- **Ring Of Potential**
+	- **Dull Trinket**
 
 ---
 

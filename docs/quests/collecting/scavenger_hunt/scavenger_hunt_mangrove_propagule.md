@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mangrove Propagule
+	- Acquire **Mangrove Propagule**
 ---
 
 

@@ -14,9 +14,9 @@ So, if you'd like a *prefabricated starter house*, then ==tick off this quest== 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Build Me a House
+	- **Build Me a House**
 ---
 
 

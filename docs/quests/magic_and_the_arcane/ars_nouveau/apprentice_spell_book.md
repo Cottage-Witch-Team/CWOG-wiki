@@ -7,9 +7,9 @@ You can *upgrade your spell book* in order to *learn higher tiers of glyphs*.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Apprentice Spell Book
+	- Acquire **Apprentice Spell Book**
 ---
 
 

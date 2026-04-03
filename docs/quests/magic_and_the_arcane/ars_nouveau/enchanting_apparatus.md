@@ -14,10 +14,10 @@ You can either bury the Arcane Core and place everything on floor-level, or you 
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Enchanting Apparatus
-	- Arcane Core
+!!! tip
+	### Acquire :
+	- **Enchanting Apparatus**
+	- **Arcane Core**
 
 ---
 

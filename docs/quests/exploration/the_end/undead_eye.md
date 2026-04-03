@@ -7,9 +7,9 @@ This eye is said to be favored by Chosen Undead. The **Undead Eye** can be craft
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Undead Eye
+	- Acquire **Undead Eye**
 ---
 
 

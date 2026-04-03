@@ -7,11 +7,11 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Raw Iron Block
-	- Raw Copper Block
-	- Raw Gold Block
+!!! tip
+	### Acquire :
+	- **Raw Iron Block**
+	- **Raw Copper Block**
+	- **Raw Gold Block**
 
 ---
 

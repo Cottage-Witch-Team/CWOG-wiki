@@ -12,9 +12,9 @@ There is much more that this mod has to offer! **Runes**, **Enchanter's Weapons*
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Now Go Explore!
+	- **Now Go Explore!**
 ---
 
 

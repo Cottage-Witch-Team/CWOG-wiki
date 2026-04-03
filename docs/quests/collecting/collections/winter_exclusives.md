@@ -7,19 +7,19 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Bigribbon
-	- Chocolate Sauced
-	- Crystal Horns
-	- Festiveribbon
-	- Floatingstar
-	- Frozenhead
-	- Grinchhat
-	- Partyhat
-	- Penguinbaby
-	- Penguinhat
-	- Snowmanbaby
+!!! tip
+	### Acquire :
+	- **Bigribbon**
+	- **Chocolate Sauced**
+	- **Crystal Horns**
+	- **Festiveribbon**
+	- **Floatingstar**
+	- **Frozenhead**
+	- **Grinchhat**
+	- **Partyhat**
+	- **Penguinbaby**
+	- **Penguinhat**
+	- **Snowmanbaby**
 
 ---
 

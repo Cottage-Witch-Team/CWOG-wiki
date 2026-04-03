@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Wind Chimes
+	- Acquire **Any Wind Chimes**
 ---
 
 

@@ -12,9 +12,9 @@ The ultimate rod! The **Neptunium Rod** has more durability and is more enchanta
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Neptunium Fishing Rod
+	- Acquire **Neptunium Fishing Rod**
 ---
 
 

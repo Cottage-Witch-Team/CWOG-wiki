@@ -12,9 +12,9 @@ These friendly *coral reef* dwellers are capable swimmers, and come in many patt
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Nudibranch
+	- Meet **Nudibranch**
 ---
 
 

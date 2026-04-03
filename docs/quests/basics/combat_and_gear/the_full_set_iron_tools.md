@@ -7,14 +7,14 @@ Full Iron tools! Feels good to make progress, huh? Congrats!
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Iron Sword
-	- Iron Shovel
-	- Iron Pickaxe
-	- Iron Axe
-	- Iron Hoe
-	- Iron Knife
+!!! tip
+	### Acquire :
+	- **Iron Sword**
+	- **Iron Shovel**
+	- **Iron Pickaxe**
+	- **Iron Axe**
+	- **Iron Hoe**
+	- **Iron Knife**
 
 ---
 

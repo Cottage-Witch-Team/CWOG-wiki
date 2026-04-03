@@ -14,9 +14,9 @@ The ponds they spawn in are usually underground. These fish love to nibble on **
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Devils Hole Pupfish
+	- Meet **Devils Hole Pupfish**
 ---
 
 

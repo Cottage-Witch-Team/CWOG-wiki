@@ -8,10 +8,10 @@ You can use it to grow **Nether Crops** more quickly!
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Rich Soul Soil
-	- Soul Compost
+!!! tip
+	### Acquire :
+	- **Rich Soul Soil**
+	- **Soul Compost**
 
 ---
 

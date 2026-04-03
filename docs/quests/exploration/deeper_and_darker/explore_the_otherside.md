@@ -9,9 +9,9 @@ Within the Otherside are *three different biomes*, each rather unwelcoming.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Enter Otherside
+	- Enter **Otherside**
 ---
 
 

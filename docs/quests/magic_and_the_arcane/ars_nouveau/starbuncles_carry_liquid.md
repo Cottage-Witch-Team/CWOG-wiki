@@ -7,10 +7,10 @@ Equip your **Starbuncles** with a **Starbucket** to allow them to *transport flu
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Star Bucket
-	- Fluid Jar
+!!! tip
+	### Acquire :
+	- **Star Bucket**
+	- **Fluid Jar**
 
 ---
 

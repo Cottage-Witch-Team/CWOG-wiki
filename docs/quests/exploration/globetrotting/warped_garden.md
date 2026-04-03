@@ -12,9 +12,9 @@ The journals from which I discovered these dungeons had this to say: "This shell
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Find Warped Garden
+	- Find **Warped Garden**
 ---
 
 

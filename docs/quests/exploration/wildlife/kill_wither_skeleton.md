@@ -7,9 +7,9 @@ If you manage to defeat 500 **Wither Skeletons**, then you deserve this reward: 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Wither Skeleton (500)
+	- Kill **Wither Skeleton (500)**
 ---
 
 
@@ -22,9 +22,9 @@ If you manage to defeat 500 **Wither Skeletons**, then you deserve this reward: 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Wither Skeleton (15)
+	- Kill **Wither Skeleton (15)**
 ---
 
 

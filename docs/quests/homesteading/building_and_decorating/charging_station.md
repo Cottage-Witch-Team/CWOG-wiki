@@ -7,9 +7,9 @@ The **Charging Station** will *burn fuel in order to charge your Building Gadget
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Charging Station
+	- Acquire **Charging Station**
 ---
 
 

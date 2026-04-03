@@ -7,9 +7,9 @@ Can you tame one of each type of cat in the game? There are eleven. Good luck!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Complete Catalogue
+	- **Complete Catalogue**
 ---
 
 

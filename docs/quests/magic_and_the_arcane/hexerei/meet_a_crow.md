@@ -19,9 +19,9 @@ Through the menu, you can instruct your **Familiar** to help you farm your crops
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Crow
+	- Meet **Crow**
 ---
 
 

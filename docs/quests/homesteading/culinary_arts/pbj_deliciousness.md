@@ -12,11 +12,11 @@ With **Acorns** you can make **Nut Butter**. Combine that with some fresh-reduce
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Nut Butter Bottle
-	- Jelly Bottle
-	- Nut Butter And Jelly Sandwich
+!!! tip
+	### Acquire :
+	- **Nut Butter Bottle**
+	- **Jelly Bottle**
+	- **Nut Butter And Jelly Sandwich**
 
 ---
 

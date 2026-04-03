@@ -16,13 +16,13 @@ The **Soul of Minecraft** can be equipped in your pocket.
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Adventurer Rune
-	- Angler Rune
-	- Household Rune
-	- Miner Rune
-	- Nature Rune
+!!! tip
+	### Acquire :
+	- **Adventurer Rune**
+	- **Angler Rune**
+	- **Household Rune**
+	- **Miner Rune**
+	- **Nature Rune**
 
 ---
 

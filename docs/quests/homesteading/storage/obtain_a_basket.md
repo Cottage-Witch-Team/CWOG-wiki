@@ -16,9 +16,9 @@ For example, you could ==place one upside-down== above a **Stove** in order to c
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Basket
+	- Acquire **Basket**
 ---
 
 

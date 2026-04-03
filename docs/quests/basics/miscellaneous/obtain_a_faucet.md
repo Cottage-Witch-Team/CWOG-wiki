@@ -14,9 +14,9 @@ They also function like **Dripstone**, slowly dripping liquids into a cauldron b
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Faucet
+	- Acquire **Faucet**
 ---
 
 

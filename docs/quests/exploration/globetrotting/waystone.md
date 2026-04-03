@@ -8,9 +8,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Waystone
+	- Acquire **Waystone**
 ---
 
 

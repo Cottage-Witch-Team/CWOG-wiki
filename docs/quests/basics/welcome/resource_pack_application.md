@@ -21,9 +21,9 @@ The order in which you enable the resourcepacks *should not matter*, as they are
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Resource Pack Application
+	- **Resource Pack Application**
 ---
 
 

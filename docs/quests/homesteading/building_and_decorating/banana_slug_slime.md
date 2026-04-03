@@ -12,10 +12,10 @@ Need to clear out a lot of water at once? Why not try a **block of Slug Slime**?
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Banana Slug Slime
-	- Banana Slug Slime Block
+!!! tip
+	### Acquire :
+	- **Banana Slug Slime**
+	- **Banana Slug Slime Block**
 
 ---
 

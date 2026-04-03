@@ -14,9 +14,9 @@ And, as a side note, the **Stradpoles** can be nabbed in a bucket and also *surv
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Straddler
+	- Meet **Straddler**
 ---
 
 

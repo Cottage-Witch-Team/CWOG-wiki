@@ -7,9 +7,9 @@ As you can imagine, the **Acceleration tablet** allows you to speed up certain a
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Speed Card
+	- Acquire **Speed Card**
 ---
 
 

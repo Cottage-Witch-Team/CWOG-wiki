@@ -11,9 +11,9 @@ You can speed it up by using **Time in a Bottle**.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Gravy Boat
+	- Acquire **Gravy Boat**
 ---
 
 

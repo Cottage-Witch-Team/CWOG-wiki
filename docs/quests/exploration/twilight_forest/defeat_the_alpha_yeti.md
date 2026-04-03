@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Alpha Yeti
+	- Kill **Alpha Yeti**
 ---
 
 

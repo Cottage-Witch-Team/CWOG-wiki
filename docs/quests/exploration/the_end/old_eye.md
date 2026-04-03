@@ -7,9 +7,9 @@ The first of these new items is called **The Old Eye**, which once belonged to o
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Old Eye
+	- Acquire **Old Eye**
 ---
 
 

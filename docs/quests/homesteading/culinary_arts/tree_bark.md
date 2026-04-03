@@ -14,9 +14,9 @@ It can be used when making **Compost**, **Paper**, or even *brewing Ale*.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Tree Bark
+	- Acquire **Tree Bark**
 ---
 
 

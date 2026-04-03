@@ -13,9 +13,9 @@ These monkeys can also be told to *perch on your shoulder*, where they will thro
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Meet Capuchin Monkey
+	- Meet **Capuchin Monkey**
 ---
 
 

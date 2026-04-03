@@ -14,10 +14,10 @@ These **Glass Item Frames** display items on a surface just like the normal kind
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Glass Item Frame
-	- Glowing Glass Item Frame
+!!! tip
+	### Acquire :
+	- **Glass Item Frame**
+	- **Glowing Glass Item Frame**
 
 ---
 

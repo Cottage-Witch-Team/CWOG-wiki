@@ -9,11 +9,11 @@ Then, place a **Pump** and/or some **Fluid Pipes** beside it, as well as a **Tan
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Fluid Tank
-	- Fluid Pipe
-	- Mechanical Pump
+!!! tip
+	### Acquire :
+	- **Fluid Tank**
+	- **Fluid Pipe**
+	- **Mechanical Pump**
 
 ---
 

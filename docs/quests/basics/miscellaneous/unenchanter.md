@@ -9,9 +9,9 @@ That would be utterly ridiculous to do, and yet...
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Unenchanter
+	- **Unenchanter**
 ---
 
 

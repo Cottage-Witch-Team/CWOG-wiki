@@ -18,9 +18,9 @@ The Herb Jar label will *reflect what is stored inside of it*, and can be named 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Herb Jar
+	- Acquire **Herb Jar**
 ---
 
 

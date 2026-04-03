@@ -7,9 +7,9 @@ Craft your necklace with this accessory to *add a bra to your mermaid look*!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mermaid Bra Modifier
+	- Acquire **Mermaid Bra Modifier**
 ---
 
 

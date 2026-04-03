@@ -8,9 +8,9 @@ There are *over 300 variants* of the Ranchu Goldfish!
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Ranchu Bucket
+	- Acquire **Ranchu Bucket**
 ---
 
 

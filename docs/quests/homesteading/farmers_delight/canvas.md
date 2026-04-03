@@ -12,9 +12,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Canvas
+	- Acquire **Canvas**
 ---
 
 

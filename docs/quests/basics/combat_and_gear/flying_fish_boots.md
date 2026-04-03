@@ -7,9 +7,9 @@ Made from parts from **Flying Fish**, these boots allow you to leap out the wate
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Flying Fish Boots
+	- Acquire **Flying Fish Boots**
 ---
 
 

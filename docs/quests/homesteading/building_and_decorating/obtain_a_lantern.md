@@ -12,9 +12,9 @@ Lanterns can now be placed on walls! That's it, that's the tweet.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Lantern
+	- Acquire **Lantern**
 ---
 
 

@@ -7,9 +7,9 @@ Did you know that **Undead** are susceptible to *Spores* and *Grow* spells? You 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Spore Blossom
+	- **Spore Blossom**
 ---
 
 

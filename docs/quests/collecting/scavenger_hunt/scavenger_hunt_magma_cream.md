@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Magma Cream
+	- Acquire **Magma Cream**
 ---
 
 

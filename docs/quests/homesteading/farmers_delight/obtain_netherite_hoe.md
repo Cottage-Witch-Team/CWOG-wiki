@@ -9,9 +9,9 @@ To honor your commitment, please take this reward.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Obtain Netherite Hoe
+	- **Obtain Netherite Hoe**
 ---
 
 

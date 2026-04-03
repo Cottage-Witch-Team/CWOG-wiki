@@ -9,9 +9,9 @@ The Pan must be ==placed atop a heat source==. The **Gravy Boat** must be placed
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Any Cookingpans
+	- Acquire **Any Cookingpans**
 ---
 
 

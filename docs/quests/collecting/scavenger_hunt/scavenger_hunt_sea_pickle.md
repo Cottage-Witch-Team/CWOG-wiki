@@ -7,9 +7,9 @@
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Sea Pickle
+	- Acquire **Sea Pickle**
 ---
 
 

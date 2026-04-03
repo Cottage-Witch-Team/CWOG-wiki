@@ -8,9 +8,9 @@ The **Gear Shift** can be ==rotated on either x or y axis== to help you ^^turn c
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Gearbox
+	- Acquire **Gearbox**
 ---
 
 

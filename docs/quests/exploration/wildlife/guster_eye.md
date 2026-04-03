@@ -8,9 +8,9 @@ Once defeated, they can drop their **Eyes**, which can be used either to make a 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Guster Eye
+	- Acquire **Guster Eye**
 ---
 
 

@@ -8,19 +8,19 @@ Many of the fish can either be *cooked* or *processed into other byproducts*. Us
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Blazefish
-	- Magmacubefish
-	- Glowdine
-	- Soulsucker
-	- Lava Pufferfish
-	- Searing Cod
-	- Obsidianfish
-	- Wither Bonefish
-	- Bonefish
-	- Fortress Grouper
-	- Eyeball Fish
+!!! tip
+	### Acquire :
+	- **Blazefish**
+	- **Magmacubefish**
+	- **Glowdine**
+	- **Soulsucker**
+	- **Lava Pufferfish**
+	- **Searing Cod**
+	- **Obsidianfish**
+	- **Wither Bonefish**
+	- **Bonefish**
+	- **Fortress Grouper**
+	- **Eyeball Fish**
 
 ---
 

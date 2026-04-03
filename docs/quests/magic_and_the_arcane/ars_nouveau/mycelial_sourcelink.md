@@ -9,9 +9,9 @@ It will also *generate mushrooms* and **Mycelium** in the surrounding area.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Mycelial Sourcelink
+	- Acquire **Mycelial Sourcelink**
 ---
 
 

@@ -11,13 +11,13 @@ The **Box Turtle** and **Leech** are found exclusively in *Swamp biomes*.
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Red Shrooma
-	- Brown Shrooma
-	- Box Turtle
-	- Starshell Turtle
-	- Leech
+!!! tip
+	### Acquire :
+	- **Red Shrooma**
+	- **Brown Shrooma**
+	- **Box Turtle**
+	- **Starshell Turtle**
+	- **Leech**
 
 ---
 

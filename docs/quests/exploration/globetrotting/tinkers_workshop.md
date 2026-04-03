@@ -8,9 +8,9 @@ Beware of **Pillagers**, and should you find any ladders down... well, *proceed 
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Tinkers Workshop
+	- **Tinkers Workshop**
 ---
 
 

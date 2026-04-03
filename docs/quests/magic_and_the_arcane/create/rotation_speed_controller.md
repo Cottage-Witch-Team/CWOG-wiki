@@ -10,9 +10,9 @@ The machinery will then adopt whatever speed you *set the Controller to*. ==Scro
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Acquire Rotation Speed Controller
+	- Acquire **Rotation Speed Controller**
 ---
 
 

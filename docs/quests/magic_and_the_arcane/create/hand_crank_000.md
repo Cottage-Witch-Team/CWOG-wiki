@@ -7,9 +7,9 @@ Turning a **Hand Crank** is hungry work! Quick, eat this before you pass out.
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Unlock Hand Crank 000
+	- **Hand Crank 000**
 ---
 
 

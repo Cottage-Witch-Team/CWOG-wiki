@@ -7,15 +7,15 @@
 
 
 
-!!! tip "Task:"
-	## Acquire :
-	- Bucket
-	- Palmtree
-	- Sandcastle
-	- Seaweedhat
-	- Summerhat
-	- Worm Hat
-	- Crabonhead
+!!! tip
+	### Acquire :
+	- **Bucket**
+	- **Palmtree**
+	- **Sandcastle**
+	- **Seaweedhat**
+	- **Summerhat**
+	- **Worm Hat**
+	- **Crabonhead**
 
 ---
 

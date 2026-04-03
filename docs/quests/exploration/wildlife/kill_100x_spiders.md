@@ -12,9 +12,9 @@ Just an easier way to get some of them harder to find insect items...
 
 
 
-!!! tip "Task:"
+!!! tip
 
-	- Kill Spider (100)
+	- Kill **Spider (100)**
 ---
 
 
