@@ -2,14 +2,14 @@
 # Kill: Skeleton
 
 
-!!! tip "Task:"
 
-	- Kill Skeleton (100)
 ---
 
 
 
+!!! tip "Task:"
 
+	- Kill Skeleton (100)
 ---
 
 

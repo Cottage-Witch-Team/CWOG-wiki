@@ -2,14 +2,14 @@
 # Defeat the Naga
 
 
-!!! tip "Task:"
 
-	- Unlock Progress Naga
 ---
 
 
 
+!!! tip "Task:"
 
+	- Unlock Progress Naga
 ---
 
 

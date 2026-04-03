@@ -2,14 +2,14 @@
 # Scavenger Hunt: 5 Disc
 
 
-!!! tip "Task:"
 
-	- Acquire Music Disc 5
 ---
 
 
 
+!!! tip "Task:"
 
+	- Acquire Music Disc 5
 ---
 
 

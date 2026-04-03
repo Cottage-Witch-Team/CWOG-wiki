@@ -131,8 +131,8 @@ class Quests(WikiBuildTask):
             f"""
 # {title}
 {subtitle}
-{task}
 {quest_description}
+{task}
             """,
         )
 

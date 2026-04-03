@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Bookwyrm Charm
----
-
-
 The **Bookwyrm** is a small flying creature that resembles a wyvern, with book pages for wings. You can summon it using a **Bookwyrm Charm** (made with **Iron** and **Source Gems** and **a book**), which you &6shift right click on a **Lectern**. After the Lectern finishes drawing magic to itself, the Bookwyrm will appear!
 
 When following you, the **Bookwyrm** *decreases your spell cost and increases your spell damage*.
@@ -20,6 +13,13 @@ When it is simply bound to a Lectern, it will *cast spells on the surrounding ar
 
 This ^^item is under construction^^ and so the quest is temporarily a *checkmark*.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Bookwyrm Charm
 ---
 
 

@@ -2,14 +2,14 @@
 # Eat Meef Stroganoff
 
 
-!!! tip "Task:"
 
-	- Unlock Progress Labyrinth
 ---
 
 
 
+!!! tip "Task:"
 
+	- Unlock Progress Labyrinth
 ---
 
 

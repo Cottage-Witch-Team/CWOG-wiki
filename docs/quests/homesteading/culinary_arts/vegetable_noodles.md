@@ -1,6 +1,11 @@
 
 # Vegetable Noodles
 
+Vegetarian? No worries, we got you covered! Why not make some delicious *vegetarian dishes?*
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -9,11 +14,6 @@
 	- Vegetable Chowder
 	- Vegetable Soup
 	- Sauteed Vegetables
-
----
-
-
-Vegetarian? No worries, we got you covered! Why not make some delicious *vegetarian dishes?*
 
 ---
 

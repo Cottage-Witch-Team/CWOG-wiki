@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Storage Bus
----
-
-
 You can easily connect external storage to your system using... the **Nexus Storage Anchor**! 
 
 {image:cottagewitch:textures/quest_images/ae2_storage_anchor.png width:130 height:70 align:1}
@@ -40,6 +33,13 @@ The number here can be ==adjusted using the buttons==, or by ==typing a value== 
 
 ^^Here's an example^^: you keep much of your storage in your **Glyphic Repository**. But you have a gold farm which feeds into a simple ***Functional Storage*** **drawer** setup. If you set a higher priority to the **Storage Anchor** connected to these drawers, any time you *add or remove gold from your console*, the system will *check the priority list* and choose this location first.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Storage Bus
 ---
 
 

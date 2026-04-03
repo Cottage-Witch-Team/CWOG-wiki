@@ -2,6 +2,11 @@
 # Winter Exclusives!
 
 
+
+---
+
+
+
 !!! tip "Task:"
 	## Acquire :
 	- Bigribbon
@@ -15,11 +20,6 @@
 	- Penguinbaby
 	- Penguinhat
 	- Snowmanbaby
-
----
-
-
-
 
 ---
 

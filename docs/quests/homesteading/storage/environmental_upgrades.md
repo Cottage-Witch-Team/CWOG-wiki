@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Any Sophb Environmental
----
-
-
 These upgrades allow your backpack to operate outside the confines of its leather!
 
 ==Pickup Upgrade== will reroute any items you pick up to enter your backpack instead of your inventory. 
@@ -23,6 +16,13 @@ To get the most of these upgrades, we suggest ==checking out the settings tab== 
 
 Your settings will be saved for each upgrade *even if you remove it.*
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Any Sophb Environmental
 ---
 
 

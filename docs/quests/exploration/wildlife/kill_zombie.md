@@ -2,14 +2,14 @@
 # Kill: Zombie
 
 
-!!! tip "Task:"
 
-	- Kill Zombie (100)
 ---
 
 
 
+!!! tip "Task:"
 
+	- Kill Zombie (100)
 ---
 
 

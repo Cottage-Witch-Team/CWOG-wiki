@@ -1,6 +1,11 @@
 
 # The Full Set: Iron Tools
 
+Full Iron tools! Feels good to make progress, huh? Congrats!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -10,11 +15,6 @@
 	- Iron Axe
 	- Iron Hoe
 	- Iron Knife
-
----
-
-
-Full Iron tools! Feels good to make progress, huh? Congrats!
 
 ---
 

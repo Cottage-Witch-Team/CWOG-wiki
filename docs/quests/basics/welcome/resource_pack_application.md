@@ -1,13 +1,6 @@
 
 # Resource Pack Application
 
-
-!!! tip "Task:"
-
-	- Resource Pack Application
----
-
-
 This modpack comes with *a lot of resourcepacks* for you to use! Most of them should be enabled by default thanks to ***Resource Pack Overrides***, but they don't always work perfectly. If you find yourself needing to do something manually - 
 
 We recommend enabling all of them, except for the following:
@@ -24,6 +17,13 @@ We recommend enabling all of them, except for the following:
 
 The order in which you enable the resourcepacks *should not matter*, as they are ^^edited to be compatible with one another^^.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Resource Pack Application
 ---
 
 

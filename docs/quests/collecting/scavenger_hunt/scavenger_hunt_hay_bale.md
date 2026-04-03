@@ -2,14 +2,14 @@
 # Scavenger Hunt: Hay Bale
 
 
-!!! tip "Task:"
 
-	- Acquire Hay Block
 ---
 
 
 
+!!! tip "Task:"
 
+	- Acquire Hay Block
 ---
 
 

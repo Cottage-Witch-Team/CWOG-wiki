@@ -1,6 +1,11 @@
 
 # Rare Hats
 
+You call this a rare hat? This hat is medium &oat best!&r 
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -31,11 +36,6 @@
 	- Winghat
 	- Zigzagwitchhat
 	- Dragonskullender
-
----
-
-
-You call this a rare hat? This hat is medium &oat best!&r 
 
 ---
 

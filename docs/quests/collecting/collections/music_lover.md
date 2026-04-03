@@ -6,6 +6,11 @@
 ---
 
 
+Obtain all vanilla music discs.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -23,11 +28,6 @@
 	- Music Disc Wait
 	- Music Disc Otherside
 	- Music Disc Pigstep
-
----
-
-
-Obtain all vanilla music discs.
 
 ---
 

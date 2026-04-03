@@ -6,15 +6,15 @@
 ---
 
 
+Make some purulent tea. It may give you weakness, but it also extends a random effect by 15 seconds. So that's kinda good, right?
+
+---
+
+
 
 !!! tip "Task:"
 
 	- Acquire Purulent Tea
----
-
-
-Make some purulent tea. It may give you weakness, but it also extends a random effect by 15 seconds. So that's kinda good, right?
-
 ---
 
 

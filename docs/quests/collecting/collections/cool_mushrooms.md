@@ -6,6 +6,11 @@
 ---
 
 
+Mushrooms are rad as hell. Why not try collecting all of them? Then you can have a super beautiful mushroom glade.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -26,11 +31,6 @@
 	- Button Mushroom
 	- White Inkcap Mushroom
 	- Inkcap Mushroom
-
----
-
-
-Mushrooms are rad as hell. Why not try collecting all of them? Then you can have a super beautiful mushroom glade.
 
 ---
 

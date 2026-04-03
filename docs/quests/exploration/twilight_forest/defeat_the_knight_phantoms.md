@@ -2,14 +2,14 @@
 # Defeat the Knight Phantoms
 
 
-!!! tip "Task:"
 
-	- Unlock Progress Knights
 ---
 
 
 
+!!! tip "Task:"
 
+	- Unlock Progress Knights
 ---
 
 

@@ -1,6 +1,13 @@
 
 # Ship Your Crops
 
+Have you ==automated your farm==? Then you probably know the pain of excessive crop ownership. ==Submit your crops to this quest== to earn rewards.
+
+^^This quest is repeatable^^.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -16,13 +23,6 @@
 	- Cucumber Crate (10)
 	- Corn Cob Crate (10)
 	- Eggplant Crate (10)
-
----
-
-
-Have you ==automated your farm==? Then you probably know the pain of excessive crop ownership. ==Submit your crops to this quest== to earn rewards.
-
-^^This quest is repeatable^^.
 
 ---
 

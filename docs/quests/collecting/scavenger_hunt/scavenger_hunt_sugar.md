@@ -2,14 +2,14 @@
 # Scavenger Hunt: Sugar
 
 
-!!! tip "Task:"
 
-	- Acquire Sugar
 ---
 
 
 
+!!! tip "Task:"
 
+	- Acquire Sugar
 ---
 
 

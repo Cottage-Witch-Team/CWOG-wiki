@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Any Scythe
----
-
-
 The **Reaping Tool**, known in some circles as a Scythe, allows you to perform a finicky sort of magic known as *Reaping*.
 
 One ==right clicks== with the **Scythe** to reap an animal. If successful, you will *obtain its drops without killing it*, instead stealing its youth and transforming it into a baby. However, if you are unsuccessful, *nature takes its course*.
@@ -30,6 +23,13 @@ Placing a **Reaping Tool** into an **Enchanting Table** results in ^^Unbreaking 
 **Reaping Tools** can be enchanted with *Mending, Sharpness, and Unbreaking*, as you might expect.
 However, they can also be enchanted with *Executioner*, which ^^currently has no effect^^.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Any Scythe
 ---
 
 

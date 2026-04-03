@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Ritual Binding
----
-
-
 **Familiars** are small creatures who help you with your magical duties. These differ from **Crows** in both how you meet them, and what they can do.
 
 Firstly, you must obtain the **Charm** of each Familiar. This is done differently depending on which one you're trying to summon. But you will need to ==activate their Charm== before beginning the Ritual.
@@ -23,6 +16,13 @@ Read on for more information about each Familiar, both in Familiar mode and out.
 
 You can dismiss your summoned Familiar with a *Dispel* Spell. Break the blocks they came from to *get back their Charm*.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Ritual Binding
 ---
 
 

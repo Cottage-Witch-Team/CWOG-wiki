@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Meet Griffon
----
-
-
 These uncommon bird... mammal... things... are sometimes seen flying over *mountaintops*, feeding on **rabbit** and **mutton**. They are a loyal partner when ==tamed==, and will *defend their owner*. 
 
 
@@ -28,6 +21,13 @@ List of All Biomes:
 - *Canadian Shield*,
 - *Howling Peaks*
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Meet Griffon
 ---
 
 

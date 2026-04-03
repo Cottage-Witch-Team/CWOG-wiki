@@ -6,15 +6,15 @@
 ---
 
 
+Quacklings are bizarre, yet friendly creatures that primarily live in Swamps. They can be traded with, just like human villagers!
+
+---
+
+
 
 !!! tip "Task:"
 
 	- Meet Quackling
----
-
-
-Quacklings are bizarre, yet friendly creatures that primarily live in Swamps. They can be traded with, just like human villagers!
-
 ---
 
 

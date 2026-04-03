@@ -2,14 +2,14 @@
 # Scavenger Hunt: Diamond
 
 
-!!! tip "Task:"
 
-	- Acquire Diamond
 ---
 
 
 
+!!! tip "Task:"
 
+	- Acquire Diamond
 ---
 
 

@@ -1,6 +1,11 @@
 
 # Kill: Wither Skeleton
 
+If you manage to defeat 500 **Wither Skeletons**, then you deserve this reward: a **Wither Skeleton Spawn Egg**, and a **Spawner** to put it in.
+
+---
+
+
 
 !!! tip "Task:"
 
@@ -8,23 +13,18 @@
 ---
 
 
-If you manage to defeat 500 **Wither Skeletons**, then you deserve this reward: a **Wither Skeleton Spawn Egg**, and a **Spawner** to put it in.
+            
+# Kill: Wither Skeleton
+
+
 
 ---
 
-
-            
-# Kill: Wither Skeleton
 
 
 !!! tip "Task:"
 
 	- Kill Wither Skeleton (15)
----
-
-
-
-
 ---
 
 

@@ -6,6 +6,11 @@
 ---
 
 
+For this quest, show your love of color by collecting each different type of wool.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -24,11 +29,6 @@
 	- Brown Wool
 	- Green Wool
 	- Black Wool
-
----
-
-
-For this quest, show your love of color by collecting each different type of wool.
 
 ---
 

@@ -1,13 +1,6 @@
 
 # Crafting Beyond The Table
 
-
-!!! tip "Task:"
-
-	- Acquire Mechanical Crafter (21)
----
-
-
 Interested in *auto-crafting, but don't have any &eWixies* yet? Try **Mechanical Crafters**.
 
 Set them up in the correct shape and provide them with *Rotational Force* to get them going. You can feed items into them using many options - **Mechanical Arms, Hoppers, Pipez**, or others!
@@ -16,6 +9,13 @@ You need to be sure to &6align their arrows correctly using the **Wrench**, so t
 {image:cottagewitch:textures/mechanicalcrafter.png width:100 height:100 align:1 fit:true}
 This image is only *one example* of a shape you can place them in. You can do a simple 3x3 for most recipes, but ^^you'll need the above setup for the next quest^^.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Mechanical Crafter (21)
 ---
 
 

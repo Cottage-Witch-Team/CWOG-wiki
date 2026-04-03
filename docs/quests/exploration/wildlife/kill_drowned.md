@@ -2,14 +2,14 @@
 # Kill: Drowned
 
 
-!!! tip "Task:"
 
-	- Kill Drowned (100)
 ---
 
 
 
+!!! tip "Task:"
 
+	- Kill Drowned (100)
 ---
 
 

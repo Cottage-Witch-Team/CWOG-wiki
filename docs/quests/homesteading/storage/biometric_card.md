@@ -1,13 +1,6 @@
 
 # Biometric Card
 
-
-!!! tip "Task:"
-
-	- Acquire Biometric Card
----
-
-
 The **Ward Bypass** is an item which allows you configure the behavior of your *Nexus*. To alter the **Bypass**, place it in the **Guardian Ward** and ==select the appropriate permissions==, as in the image below.
 
 {image:cottagewitch:textures/quest_images/ae2_guardian_ward.png width:250 height:250 align:1}
@@ -18,6 +11,13 @@ To claim a **Ward Bypass**, a player should ==hold it in their hand and shift-cl
 
 ^^A quick note on Nexus owners^^ - if you were the person to &aplace down the **Guardian Ward**, you cannot deposit a claimed **Bypass**. This is designed to prevent witches from accidentally banning themselves from their own Nexus.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Biometric Card
 ---
 
 

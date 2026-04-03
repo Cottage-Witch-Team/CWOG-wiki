@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Item Pipe
----
-
-
 The **Item Pipe** is a way for you to easily transfer items from one inventory to another.
 
 It can *connect to an individual chest, barrel, or a whole network* via a **Inventory Connector**.
@@ -23,6 +16,13 @@ You can use a **Wrench** (either from ***Pipez*** or ***Create*** - the one from
 {image:cottagewitch:textures/depositextract.png width:300 height:150 align:1}
 Once in *Extract Mode*, you can ==right click on the pipe== to access its menu.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Item Pipe
 ---
 
 

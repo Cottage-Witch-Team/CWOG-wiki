@@ -6,27 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-	## Acquire :
-	- Tomato
-	- Onion
-	- Rice Panicle
-	- Cabbage
-	- Mint
-	- Ginger
-	- Cinnamon Stick
-	- Avocado
-	- Cucumber
-	- Eggplant
-	- Corn Cob
-	- Cave Carrot
-	- Pomegranate
-	- Lime
-
----
-
-
 This pack adds a number of new crop types! Wild versions of these can be found throughout the world while exploring, and then you can plant them in your garden at home.
 
 From ***Farmer's Delight***:
@@ -52,6 +31,27 @@ From ***Farmer's Delight***:
 ***Collector's Reap***:
 - **Limes** are located solely in *Flower Forest* biomes, and require *pollination by &eBees* to produce fruit.
 - **Pomegranates** can only be found in *Warped Forest* biomes, and either need to be *grown in the *Nether*, or &arequire &apollination by &eBees* to produce fruit.
+
+---
+
+
+
+!!! tip "Task:"
+	## Acquire :
+	- Tomato
+	- Onion
+	- Rice Panicle
+	- Cabbage
+	- Mint
+	- Ginger
+	- Cinnamon Stick
+	- Avocado
+	- Cucumber
+	- Eggplant
+	- Corn Cob
+	- Cave Carrot
+	- Pomegranate
+	- Lime
 
 ---
 

@@ -1,6 +1,11 @@
 
 # Collect Chubby Crops
 
+Gather &6one of each kind of **Overweight Crop**, which can be used as decoration, or &6cut on a **Cutting Board**.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -14,11 +19,6 @@
 	- Overweight Golden Apple Block
 	- Overweight Onion Block
 	- Overweight Cabbage Block
-
----
-
-
-Gather &6one of each kind of **Overweight Crop**, which can be used as decoration, or &6cut on a **Cutting Board**.
 
 ---
 

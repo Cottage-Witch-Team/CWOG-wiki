@@ -1,6 +1,11 @@
 
 # Obtain Archmage Armor
 
+The highest tier armor, this **Archmage set** is almost as good as **Netherite**, with hefty bonuses to *mana*.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -8,11 +13,6 @@
 	- Archmage Robes
 	- Archmage Leggings
 	- Archmage Boots
-
----
-
-
-The highest tier armor, this **Archmage set** is almost as good as **Netherite**, with hefty bonuses to *mana*.
 
 ---
 

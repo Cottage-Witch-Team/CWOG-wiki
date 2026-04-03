@@ -1,6 +1,11 @@
 
 # The Full Seti: The Yeti
 
+Obtain a full set of **Alpha Yeti Armor** from the *Twilight Forest*.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -8,11 +13,6 @@
 	- Yeti Chestplate
 	- Yeti Leggings
 	- Yeti Boots
-
----
-
-
-Obtain a full set of **Alpha Yeti Armor** from the *Twilight Forest*.
 
 ---
 

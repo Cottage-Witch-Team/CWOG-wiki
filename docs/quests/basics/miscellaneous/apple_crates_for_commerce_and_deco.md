@@ -1,13 +1,6 @@
 
 # Apple Crates for Commerce and Deco!
 
-
-!!! tip "Task:"
-
-	- Acquire Any Apple Crates
----
-
-
 If you're playing with others, you can use Crates from the ***Apple Crates*** mod to *sell items to one another*!
 
 {image:cottagewitch:textures/quest_images/applecrates.png width:250 height:250 align:1}
@@ -26,6 +19,13 @@ If you're playing with others, you can use Crates from the ***Apple Crates*** mo
 
 (White - G) This is your personal inventory!
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Any Apple Crates
 ---
 
 

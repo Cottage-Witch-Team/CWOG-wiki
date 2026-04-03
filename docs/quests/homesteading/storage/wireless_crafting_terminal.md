@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Wireless Crafting Terminal
----
-
-
 So your storage is *wireless*, but how do you *access the contents when you're away*? You'll need to ==craft== a **Resonant Aperture**, of course.
 
 When you craft the **Resonant Aperture**, it will start *unattuned*. *To attune it to your nexus* you must ==insert it into a== **Guardian Ward**.
@@ -23,6 +16,13 @@ You can gain *infinite, cross dimensional access* by creating a **Planar Bridge 
 
 Over time and with use, the **Resonant Aperture** may *lose resonance*, and if this occurs, you can &6place it in a **Charging Gadget** to fill it back up with *resonance*.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Wireless Crafting Terminal
 ---
 
 

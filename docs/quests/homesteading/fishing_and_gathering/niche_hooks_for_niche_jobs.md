@@ -1,13 +1,6 @@
 
 # Niche Hooks for Niche Jobs
 
-
-!!! tip "Task:"
-
-	- Acquire Any Niche Hooks
----
-
-
 Different **Hooks** give different effects. Some are pure upgrades, but these will *grant other effects*!
 
 **Heavy Hook**: Has a shorter cast range than other hooks.
@@ -18,6 +11,13 @@ Different **Hooks** give different effects. Some are pure upgrades, but these wi
 
 **Light Hook**: Allows you to cast farther.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Any Niche Hooks
 ---
 
 

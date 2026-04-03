@@ -6,6 +6,11 @@
 ---
 
 
+Use your newly-acquired **Magebloom Fiber** to craft yourself a set of **Novice Robes**, which will *increase the amount of mana* you have access to.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -13,11 +18,6 @@
 	- Novice Robes
 	- Novice Leggings
 	- Novice Boots
-
----
-
-
-Use your newly-acquired **Magebloom Fiber** to craft yourself a set of **Novice Robes**, which will *increase the amount of mana* you have access to.
 
 ---
 

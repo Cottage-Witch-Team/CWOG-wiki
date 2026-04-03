@@ -2,14 +2,14 @@
 # Scavenger Hunt: Egg
 
 
-!!! tip "Task:"
 
-	- Acquire Egg
 ---
 
 
 
+!!! tip "Task:"
 
+	- Acquire Egg
 ---
 
 

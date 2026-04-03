@@ -1,6 +1,11 @@
 
 # The Full Set: Ironwood Armor
 
+Obtain a full set of **Ironwood Armor** from the *Twilight Forest*.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -8,11 +13,6 @@
 	- Ironwood Chestplate
 	- Ironwood Leggings
 	- Ironwood Boots
-
----
-
-
-Obtain a full set of **Ironwood Armor** from the *Twilight Forest*.
 
 ---
 

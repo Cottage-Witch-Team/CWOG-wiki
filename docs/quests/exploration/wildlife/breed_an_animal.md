@@ -6,15 +6,15 @@
 ---
 
 
+Find two animals and breed them in order to get this advancement and begin these quests!
+
+---
+
+
 
 !!! tip "Task:"
 
 	- Unlock Breed An Animal
----
-
-
-Find two animals and breed them in order to get this advancement and begin these quests!
-
 ---
 
 
