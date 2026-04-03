@@ -266,15 +266,15 @@ class Quests(WikiBuildTask):
             "observation": "Meet ",
         }
         single_task = len(tasks) == 1
-        task_string = "# Task" + ("s" if not single_task else "") + ":\n"
+        task_string = '!!! tip "Task' + ("s" if not single_task else "") + ':"\n'
 
         for task_type, subtask in tasks.items():
             single_subtask = len(subtask) == 1
 
             if single_subtask:
-                task_string += f"\n- {task_matrix[task_type]}{subtask[0]}"
+                task_string += f"\n\t- {task_matrix[task_type]}{subtask[0]}"
             else:
-                task_string += "## " + task_matrix[task_type] + ":\n"
-                for item in [f"- {t}\n" for t in subtask]:
+                task_string += "\t## " + task_matrix[task_type] + ":\n"
+                for item in [f"\t- {t}\n" for t in subtask]:
                     task_string += item
         return task_string
