@@ -11,8 +11,7 @@ A mid-game method of generating rotational force is with a windmill. A small win
 
 A windmill requires a **Windmill Bearing**, which can be *placed facing any direction*. The front face of the Bearing is sticky, and ==a block placed on it== will become part of the windmill. The back of the bearing is where shafts can be connected to distribute the windmill’s rotational force.
 
-^^Now you have two choices^^, using **Sails** or **Wools** as the 
- blocks.
+^^Now you have two choices^^, using **Sails** or **Wools** as the “sail-like” blocks.
 
 Once you have attached 8 or more **Sails** or sail-like blocks, ==right click the **Windmill Bearing** to activate the structure==. ==Hold right-click while looking at the side of bearing== to configure the rotational direction of the windmill. If **Wools** are used, you have to ==apply glue to attach the blocks together== as they do not automatically connect like sails do.
 
