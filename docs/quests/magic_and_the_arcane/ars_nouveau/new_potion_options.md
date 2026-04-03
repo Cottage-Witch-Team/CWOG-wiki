@@ -16,7 +16,7 @@ There are two variants of the Potion Flask: *Extend Time* and *Amplify*. I think
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Potion Jar**
 	- **Potion Flask**

@@ -18,7 +18,7 @@ Other non-**Sails** or **Wools** blocks can also be attached to the windmill str
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Windmill Bearing**
 ---

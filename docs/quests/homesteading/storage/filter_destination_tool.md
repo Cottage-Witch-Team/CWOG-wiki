@@ -8,7 +8,7 @@ You can assign it an inventory by &6right clicking it ***on the face of the bloc
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Filter Destination Tool**
 ---

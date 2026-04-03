@@ -13,7 +13,7 @@ The Coffer can be both dyed and renamed.
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Coffer**
 ---

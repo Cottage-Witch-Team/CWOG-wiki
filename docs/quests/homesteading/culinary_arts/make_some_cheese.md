@@ -17,7 +17,7 @@ You can also *age cheese quickly* with Create ==Haunting==. Trauma causes the ch
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Scarlet Cheese Wheel**
 	- **Flaxen Cheese Wheel**

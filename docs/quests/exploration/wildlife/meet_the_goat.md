@@ -8,7 +8,7 @@ However, if you can get it to *charge into a hard block* such as **Stone**, it w
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Meet **Goat**
 ---

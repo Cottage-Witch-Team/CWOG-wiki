@@ -7,7 +7,7 @@ Make this advancement by crafting the **Assorted Salad**.
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- **Get Assorted Salad**
 ---

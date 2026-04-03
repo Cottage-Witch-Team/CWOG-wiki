@@ -12,7 +12,7 @@
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Stats: **Deaths = 50**
 ---

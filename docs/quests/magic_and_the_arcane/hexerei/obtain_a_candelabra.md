@@ -14,7 +14,7 @@ It seamlessly connects to hanging **Chains**.
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Candelabra**
 ---

@@ -12,7 +12,7 @@ As you improve your backpack, you will unlock upgrade slots. Just like with ***S
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Any Sophb Inventory**
 ---

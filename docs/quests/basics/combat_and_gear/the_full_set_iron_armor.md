@@ -7,7 +7,7 @@ Obtain a full set of **Iron Armor**. Hey, it's better than Leather!
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Iron Helmet**
 	- **Iron Chestplate**

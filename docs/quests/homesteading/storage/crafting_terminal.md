@@ -11,7 +11,7 @@ That's it- that's literally *all you need to know* for a basic setup. Everything
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Crafting Terminal**
 	- **Terminal**

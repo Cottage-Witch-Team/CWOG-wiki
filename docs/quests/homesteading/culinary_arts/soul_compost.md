@@ -12,7 +12,7 @@ You can also use **Hoglin Hides** to create Soul **Compost**, which will slowly 
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Soul Compost**
 ---

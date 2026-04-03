@@ -12,7 +12,7 @@
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Moonworm Queen**
 ---

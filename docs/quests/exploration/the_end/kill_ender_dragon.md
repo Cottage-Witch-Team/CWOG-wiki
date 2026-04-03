@@ -10,7 +10,7 @@ You did it! You beat the game. Congrats, you can all go home now.
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Kill **Ender Dragon**
 ---
@@ -30,7 +30,7 @@ You killed the Dragon twice? Well, my goodness.
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Kill **Ender Dragon (2)**
 ---

@@ -22,7 +22,7 @@ Unfortunately, ^^Epic Hats^^ are not able to be broken down as they are too epic
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Hatscraps Common**
 ---

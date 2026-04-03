@@ -14,7 +14,7 @@ Only two Potion Jars can be used at a time, however, you can ==fill one Jar with
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Potion Melder**
 ---

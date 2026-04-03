@@ -14,7 +14,7 @@ Once he's defeated, ==be sure to loot the chest that he spawns==, as you will ne
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Find **Naga Courtyard**
 ---

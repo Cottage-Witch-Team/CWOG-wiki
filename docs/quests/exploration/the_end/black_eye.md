@@ -7,7 +7,7 @@ The **Black Eye**, which once gave sight to the mighty Black Pearl, is now hidde
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Black Eye**
 ---

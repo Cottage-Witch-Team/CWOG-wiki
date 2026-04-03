@@ -9,7 +9,7 @@ This includes *other budding crystals* such as **Budding Amethyst**, **Budding A
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Quartz Growth Accelerator**
 ---

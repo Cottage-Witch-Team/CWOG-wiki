@@ -13,7 +13,7 @@ Remember that if you need to explore out over the void, you can do so on your **
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Enter **The End**
 ---

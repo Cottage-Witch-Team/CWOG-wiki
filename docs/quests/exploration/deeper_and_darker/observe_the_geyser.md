@@ -12,7 +12,7 @@ Encounter a **Geyser**, a block which will *boost you into the air* and *grant y
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Meet **Gloomy Geyser**
 ---

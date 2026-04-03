@@ -9,7 +9,7 @@ This item can only be cut with the *extreme sharpness* of a **Nether Star** on a
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Non Hatchable Dragon Egg**
 ---

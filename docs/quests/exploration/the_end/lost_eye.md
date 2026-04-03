@@ -7,7 +7,7 @@ Forged in the time before history began by ancient Blacksmiths, the **Lost Eye**
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Lost Eye**
 ---

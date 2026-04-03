@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Kill **Pillager (100)**
 ---

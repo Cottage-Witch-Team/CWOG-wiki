@@ -22,7 +22,7 @@ When a chunk is claimed, ^^other server members cannot break or interact with bl
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- **Claim and Load Chunks**
 ---

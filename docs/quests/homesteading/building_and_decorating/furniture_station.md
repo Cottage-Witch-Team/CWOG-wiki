@@ -14,7 +14,7 @@ The crafting system is a little different from usual, however. Each recipe costs
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Furniture Station**
 ---

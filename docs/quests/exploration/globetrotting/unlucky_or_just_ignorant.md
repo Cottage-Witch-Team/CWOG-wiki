@@ -7,7 +7,7 @@ Congratulations, you have opened 10 trapped chests! An achievement worth celebra
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Stats: **Trigger Trapped Chest = 10**
 ---

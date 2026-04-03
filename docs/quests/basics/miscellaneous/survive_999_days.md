@@ -7,7 +7,7 @@ Playing a fun game is its own reward, but here's an extra bonus for spending so 
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Survive **999 days**
 ---

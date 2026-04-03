@@ -8,7 +8,7 @@ Many of the fish can either be *cooked* or *processed into other byproducts*. Us
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Blazefish**
 	- **Magmacubefish**

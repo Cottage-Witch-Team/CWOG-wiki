@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Cookie**
 	- **Sweet Berry Cookie**

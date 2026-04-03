@@ -15,7 +15,7 @@ To seek the ^^Stronghold^^, you can use any of these eyes the way you would use 
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Any Eyes**
 ---

@@ -9,7 +9,7 @@ No, that's it, that's the whole sentence.
 
 
 
-!!! tip
+!!! tip 'TASKS' 
 
 	- Stats: **Pig One Cm = 10000**
 	- Acquire **Carrot On A Stick**

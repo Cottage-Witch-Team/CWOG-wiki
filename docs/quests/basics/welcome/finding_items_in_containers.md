@@ -16,7 +16,7 @@ Then, inventories containing that item will be highlighted with these little par
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- **I know how to find things now**
 ---

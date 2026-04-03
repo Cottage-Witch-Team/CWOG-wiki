@@ -20,7 +20,7 @@ Now that you know how to read the recipes, let's make some!
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Guide Book**
 ---

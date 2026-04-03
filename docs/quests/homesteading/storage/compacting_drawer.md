@@ -13,7 +13,7 @@ The **Simple Compacting Drawer** does the same thing, except for items which onl
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Compacting Drawer**
 	- **Simple Compacting Drawer**

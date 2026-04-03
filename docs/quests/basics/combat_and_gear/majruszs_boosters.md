@@ -14,7 +14,7 @@ To attach a booster, simply ==combine the accessory and booster together in a cr
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Any Maj Boosters**
 ---

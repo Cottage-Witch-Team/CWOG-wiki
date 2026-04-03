@@ -14,7 +14,7 @@ The **Hide/Show Upgrades** will show or hide what upgrades a Drawer currently co
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Configuration Tool**
 ---

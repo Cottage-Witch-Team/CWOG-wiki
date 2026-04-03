@@ -27,7 +27,7 @@ Continued on next page.
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Camera**
 ---

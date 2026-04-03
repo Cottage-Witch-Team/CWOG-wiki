@@ -7,7 +7,7 @@ Traverse all Nether biomes!
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- **Explore Nether**
 ---

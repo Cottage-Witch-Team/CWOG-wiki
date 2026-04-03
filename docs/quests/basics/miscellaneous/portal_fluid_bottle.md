@@ -11,7 +11,7 @@ To use the item, either ==drink it from the bottle== or ==place it in a cauldron
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Portal Fluid Bottle**
 ---

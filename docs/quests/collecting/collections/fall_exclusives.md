@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Batwinghat**
 	- **Eevee Ears**

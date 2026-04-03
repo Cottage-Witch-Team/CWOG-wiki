@@ -12,7 +12,7 @@ Mushroom colonies can be *grown in complete darkness* using **Rich Soil**. If yo
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Any Mushcolony**
 ---

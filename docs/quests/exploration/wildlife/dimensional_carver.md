@@ -7,7 +7,7 @@ The **Dimensional Carver** is an item which can *tear through space* to teleport
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Dimensional Carver**
 ---

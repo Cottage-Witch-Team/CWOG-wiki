@@ -9,7 +9,7 @@ This item *summons &eFarseers*, a long-forgotten race of multidimensional spirit
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Gate Pearl**
 ---

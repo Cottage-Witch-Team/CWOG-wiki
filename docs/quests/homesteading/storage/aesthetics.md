@@ -13,7 +13,7 @@ Facades ^^can be removed^^ once they have been placed on a **cable block** by ==
 
 
 
-!!! tip
+!!! tip 'TASKS' 
 
 	- **Aesthetics**
 	- Acquire **Fluix Covered Cable**

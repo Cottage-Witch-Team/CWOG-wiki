@@ -7,7 +7,7 @@ Unfortunately, this won't get you better deals with villagers. The **Rings of Di
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Ring Of Lesser Discount**
 ---

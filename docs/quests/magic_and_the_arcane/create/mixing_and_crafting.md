@@ -10,7 +10,7 @@ Take these ingredients and ==set up your Basin above a Heat Source==. This shoul
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Mechanical Mixer**
 	- **Basin**

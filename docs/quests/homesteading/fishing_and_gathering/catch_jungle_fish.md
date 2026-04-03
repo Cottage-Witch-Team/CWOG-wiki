@@ -12,7 +12,7 @@ These fish can be found in *Jungle-type* biomes such as Rainforests or, well, Ju
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Arapaima**
 	- **Arrau Turtle**

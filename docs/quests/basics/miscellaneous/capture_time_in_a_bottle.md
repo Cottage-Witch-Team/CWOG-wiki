@@ -9,7 +9,7 @@ Craft the **Time in a Bottle** and hold it in your inventory to accumulate time.
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Time In A Bottle**
 ---

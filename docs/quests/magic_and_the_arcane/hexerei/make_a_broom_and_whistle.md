@@ -21,7 +21,7 @@ Be aware that this ^^works best when your broom is in sight^^. It will try to fl
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Broom Whistle**
 	- **Any Brooms**

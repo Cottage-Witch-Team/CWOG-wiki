@@ -12,7 +12,7 @@ Winning a *Raid* can be a satisfying challenge. Even better, win a bunch of raid
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Stats: **Raid Win = 10**
 ---

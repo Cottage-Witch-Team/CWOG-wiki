@@ -12,7 +12,7 @@ Similar to the **Display Case**, the **Pedestal** is a way to decoratively displ
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Pedestal**
 ---

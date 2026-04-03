@@ -7,7 +7,7 @@ Obtain a **full set of Diamond Tools** to earn a unique armor set!
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Diamond Sword**
 	- **Diamond Shovel**

@@ -7,7 +7,7 @@ Obtain a full set of **Arctic Fur Armor** from the Yeti caves in *Twilight Fores
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Arctic Helmet**
 	- **Arctic Chestplate**

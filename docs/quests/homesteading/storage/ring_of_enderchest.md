@@ -9,7 +9,7 @@ It *cannot be worn as a Curio* but instead must be ==held and right clicked== in
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Ring Of Enderchest**
 ---

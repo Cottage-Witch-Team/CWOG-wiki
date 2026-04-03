@@ -7,7 +7,7 @@ The **Starbuncles** are capable of taking lessons from **Bookwyrms** using the *
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Wyrm Degree**
 ---

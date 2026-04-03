@@ -7,7 +7,7 @@ A **Rogue Eye** can be found in a ^^Jungle Temple^^, and is rumored to have give
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Rogue Eye**
 ---

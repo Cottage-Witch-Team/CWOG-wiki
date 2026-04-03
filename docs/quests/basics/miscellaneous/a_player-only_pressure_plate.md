@@ -12,7 +12,7 @@ The **Obsidian Pressure Plate** can *only be activated by players*, making it ve
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Obsidian Pressure Plate**
 ---

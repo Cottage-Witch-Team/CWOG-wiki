@@ -12,7 +12,7 @@ Although you cannot *fillet* the **Goldfish**, you can extract gold from it! Alt
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Goldfish**
 ---

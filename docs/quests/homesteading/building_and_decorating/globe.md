@@ -12,7 +12,7 @@ The Globe is a decorative item which is unique per world. When interacted with, 
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Globe**
 ---

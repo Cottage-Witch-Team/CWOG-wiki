@@ -12,7 +12,7 @@ Goblin Traders are friendly fellows who are always happy to do business with hum
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Meet **Goblin Trader**
 ---

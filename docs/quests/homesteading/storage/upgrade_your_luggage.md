@@ -9,7 +9,7 @@ The easiest way for this to happen is to use a *Ritual of Zapping*, for which yo
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Ritual Tesla Coil**
 ---

@@ -13,7 +13,7 @@ You can use this to gain an advantage in combat, or even to give yourself a boos
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Peacock Feather Fan**
 ---

@@ -12,7 +12,7 @@ You can use a **Net** to catch **Lizards** and put them in your inventory!
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Entity Net**
 ---

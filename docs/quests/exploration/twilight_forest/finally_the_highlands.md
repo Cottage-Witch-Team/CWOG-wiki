@@ -15,7 +15,7 @@ Then, you can ==return underground and use the Giant Pick== to break open the la
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Visit **Highlands**
 ---

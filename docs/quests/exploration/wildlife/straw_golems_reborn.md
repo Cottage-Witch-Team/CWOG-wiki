@@ -18,7 +18,7 @@ While villages of wild Straw Golems may be found in *Autumnal Valleys*, you can 
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Hay Block**
 ---

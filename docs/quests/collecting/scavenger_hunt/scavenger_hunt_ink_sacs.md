@@ -7,7 +7,7 @@
 
 
 
-!!! tip
+!!! tip 'TASK' 
 	### Acquire :
 	- **Glow Ink Sac**
 	- **Ink Sac**

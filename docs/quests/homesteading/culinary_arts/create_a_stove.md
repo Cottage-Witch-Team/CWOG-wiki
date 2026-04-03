@@ -14,7 +14,7 @@ The **Stove** can also be used as a heat source for the **Cooking Pot**, but if 
 
 
 
-!!! tip
+!!! tip 'TASK' 
 
 	- Acquire **Stove**
 ---

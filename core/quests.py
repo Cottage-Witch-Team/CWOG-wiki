@@ -262,7 +262,8 @@ class Quests(WikiBuildTask):
             "observation": "Meet ",
         }
         single_task = len(tasks) == 1
-        task_string = "!!! tip\n"
+        s = "S" if not single_task else ""
+        task_string = f"!!! tip 'TASK{s}' \n"
 
         for task_type, subtask in tasks.items():
             single_subtask = len(subtask) == 1
