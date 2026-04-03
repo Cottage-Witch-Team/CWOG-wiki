@@ -1,13 +1,6 @@
 
 # Certus Quartz Crystal
 
-
-!!! tip "Task:"
-
-	- Acquire Certus Quartz Crystal
----
-
-
 To begin, familiarize yourself with the basic crafting ingredients of ***Applied Energistics***: **Certus Quartz** can be found growing in *Geodes underground*.
 
 **Certus quartz buds** will sprout from **budding certus blocks**, similar to **Amethyst**. There are 4 tiers of budding certus blocks: *Flawless, Flawed, Chipped, and Damaged*.
@@ -20,6 +13,13 @@ You can grow buds faster by &6placing the budding blocks adjacent to a **Crystal
 
 Now, hold onto this **Bucket of Tomato Sauce**, it's important.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Certus Quartz Crystal
 ---
 
 

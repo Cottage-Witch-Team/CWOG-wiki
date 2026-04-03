@@ -1,6 +1,11 @@
 
 # Flower Picking: Purple
 
+Collect one each of every flower in the game to earn rewards!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -19,11 +24,6 @@
 	- Purple Hibiscus
 	- Violet
 	- Purple Delphinium
-
----
-
-
-Collect one each of every flower in the game to earn rewards!
 
 ---
 

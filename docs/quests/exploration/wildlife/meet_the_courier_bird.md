@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Meet Courierbird
----
-
-
 This vibrant and quick creature can be found in *jungles*. ==Approach with caution and offer== **sweet berries** to win them over.
 
 
@@ -25,6 +18,13 @@ List of All Biomes:
 - *Tropical Rainforest*, 
 - *Temperate Rainforest*
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Meet Courierbird
 ---
 
 

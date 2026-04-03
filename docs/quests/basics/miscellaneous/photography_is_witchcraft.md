@@ -1,13 +1,6 @@
 
 # Photography is Witchcraft
 
-
-!!! tip "Task:"
-
-	- Acquire Camera
----
-
-
 There have long been superstitions about whether *photography holds magical sway* in our world. Some say photographs steal souls - others say they grant a form of immortality.
 
 Whatever you believe the power of the picture truly is, it cannot be denied that it *is at least somewhat magical*. The ability to capture light from a moment in time and look back on it long since it has passed? That's a small miracle without a doubt.
@@ -30,6 +23,13 @@ Continued on next page.
 
 {image:cottagewitch:textures/quest_images/cameraui.png width:100 height:100 align:1 fit:true}
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Camera
 ---
 
 

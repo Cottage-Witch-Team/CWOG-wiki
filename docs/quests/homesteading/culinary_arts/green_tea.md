@@ -6,15 +6,15 @@
 ---
 
 
+This tea is bright, grassy, and delicious! It also grants you the *Haste* effect.
+
+---
+
+
 
 !!! tip "Task:"
 
 	- Acquire Green Tea
----
-
-
-This tea is bright, grassy, and delicious! It also grants you the *Haste* effect.
-
 ---
 
 

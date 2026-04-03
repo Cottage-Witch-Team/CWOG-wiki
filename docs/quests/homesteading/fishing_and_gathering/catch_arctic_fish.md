@@ -6,6 +6,11 @@
 ---
 
 
+These fish can be found in *Cold or Icy* biomes such as Taigas, Ice Spikes, or Cold Oceans.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -17,11 +22,6 @@
 	- Pink Salmon
 	- Pollock
 	- Rainbow Trout
-
----
-
-
-These fish can be found in *Cold or Icy* biomes such as Taigas, Ice Spikes, or Cold Oceans.
 
 ---
 

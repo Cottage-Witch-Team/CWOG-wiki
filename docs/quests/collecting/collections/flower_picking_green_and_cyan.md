@@ -1,6 +1,11 @@
 
 # Flower Picking: Green and Cyan
 
+Collect one each of every flower in the game to earn rewards!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -12,11 +17,6 @@
 	- Cyan Amaranth
 	- Flower Patch
 	- Dianthus
-
----
-
-
-Collect one each of every flower in the game to earn rewards!
 
 ---
 

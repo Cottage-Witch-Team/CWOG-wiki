@@ -1,13 +1,6 @@
 
 # Configuration Tool
 
-
-!!! tip "Task:"
-
-	- Acquire Configuration Tool
----
-
-
 *Configuration Tools* alter the function of Drawers. ==Right click on a Drawer while holding a Key== to activate its ability.
 
 The basic mode, **Locking**, locks a Drawer so that it can only accept the item/s currently inside of it.
@@ -17,6 +10,13 @@ The **Hide/Show Item Renders** mode will completely hide the item image and all 
 
 The **Hide/Show Upgrades** will show or hide what upgrades a Drawer currently contains.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Configuration Tool
 ---
 
 

@@ -1,6 +1,11 @@
 
 # Flower Picking: Black and White
 
+Collect one each of every flower in the game to earn rewards!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -16,11 +21,6 @@
 	- Black Rose
 	- White Lotus Flower
 	- White Delphinium
-
----
-
-
-Collect one each of every flower in the game to earn rewards!
 
 ---
 

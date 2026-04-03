@@ -1,13 +1,6 @@
 
 # Make a Stew
 
-
-!!! tip "Task:"
-
-	- Acquire Borscht
----
-
-
 Now that you're ready to cook, let's try making some **Borscht**. Just like babshka used to make.
 
 {image:cottagewitch:textures/borscht.png width:100 height:55 align:1 fit:true}
@@ -23,6 +16,13 @@ Stews can also *be placed down with &6shift + right click*!
 
 Additionally, you can &aadd **Potions&a to your food** by including them in the 9 ingredients.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Borscht
 ---
 
 

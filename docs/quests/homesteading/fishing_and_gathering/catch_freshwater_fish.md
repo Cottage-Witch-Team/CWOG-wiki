@@ -6,6 +6,11 @@
 ---
 
 
+These fish live in *Freshwater-containing biomes* such as rivers, forests, and so on!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -18,11 +23,6 @@
 	- Gar
 	- Minnow
 	- Perch
-
----
-
-
-These fish live in *Freshwater-containing biomes* such as rivers, forests, and so on!
 
 ---
 

@@ -1,6 +1,11 @@
 
 # The Full Set: Diamond Tools
 
+Obtain a **full set of Diamond Tools** to earn a unique armor set!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -10,11 +15,6 @@
 	- Diamond Axe
 	- Diamond Hoe
 	- Diamond Knife
-
----
-
-
-Obtain a **full set of Diamond Tools** to earn a unique armor set!
 
 ---
 

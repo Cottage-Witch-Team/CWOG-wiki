@@ -6,17 +6,17 @@
 ---
 
 
+These fish live in *Saltwater biomes* such as Lukewarm or Warm Oceans.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
 	- Jellyfish
 	- Red Grouper
 	- Tuna
-
----
-
-
-These fish live in *Saltwater biomes* such as Lukewarm or Warm Oceans.
 
 ---
 

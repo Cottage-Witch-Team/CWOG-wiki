@@ -1,6 +1,11 @@
 
 # Flower Picking: Pink
 
+Collect one each of every flower in the game to earn rewards!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -17,11 +22,6 @@
 	- Pink Delphinium
 	- Pink Hibiscus
 	- Pink Lily Of The Valley
-
----
-
-
-Collect one each of every flower in the game to earn rewards!
 
 ---
 

@@ -1,6 +1,11 @@
 
 # Common Hats
 
+The most common of headwear.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -46,11 +51,6 @@
 	- Sausage
 	- Flowercrown
 	- Octodad
-
----
-
-
-The most common of headwear.
 
 ---
 

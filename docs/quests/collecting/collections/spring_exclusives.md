@@ -2,6 +2,11 @@
 # Spring Exclusives!
 
 
+
+---
+
+
+
 !!! tip "Task:"
 	## Acquire :
 	- Bee On Head
@@ -14,11 +19,6 @@
 	- Ladybug On Head
 	- Rabbitears
 	- Rabbitonhead
-
----
-
-
-
 
 ---
 

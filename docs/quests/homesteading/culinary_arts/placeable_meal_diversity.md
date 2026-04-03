@@ -1,6 +1,11 @@
 
 # Placeable Meal Diversity
 
+There are many meals which can be ==placed down and eaten==. Craft one of each and show your prowess as a kitchen witch.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -10,11 +15,6 @@
 	- Honey Glazed Ham Block
 	- Stuffed Pumpkin Block
 	- Raw Stuffed Hoglin
-
----
-
-
-There are many meals which can be ==placed down and eaten==. Craft one of each and show your prowess as a kitchen witch.
 
 ---
 

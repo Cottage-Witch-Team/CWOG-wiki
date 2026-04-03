@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Unlock Ride A Boat With A Goat
----
-
-
 It's time to play *Goat in a Boat*! The rules are simple:
 1. Get a **Goat**.
 2. Get a **Boat**.
@@ -20,6 +13,13 @@ It's time to play *Goat in a Boat*! The rules are simple:
 4. Get your *butt* in that **Boat**.
 You win!
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Unlock Ride A Boat With A Goat
 ---
 
 

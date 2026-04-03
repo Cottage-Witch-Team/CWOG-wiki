@@ -1,13 +1,6 @@
 
 # Adding Allies
 
-
-!!! tip "Task:"
-
-	- Adding Allies
----
-
-
 FTB Teams allows you to add other players to your party, which can allow you to *share quest progress* if desired, and also *allow access to your claimed chunks*.
 
 The Teams screen is accessible in the *top left of your inventory*. From there, you can *create a party*. You can invite others if you want to share quest progress, otherwise you can simply add other players as allies via the **Manage Allies** screen.
@@ -24,6 +17,13 @@ Note that ^^in order for Deployers and such to work in claimed chunks^^, you hav
 
 Set "Allow All Fake Players" to true.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Adding Allies
 ---
 
 

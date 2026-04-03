@@ -2,6 +2,11 @@
 # Fall Exclusives!
 
 
+
+---
+
+
+
 !!! tip "Task:"
 	## Acquire :
 	- Batwinghat
@@ -21,11 +26,6 @@
 	- Spyzombie
 	- Vikinghatbeard
 	- Beaniespooky
-
----
-
-
-
 
 ---
 

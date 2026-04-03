@@ -6,6 +6,11 @@
 ---
 
 
+These fish can be found in *Jungle-type* biomes such as Rainforests or, well, Jungles!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -13,11 +18,6 @@
 	- Arrau Turtle
 	- Piranha
 	- Tambaqui
-
----
-
-
-These fish can be found in *Jungle-type* biomes such as Rainforests or, well, Jungles!
 
 ---
 

@@ -2,6 +2,11 @@
 # Summer Exclusives!
 
 
+
+---
+
+
+
 !!! tip "Task:"
 	## Acquire :
 	- Bucket
@@ -11,11 +16,6 @@
 	- Summerhat
 	- Worm Hat
 	- Crabonhead
-
----
-
-
-
 
 ---
 

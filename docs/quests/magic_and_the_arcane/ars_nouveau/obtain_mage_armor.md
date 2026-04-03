@@ -1,6 +1,11 @@
 
 # Obtain Mage Armor
 
+This armor grants additional *Mana* over the basic set.
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -8,11 +13,6 @@
 	- Apprentice Robes
 	- Apprentice Leggings
 	- Apprentice Boots
-
----
-
-
-This armor grants additional *Mana* over the basic set.
 
 ---
 

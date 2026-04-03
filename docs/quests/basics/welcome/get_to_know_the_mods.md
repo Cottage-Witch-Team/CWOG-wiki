@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Get to know the mods
----
-
-
 This modpack has a number of building and decoration mods which are all worth looking into. ^^Most of them do not have associated quests^^.
 
 So how are you supposed to know they're there? Why, ***JEI*** of course. ==Opening your inventory== will show you a wall of items to your right. You can search through these items at the bottom right. Type ^^@^^ and the name of a mod to search for only items from that mod.
@@ -21,6 +14,13 @@ For example, you can *search "@another"* to view everything from Another Furnitu
 
 This will let you view how to make anything in the game!
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Get to know the mods
 ---
 
 

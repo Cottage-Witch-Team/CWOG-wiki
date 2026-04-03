@@ -6,15 +6,15 @@
 ---
 
 
+Lucky you, you found a **Message in a Bottle**! What does it say?
+
+---
+
+
 
 !!! tip "Task:"
 
 	- Acquire Message In A Bottle
----
-
-
-Lucky you, you found a **Message in a Bottle**! What does it say?
-
 ---
 
 

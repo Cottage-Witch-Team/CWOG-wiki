@@ -1,6 +1,11 @@
 
 # The Full Set: Netherite Tools
 
+A full set of **Netherite Tools**, well! That's an achievement to be lauded. Congratulations!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -10,11 +15,6 @@
 	- Netherite Axe
 	- Netherite Hoe
 	- Netherite Knife
-
----
-
-
-A full set of **Netherite Tools**, well! That's an achievement to be lauded. Congratulations!
 
 ---
 

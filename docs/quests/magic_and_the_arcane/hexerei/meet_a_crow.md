@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Meet Crow
----
-
-
 Once you meet your first **Crow**, you're ready to tame. Bring lots of **Seed Mixture** because they can be hard to win over!
 
 Once you have tamed the Crow Familiar, you can ==crouch and right click it== to *access its menu*.
@@ -22,6 +15,13 @@ If you ==right click without crouching==, you will *change its mode* to Sit, Fol
 {image:hexerei:textures/book/pictures/crow_gui.png width:100 height:150 align:1}
 Through the menu, you can instruct your **Familiar** to help you farm your crops, or to follow you in combat, or even to *pickpocket villagers*.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Meet Crow
 ---
 
 

@@ -6,6 +6,11 @@
 ---
 
 
+Collect one each of every flower in the game to earn rewards!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -22,11 +27,6 @@
 	- Rose
 	- Red Lotus Flower
 	- Red Hibiscus
-
----
-
-
-Collect one each of every flower in the game to earn rewards!
 
 ---
 

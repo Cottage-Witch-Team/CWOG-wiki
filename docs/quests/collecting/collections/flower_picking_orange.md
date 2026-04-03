@@ -6,6 +6,11 @@
 ---
 
 
+Collect one each of every flower in the game to earn rewards!
+
+---
+
+
 
 !!! tip "Task:"
 	## Acquire :
@@ -15,11 +20,6 @@
 	- Guzmania
 	- Orange Hibiscus
 	- Cartwheel
-
----
-
-
-Collect one each of every flower in the game to earn rewards!
 
 ---
 

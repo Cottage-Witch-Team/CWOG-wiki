@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Hatscraps Common
----
-
-
 Maybe you're feeling overencumbered with hats... or perhaps you just have a hat you &oreally hate&r. Time to clean up your storage space and *upcycle those lids*!
 
 ==Place the== **hat** ==and== **a pair of shears** ==into a crafting grid==. This will give you a **Hat Scrap**. You can do two things with that hat scrap: 
@@ -25,6 +18,13 @@ Or ==combine 2 of them== to get 1 &oupgraded&r **hat scrap**.
 
 Unfortunately, ^^Epic Hats^^ are not able to be broken down as they are too epic.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Hatscraps Common
 ---
 
 

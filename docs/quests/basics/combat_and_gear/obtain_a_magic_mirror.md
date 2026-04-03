@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Acquire Magic Mirror
----
-
-
 This **Mirror** is no ordinary piece of glass or silver. In addition to reflecting the nearest player to it, you can modify what it shows.
 
 If you ==right click it== with an **Armor Stand**, you can use it to *view sets of armor*.
@@ -29,6 +22,13 @@ And, if you'd like a more spooky option, ==right click it== with a **Skull** to 
 
 All the upgrades *can be combined*.
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Acquire Magic Mirror
 ---
 
 

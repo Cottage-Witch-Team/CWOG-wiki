@@ -2,14 +2,14 @@
 # Scavenger Hunt: Feather
 
 
-!!! tip "Task:"
 
-	- Acquire Feather
 ---
 
 
 
+!!! tip "Task:"
 
+	- Acquire Feather
 ---
 
 

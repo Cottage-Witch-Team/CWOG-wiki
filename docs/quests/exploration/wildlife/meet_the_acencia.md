@@ -6,13 +6,6 @@
 ---
 
 
-
-!!! tip "Task:"
-
-	- Meet Acencia
----
-
-
 This elusive big cat can be found in *Groves* and *Snowy Taigas*. ==Tame this mount== with **mutton** or **salmon** for a lifelong friend!
 
 
@@ -30,6 +23,13 @@ List of All Biomes:
 - *Autumnal Taiga*, 
 - *Frosted Taiga*
 
+---
+
+
+
+!!! tip "Task:"
+
+	- Meet Acencia
 ---
 
 

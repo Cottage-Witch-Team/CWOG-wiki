@@ -1,15 +1,15 @@
 
 # Enchantingtower
 
+Discover an *Enchanting Tower*, a small but cozy spire featuring a magical twist.
+
+---
+
+
 
 !!! tip "Task:"
 
 	- Unlock Enchantingtower
----
-
-
-Discover an *Enchanting Tower*, a small but cozy spire featuring a magical twist.
-
 ---
 
 

@@ -6,15 +6,15 @@
 ---
 
 
+I'm not sure who pioneered the idea of eating **Ender Pearls**, but hey...why not?
+
+---
+
+
 
 !!! tip "Task:"
 
 	- Acquire Ender Nectar
----
-
-
-I'm not sure who pioneered the idea of eating **Ender Pearls**, but hey...why not?
-
 ---
 
 
