@@ -2,10 +2,11 @@
 # Photography is Witchcraft
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Camera
+	- Acquire Camera
 ---
+
 
 There have long been superstitions about whether *photography holds magical sway* in our world. Some say photographs steal souls - others say they grant a form of immortality.
 
@@ -17,7 +18,9 @@ But first, you'll need some **Film**, and you can also upgrade your camera with 
 
 Continued on next page.
 
+
 ---
+
 
 ==Shift right click== while holding the **Camera** to access the interface. Here you can load **Film** - color, or black and white. You can also add the following:
 
@@ -26,6 +29,8 @@ Continued on next page.
 - **Glass Pane** to add *filters*
 
 {image:cottagewitch:textures/quest_images/cameraui.png width:100 height:100 align:1 fit:true}
+
 ---
+
 
             

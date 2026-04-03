@@ -5,14 +5,19 @@
 
 ---
 
-# Task:
 
-- Meet Moth
+
+!!! tip "Task:"
+
+	- Meet Moth
 ---
+
 
 Fragile, beautiful, and capable of carrying a rider in flight. These moths haunt the *dark forest* regions. ==Give them== **sugar** or Vanilla **flowers** to earn their trust.
 
+
 ---
+
 
 List of All Biomes:
 - *Dark Forest*,
@@ -24,6 +29,8 @@ List of All Biomes:
 - *Flourishing Forest*,
 - *Spooky Forest* (in Twilight Forest),
 - *Dark Forest* (in Twilight Forest)
+
 ---
+
 
             

@@ -2,12 +2,15 @@
 # Mugwort Leaves
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Mugwort Leaves
+	- Acquire Mugwort Leaves
 ---
+
 
 **Mugwort** is used to upgrade your **Broom**, and can also be used to create **Compost**.
+
 ---
+
 
             

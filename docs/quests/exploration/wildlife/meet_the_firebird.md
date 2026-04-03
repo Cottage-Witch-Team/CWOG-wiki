@@ -5,14 +5,19 @@
 
 ---
 
-# Task:
 
-- Meet Firebird
+
+!!! tip "Task:"
+
+	- Meet Firebird
 ---
+
 
 An incredibly rare sight, the **Żar-ptak** can sometimes be seen flying near *inhabited villages*. They are said to have expensive tastes. ==Try offering them== **golden apples** for friendship.
 
+
 ---
+
 
 List of All Biomes:
 - *Archwood Forest*,
@@ -21,6 +26,8 @@ List of All Biomes:
 - *Old Growth Pine Barrens*,
 - *Old Growth Snowy Pine Barrens*,
 - *Pine Slopes*
+
 ---
+
 
             

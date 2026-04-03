@@ -2,10 +2,11 @@
 # Customise Your Storage
 
 
-# Task:
+!!! tip "Task:"
 
-- Customise Your Storage
+	- Customise Your Storage
 ---
+
 
 Within your storage settings, you have the ability to change the way your storage behaves.
 
@@ -21,6 +22,8 @@ Select the *Sword icon* to choose a slot whose *item will be displayed* on the f
 
 
 {image:cottagewitch:textures/sophbarreldisplayy.png width:100 height:100 align:1 fit:true}
+
 ---
+
 
             

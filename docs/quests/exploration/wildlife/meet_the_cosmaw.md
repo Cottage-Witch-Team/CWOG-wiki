@@ -5,13 +5,18 @@
 
 ---
 
-# Task:
 
-- Meet Cosmaw
+
+!!! tip "Task:"
+
+	- Meet Cosmaw
 ---
+
 
 The **Cosmaw** is a being which, when tamed, will *rescue its owner from falling into the void*. It does not defend the player in other ways, however.
 It can be ==tamed with Cosmic Cod==, its natural prey.
+
 ---
+
 
             

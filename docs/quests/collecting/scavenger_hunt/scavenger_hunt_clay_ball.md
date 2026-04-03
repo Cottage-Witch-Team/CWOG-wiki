@@ -2,12 +2,15 @@
 # Scavenger Hunt: Clay Ball
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Clay Ball
+	- Acquire Clay Ball
 ---
 
 
+
+
 ---
+
 
             

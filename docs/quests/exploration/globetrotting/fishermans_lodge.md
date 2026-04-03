@@ -2,12 +2,15 @@
 # Fishermans Lodge
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Fishermans Lodge
+	- Unlock Fishermans Lodge
 ---
+
 
 This quaint *Fisherman's Lodge* is water-bound, and is a great place to go fishing.
+
 ---
+
 
             

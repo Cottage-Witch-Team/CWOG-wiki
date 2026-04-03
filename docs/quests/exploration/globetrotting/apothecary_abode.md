@@ -2,12 +2,15 @@
 # Apothecary Abode
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Apothecary Abode
+	- Unlock Apothecary Abode
 ---
+
 
 Locate the *Apothecary's Abode*, a large structure filled with bizarre machines and absolutely loaded with **Illagers**.
+
 ---
+
 
             

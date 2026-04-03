@@ -2,12 +2,15 @@
 # Scavenger Hunt: Dead Bush
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Dead Bush
+	- Acquire Dead Bush
 ---
 
 
+
+
 ---
+
 
             

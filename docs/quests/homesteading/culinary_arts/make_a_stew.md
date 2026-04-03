@@ -2,10 +2,11 @@
 # Make a Stew
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Borscht
+	- Acquire Borscht
 ---
+
 
 Now that you're ready to cook, let's try making some **Borscht**. Just like babshka used to make.
 
@@ -21,6 +22,8 @@ There is a ^^bug where the correct Saturation won't appear^^ when you hover over
 Stews can also *be placed down with &6shift + right click*!
 
 Additionally, you can &aadd **Potions&a to your food** by including them in the 9 ingredients.
+
 ---
+
 
             

@@ -2,12 +2,15 @@
 # Ritual Brazier
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Ritual Brazier
+	- Acquire Ritual Brazier
 ---
+
 
 To move on, you'll need a **Ritual Brazier**, which accepts various **Ritual Tablets** in order to work.
+
 ---
+
 
             

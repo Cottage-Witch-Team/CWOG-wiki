@@ -2,12 +2,15 @@
 # Scavenger Hunt: Pufferfish
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Pufferfish
+	- Acquire Pufferfish
 ---
 
 
+
+
 ---
+
 
             

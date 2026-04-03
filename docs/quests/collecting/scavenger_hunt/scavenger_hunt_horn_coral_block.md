@@ -2,12 +2,15 @@
 # Scavenger Hunt: Horn Coral Block
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Horn Coral Block
+	- Acquire Horn Coral Block
 ---
 
 
+
+
 ---
+
 
             

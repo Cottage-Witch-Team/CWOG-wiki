@@ -2,10 +2,11 @@
 # Vibrant Interface
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Any of: Interface, Cable Interface
+	- Acquire Any of: Interface, Cable Interface
 ---
+
 
 The **Vibrant Interface** allows your *Nexus* to *communicate with other mods* like ***Pipez*** and ***Create***. It acts like a *mini inventory* that you can connect your *Nexus* to. Any item that gets piped into a **Vibrant Interface** will be *directly stored* inside your *Nexus* storage ^^if your **Glyphstones** &dhave space^^.
 
@@ -13,6 +14,8 @@ The **Vibrant Interface** allows your *Nexus* to *communicate with other mods* l
 
 
 {image:cottagewitch:textures/quest_images/ae2_interface.png width:250 height:250 align:1}
+
 ---
+
 
             

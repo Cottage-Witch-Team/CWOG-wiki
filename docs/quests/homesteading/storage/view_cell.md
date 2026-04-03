@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire View Cell
+
+!!! tip "Task:"
+
+	- Acquire View Cell
 ---
+
 
 The **Discernment Glyphstone** allows you to filter which items in your *Nexus* you view from a given **Aperture**. You can program them by using the **Glyph Workbench**.
 
@@ -17,6 +20,8 @@ Place the **Glyphstone** in the ==upper right slot== to alter its contents. Then
 Once you have finished configuring the glyphstone, you can &6place the **Discernment Glyphstone** into the upper right slots of your *Nexus Aperture*.
 
 {image:cottagewitch:textures/quest_images/glyph_workbench.png width:250 height:260 align:1}
+
 ---
+
 
             

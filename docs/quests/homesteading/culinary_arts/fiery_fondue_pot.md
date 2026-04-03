@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Acquire Fiery Fondue Pot
+
+!!! tip "Task:"
+
+	- Acquire Fiery Fondue Pot
 ---
+
 
 Served in a **Cauldron**, this fanciful feast is *devilishly good*!
+
 ---
+
 
             

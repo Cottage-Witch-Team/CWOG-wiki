@@ -2,12 +2,15 @@
 # Scavenger Hunt: Chorus Fruit
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Chorus Fruit
+	- Acquire Chorus Fruit
 ---
 
 
+
+
 ---
+
 
             

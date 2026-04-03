@@ -2,15 +2,18 @@
 # Scavenger Hunt: Flowers
 
 
-# Task:
-## Acquire :
-- Sunflower
-- Blue Orchid
-- Pink Allium Flower Bush
+!!! tip "Task:"
+	## Acquire :
+	- Sunflower
+	- Blue Orchid
+	- Pink Allium Flower Bush
 
 ---
 
 
+
+
 ---
+
 
             

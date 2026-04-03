@@ -2,14 +2,17 @@
 # Scavenger Hunt: Honey
 
 
-# Task:
-## Acquire :
-- Honeycomb
-- Honey Bottle
+!!! tip "Task:"
+	## Acquire :
+	- Honeycomb
+	- Honey Bottle
 
 ---
 
 
+
+
 ---
+
 
             

@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire Herb Jar
+
+!!! tip "Task:"
+
+	- Acquire Herb Jar
 ---
+
 
 The **Herb Jar** can be crafted by smelting 8 **Sand** in your **Mixing Cauldron**. Each Herb Jar can carry *only one type* of Herb, but can *contain up to 1024* of that herb!
 
@@ -17,6 +20,8 @@ The Herb Jar label will *reflect what is stored inside of it*, and can be named 
 ==Left click an **Herb Jar to withdraw** 1 item. &6Crouch and left click== to remove a stack.
 
 **Familiar Crows** will *gather and deposit harvested herbs* if the button inside the jar (==crouch right click== to access) is pressed.
+
 ---
+
 
             

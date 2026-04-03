@@ -2,12 +2,15 @@
 # Survival Skills
 
 
-# Task:
+!!! tip "Task:"
 
-- Stats Time Since Deaths 999999 times
+	- Stats Time Since Deaths 999999 times
 ---
+
 
 Wow, you went a long while without dying! Nice work, buddy. Keep it up!
+
 ---
+
 
             

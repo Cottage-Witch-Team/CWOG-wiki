@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire Any Hatbags
+
+!!! tip "Task:"
+
+	- Acquire Any Hatbags
 ---
+
 
 Hats! Who doesn't live the simple pleasure of a Nice Hat? ***Simple Hats*** is just that: hats, nothing else. These are exclusively equipped in your Head curio slot, and can *only be found through fishing* (or a lucky neptunian chest).
 
@@ -20,6 +23,8 @@ You also have a chance to find **seasonal exclusives**: Spring, Summer, Fall and
 {image:cottagewitch:textures/variant_cycling.png width:160 height:65 align:1}
 
 Some hats may allow further customizations, such as *dyeing* or *variant-cycling*. Both of these tasks can be accomplished ==in a crafting grid==!
+
 ---
+
 
             

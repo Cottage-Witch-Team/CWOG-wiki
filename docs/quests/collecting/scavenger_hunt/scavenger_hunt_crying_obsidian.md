@@ -2,12 +2,15 @@
 # Scavenger Hunt: Crying Obsidian
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Crying Obsidian
+	- Acquire Crying Obsidian
 ---
 
 
+
+
 ---
+
 
             

@@ -2,10 +2,11 @@
 # Netherite Armor
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Netherite Armor
+	- Unlock Netherite Armor
 ---
+
 
 A full set of Netherite Armor takes...
 
@@ -14,6 +15,8 @@ A full set of Netherite Armor takes...
 ...
 
 At least four **Netherite**. Anyway the important thing isn't the math, just go do it and take the reward.
+
 ---
+
 
             

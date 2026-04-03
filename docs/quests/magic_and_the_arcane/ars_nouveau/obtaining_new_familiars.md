@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire Ritual Binding
+
+!!! tip "Task:"
+
+	- Acquire Ritual Binding
 ---
+
 
 **Familiars** are small creatures who help you with your magical duties. These differ from **Crows** in both how you meet them, and what they can do.
 
@@ -19,6 +22,8 @@ You must ==place a Ritual Brazier== nearby the Familiar and ==put the **Tablet o
 Read on for more information about each Familiar, both in Familiar mode and out.
 
 You can dismiss your summoned Familiar with a *Dispel* Spell. Break the blocks they came from to *get back their Charm*.
+
 ---
+
 
             

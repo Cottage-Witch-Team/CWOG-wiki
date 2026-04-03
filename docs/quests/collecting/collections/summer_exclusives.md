@@ -2,19 +2,22 @@
 # Summer Exclusives!
 
 
-# Task:
-## Acquire :
-- Bucket
-- Palmtree
-- Sandcastle
-- Seaweedhat
-- Summerhat
-- Worm Hat
-- Crabonhead
+!!! tip "Task:"
+	## Acquire :
+	- Bucket
+	- Palmtree
+	- Sandcastle
+	- Seaweedhat
+	- Summerhat
+	- Worm Hat
+	- Crabonhead
 
 ---
 
 
+
+
 ---
+
 
             

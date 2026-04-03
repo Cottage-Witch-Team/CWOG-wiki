@@ -2,12 +2,15 @@
 # Kill Illusioner
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Kill Illusioner
+	- Unlock Kill Illusioner
 ---
+
 
 Defeat the **Illusioner** - if you can find him - and obtain his riches!
+
 ---
+
 
             

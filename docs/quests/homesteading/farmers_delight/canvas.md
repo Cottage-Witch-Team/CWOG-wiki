@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Acquire Canvas
+
+!!! tip "Task:"
+
+	- Acquire Canvas
 ---
+
 
 **Canvas** is a versatile material which can create **Mats**, **Signs**, and more!
+
 ---
+
 
             

@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire Any Scythe
+
+!!! tip "Task:"
+
+	- Acquire Any Scythe
 ---
+
 
 The **Reaping Tool**, known in some circles as a Scythe, allows you to perform a finicky sort of magic known as *Reaping*.
 
@@ -26,6 +29,8 @@ Placing a **Reaping Tool** into an **Enchanting Table** results in ^^Unbreaking 
 
 **Reaping Tools** can be enchanted with *Mending, Sharpness, and Unbreaking*, as you might expect.
 However, they can also be enchanted with *Executioner*, which ^^currently has no effect^^.
+
 ---
+
 
             

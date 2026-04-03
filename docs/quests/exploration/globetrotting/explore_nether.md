@@ -2,12 +2,15 @@
 # Explore Nether
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Explore Nether
+	- Unlock Explore Nether
 ---
+
 
 Traverse all Nether biomes!
+
 ---
+
 
             

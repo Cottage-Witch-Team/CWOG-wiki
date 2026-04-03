@@ -2,12 +2,15 @@
 # Scavenger Hunt: Powder Snow Bucket
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Powder Snow Bucket
+	- Acquire Powder Snow Bucket
 ---
 
 
+
+
 ---
+
 
             

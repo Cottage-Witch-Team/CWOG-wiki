@@ -2,12 +2,15 @@
 # Poof Mob
 
 
-# Task:
+!!! tip "Task:"
 
-- Unlock Poof Mob
+	- Unlock Poof Mob
 ---
+
 
 Gift a **Wild Starbuncle** a **Gold Nugget** and see what happens!
+
 ---
+
 
             

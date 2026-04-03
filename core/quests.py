@@ -29,22 +29,22 @@ class Quests(WikiBuildTask):
         self.build_quest_book()
 
         for chapter_group_title, chapter_group in sorted(self.quest_book.items(), key=self.ordinal_sort):
-            # print(f"\n\n{chapter_group_title.center(30, '-')}")
+            print(f"\n\n|~| {chapter_group_title.upper()} |~|", end="")
             for chapter_title, chapter in sorted(chapter_group.items(), key=self.ordinal_sort):
                 if chapter_title == "ordinal":
                     continue
-                # print(f"\n{chapter_title.center(20, '~')}")
+                print(f"\n|~|\n|~|=|-{chapter_title}\n|~| \\", end="")
                 for quest_title, quest in sorted(chapter.items(), key=self.ordinal_sort):
                     if quest_title == "ordinal":
                         continue
-                    # print(f"-> {quest_title}")
+                    print(f".", end="")
                     path_to_write = (
                         self.destination
                         / slugify(chapter_group_title, "_")
                         / slugify(chapter_title, "_")
                         / (slugify(quest_title, "_") + ".md")
                     )
-                    final_text = quest["text"].replace("{@pagebreak}", "\n---\n")
+                    final_text = quest["text"].replace("{@pagebreak}", "\n\n---\n\n")
 
                     for l, r in self.regex_sub.items():
                         final_text = re.sub(r"&" + l + "(.*?)&r", r + r"\1" + r, final_text)
@@ -115,8 +115,6 @@ class Quests(WikiBuildTask):
 
         title, subtitle, description, task = new_dict.values()
 
-        print(tasks, task_string, task)
-
         subtitle = f"\n> {subtitle.capitalize()}\n\n---\n\n" if subtitle is not None else ""
 
         task = f"\n{task}\n---\n\n" if task is not None else ""
@@ -124,9 +122,7 @@ class Quests(WikiBuildTask):
         if description is not None:
             if isinstance(description, str):
                 description = [description]
-            print(description)
             quest_description = self.__convert_description_to_string(description) + "\n\n---\n\n"
-            print(quest_description)
         else:
             quest_description = ""
 

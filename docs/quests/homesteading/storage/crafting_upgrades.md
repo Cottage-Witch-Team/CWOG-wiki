@@ -2,14 +2,17 @@
 # Crafting Upgrades
 
 
-# Task:
-## Acquire :
-- Stonecutter Upgrade
-- Crafting Upgrade
+!!! tip "Task:"
+	## Acquire :
+	- Stonecutter Upgrade
+	- Crafting Upgrade
 
 ---
+
 
 The **Crafting** and **Stonecutter** upgrades provide those *crafting interfaces* in the storage you place them in.
+
 ---
+
 
             

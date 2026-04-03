@@ -2,12 +2,15 @@
 # Drum
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Drum
+	- Acquire Drum
 ---
+
 
 The **Command Drum** is an item which allows you to command multiple tamed creatures at one time.
+
 ---
+
 
             

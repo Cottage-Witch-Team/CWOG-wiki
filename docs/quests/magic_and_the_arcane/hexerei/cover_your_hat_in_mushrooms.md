@@ -5,12 +5,17 @@
 
 ---
 
-# Task:
 
-- Acquire Mushroom Witch Hat
+
+!!! tip "Task:"
+
+	- Acquire Mushroom Witch Hat
 ---
+
 
 Adding mushrooms to your hat is a glorious aesthetic choice, although it doesn't offer any tangible benefits.
+
 ---
+
 
             

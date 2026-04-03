@@ -2,12 +2,15 @@
 # Flower Box
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Flower Box
+	- Acquire Flower Box
 ---
+
 
 There are two types of **Flower Box**. One can hold 2 flowers, and the other one 3.
+
 ---
+
 
             

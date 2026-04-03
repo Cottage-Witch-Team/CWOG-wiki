@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire Magic Mirror
+
+!!! tip "Task:"
+
+	- Acquire Magic Mirror
 ---
+
 
 This **Mirror** is no ordinary piece of glass or silver. In addition to reflecting the nearest player to it, you can modify what it shows.
 
@@ -25,6 +28,8 @@ You can also ==right click the mirror== with a **Banner** to apply the banner pa
 And, if you'd like a more spooky option, ==right click it== with a **Skull** to change the preview to a **Skeleton!**.
 
 All the upgrades *can be combined*.
+
 ---
+
 
             

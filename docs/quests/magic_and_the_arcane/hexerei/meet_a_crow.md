@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Meet Crow
+
+!!! tip "Task:"
+
+	- Meet Crow
 ---
+
 
 Once you meet your first **Crow**, you're ready to tame. Bring lots of **Seed Mixture** because they can be hard to win over!
 
@@ -18,6 +21,8 @@ If you ==right click without crouching==, you will *change its mode* to Sit, Fol
 *Crows can be equipped with hats and weapons* via the menu. It can wear most helmets and wield most melee weapons. Unfortunately, ^^they cannot wear hats from the ***Simple Hats***&d mod^^. :(
 {image:hexerei:textures/book/pictures/crow_gui.png width:100 height:150 align:1}
 Through the menu, you can instruct your **Familiar** to help you farm your crops, or to follow you in combat, or even to *pickpocket villagers*.
+
 ---
+
 
             

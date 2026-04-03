@@ -2,10 +2,11 @@
 # Niche Hooks for Niche Jobs
 
 
-# Task:
+!!! tip "Task:"
 
-- Acquire Any Niche Hooks
+	- Acquire Any Niche Hooks
 ---
+
 
 Different **Hooks** give different effects. Some are pure upgrades, but these will *grant other effects*!
 
@@ -16,6 +17,8 @@ Different **Hooks** give different effects. Some are pure upgrades, but these wi
 **Note Hook**: Plays a note when a fish is approaching. Useful if you're not paying full attention, or have particles disabled.
 
 **Light Hook**: Allows you to cast farther.
+
 ---
+
 
             

@@ -5,10 +5,13 @@
 
 ---
 
-# Task:
 
-- Acquire Hatscraps Common
+
+!!! tip "Task:"
+
+	- Acquire Hatscraps Common
 ---
+
 
 Maybe you're feeling overencumbered with hats... or perhaps you just have a hat you &oreally hate&r. Time to clean up your storage space and *upcycle those lids*!
 
@@ -21,6 +24,8 @@ Or ==combine 2 of them== to get 1 &oupgraded&r **hat scrap**.
 {image:cottagewitch:textures/hatscrap_upgrade.png width:160 height:65 align:1}
 
 Unfortunately, ^^Epic Hats^^ are not able to be broken down as they are too epic.
+
 ---
+
 
             

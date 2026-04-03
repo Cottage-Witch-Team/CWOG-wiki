@@ -2,10 +2,11 @@
 # Meet the Slabfish
 
 
-# Task:
+!!! tip "Task:"
 
-- Meet Slabfish
+	- Meet Slabfish
 ---
+
 
 The **Slabfish** is a rectangular entity which can be *tamed* with **Tropical Fish**.
 Once tamed, you can ==right click== to *give them a sweater* by equipping them with **Wool**. They can also help you carry items if you &agive them a **Chest**.
@@ -15,6 +16,8 @@ However, they will &donly follow you when you're holding **Tropical Fish**.
 
 
 Try ==breeding them together in different biomes==! There's &omany types&r of slabfish.
+
 ---
+
 
             
