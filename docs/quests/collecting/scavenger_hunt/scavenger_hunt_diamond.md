@@ -1,0 +1,11 @@
+# Scavenger Hunt: Diamond
+
+None
+---
+
+---
+
+['']
+---
+
+            

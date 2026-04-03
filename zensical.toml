@@ -154,6 +154,7 @@ scheme = "cw-dark"
 toggle.icon = "lucide/moon"
 toggle.name = "Switch to light mode"
 
+
 # ----------------------------------------------------------------------------
 # The "extra" section contains miscellaneous settings.
 # ----------------------------------------------------------------------------

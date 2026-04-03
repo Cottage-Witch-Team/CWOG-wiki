@@ -1,9 +1,0 @@
-
-# Large Cogwheel
-
----
-As mentioned, &bCogwheels&r - or Cogs - can &aconvey and manipulate rotational force&r.
-The way that &bCogs&r connect is fairly simple: &bLarge Cogs&r connect perpendicularly to one another, allowing you to &atransfer from horizontal to vertical rotation&r without a &bGearbox&r (more on that later). &bLarge and Small Cogs&r connect diagonally, as well as at the shaft.
-&bLarge Cogwheels&r in particular are helpful, as they can connect to the top of the &bRotation Speed Controller&r, allowing you to &6customize the rotations per minute - rpm - of the subsequent machinery&r.
-If you connect the shafts of a &bSmall&r and then a &bLarge Cog&r, it will &aincrease the speed&r of the rotation. These can be &dstacked multiple times&r, by &6placing a second Small Cog at the diagonal&r of the Large Cog, and then another Large Cog at its shaft. You can continue this as many times as you have space for.
-            

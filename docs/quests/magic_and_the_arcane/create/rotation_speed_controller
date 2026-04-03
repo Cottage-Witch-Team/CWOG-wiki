@@ -1,9 +1,0 @@
-
-# Rotation Speed Controller
-
----
-The &bRotational Speed Controller&r is a machine which can &aincrease, decrease, or reverse&r the speed and direction of rotation.
-&6Place it down and connect one of the sides&r to your su network. Then, &6attach a &bLarge Cogwheel&r as shown in the image, and &6connect the subsequent machinery&r to that &bCogwheel&r.
-The machinery will then adopt whatever speed you &aset the Controller to&r. &6Scroll to the negatives to reverse direction&r.
-{image:cottagewitch:textures/rotationalspeed.png width:150 height:150 align:1}
-            
