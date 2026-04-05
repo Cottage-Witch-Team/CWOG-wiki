@@ -16,7 +16,7 @@ In order to read your **Book of Shadows**, you must first place it on an **Altar
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Book Of Shadows**
 ---

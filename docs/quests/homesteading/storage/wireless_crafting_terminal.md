@@ -20,7 +20,7 @@ Over time and with use, the **Resonant Aperture** may *lose resonance*, and if t
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Wireless Crafting Terminal**
 ---

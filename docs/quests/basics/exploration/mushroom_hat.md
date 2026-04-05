@@ -10,7 +10,7 @@ This quest is ^^Repeatable!^^
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- **I want a mushroom hat!!**
 ---

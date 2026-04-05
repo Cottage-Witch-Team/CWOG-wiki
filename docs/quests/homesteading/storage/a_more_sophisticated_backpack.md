@@ -18,7 +18,7 @@ Caution: although you can block other players from opening your backpack while y
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Backpack**
 ---

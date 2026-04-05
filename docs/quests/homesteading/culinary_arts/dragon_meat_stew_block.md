@@ -9,7 +9,7 @@ Was that too much? That was too much, wasn't it?
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Dragon Meat Stew Block**
 ---

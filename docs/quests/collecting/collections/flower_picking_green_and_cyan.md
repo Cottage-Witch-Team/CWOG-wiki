@@ -7,7 +7,7 @@ Collect one each of every flower in the game to earn rewards!
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Thereal Bellflower**
 	- **Mugwort Flowers**

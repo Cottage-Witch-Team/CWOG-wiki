@@ -7,7 +7,7 @@
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Bucket**
 	- **Palmtree**

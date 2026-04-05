@@ -12,7 +12,7 @@ Are you a trophy hunter? Well, look no further than this tasteful and bold decor
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Hoglin Mount**
 ---

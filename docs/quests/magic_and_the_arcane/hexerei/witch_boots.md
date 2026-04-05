@@ -14,7 +14,7 @@ Hold shift on any item from this set to view what the bonuses are.
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Witch Boots**
 ---

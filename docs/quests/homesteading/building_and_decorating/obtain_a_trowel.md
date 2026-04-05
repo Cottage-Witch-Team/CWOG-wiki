@@ -12,7 +12,7 @@ The **Trowel** will place a random block from your hotbar when you ==right click
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Trowel**
 ---

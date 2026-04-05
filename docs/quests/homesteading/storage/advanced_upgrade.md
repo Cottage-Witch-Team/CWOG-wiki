@@ -8,7 +8,7 @@ The **Advanced Upgrade** gives you access to the previous two modes, as well as 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Advanced Upgrade**
 ---

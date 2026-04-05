@@ -12,7 +12,7 @@ You can now *go fishing in lava*! Grab yourself a **Lava Fishing Rod** and cast 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Lava Fishing Rod**
 ---

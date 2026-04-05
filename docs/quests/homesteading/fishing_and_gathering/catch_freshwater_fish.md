@@ -12,7 +12,7 @@ These fish live in *Freshwater-containing biomes* such as rivers, forests, and s
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Smallmouth Bass**
 	- **Bluegill**

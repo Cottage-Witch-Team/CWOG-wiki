@@ -7,7 +7,7 @@ Climb the *Wizard's Tower* and you may find what happened to its previous inhabi
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- **Wizardtower**
 ---

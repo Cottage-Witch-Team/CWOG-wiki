@@ -16,7 +16,7 @@ The **Bobbers** and **Fishing Line** can be colored, and are *cosmetic changes o
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Tackle Box**
 ---

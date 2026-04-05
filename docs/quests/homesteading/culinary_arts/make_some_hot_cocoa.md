@@ -12,7 +12,7 @@
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Hot Cocoa**
 ---

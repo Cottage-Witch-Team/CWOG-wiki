@@ -14,7 +14,7 @@ Some day, the Twilight Forest may rise again... but hey- good job! You did it! H
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Find **Final Castle**
 ---

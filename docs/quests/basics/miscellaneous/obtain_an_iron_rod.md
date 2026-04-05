@@ -14,7 +14,7 @@ This only works on blocks which can be pushed, so blocks like **Obsidian** will 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Iron Rod**
 ---

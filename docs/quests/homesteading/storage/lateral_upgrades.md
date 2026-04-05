@@ -9,7 +9,7 @@ The **Pushing Upgrade** will... you guessed it! *Push items* to a nearby invento
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Collector Upgrade**
 	- **Puller Upgrade**

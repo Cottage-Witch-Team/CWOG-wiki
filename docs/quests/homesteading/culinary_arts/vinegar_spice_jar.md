@@ -9,7 +9,7 @@ Adding spices to your food *gives it greater saturation*.
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Vinegar Spice Jar**
 ---

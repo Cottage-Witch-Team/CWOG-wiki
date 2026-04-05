@@ -7,7 +7,7 @@ Don't ask me why, but I *need a bunch of **Hearts of the Deep**. Trade them to m
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Heart Of The Deep**
 ---

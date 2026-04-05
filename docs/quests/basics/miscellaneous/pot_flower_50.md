@@ -9,7 +9,7 @@ Plant *50 lovely green (or pink or blue) friends* in basic **Flower Pots**.
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Stats: **Pot Flower = 50**
 ---

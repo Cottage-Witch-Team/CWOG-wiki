@@ -16,7 +16,7 @@ If you place this **Furnace** on top of a **Cindershell**, it will use the beast
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Cinder Furnace**
 ---

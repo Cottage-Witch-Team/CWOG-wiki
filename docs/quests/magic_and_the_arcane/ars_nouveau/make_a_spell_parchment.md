@@ -16,7 +16,7 @@ Once you have placed your Scroll on the Scribe's Table, ^^set your desired spell
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Spell Parchment**
 	- **Blank Parchment**

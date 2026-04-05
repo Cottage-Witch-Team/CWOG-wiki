@@ -7,7 +7,7 @@ Although it lacks polish, the **Starddle** allows you to do what the best of us 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Star Saddle**
 ---

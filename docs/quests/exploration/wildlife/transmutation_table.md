@@ -8,7 +8,7 @@ You can *feed the Table items* for a chance at getting them back in exchange for
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Transmutation Table**
 ---

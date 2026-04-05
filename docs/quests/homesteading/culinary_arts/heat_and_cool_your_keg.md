@@ -16,7 +16,7 @@ You can also *cool down* your **Keg** by placing **Ice Blocks** around it instea
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Magma Block (4)**
 ---

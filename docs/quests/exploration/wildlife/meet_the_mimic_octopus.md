@@ -16,7 +16,7 @@ Feed it some **Mimicream** to teach it the abilities of whatever creature you've
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Meet **Mimic Octopus**
 ---

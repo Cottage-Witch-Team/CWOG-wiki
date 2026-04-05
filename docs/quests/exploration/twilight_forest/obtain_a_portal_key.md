@@ -13,7 +13,7 @@ To *make the portal*, you must ==dig a 3x3x1 (or 2x2x1) hole and fill it with wa
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Diamond**
 ---

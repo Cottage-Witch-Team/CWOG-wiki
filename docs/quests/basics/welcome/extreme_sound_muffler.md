@@ -14,7 +14,7 @@ This modpack adds a lot of new sounds. So to help you filter the ones you don't 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- **Extreme Sound Muffler**
 ---

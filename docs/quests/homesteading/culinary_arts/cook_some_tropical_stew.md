@@ -12,7 +12,7 @@ Have yourself a beachy delight with a **Tropical Stew**. Authentic crab meat, sa
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Tropical Stew**
 ---

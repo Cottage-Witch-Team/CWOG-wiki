@@ -7,7 +7,7 @@ Your bed might be a little bare-bones as is. Why not make a **sheet** and **Cush
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Any Cushions**
 	- **Any Sheets**

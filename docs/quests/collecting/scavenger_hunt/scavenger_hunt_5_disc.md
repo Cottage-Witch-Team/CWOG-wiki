@@ -7,7 +7,7 @@
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Music Disc 5**
 ---

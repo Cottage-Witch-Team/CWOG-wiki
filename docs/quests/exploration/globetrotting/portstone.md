@@ -7,7 +7,7 @@ The **Portstone** is a method of accessing Waystone travel, but cannot be travel
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Portstone**
 ---

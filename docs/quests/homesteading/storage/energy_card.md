@@ -7,7 +7,7 @@ Is your **Resonant Aperture** running low on *resonance* on a frequent basis? Yo
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Energy Card**
 ---

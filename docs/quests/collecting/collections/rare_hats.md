@@ -7,7 +7,7 @@ You call this a rare hat? This hat is medium &oat best!&r
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Baby Crewmate**
 	- **Bluefireeye**

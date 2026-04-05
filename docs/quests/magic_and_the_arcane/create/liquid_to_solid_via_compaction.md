@@ -9,7 +9,7 @@ With enough power, the **Press** will automatically turn the liquid into **Choco
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Bar Of Chocolate (4)**
 ---

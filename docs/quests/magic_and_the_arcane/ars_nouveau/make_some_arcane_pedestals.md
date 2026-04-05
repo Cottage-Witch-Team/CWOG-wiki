@@ -16,7 +16,7 @@ These Pedestals need to be placed surrounding the **Imbuement Chamber** or **Enc
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Arcane Pedestal (4)**
 ---

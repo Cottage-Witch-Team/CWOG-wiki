@@ -7,7 +7,7 @@ Cozy up to some bears in this lovely little den in the woods! It's probably tota
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Find **Forest Den**
 ---

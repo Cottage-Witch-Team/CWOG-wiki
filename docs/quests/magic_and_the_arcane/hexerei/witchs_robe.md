@@ -13,7 +13,7 @@ Unfortunately, witches seem not to care for pants - if you want those, you'll ha
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Witch Chestplate**
 ---

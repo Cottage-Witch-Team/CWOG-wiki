@@ -12,7 +12,7 @@ Mushrooms are rad as hell. Why not try collecting all of them? Then you can have
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Shulkren Fungus**
 	- **Glow Shroom**

@@ -18,7 +18,7 @@ Stand on the **Siphon** to drain your EXP, and activate the **Fountain** to show
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Carved Nephrite**
 	- **Nephrite Siphon**

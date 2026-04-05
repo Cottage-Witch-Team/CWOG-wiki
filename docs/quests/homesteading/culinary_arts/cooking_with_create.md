@@ -13,7 +13,7 @@ Be sure that the **Cooking Guide** is outside of your **Akashic Tome**! ^^The bo
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Cooking Guide**
 ---

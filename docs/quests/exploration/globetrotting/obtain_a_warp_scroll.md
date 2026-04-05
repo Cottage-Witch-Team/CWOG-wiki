@@ -9,7 +9,7 @@ These should not be confused with the **Warp Scrolls** from ^^Ars Nouveau^^, whi
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Warp Scroll**
 ---

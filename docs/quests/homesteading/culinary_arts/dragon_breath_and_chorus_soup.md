@@ -7,7 +7,7 @@ Although challenging to make, the **Dragon's Breath and Chorus Stew** grants a n
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Dragon Breath And Chorus Soup**
 ---

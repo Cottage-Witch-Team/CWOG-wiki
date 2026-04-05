@@ -12,7 +12,7 @@ The **Dragon Scale** is an incredibly valuable item which is obtained after defe
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Dragon Scale**
 ---

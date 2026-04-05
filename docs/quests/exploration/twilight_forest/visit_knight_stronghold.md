@@ -16,7 +16,7 @@ Once you defeat them, you can now challenge the ^^Dark Tower^^.
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Find **Knight Stronghold**
 ---

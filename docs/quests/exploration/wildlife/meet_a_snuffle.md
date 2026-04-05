@@ -12,7 +12,7 @@ The **Snuffle** is a passive creature with a permanent blep. It can be found in 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Meet **Snuffle**
 ---

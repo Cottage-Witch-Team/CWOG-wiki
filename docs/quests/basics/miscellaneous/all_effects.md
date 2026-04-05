@@ -11,7 +11,7 @@ Sculk Affinity (Deeper and Darker), Panic, Serenity (both Environmental), Health
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- **All Effects**
 ---

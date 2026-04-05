@@ -16,7 +16,7 @@ To summon him, you'll need to find a **Wilden Hunter**, **Wilden Guardian**, and
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Ritual Wilden Summon**
 	- **Wilden Tribute**

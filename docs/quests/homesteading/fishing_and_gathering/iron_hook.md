@@ -12,7 +12,7 @@ To fish properly, you'll need a **Hook**. The Iron Hook grants *Durability* to y
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Iron Hook**
 ---

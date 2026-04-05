@@ -25,7 +25,7 @@ List of All Biomes:
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Meet **Griffon**
 ---

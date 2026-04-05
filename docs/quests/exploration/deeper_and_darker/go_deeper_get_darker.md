@@ -13,7 +13,7 @@ First, you'll need to find yourself the *Ancient City*, often signified by the p
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Meet **Sculk**
 ---

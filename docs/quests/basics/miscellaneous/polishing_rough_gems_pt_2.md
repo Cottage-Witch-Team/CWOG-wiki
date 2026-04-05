@@ -7,7 +7,7 @@ The **Diamond Grindstone** gives a finer polish and thus is suitable for *rarer 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Diamond Grindstone**
 ---

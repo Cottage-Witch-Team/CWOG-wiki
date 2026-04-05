@@ -13,7 +13,7 @@ It can be enchanted with Unbreaking or Mending.
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Ore Magnet**
 ---

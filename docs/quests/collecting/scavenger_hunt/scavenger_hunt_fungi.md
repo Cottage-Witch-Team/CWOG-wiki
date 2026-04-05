@@ -7,7 +7,7 @@
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Crimson Fungus**
 	- **Warped Fungus**

@@ -14,7 +14,7 @@ When it is *raining*, it will output a signal of 1. When it is *thundering*, it 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Wind Vane**
 ---

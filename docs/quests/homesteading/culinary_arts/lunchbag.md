@@ -16,7 +16,7 @@ A word of warning... don't trust seagulls. They'll swoop down and *steal food ri
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Lunchbag**
 ---

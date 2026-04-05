@@ -13,7 +13,7 @@ This image is only *one example* of a shape you can place them in. You can do a 
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Mechanical Crafter (21)**
 ---

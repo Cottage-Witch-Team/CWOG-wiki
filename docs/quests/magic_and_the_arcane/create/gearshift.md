@@ -7,7 +7,7 @@ Among other things, the **Gearshift** allows you to *reverse the direction of ro
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Gearshift**
 ---

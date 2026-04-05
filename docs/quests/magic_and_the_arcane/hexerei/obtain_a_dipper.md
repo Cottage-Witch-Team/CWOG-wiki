@@ -16,7 +16,7 @@ Unlike basic Candles, these can be placed together with Candles of different col
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Candle Dipper**
 ---

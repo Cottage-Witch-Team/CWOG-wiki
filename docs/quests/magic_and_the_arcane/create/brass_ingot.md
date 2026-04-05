@@ -9,7 +9,7 @@ You can remove the finished product by setting up a **Conveyor Belt**, or just b
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Brass Ingot**
 ---

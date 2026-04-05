@@ -7,7 +7,7 @@ Did you know that **Steeleaf tools** come *pre-enchanted when you craft them*? P
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Steeleaf Knife**
 	- **Steeleaf Sword**

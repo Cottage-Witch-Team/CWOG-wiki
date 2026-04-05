@@ -7,7 +7,7 @@ Once you obtain a **Rough Ore**, you can polish it into its more valuable (and u
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 
 	- Acquire **Any Grindable**
 ---

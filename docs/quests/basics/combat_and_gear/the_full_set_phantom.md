@@ -7,7 +7,7 @@ Obtain a full set of **Phantom Knight Armor** from the *Twilight Forest*.
 
 
 
-!!! tip ""
+!!! tip 'TASK' 
 	### Acquire :
 	- **Phantom Helmet**
 	- **Phantom Chestplate**
