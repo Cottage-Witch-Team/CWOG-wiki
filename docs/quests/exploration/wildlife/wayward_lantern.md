@@ -10,7 +10,7 @@ In ^^Multiplayer^^, your pets will respawn at the *closest Lantern*, so be caref
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Wayward Lantern**
 ---

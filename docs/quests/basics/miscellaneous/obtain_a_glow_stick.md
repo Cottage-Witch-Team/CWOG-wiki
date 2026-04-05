@@ -16,7 +16,7 @@ Glow sticks also come in all 16 colors as well as the glow ink hue, making them 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Glowsticks**
 ---

@@ -7,7 +7,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Raw Iron Block**
 	- **Raw Copper Block**

@@ -7,7 +7,7 @@ This quaint *Fisherman's Lodge* is water-bound, and is a great place to go fishi
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Fishermans Lodge**
 ---

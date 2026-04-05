@@ -9,7 +9,7 @@ Then, place a **Pump** and/or some **Fluid Pipes** beside it, as well as a **Tan
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Fluid Tank**
 	- **Fluid Pipe**

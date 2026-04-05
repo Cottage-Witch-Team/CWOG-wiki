@@ -7,7 +7,7 @@ The highest tier armor, this **Archmage set** is almost as good as **Netherite**
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Archmage Hood**
 	- **Archmage Robes**

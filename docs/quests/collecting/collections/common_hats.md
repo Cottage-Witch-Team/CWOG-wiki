@@ -7,7 +7,7 @@ The most common of headwear.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Acornhat**
 	- **Alien Antennae**

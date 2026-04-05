@@ -12,7 +12,7 @@ You can find **Eggplant** in *Jungles*, **Cucumber** in *Swamps*, **Corn** in *P
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Break :
 	- **Wild Cabbages**
 	- **Wild Potatoes**

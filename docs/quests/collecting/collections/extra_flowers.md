@@ -7,7 +7,7 @@ These flowers *no longer spawn naturally in the world*... but it would be a sham
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Seeds**
 ---

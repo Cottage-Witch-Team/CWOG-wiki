@@ -7,7 +7,7 @@ Rumors swirl about the **Corrupted Eye**, of its ability to bring infinite fortu
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Corrupted Eye**
 ---

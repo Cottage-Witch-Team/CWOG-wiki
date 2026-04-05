@@ -9,7 +9,7 @@ Use the **Compactor** setup you created earlier!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Cinder Flour**
 	- **Blaze Cake Base**

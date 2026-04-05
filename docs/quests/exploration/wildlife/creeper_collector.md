@@ -16,7 +16,7 @@ Note: As some creepers may be harder to find than others, you may choose to *tac
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Kill :
 	- **Badlands Creeper**
 	- **Badlands Creeper**

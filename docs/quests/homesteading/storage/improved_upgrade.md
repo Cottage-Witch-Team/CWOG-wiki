@@ -7,7 +7,7 @@ The **Improved Upgrade** gives you *Redstone Mode* control, and also allows you 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Improved Upgrade**
 ---

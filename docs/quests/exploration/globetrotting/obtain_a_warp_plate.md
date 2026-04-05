@@ -13,7 +13,7 @@ In you ==insert the shard into another Warp Plate==, it will now teleport you to
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Warp Plate**
 ---

@@ -9,7 +9,7 @@ You'll need *Silk Touch* or a **Hammer and Chisel** to obtain the blocks, otherw
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Magnetite Chunk**
 ---

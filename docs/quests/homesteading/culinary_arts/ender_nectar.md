@@ -12,7 +12,7 @@ I'm not sure who pioneered the idea of eating **Ender Pearls**, but hey...why no
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Ender Nectar**
 ---

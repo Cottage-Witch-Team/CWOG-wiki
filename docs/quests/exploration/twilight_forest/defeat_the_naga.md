@@ -7,7 +7,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Progress Naga**
 ---

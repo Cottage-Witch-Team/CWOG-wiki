@@ -7,7 +7,7 @@ There are many meals which can be ==placed down and eaten==. Craft one of each a
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Roast Chicken Block**
 	- **Rice Roll Medley Block**

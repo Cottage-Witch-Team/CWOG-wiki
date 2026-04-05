@@ -12,7 +12,7 @@ As an added bonus, the **Planar Bridge Card** will provide your **Resonant Apert
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Quantum Bridge Card**
 ---

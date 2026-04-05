@@ -21,7 +21,7 @@ The *cog wheel* on the right gives you access to your *storage settings*.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Basic Tier Upgrade**
 	- **Barrel**

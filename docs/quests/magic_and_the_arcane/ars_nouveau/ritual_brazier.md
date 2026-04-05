@@ -7,7 +7,7 @@ To move on, you'll need a **Ritual Brazier**, which accepts various **Ritual Tab
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Ritual Brazier**
 ---

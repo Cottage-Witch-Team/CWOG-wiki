@@ -7,7 +7,7 @@ Obtain a full set of **Knightmetal Armor** from the *Twilight Forest*.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Knightmetal Helmet**
 	- **Knightmetal Chestplate**

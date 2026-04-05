@@ -9,7 +9,7 @@ You can set a filter by ==preparing an Allow/Deny Scroll== and ==clicking your S
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Star Bin**
 ---

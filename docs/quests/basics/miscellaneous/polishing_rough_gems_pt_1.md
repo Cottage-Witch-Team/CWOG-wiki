@@ -11,7 +11,7 @@ Note that you can also use **Sandpaper** to polish these gems.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Grindstone**
 ---

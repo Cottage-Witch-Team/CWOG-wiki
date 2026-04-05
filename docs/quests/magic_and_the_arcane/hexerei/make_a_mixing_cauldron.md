@@ -13,7 +13,7 @@ A cauldron is fine and dandy, but you'll want something a little more magical fo
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Mixing Cauldron**
 ---

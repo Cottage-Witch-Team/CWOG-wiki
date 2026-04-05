@@ -9,7 +9,7 @@ The *Overcast Columns* are a vast, uninhabited wasteland. They are composed of m
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Visit **Overcast Columns**
 ---

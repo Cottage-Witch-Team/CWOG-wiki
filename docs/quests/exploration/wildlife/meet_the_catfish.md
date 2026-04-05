@@ -14,7 +14,7 @@ One can ==lure them in== with a **Sea Lantern**, and grab them with a **Bucket**
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Meet **Catfish**
 ---

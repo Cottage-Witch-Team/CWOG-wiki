@@ -7,7 +7,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Chorus Fruit**
 ---

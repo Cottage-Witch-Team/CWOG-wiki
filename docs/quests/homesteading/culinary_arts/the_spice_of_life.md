@@ -16,7 +16,7 @@ You can also find what you've yet to eat by searching "yet" in the right side of
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Food Book**
 ---

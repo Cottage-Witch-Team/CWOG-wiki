@@ -7,7 +7,7 @@ Are you drowning in **Nether Stars**? Sure, we all are. Make this hook and get a
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Nether Star Hook**
 ---

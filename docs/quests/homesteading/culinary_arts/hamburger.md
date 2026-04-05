@@ -14,7 +14,7 @@ The humbleburger, if you will. Hambumble? I don't know.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Hamburger**
 ---

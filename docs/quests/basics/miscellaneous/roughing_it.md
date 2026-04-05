@@ -14,7 +14,7 @@ You can ==shift right click== in order to place it without sleeping.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Sleeping Bags**
 ---

@@ -13,7 +13,7 @@ They can be lured and bred with **Chorus Fruit**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Chorus On A Stick**
 ---

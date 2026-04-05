@@ -7,7 +7,7 @@ To obtain the **Witch Eye**, you must first ^^slay an evil witch^^ and get the *
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Witch Eye**
 ---

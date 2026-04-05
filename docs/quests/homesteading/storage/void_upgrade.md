@@ -7,7 +7,7 @@ The **Void Upgrade** is useful if you have a lot of an item importing into your 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Void Upgrade**
 ---
@@ -33,7 +33,7 @@ The **Advanced Void Upgrade** is capable of sorting by NBT and Damage levels.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Void Upgrade**
 ---

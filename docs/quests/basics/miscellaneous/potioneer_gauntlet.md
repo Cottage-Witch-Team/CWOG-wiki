@@ -15,7 +15,7 @@ To resupply your gauntlet, apply **Blaze Powder** in the **Potion Injector**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Potioneer Gauntlet**
 	- **Potion Injector**

@@ -14,7 +14,7 @@ You need to ==right click the **Tape** onto the desired item. Then you can &6bre
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Packing Tape**
 ---

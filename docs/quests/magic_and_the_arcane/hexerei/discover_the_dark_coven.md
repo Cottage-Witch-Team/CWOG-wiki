@@ -7,7 +7,7 @@ Hidden away in *Swamps* is the *Dark Coven*, a city of **Witches** who are up to
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Find **Dark Coven**
 ---

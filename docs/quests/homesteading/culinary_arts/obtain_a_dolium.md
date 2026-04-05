@@ -14,7 +14,7 @@ This can be sped up using the **Time in a Bottle**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Dolium**
 ---

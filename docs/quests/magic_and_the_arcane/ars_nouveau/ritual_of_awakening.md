@@ -14,7 +14,7 @@ Once the **Weald Walker** is ambling about, ==right click it== with the **Domini
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Ritual Awakening**
 	- **Dominion Wand**

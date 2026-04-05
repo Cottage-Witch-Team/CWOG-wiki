@@ -12,7 +12,7 @@ Much like Mushroom colonies, **Nether Fungus** can be grown in *complete darknes
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Funguscolony**
 ---

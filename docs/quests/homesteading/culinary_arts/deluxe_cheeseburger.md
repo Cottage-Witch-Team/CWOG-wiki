@@ -7,7 +7,7 @@ Ahh, there we are! The ultimate meal. Veggies, protein, dairy, grains...a balanc
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Deluxe Cheeseburger**
 ---

@@ -15,7 +15,7 @@ The Ur-Ghast is one of the 3 bosses you must defeat to access the ^^Highlands^^.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Find **Dark Tower**
 ---

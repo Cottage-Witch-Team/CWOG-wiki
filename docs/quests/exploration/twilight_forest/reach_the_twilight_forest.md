@@ -14,7 +14,7 @@ And remember! ==If you get lost or wander into an inaccessible zone, look for Ko
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Enter **Twilight Forest**
 ---

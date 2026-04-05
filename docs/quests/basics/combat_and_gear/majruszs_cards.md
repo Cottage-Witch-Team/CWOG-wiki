@@ -18,7 +18,7 @@ the **Removal Card** is a Card that returns all **Boosters** applied to any acce
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Maj Cards**
 ---

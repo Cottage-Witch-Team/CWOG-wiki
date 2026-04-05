@@ -9,7 +9,7 @@ Have you ==automated your farm==? Then you probably know the pain of excessive c
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Onion Crate (10)**
 	- **Carrot Crate (10)**

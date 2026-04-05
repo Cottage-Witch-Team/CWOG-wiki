@@ -12,7 +12,7 @@ The **Destruction Gadget** is a dangerous tool which will *completely delete blo
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Gadget Destruction**
 ---

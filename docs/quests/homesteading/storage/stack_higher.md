@@ -16,7 +16,7 @@ So if you use a **Tier 1** and a **Tier 2**, you will hold 2 stacks by 4 stacks,
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Stack Upgrade Tier 1**
 ---

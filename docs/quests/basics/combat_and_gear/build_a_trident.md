@@ -9,7 +9,7 @@ Once thrown, a trident with **Loyalty** will *return to the slot from which it d
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Trident Fragment**
 ---

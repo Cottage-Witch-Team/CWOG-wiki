@@ -18,7 +18,7 @@ And you even have a chance of Overweight Crops when using **Planters**!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Overweightcrops**
 ---

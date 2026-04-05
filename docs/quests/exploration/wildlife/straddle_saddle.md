@@ -12,7 +12,7 @@ A saddle which allows the player to ride a **Lavathian**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Straddle Saddle**
 ---

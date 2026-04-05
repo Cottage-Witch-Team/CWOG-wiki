@@ -12,7 +12,7 @@ These special buttons function similarly to other **Buttons**, except that the *
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Iron Button**
 	- **Gold Button**

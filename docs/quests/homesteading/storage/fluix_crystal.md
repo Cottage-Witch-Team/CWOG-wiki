@@ -11,7 +11,7 @@ To obtain **Fluix Crystals**, you need to &6submerge a **Consecrated Certus Quar
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Fluix Crystal**
 	- **Fluix Dust**

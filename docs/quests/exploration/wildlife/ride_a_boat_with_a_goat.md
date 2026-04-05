@@ -17,7 +17,7 @@ You win!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Ride A Boat With A Goat**
 ---

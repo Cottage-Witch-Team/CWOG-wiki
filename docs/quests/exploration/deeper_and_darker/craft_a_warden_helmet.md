@@ -9,7 +9,7 @@ Aside from its defense and armor toughness, it grants **immunity to Darkness**, 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Warden Helmet**
 ---

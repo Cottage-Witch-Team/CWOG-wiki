@@ -12,7 +12,7 @@ These fish live in *Saltwater biomes* such as Lukewarm or Warm Oceans.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Jellyfish**
 	- **Red Grouper**

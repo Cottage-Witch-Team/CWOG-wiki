@@ -14,7 +14,7 @@ This is for players who have collected many duplicates and want a shot at a diff
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Tarot Cards (2)**
 ---

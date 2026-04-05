@@ -14,7 +14,7 @@ You can release the Cloud by right-clicking the bottle in the air. It will short
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Bottled Cloud**
 ---

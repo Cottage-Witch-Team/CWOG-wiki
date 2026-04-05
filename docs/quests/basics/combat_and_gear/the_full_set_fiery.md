@@ -7,7 +7,7 @@ Obtain a full set of **Fiery Metal Armor** from the *Twilight Forest*.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Fiery Helmet**
 	- **Fiery Chestplate**

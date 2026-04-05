@@ -7,7 +7,7 @@ The beginning of your journey should bring you to a *Tower*, looming over the su
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Find **Tower**
 ---

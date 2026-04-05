@@ -7,7 +7,7 @@ This armor grants additional *Mana* over the basic set.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Apprentice Hood**
 	- **Apprentice Robes**

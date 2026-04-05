@@ -12,7 +12,7 @@ Rose hip tea will grant you a small amount of *Regeneration*!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Rose Hip Tea**
 ---

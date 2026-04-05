@@ -8,7 +8,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Waystone**
 ---

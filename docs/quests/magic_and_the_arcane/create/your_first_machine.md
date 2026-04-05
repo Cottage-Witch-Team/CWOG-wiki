@@ -9,7 +9,7 @@ Take this **Iron** and place it underneath the **Mechanical Press**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Mechanical Press**
 	- **Hand Crank**

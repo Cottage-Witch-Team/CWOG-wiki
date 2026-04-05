@@ -9,7 +9,7 @@ You can learn more about how they work by ==holding w to Ponder==.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Belt Connector**
 	- **Chute**

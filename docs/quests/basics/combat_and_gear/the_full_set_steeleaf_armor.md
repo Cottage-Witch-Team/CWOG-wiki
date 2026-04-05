@@ -7,7 +7,7 @@ Obtain a full set of **Steeleaf Armor** from the ^^Twilight Forest^^.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Steeleaf Helmet**
 	- **Steeleaf Chestplate**

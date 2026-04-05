@@ -14,7 +14,7 @@ When she is defeated, you have completed one of three tasks to gain access to ^^
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Find **Aurora Palace**
 ---

@@ -8,7 +8,7 @@ Craft the **Half Dragon Egg Shell**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Half Dragon Egg Shell**
 ---

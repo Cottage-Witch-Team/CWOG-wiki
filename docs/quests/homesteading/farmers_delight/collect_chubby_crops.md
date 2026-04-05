@@ -7,7 +7,7 @@ Gather &6one of each kind of **Overweight Crop**, which can be used as decoratio
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Overweight Beetroot Block**
 	- **Overweight Carrot Block**

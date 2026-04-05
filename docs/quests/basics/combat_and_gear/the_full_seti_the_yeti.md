@@ -7,7 +7,7 @@ Obtain a full set of **Alpha Yeti Armor** from the *Twilight Forest*.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Yeti Helmet**
 	- **Yeti Chestplate**

@@ -7,7 +7,7 @@ The journals from which I discovered these dungeons had this to say: "Found in t
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Find **Soul Prison**
 ---

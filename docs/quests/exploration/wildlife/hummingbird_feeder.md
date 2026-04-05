@@ -13,7 +13,7 @@ You can attract them using a **Hummingbird Feeder** filled with **Water** and **
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Hummingbird Feeder**
 ---

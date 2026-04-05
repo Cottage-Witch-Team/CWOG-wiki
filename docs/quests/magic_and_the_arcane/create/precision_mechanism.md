@@ -10,7 +10,7 @@ The first Deployer should hold a **Cogwheel**, the second a **Large Cogwheel**, 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Precision Mechanism**
 ---

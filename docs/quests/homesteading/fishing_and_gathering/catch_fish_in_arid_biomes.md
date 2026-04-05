@@ -12,7 +12,7 @@ These fish can be found near *Arid biomes* such as Deserts or Plateaus.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Bayad**
 	- **Boulti**

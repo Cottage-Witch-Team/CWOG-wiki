@@ -14,7 +14,7 @@ Made from fallen **Cindershells**, a passive mob in the Nether, this sword has a
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Cinder Sword**
 ---

@@ -16,7 +16,7 @@ I cannot put all the information in this quest description. &oMore information c
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Gadget Copy Paste**
 	- **Template Manager**

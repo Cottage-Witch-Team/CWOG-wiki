@@ -7,7 +7,7 @@ If you want to *give another player* a **Resonant Aperture** connected to your *
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Linking Resonant Apertures**
 ---

@@ -7,7 +7,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Budding Amethyst**
 	- **Amethyst Shard**

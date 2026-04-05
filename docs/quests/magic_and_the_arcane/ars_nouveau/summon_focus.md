@@ -9,7 +9,7 @@ It also *damages nearby enemies* which try to attack them, and *causes the "self
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Summon Focus**
 ---

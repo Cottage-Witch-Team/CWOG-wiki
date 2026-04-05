@@ -7,7 +7,7 @@ Make yourself a **Raw Stuffed Hoglin** and &6place it in a **Cooking Pot** with 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Stuffed Hoglin**
 ---

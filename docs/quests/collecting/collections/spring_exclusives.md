@@ -7,7 +7,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Bee On Head**
 	- **Bunnyhat**

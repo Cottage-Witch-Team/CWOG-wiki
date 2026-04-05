@@ -8,7 +8,7 @@ Ya-ha-ha!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Ultimate Flower Enthusiast**
 ---

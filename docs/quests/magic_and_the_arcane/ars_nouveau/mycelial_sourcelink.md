@@ -9,7 +9,7 @@ It will also *generate mushrooms* and **Mycelium** in the surrounding area.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Mycelial Sourcelink**
 ---

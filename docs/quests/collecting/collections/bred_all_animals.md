@@ -7,7 +7,7 @@ Breed 2 of each vanilla animal in order to obtain this reward!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Bred All Animals**
 ---

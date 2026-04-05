@@ -9,7 +9,7 @@ Although a lot of them could be said to be both.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Antlers**
 	- **Apple**

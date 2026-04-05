@@ -19,7 +19,7 @@ With each tier of upgrades, *your storage improves*. At Gold tier it has *more s
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Iron To Gold Tier Upgrade**
 	- **Basic To Gold Tier Upgrade**

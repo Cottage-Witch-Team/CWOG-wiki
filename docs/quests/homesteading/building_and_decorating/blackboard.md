@@ -14,7 +14,7 @@ It will *retain it's image when broken*, but can be washed with ***Create*** mec
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Blackboard**
 ---

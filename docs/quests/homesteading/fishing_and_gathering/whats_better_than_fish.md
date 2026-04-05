@@ -20,7 +20,7 @@ There may be even greater, rarer treasures to be found...
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Box**
 	- **Lockbox**

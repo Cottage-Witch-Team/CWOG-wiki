@@ -9,7 +9,7 @@ That would be utterly ridiculous to do, and yet...
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Unenchanter**
 ---

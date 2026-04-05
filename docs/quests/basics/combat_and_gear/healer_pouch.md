@@ -7,7 +7,7 @@ The **Healer's Pouch** will periodically *grant you a speed boost* when you're h
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Healer Pouch**
 ---

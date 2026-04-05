@@ -16,7 +16,7 @@ It will *periodically grant a growth boost* to crops (when it's provided with wa
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Seeds**
 ---

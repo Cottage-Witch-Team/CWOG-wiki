@@ -22,7 +22,7 @@ List of All Biomes:
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Meet **Courierbird**
 ---

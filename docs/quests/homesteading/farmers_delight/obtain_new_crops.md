@@ -36,7 +36,7 @@ From ***Farmer's Delight***:
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Tomato**
 	- **Onion**

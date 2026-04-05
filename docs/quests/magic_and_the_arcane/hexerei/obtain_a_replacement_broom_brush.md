@@ -12,7 +12,7 @@ As you use your Broom, the Brush will eventually lose durability and need replac
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Wet Broom Brush**
 ---

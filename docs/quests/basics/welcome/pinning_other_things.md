@@ -11,7 +11,7 @@ Also, perhaps I should mention that you can *pin notes* to your screen as well! 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Pin a Quest or Note**
 ---

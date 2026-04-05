@@ -9,7 +9,7 @@ If you can &6find the same **Rascal&6 3 times within 15 minutes**, it will give 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Complete Hide And Seek Game**
 ---

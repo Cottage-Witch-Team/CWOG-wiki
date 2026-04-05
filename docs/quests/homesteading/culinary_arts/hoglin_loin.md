@@ -12,7 +12,7 @@ By killing **Hoglins** with your trusty **Knife**, you can gain **Hoglin Loin**,
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Hoglin Loin**
 ---

@@ -22,7 +22,7 @@ The **Level Emitter** will *provide a redstone signal based on configurable cond
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Cable Anchor**
 	- **Inverted Toggle Bus**

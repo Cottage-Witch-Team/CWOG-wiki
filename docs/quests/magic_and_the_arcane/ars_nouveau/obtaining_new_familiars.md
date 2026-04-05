@@ -20,7 +20,7 @@ You can dismiss your summoned Familiar with a *Dispel* Spell. Break the blocks t
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Ritual Binding**
 ---

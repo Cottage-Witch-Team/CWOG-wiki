@@ -9,7 +9,7 @@ This is a known bug which is currently unfixed by the mod developers. It occurs 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Screwy Textures?**
 ---

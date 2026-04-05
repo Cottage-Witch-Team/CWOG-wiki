@@ -16,7 +16,7 @@ For example, you could ==choose Projectile and Break== to have a remote way of b
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Create Your First Spell**
 ---

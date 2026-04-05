@@ -7,7 +7,7 @@ To get your brewery started, you'll first need a **Keg**, and some **Tankards**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Keg**
 	- **Tankard**

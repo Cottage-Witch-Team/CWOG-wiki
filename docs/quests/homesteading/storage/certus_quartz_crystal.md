@@ -17,7 +17,7 @@ Now, hold onto this **Bucket of Tomato Sauce**, it's important.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Certus Quartz Crystal**
 ---

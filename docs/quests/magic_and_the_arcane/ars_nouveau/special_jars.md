@@ -11,7 +11,7 @@ The **Jar of Light** summons a light source to follow the player, which can be d
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Void Jar**
 	- **Jar Of Light**

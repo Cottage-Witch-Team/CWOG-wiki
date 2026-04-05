@@ -16,7 +16,7 @@ Well, why not *decorate your house with these attractive trophies*.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Trophies**
 ---

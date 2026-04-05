@@ -13,7 +13,7 @@ When defeated, it drops its **Eyes** and **Beak**. These can be crafted into a *
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Mysterious Worm**
 ---

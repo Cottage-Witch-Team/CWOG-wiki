@@ -16,7 +16,7 @@ Also, in a delightful twist, you *can Enchant your Worms* to give them extra dur
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Worm Farm**
 ---

@@ -7,7 +7,7 @@ The **Exotic Eye** is associated with Atlantis - the legends say that folks used
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Exotic Eye**
 ---

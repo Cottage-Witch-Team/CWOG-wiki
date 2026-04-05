@@ -7,7 +7,7 @@ Earn this by successfully *breeding two Froststalkers*.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Breed Froststalker**
 ---

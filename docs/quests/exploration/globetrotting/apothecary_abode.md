@@ -7,7 +7,7 @@ Locate the *Apothecary's Abode*, a large structure filled with bizarre machines 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Apothecary Abode**
 ---

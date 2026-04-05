@@ -14,7 +14,7 @@ But where does Source come from? The natural world. One way you can obtain it is
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Source Jar**
 	- **Agronomic Sourcelink**

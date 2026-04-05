@@ -7,7 +7,7 @@ Would your life be complete without visiting a *Witch's Stump*? No. Unfortunatel
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Witches Treestump**
 ---

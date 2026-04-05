@@ -14,7 +14,7 @@ His death will grant you access to ^^the Glacier^^.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Find **Yeti Cave**
 ---

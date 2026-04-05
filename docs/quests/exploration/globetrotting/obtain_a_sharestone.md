@@ -8,7 +8,7 @@ This makes them very useful for having private or separate networks of travel. T
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Sharestone**
 ---

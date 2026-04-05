@@ -18,7 +18,7 @@ A side note: Sage burning is a multicultural practice which is not to be confuse
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Sage Bundle**
 ---

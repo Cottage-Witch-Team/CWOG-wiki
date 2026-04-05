@@ -7,7 +7,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Sunflower**
 	- **Blue Orchid**

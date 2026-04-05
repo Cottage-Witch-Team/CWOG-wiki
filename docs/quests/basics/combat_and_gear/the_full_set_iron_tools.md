@@ -7,7 +7,7 @@ Full Iron tools! Feels good to make progress, huh? Congrats!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Iron Sword**
 	- **Iron Shovel**

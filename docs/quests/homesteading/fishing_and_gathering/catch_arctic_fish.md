@@ -12,7 +12,7 @@ These fish can be found in *Cold or Icy* biomes such as Taigas, Ice Spikes, or C
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Atlantic Cod**
 	- **Blackfish**

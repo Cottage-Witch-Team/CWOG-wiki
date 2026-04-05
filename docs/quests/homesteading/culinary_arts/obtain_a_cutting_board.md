@@ -14,7 +14,7 @@ This isn't the only use for the **cutting board**! Try experimenting with items 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Cutting Board**
 ---

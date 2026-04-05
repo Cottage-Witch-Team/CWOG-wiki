@@ -12,7 +12,7 @@ Already twice as good by virtue of adding **Cheese**, this burger could still be
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Cheeseburger**
 ---

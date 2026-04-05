@@ -11,7 +11,7 @@ However, this area is *not safe from the &eWarden*.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Visit **Echoing Forest**
 ---

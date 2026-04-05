@@ -14,7 +14,7 @@ Note: dragonflies from this mod do not spawn in the world, due to their laggy AI
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Meet **Jumping Spider**
 ---

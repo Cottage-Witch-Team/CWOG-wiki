@@ -9,7 +9,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Andesite Alloy (4)**
 ---

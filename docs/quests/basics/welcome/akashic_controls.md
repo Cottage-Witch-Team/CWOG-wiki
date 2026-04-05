@@ -13,7 +13,7 @@ To *add a book*, you should &6craft the book with the **Tome**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Akashic Controls**
 ---

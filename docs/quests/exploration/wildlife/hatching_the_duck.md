@@ -9,7 +9,7 @@ Now, you may ==trade in 16 chicken eggs== in order to receive *a single Duck*. B
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Egg (16)**
 ---

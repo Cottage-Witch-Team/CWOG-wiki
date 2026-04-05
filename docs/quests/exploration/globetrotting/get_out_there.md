@@ -8,7 +8,7 @@ Most of them contain *juicy loot*! Why not try to find all of them?
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Get Out There**
 ---

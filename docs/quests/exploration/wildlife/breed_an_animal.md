@@ -12,7 +12,7 @@ Find two animals and breed them in order to get this advancement and begin these
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Breed An Animal**
 ---

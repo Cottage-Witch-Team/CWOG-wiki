@@ -9,7 +9,7 @@ You can &6right click the **Hammer** on Handcrafted blocks to *change their appe
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any Boards**
 ---

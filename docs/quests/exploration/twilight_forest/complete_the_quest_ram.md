@@ -8,7 +8,7 @@ Maybe give it some *more wool*. Specifically, ==one of each color of wool==.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Quest Ram**
 ---

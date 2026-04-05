@@ -12,7 +12,7 @@ These upgrades will help you *process items in your storage*, by smelting, blast
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Smelting Upgrade**
 ---

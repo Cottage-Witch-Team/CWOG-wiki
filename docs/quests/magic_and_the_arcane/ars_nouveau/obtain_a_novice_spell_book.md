@@ -21,7 +21,7 @@ Note that ^^while holding your book, you cannot use the ` key^^.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Novice Spell Book**
 ---

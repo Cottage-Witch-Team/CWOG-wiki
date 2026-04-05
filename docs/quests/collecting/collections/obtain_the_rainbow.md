@@ -12,7 +12,7 @@ For this quest, show your love of color by collecting each different type of woo
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **White Wool**
 	- **Orange Wool**

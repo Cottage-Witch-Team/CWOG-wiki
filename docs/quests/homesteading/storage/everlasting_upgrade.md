@@ -14,7 +14,7 @@ You did it. You made the Perfect Backpack. a lever of infinite size could not pr
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Everlasting Upgrade**
 ---

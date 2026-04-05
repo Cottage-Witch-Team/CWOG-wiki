@@ -7,7 +7,7 @@ The **Ender Watcher** transmits a Redstone signal when *a player is looking at i
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Ender Watcher**
 ---

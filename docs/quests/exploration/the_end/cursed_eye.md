@@ -7,7 +7,7 @@ The **Cursed Eye** is found within the ^^Treasure Bastion^^’s chests. It is a 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Cursed Eye**
 ---

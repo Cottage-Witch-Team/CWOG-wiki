@@ -20,7 +20,7 @@ Additionally, you can &aadd **Potions&a to your food** by including them in the 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Borscht**
 ---

@@ -12,7 +12,7 @@ Crops can be easily compacted into Bags or Crates in order to *save on storage s
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Rice Bag**
 	- **Onion Crate**

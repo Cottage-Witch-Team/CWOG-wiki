@@ -7,7 +7,7 @@ Similar to **Crates**, many crops can be compacted into **Sacks**. These can be 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Salmonberry Sack**
 	- **Acorn Sack**

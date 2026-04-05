@@ -7,7 +7,7 @@ Achieve this advancement by ==eating a course of every meal available==! You can
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Master Chef**
 ---

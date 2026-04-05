@@ -7,7 +7,7 @@ Discover *The Catacombs*, which are absolutely *crawling with undead*, but may h
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Zombie Dungeon**
 ---

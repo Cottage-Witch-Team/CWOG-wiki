@@ -18,7 +18,7 @@ You cannot grow tea on **Farmland**, it must be planted on grass.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Tea Seeds**
 ---

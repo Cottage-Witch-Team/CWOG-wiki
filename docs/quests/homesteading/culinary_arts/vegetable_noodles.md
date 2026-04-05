@@ -7,7 +7,7 @@ Vegetarian? No worries, we got you covered! Why not make some delicious *vegetar
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Vegetable Noodles**
 	- **Vegetable Soup**

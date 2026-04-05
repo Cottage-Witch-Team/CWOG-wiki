@@ -14,7 +14,7 @@ You can also ==right-click== the water wheel with a **wooden plank** to change t
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Water Wheel**
 ---

@@ -14,7 +14,7 @@ Just be sure that you don't place it up against a wall. Trust me on this.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Market**
 ---

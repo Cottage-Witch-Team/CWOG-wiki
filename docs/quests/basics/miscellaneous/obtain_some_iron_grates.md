@@ -12,7 +12,7 @@ The **Iron Grate** works to keep animals inside, as they are afraid to walk over
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Grate (4)**
 ---

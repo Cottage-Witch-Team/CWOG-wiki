@@ -9,7 +9,7 @@ It is also significantly more expensive.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Ultimate Upgrade**
 ---

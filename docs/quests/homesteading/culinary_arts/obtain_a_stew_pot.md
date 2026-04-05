@@ -9,7 +9,7 @@ Once placed, you can *fill the Stew Pot* by ==right clicking it== with a **Bucke
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Clay Cistern**
 	- **Stew Pot**

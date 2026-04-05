@@ -11,7 +11,7 @@ The **Warden** can be summoned here, as well.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Visit **Deeplands**
 ---

@@ -14,7 +14,7 @@ Well, you can!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Sporeling Backpack**
 ---

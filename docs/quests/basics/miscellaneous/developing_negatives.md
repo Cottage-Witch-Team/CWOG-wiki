@@ -16,7 +16,7 @@ Simply ==combine them== in a **Crafting Grid**.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Developing Negatives**
 ---

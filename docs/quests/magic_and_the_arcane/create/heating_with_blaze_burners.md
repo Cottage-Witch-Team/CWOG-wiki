@@ -14,7 +14,7 @@ The **Blaze Burner** must be *fed to function*. You can feed it by ==right click
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Empty Blaze Burner**
 	- **Blaze Burner**

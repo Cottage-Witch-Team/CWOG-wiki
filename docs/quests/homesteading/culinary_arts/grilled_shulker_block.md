@@ -7,7 +7,7 @@ An uncommonly known fact is that **Shulkers** are kind of like **Eggs**! And, un
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Grilled Shulker Block**
 ---

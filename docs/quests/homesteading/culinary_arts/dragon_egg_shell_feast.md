@@ -7,7 +7,7 @@ Congratulations, you've cooked some of the *most magically imbued food* in the g
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Dragon Egg Shell Feast**
 ---

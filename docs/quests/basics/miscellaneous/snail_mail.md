@@ -19,7 +19,7 @@ Once you've hit ^^Esc^^, you can *select the Snailbox to send to*, and ta-da! Yo
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Stamp**
 ---

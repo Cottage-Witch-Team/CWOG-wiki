@@ -7,7 +7,7 @@ Even the most honest witch needs to sneak around sometimes. But you...well, you'
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Stats: **Sneak Time = 99999**
 ---

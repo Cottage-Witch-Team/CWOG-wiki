@@ -7,7 +7,7 @@ Collect one each of every flower in the game to earn rewards!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Yellow Dock Flowers**
 	- **Dandelion**

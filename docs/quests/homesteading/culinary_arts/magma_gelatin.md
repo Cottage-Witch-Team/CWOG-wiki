@@ -12,7 +12,7 @@ This meal is deeply nourishing, but it never cools down no matter how much you b
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Magma Gelatin**
 ---

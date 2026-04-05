@@ -9,7 +9,7 @@ In the ^^center of the temple^^, there are some blocks which, when broken, allow
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Find **Ancient Temple**
 ---

@@ -14,7 +14,7 @@ To return your Akashic Tome to its base state, *hold it and left click* while *t
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Worn Notebook**
 ---

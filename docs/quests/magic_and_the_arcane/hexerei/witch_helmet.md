@@ -12,7 +12,7 @@ Every witch needs a good **hat**. You can craft yours out of **Infused Fabric**,
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Witch Helmet**
 ---

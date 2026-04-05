@@ -14,7 +14,7 @@ The rate at which the Bellows pump is determined by the strength of the *Redston
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Bellows**
 ---

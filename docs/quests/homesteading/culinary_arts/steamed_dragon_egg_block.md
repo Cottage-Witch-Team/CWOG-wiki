@@ -7,7 +7,7 @@ This dreamy steamed dish will *fulfill your wildest dreams*... or, at least, it'
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Steamed Dragon Egg Block**
 ---

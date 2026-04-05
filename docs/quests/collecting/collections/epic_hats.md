@@ -9,7 +9,7 @@ You did it. &oYou won fishing&r.
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Angel And Devil**
 	- **Artsy**

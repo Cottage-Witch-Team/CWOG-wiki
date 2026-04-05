@@ -12,7 +12,7 @@ To obtain the highest tier of **Pearl Necklace**, you must combine the Tier 2 wi
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Pearl Necklace 3**
 	- **Glowing Pearl Modifier**

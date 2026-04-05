@@ -12,7 +12,7 @@ The **Vibrant Interface** allows your *Nexus* to *communicate with other mods* l
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Any of: Interface, Cable Interface**
 ---

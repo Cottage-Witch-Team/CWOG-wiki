@@ -14,7 +14,7 @@ From the Archwood, you can craft the **Amethyst Dowsing Rod**, which will help y
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 	### Acquire :
 	- **Any Archwood**
 	- **Dowsing Rod**

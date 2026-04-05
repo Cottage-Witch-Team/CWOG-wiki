@@ -9,7 +9,7 @@ The **Casting Wand** is an item which you can assign a single spell to. It will 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Wand**
 ---

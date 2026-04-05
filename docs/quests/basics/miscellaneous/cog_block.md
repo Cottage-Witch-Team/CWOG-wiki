@@ -12,7 +12,7 @@ The **Cog Block** performs the same way that **placed Redstone** does. However, 
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Cog Block**
 ---

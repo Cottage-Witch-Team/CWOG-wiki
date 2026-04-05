@@ -9,7 +9,7 @@ Thankfully, the **Scroll of Save Starbuncle** will *preserve all their settings*
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Scroll Of Save Starbuncle**
 ---

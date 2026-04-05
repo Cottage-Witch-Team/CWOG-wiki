@@ -9,7 +9,7 @@ Simply ==right click while holding it== to activate it, and then *keep it in you
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- Acquire **Item Magnet**
 ---

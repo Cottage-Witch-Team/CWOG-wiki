@@ -7,7 +7,7 @@ Defeat the **Illusioner** - if you can find him - and obtain his riches!
 
 
 
-!!! tip 'TASK' 
+!!! tip ""
 
 	- **Kill Illusioner**
 ---
