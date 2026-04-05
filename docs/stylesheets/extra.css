@@ -14,9 +14,14 @@
     --md-default-bg-color: #bad4a6;
     --md-default-fg-color: #2E3A2C;
 
+    --md-code-fg-color: #ffffff;
+    --md-code-bg-color: #2E3A2C;
+
     /* text */
     --md-typeset-color: #2E3A2C;
     --md-typeset-a-color: #d32c9f;
+
+    --md-typeset-table-color: #2E3A2C;
 }
 
 
@@ -36,3 +41,10 @@
     --md-code-font: "JetBrains Mono", monospace;
 }
 
+.md-typeset__table {
+    min-width: 100%;
+}
+
+.md-typeset table:not([class]) {
+    display: table;
+}

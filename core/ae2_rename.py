@@ -54,16 +54,20 @@ diff2 = {
 diff3 = {k: v | {"enabled": k not in items} for k, v in diff2.items()}
 
 string = """
-# AE2 - item renames
+# AE2 - Renamed Items
+Many of the items in AE2 have been renamed to a more magical vibe. See a list of those here!
 
----
+| Item ID | Original Name | New Name | Enabled? |
+| :----- | -----------: | :---------- | :-----: |"""
 
-| item id | old name | new name | enabled |
-| ------- | -------- | -------- | ------- |"""
+
+def bolden(str, v, f):
+    return f"{f}{str}{f}" if v["enabled"] else f"~~{str}~~"
+
 
 for k, v in diff3.items():
     string += f"""
-| {k} | {v["old"]} | {v["new"]} | {v["enabled"]} |"""
+| `{k}` | {bolden(v["old"], v, "")} | {bolden(v["new"], v, "**")} | {"==:lucide-check:==" if v["enabled"] else ":lucide-x:"} |"""
 
 ae2_rename = DOCS_ROOT / "wiki" / "ae2_item_renames.md"
 
