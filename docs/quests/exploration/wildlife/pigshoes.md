@@ -1,13 +1,13 @@
 
 # Pigshoes
 
-These can be obtained by *crafting*, and are used to *fully tame a &eTusklin*.
+These can be obtained by **crafting**{.green}, and are used to **fully tame a &eTusklin**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Pigshoes**
 ---

@@ -6,15 +6,15 @@
 ---
 
 
-The **Faucet** is an item which will *withdraw, and drop, items from the sides of blocks* (inventories, beehives, or jars). This is opposed to Hoppers, which can only withdraw from the bottom.
+The **Faucet**{.aqua} is an item which will **withdraw, and drop, items from the sides of blocks**{.green} (inventories, beehives, or jars). This is opposed to Hoppers, which can only withdraw from the bottom.
 
-They also function like **Dripstone**, slowly dripping liquids into a cauldron beneath them.
+They also function like **Dripstone**{.aqua}, slowly dripping liquids into a cauldron beneath them.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Faucet**
 ---

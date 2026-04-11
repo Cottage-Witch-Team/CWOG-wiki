@@ -1,13 +1,13 @@
 
 # Kill Illusioner
 
-Defeat the **Illusioner** - if you can find him - and obtain his riches!
+Defeat the **Illusioner**{.yellow} - if you can find him - and obtain his riches!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Kill Illusioner**
 ---

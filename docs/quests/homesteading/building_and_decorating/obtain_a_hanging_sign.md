@@ -6,15 +6,15 @@
 ---
 
 
-The **Hanging Sign** is a versatile decoration block which can hang beneath or off the side of a block.
+The **Hanging Sign**{.aqua} is a versatile decoration block which can hang beneath or off the side of a block.
 
-You can add text to it by *right clicking with an empty hand*, or you can use it as an item frame by *right clicking it with an item*.
+You can add text to it by **right clicking with an empty hand**{.green}, or you can use it as an item frame by **right clicking it with an item**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Hanging Signs**
 ---

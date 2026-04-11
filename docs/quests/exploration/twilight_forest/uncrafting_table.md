@@ -6,13 +6,13 @@
 ---
 
 
- One of the most valuable items in the game, **The Uncrafting Table** allows you to *recoup materials from crafted items* in exchange for experience levels. ==Place the unwanted item in the left slot== and then ==click one of the ingredients== in the center to remove it.
+ One of the most valuable items in the game, **The Uncrafting Table**{.aqua} allows you to **recoup materials from crafted items**{.green} in exchange for experience levels. **Place the unwanted item in the left slot**{.gold} and then **click one of the ingredients**{.gold} in the center to remove it.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Uncrafting Table**
 ---

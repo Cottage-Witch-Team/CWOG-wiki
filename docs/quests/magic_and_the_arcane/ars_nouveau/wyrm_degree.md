@@ -1,13 +1,13 @@
 
 # Wyrm Degree
 
-The **Starbuncles** are capable of taking lessons from **Bookwyrms** using the **Wyrm Degree**. Now that they're much smarter, they can *operate on only certain sides of their blocks*.
+The **Starbuncles**{.yellow} are capable of taking lessons from **Bookwyrms**{.yellow} using the **Wyrm Degree**{.aqua}. Now that they're much smarter, they can **operate on only certain sides of their blocks**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Wyrm Degree**
 ---

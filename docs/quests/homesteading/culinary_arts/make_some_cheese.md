@@ -6,18 +6,18 @@
 ---
 
 
-Cheese can be created in the Keg, but must *be aged before it can be eaten*. Place the Cheese out to let it ripen.
+Cheese can be created in the Keg, but must **be aged before it can be eaten**{.green}. Place the Cheese out to let it ripen.
 
-Once it's ripe, you can place it on a **Cutting Board** to obtain **Cheese Wedges** to cook with.
-^^Warning^^ - the popup screen will say \"Fully Grown\" before the cheese is matured. Wait a little longer, until that text is gone.
+Once it's ripe, you can place it on a **Cutting Board**{.aqua} to obtain **Cheese Wedges**{.aqua} to cook with.
+**Warning**{.pink} - the popup screen will say \"Fully Grown\" before the cheese is matured. Wait a little longer, until that text is gone.
 
-You can also *age cheese quickly* with Create ==Haunting==. Trauma causes the cheese to age prematurely. It also makes it ***delicious***.
+You can also **age cheese quickly**{.green} with Create **Haunting**{.gold}. Trauma causes the cheese to age prematurely. It also makes it **delicious**{.glow}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Scarlet Cheese Wheel**
 	- **Flaxen Cheese Wheel**

@@ -1,13 +1,13 @@
 
 # Speed Card
 
-As you can imagine, the **Acceleration tablet** allows you to speed up certain aspects of your Nexus.
+As you can imagine, the **Acceleration tablet**{.aqua} allows you to speed up certain aspects of your Nexus.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Speed Card**
 ---

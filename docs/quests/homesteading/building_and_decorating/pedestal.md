@@ -6,13 +6,13 @@
 ---
 
 
-Similar to the **Display Case**, the **Pedestal** is a way to decoratively display a single item. However, when stacked, it becomes a pillar.
+Similar to the **Display Case**{.aqua}, the **Pedestal**{.aqua} is a way to decoratively display a single item. However, when stacked, it becomes a pillar.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Pedestal**
 ---

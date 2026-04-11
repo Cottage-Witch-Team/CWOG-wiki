@@ -6,7 +6,7 @@
 ---
 
 
-To move forward, you'll want an **Enchanting Apparatus**, which requires an **Arcane Core** beneath it, and **Pedestals** surrounding it.
+To move forward, you'll want an **Enchanting Apparatus**{.aqua}, which requires an **Arcane Core**{.aqua} beneath it, and **Pedestals**{.aqua} surrounding it.
 
 You can either bury the Arcane Core and place everything on floor-level, or you can place the Core on floor level and raise the Pedestals up.
 
@@ -14,7 +14,7 @@ You can either bury the Arcane Core and place everything on floor-level, or you 
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Enchanting Apparatus**
 	- **Arcane Core**

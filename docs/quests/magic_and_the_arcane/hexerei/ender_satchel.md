@@ -1,13 +1,13 @@
 
 # Ender Satchel
 
-The **Ender Satchel** is a storage upgrade which *grants easy access to your Ender Chest inventory!*.
+The **Ender Satchel**{.aqua} is a storage upgrade which **grants easy access to your Ender Chest inventory!**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Ender Satchel**
 ---

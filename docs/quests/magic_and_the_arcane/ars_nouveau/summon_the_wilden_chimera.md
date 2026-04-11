@@ -6,17 +6,17 @@
 ---
 
 
-In order to make certain items, you'll need to defeat the boss, **The Wilden Chimera**. This does not spawn naturally, and must be summoned via *Ritual*.
+In order to make certain items, you'll need to defeat the boss, **The Wilden Chimera**{.yellow}. This does not spawn naturally, and must be summoned via **Ritual**{.green}.
 
 It's suggested to be using tier 2 armor and spells before engaging this boss.
 
-To summon him, you'll need to find a **Wilden Hunter**, **Wilden Guardian**, and **Wilden Stalker**, and obtain their **trophies**.
+To summon him, you'll need to find a **Wilden Hunter**{.yellow}, **Wilden Guardian**{.yellow}, and **Wilden Stalker**{.yellow}, and obtain their **trophies**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Ritual Wilden Summon**
 	- **Wilden Tribute**

@@ -1,7 +1,7 @@
 
 # Dragon Meat Stew Block
 
-**Dragon Meat Stew**... what could be a greater show of power than *consuming your fallen enemies*?
+**Dragon Meat Stew**{.aqua}... what could be a greater show of power than **consuming your fallen enemies**{.red}?
 
 Was that too much? That was too much, wasn't it?
 
@@ -9,7 +9,7 @@ Was that too much? That was too much, wasn't it?
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Dragon Meat Stew Block**
 ---

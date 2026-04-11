@@ -6,22 +6,22 @@
 ---
 
 
-For an easy jaunt through the nether, find yourself a Nightmare! Located in *Soul Sand Valleys* and *Basalt Deltas*, this mount can *literally walk on lava*. ==Befriend one== with **bones**, **coal**, or **charcoal**.
+For an easy jaunt through the nether, find yourself a Nightmare! Located in **Soul Sand Valleys**{.red} and **Basalt Deltas**{.red}, this mount can **literally walk on lava**{.green}. **Befriend one**{.gold} with **bones**{.aqua}, **coal**{.aqua}, or **charcoal**{.aqua}.
 
 
 ---
 
 
 List of All Biomes:
-- (Nether) *Nether Wastes*,
-- (Nether) *Soul Sand Valley*,
-- (Nether) *Basalt Deltas*
+- (Nether) **Nether Wastes**{.red},
+- (Nether) **Soul Sand Valley**{.red},
+- (Nether) **Basalt Deltas**{.red}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Nightmare**
 ---

@@ -6,26 +6,26 @@
 ---
 
 
-These uncommon bird... mammal... things... are sometimes seen flying over *mountaintops*, feeding on **rabbit** and **mutton**. They are a loyal partner when ==tamed==, and will *defend their owner*. 
+These uncommon bird... mammal... things... are sometimes seen flying over **mountaintops**{.red}, feeding on **rabbit**{.aqua} and **mutton**{.aqua}. They are a loyal partner when **tamed**{.gold}, and will **defend their owner**{.green}. 
 
 
 ---
 
 
 List of All Biomes:
-- *Windswept Hills*,
-- *Windswept Forest*,
-- *Snowy Slopes*,
-- *Frozen Peaks*,
-- *Jagged Peaks*,
-- *Canadian Shield*,
-- *Howling Peaks*
+- **Windswept Hills**{.red},
+- **Windswept Forest**{.red},
+- **Snowy Slopes**{.red},
+- **Frozen Peaks**{.red},
+- **Jagged Peaks**{.red},
+- **Canadian Shield**{.red},
+- **Howling Peaks**{.red}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Griffon**
 ---

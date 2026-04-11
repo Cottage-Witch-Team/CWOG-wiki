@@ -1,7 +1,7 @@
 
 # Fish Bones
 
-Find a *Fortress of the Undead*, and survive!*
+Find a **Fortress of the Undead**{.red}, and survive!*
 
 *survival optional
 
@@ -9,7 +9,7 @@ Find a *Fortress of the Undead*, and survive!*
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Fish Bones**
 ---

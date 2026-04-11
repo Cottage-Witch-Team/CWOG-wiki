@@ -6,13 +6,13 @@
 ---
 
 
-**Spell Turrets** can cast *Touch* and *Projectile* spells when provided with **Parchment Scrolls**, **Source**, and a redstone signal.
+**Spell Turrets**{.aqua} can cast **Touch**{.green} and **Projectile**{.green} spells when provided with **Parchment Scrolls**{.aqua}, **Source**{.aqua}, and a redstone signal.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Basic Spell Turret**
 ---

@@ -1,13 +1,13 @@
 
 # Herb Drying Rack
 
-The **Drying Rack** allows you to ==hang your herbs to dry==. It also makes a lovely decoration.
+The **Drying Rack**{.aqua} allows you to **hang your herbs to dry**{.gold}. It also makes a lovely decoration.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Herb Drying Rack**
 ---

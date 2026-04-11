@@ -6,13 +6,13 @@
 ---
 
 
-The ultimate rod! The **Neptunium Rod** has more durability and is more enchantable than any other rod. It's also inherently more attractive to fish somehow.
+The ultimate rod! The **Neptunium Rod**{.aqua} has more durability and is more enchantable than any other rod. It's also inherently more attractive to fish somehow.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Neptunium Fishing Rod**
 ---

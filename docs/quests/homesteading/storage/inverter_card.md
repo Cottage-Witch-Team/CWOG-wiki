@@ -1,13 +1,13 @@
 
 # Inverter Card
 
-The **Inverter Tablet** changes Nexus filters from a whitelist to a blacklist.
+The **Inverter Tablet**{.aqua} changes Nexus filters from a whitelist to a blacklist.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Inverter Card**
 ---

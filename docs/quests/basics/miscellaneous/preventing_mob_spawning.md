@@ -6,19 +6,19 @@
 ---
 
 
-The **Magnum Torches** are a set-it-and-forget-it method of preventing mob spawns.
+The **Magnum Torches**{.aqua} are a set-it-and-forget-it method of preventing mob spawns.
 
-The **Diamond Magnum Torch** prevents **hostile mobs** from spawning.
+The **Diamond Magnum Torch**{.aqua} prevents **hostile mobs**{.yellow} from spawning.
 
-The **Emerald Magnum Torch** prevents **neutral and passive mobs** from spawning.
+The **Emerald Magnum Torch**{.aqua} prevents **neutral and passive mobs**{.yellow} from spawning.
 
-The **Amethyst Magnum Torch** prevents ***ALL*** mob spawns.
+The **Amethyst Magnum Torch**{.aqua} prevents **ALL**{.glow} mob spawns.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Magnum Torches**
 ---

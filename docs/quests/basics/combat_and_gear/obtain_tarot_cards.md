@@ -6,14 +6,14 @@
 ---
 
 
-One of the treasured items you can find in loot chests are **Tarot Cards**. Each grants a *strong buff while held* in your inventory.
+One of the treasured items you can find in loot chests are **Tarot Cards**{.aqua}. Each grants a **strong buff while held**{.green} in your inventory.
 Can you find the whole Arcana?
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Tarot Cards**
 ---

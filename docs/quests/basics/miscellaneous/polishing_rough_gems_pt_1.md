@@ -1,17 +1,17 @@
 
 # Polishing Rough Gems, Pt 1
 
-Among its other duties, a **Grindstone** can be used to *polish Rough minerals*, as long as they're not too precious.
+Among its other duties, a **Grindstone**{.aqua} can be used to **polish Rough minerals**{.green}, as long as they're not too precious.
 
-By ==right clicking the item== on the **Grindstone**, you can polish **Rough Lazurite or Cinnabar**.
+By **right clicking the item**{.gold} on the **Grindstone**{.aqua}, you can polish **Rough Lazurite or Cinnabar**{.aqua}.
 
-Note that you can also use **Sandpaper** to polish these gems.
+Note that you can also use **Sandpaper**{.aqua} to polish these gems.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Grindstone**
 ---

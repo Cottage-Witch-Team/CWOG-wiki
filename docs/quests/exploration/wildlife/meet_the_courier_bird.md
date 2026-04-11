@@ -6,23 +6,23 @@
 ---
 
 
-This vibrant and quick creature can be found in *jungles*. ==Approach with caution and offer== **sweet berries** to win them over.
+This vibrant and quick creature can be found in **jungles**{.red}. **Approach with caution and offer**{.gold} **sweet berries**{.aqua} to win them over.
 
 
 ---
 
 
 List of All Biomes: 
-- *Jungle*, 
-- *Sparse Jungle*, 
-- *Tropical Rainforest*, 
-- *Temperate Rainforest*
+- **Jungle**{.red}, 
+- **Sparse Jungle**{.red}, 
+- **Tropical Rainforest**{.red}, 
+- **Temperate Rainforest**{.red}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Courierbird**
 ---

@@ -1,17 +1,17 @@
 
 # Whirlisprig Charm
 
-The **Whirlisprig** looks like an unripe tomato helicopter. Once you locate a wild one, ==grow a tree near it== in order to receive its **Shards**, used to make its **Charm**! You can then ==right click the charm== on any small flower to summon one.
+The **Whirlisprig**{.yellow} looks like an unripe tomato helicopter. Once you locate a wild one, **grow a tree near it**{.gold} in order to receive its **Shards**{.aqua}, used to make its **Charm**{.aqua}! You can then **right click the charm**{.gold} on any small flower to summon one.
 
-While in Familiar mode, they *reduce the cost of earth spells* by half. Food you eat will also grant you more saturation.
+While in Familiar mode, they **reduce the cost of earth spells**{.green} by half. Food you eat will also grant you more saturation.
 
-The **Whirlisprig**, when bound to its flower, will &aduplicate nearby **organic items** - trees, flowers, etc. They need to be provided with a chest and **Source**.
+The **Whirlisprig**{.yellow}, when bound to its flower, will &aduplicate nearby **organic items**{.aqua} - trees, flowers, etc. They need to be provided with a chest and **Source**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Whirlisprig Charm**
 ---

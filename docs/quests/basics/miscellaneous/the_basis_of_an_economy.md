@@ -1,15 +1,15 @@
 
 # The Basis of an Economy
 
-**Emeralds**! These are the bread and butter of the **Villagers** which live in your world. You will need these to obtain rare items such as the new **End Portal Eyes**.
-To find a *list of all villager professions and their job blocks*, hover over an **Emerald** and ==press "u"==, then ==choose the top tab with a villager face==.
+**Emeralds**{.aqua}! These are the bread and butter of the **Villagers**{.yellow} which live in your world. You will need these to obtain rare items such as the new **End Portal Eyes**{.aqua}.
+To find a **list of all villager professions and their job blocks**{.green}, hover over an **Emerald**{.aqua} and **press "u"**{.gold}, then **choose the top tab with a villager face**{.gold}.
 {image:cottagewitch:textures/quest_images/villagers.png width:200 height:200 align:1}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Emerald**
 ---

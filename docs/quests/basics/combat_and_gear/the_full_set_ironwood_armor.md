@@ -1,13 +1,13 @@
 
 # The Full Set: Ironwood Armor
 
-Obtain a full set of **Ironwood Armor** from the *Twilight Forest*.
+Obtain a full set of **Ironwood Armor**{.aqua} from the **Twilight Forest**{.red}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Ironwood Helmet**
 	- **Ironwood Chestplate**

@@ -1,17 +1,17 @@
 
 # Rich Soil
 
-There's a way to *grow crops more quickly*. If you ==craft some compost== and then ==place it near a water source==, it will slowly turn into **Rich Soil**. This process can be &asped up using **Time in a Bottle**.
+There's a way to **grow crops more quickly**{.green}. If you **craft some compost**{.gold} and then **place it near a water source**{.gold}, it will slowly turn into **Rich Soil**{.aqua}. This process can be &asped up using **Time in a Bottle**{.aqua}.
 
-Once tilled, **Rich Soil** will *grant extra growth* ticks to your plants. It also *cannot be trampled*, and *does not require water*.
+Once tilled, **Rich Soil**{.aqua} will **grant extra growth**{.green} ticks to your plants. It also **cannot be trampled**{.green}, and **does not require water**{.green}.
 
-You'll also want it if you're planning on growing any **Mushroom Colonies**.
+You'll also want it if you're planning on growing any **Mushroom Colonies**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Rich Soil**
 	- **Organic Compost**

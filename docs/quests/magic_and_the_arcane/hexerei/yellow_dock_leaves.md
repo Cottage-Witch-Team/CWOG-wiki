@@ -1,13 +1,13 @@
 
 # Yellow Dock Leaves
 
-**Yellow Dock** is used to upgrade your **Broom**, and can also be used to create **Compost**.
+**Yellow Dock**{.aqua} is used to upgrade your **Broom**{.aqua}, and can also be used to create **Compost**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Yellow Dock Leaves**
 ---

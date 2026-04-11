@@ -6,13 +6,13 @@
 ---
 
 
-Encounter a **Geyser**, a block which will *boost you into the air* and *grant you Slow Falling* for a time.
+Encounter a **Geyser**{.aqua}, a block which will **boost you into the air**{.green} and **grant you Slow Falling**{.green} for a time.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Gloomy Geyser**
 ---

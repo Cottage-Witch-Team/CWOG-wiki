@@ -6,13 +6,13 @@
 ---
 
 
-This tea is bright, grassy, and delicious! It also grants you the *Haste* effect.
+This tea is bright, grassy, and delicious! It also grants you the **Haste**{.green} effect.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Green Tea**
 ---

@@ -1,13 +1,13 @@
 
 # Replacer Satchel
 
-The **Replacer Satchel** is incredibly useful, as it will *replace broken **Broom Brushes** with ones in its inventory, beginning with the &6top left*.
+The **Replacer Satchel**{.aqua} is incredibly useful, as it will **replace broken **Broom Brushes**{.aqua} with ones in its inventory, beginning with the &6top left**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Replacer Satchel**
 ---

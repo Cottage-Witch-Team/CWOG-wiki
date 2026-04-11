@@ -1,9 +1,9 @@
 import json
 from io import TextIOWrapper
 
-from core.constants import DOCS_ROOT, MODPACK_ROOT
-from core.functions import get_all_files
-from core.wiki_builder import WikiBuildTask
+from scripts.core.constants import DOCS_ROOT, MODPACK_ROOT
+from scripts.core.functions import get_all_files
+from scripts.core.wiki_builder import WikiBuildTask
 
 
 class LoadingScreenTips(WikiBuildTask):

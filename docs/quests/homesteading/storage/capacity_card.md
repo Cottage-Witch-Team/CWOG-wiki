@@ -6,13 +6,13 @@
 ---
 
 
-This upgrade *allows you to add further filter refinement* (say that five times fast) to certain objects.
+This upgrade **allows you to add further filter refinement**{.green} (say that five times fast) to certain objects.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Capacity Card**
 ---

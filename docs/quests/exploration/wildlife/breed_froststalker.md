@@ -1,13 +1,13 @@
 
 # Breed Froststalker
 
-Earn this by successfully *breeding two Froststalkers*.
+Earn this by successfully **breeding two Froststalkers**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Breed Froststalker**
 ---

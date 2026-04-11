@@ -6,13 +6,13 @@
 ---
 
 
-Brew some delightful Dandelion Tea for a sunny afternoon picnic. It will grant you the ^^Comforting^^ effect, which *keeps you healing regardless of hunger*.
+Brew some delightful Dandelion Tea for a sunny afternoon picnic. It will grant you the **Comforting**{.pink} effect, which **keeps you healing regardless of hunger**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Dandelion Tea**
 ---

@@ -1,15 +1,15 @@
 
 # Filter Upgrade
 
-The **Filter Upgrade** is meant to be used in conjunction with **Pipez** or other item transport system.
+The **Filter Upgrade**{.aqua} is meant to be used in conjunction with **Pipez**{.aqua} or other item transport system.
 
-It will *help control what items get placed* in the storage you use it on.
+It will **help control what items get placed**{.green} in the storage you use it on.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Filter Upgrade**
 ---

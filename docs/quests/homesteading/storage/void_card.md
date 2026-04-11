@@ -1,13 +1,13 @@
 
 # Void Card
 
-A very important upgrade - this tablet, when configured, will *void overflow items* which would ^^otherwise clog your system^^ and cause lag.
+A very important upgrade - this tablet, when configured, will **void overflow items**{.green} which would **otherwise clog your system**{.pink} and cause lag.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Void Card**
 ---

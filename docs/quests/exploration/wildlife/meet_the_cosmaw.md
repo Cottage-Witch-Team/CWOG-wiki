@@ -6,14 +6,14 @@
 ---
 
 
-The **Cosmaw** is a being which, when tamed, will *rescue its owner from falling into the void*. It does not defend the player in other ways, however.
-It can be ==tamed with Cosmic Cod==, its natural prey.
+The **Cosmaw**{.yellow} is a being which, when tamed, will **rescue its owner from falling into the void**{.green}. It does not defend the player in other ways, however.
+It can be **tamed with Cosmic Cod**{.gold}, its natural prey.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Cosmaw**
 ---

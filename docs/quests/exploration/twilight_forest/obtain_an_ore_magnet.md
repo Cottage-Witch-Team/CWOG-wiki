@@ -6,14 +6,14 @@
 ---
 
 
-The **Ore Magnet** can sometimes be found inside ^^Hollow Hills^^, and when used, will *pull entire veins of ores from the ground*! Simply ==hold right click while aiming at the ground== and the ores will be moved up to you!
+The **Ore Magnet**{.aqua} can sometimes be found inside **Hollow Hills**{.pink}, and when used, will **pull entire veins of ores from the ground**{.green}! Simply **hold right click while aiming at the ground**{.gold} and the ores will be moved up to you!
 It can be enchanted with Unbreaking or Mending.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Ore Magnet**
 ---

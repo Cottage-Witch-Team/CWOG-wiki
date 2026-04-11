@@ -1,15 +1,15 @@
 
 # Volcanic Sourcelink
 
-The **Volcanic Sourcelink** produces Source when provided with **Heat**. They will ^^melt blocks around them^^ and will also cause **Lava Lilies** to spawn.
+The **Volcanic Sourcelink**{.aqua} produces Source when provided with **Heat**{.aqua}. They will **melt blocks around them**{.pink} and will also cause **Lava Lilies**{.aqua} to spawn.
 
-Change the color of your **Lava Lily** by placing it over Lava or Magma.
+Change the color of your **Lava Lily**{.aqua} by placing it over Lava or Magma.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Volcanic Sourcelink**
 ---

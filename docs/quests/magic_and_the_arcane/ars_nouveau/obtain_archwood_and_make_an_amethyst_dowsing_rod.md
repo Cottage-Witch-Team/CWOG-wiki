@@ -6,15 +6,15 @@
 ---
 
 
-Your next step is to obtain **Archwood** of some type. These trees are found somewhat rarely in many biomes.
+Your next step is to obtain **Archwood**{.aqua} of some type. These trees are found somewhat rarely in many biomes.
 
-From the Archwood, you can craft the **Amethyst Dowsing Rod**, which will help you find **Amethyst Geodes**. This is an important magical material, so collect lots of it!
+From the Archwood, you can craft the **Amethyst Dowsing Rod**{.aqua}, which will help you find **Amethyst Geodes**{.aqua}. This is an important magical material, so collect lots of it!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Any Archwood**
 	- **Dowsing Rod**

@@ -6,15 +6,15 @@
 ---
 
 
-The **Sandcastle** can be placed over **Turtle Eggs** in order to protect them from Zombies.
+The **Sandcastle**{.aqua} can be placed over **Turtle Eggs**{.aqua} in order to protect them from Zombies.
 
-However, there is ^^a bug currently^^ which prevents eggs in a **Sand Castle** from hatching.
+However, there is **a bug currently**{.pink} which prevents eggs in a **Sand Castle**{.aqua} from hatching.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Sandcastle**
 ---

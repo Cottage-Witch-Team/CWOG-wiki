@@ -6,13 +6,13 @@
 ---
 
 
-Swimming in **Eggs**? That sounds unpleasant. You can &atrade in a **Dragon Egg** to receive a **Dragon Head**.
+Swimming in **Eggs**{.aqua}? That sounds unpleasant. You can &atrade in a **Dragon Egg**{.aqua} to receive a **Dragon Head**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Dragon Egg**
 ---

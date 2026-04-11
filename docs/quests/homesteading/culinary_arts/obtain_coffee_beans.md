@@ -6,7 +6,7 @@
 ---
 
 
-**Coffee Beans** can be acquired from *Basalt Deltas* in the Nether.
+**Coffee Beans**{.aqua} can be acquired from **Basalt Deltas**{.green} in the Nether.
 
 What, are you surprised coffee comes from the Nether? Why do you think it's so hellishly good?
 
@@ -14,7 +14,7 @@ What, are you surprised coffee comes from the Nether? Why do you think it's so h
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Coffee Beans**
 ---

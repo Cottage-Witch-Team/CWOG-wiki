@@ -1,13 +1,13 @@
 
 # Kill: Enderman
 
-Defeat a horde of **Endermen**, take their SKIN and WEAR IT - oh, was that too much? Sorry. I got excited.
+Defeat a horde of **Endermen**{.yellow}, take their SKIN and WEAR IT - oh, was that too much? Sorry. I got excited.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Kill **Enderman (100)**
 ---

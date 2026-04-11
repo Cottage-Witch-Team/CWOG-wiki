@@ -6,13 +6,13 @@
 ---
 
 
-I'm not sure who pioneered the idea of eating **Ender Pearls**, but hey...why not?
+I'm not sure who pioneered the idea of eating **Ender Pearls**{.aqua}, but hey...why not?
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Ender Nectar**
 ---

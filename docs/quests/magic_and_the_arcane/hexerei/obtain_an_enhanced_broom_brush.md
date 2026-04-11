@@ -6,13 +6,13 @@
 ---
 
 
-The **Enhanced Broom Brush** has increased durability. Don't forget to hang it out to dry once you've crafted it!
+The **Enhanced Broom Brush**{.aqua} has increased durability. Don't forget to hang it out to dry once you've crafted it!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Herb Enhanced Broom Brush**
 ---

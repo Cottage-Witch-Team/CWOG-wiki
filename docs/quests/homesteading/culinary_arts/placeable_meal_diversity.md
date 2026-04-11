@@ -1,13 +1,13 @@
 
 # Placeable Meal Diversity
 
-There are many meals which can be ==placed down and eaten==. Craft one of each and show your prowess as a kitchen witch.
+There are many meals which can be **placed down and eaten**{.gold}. Craft one of each and show your prowess as a kitchen witch.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Roast Chicken Block**
 	- **Rice Roll Medley Block**

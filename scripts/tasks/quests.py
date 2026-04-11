@@ -3,9 +3,11 @@ import shutil
 
 from markdown.extensions.toc import slugify
 
-from .constants import DOCS_ROOT, MODPACK_ROOT
-from .functions import get_all_files, snbt_to_dict
-from .wiki_builder import WikiBuildTask
+from scripts.core.constants import DOCS_ROOT, MODPACK_ROOT
+from scripts.core.entities import ModpackFile, SourceFile
+from scripts.core.functions import get_all_files
+from scripts.core.parsers import SnbtParser
+from scripts.core.wiki_builder import WikiBuildTask
 
 
 class Quests(WikiBuildTask):
@@ -13,13 +15,15 @@ class Quests(WikiBuildTask):
     destination = DOCS_ROOT / "quests"
     quest_book = {}
     regex_sub = {
-        "l": "***",
-        "b": "**",
-        "c": "*",
-        "d": "^^",
-        "a": "*",
-        "e": "**",
-        "6": "==",
+        "l": "{.glow}",
+        "1": "{.navy}",
+        "5": "{.purple}",
+        "b": "{.aqua}",
+        "c": "{.red}",
+        "d": "{.pink}",
+        "a": "{.green}",
+        "e": "{.yellow}",
+        "6": "{.gold}",
     }
 
     def launch(self):
@@ -47,7 +51,7 @@ class Quests(WikiBuildTask):
                     final_text = quest["text"].replace("{@pagebreak}", "\n\n---\n\n")
 
                     for l, r in self.regex_sub.items():
-                        final_text = re.sub(r"&" + l + "(.*?)&r", r + r"\1" + r, final_text)
+                        final_text = re.sub(r"&" + l + "(.*?)&r", "**" + r"\1**" + r, final_text)
 
                     # TODO: Images
 
@@ -96,13 +100,19 @@ class Quests(WikiBuildTask):
     def _build_chapter_dict_from_files(self) -> dict:
         chapters = {}
         for chapter in get_all_files(self.source_directory):
-            with chapter.open("r", encoding="utf8") as f:
-                chapters[chapter.stem] = snbt_to_dict(f)
+            file = SourceFile()
+            file.path = chapter
+
+            config = SnbtParser().parse(file)
+            chapters[config.title] = config.content
         return chapters
 
     def _process_quest_to_string(self, quest: dict) -> tuple[str | None, str | None]:
 
         tasks = self.__process_tasks_on_quest(quest)
+
+        print(quest)
+        print(tasks)
 
         task_string = self.__get_task_string(tasks)
 
@@ -201,10 +211,9 @@ class Quests(WikiBuildTask):
     def __get_chapter_group(self, chapter: dict) -> tuple[str, int] | None:
         group_code = chapter["group"]
 
-        chapter_group_file = MODPACK_ROOT / "config/ftbquests/quests/chapter_groups.snbt"
+        chapter_group_file = "config/ftbquests/quests/chapter_groups.snbt"
 
-        with chapter_group_file.open("r", encoding="utf8") as f:
-            chapter_group_map = snbt_to_dict(f)["chapter_groups"]
+        chapter_group_map = SnbtParser().parse(ModpackFile(chapter_group_file)).content["chapter_groups"]
 
         for i, group in enumerate(chapter_group_map):
             if group_code == group["id"]:
@@ -261,9 +270,10 @@ class Quests(WikiBuildTask):
             "structure": "Find ",
             "observation": "Meet ",
         }
+        print(tasks)
         single_task = len(tasks) == 1
         s = "S" if not single_task else ""
-        task_string = f"!!! tip 'TASK{s}' \n"
+        task_string = f'!!! tip "TASK{s}" \n'
 
         for task_type, subtask in tasks.items():
             single_subtask = len(subtask) == 1
@@ -275,3 +285,6 @@ class Quests(WikiBuildTask):
                 for item in [f"\t- **{t}**\n" for t in subtask]:
                     task_string += item
         return task_string
+
+
+Quests().launch()

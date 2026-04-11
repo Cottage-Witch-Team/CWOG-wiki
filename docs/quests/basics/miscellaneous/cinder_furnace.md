@@ -6,17 +6,17 @@
 ---
 
 
-The **Cinder Furnace** is a unique item which *only functions on the back of a &eCindershell Tortoise*, which live in the Nether Wastes.
+The **Cinder Furnace**{.aqua} is a unique item which **only functions on the back of a &eCindershell Tortoise**{.green}, which live in the Nether Wastes.
 
-You can befriend and breed them with **Fungus** - but beware, they have a LOT of young at once.
+You can befriend and breed them with **Fungus**{.aqua} - but beware, they have a LOT of young at once.
 
-If you place this **Furnace** on top of a **Cindershell**, it will use the beast's volcanic heat to *smelt items without fuel*!
+If you place this **Furnace**{.aqua} on top of a **Cindershell**{.yellow}, it will use the beast's volcanic heat to **smelt items without fuel**{.green}!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Cinder Furnace**
 ---

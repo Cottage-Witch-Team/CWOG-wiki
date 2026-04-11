@@ -6,13 +6,13 @@
 ---
 
 
-Winning a *Raid* can be a satisfying challenge. Even better, win a bunch of raids, and you'll get rewarded!
+Winning a **Raid**{.green} can be a satisfying challenge. Even better, win a bunch of raids, and you'll get rewarded!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Stats: **Raid Win = 10**
 ---

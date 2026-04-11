@@ -1,17 +1,17 @@
 
 # Drygmy Charm
 
-The **Drygmy** is a small gnome-like creature with antlers, and can be found in the wild. In exchange for a **Wilden Horn** dropped at its feet, it will give you a **Drygmy Shard**, which can be used to create its **Charm**. &6Right click the Charm on **Mossy Cobblestone**.
+The **Drygmy**{.yellow} is a small gnome-like creature with antlers, and can be found in the wild. In exchange for a **Wilden Horn**{.aqua} dropped at its feet, it will give you a **Drygmy Shard**{.aqua}, which can be used to create its **Charm**{.aqua}. &6Right click the Charm on **Mossy Cobblestone**{.aqua}.
 
-When it is following you, it increases your Earth spell damage, and boosts *Looting*.
+When it is following you, it increases your Earth spell damage, and boosts **Looting**{.green}.
 
-Multiple **Drygmy** can be assigned to a single **Henge**, and these creatures will *harvest drops and experience gems* from **Livestock** in a 10 block radius, without harming them! After it harvests, it will place items in a nearby inventory, and must recharge its ability *with Source*.
+Multiple **Drygmy**{.yellow} can be assigned to a single **Henge**{.aqua}, and these creatures will **harvest drops and experience gems**{.green} from **Livestock**{.yellow} in a 10 block radius, without harming them! After it harvests, it will place items in a nearby inventory, and must recharge its ability **with Source**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Drygmy Charm**
 ---

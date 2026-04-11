@@ -1,13 +1,13 @@
 
 # Wanderer Boots
 
-Increases *movement speed*. Level up by ==traveling on foot!==
+Increases **movement speed**{.green}. Level up by **traveling on foot!**{.gold}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Wanderer Boots**
 ---

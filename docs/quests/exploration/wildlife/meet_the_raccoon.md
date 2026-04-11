@@ -6,15 +6,15 @@
 ---
 
 
-Raccoons are adorable but mischeivous nocturnal creatures which will *beg you for food* if you happen to be holding some.
-They can also *steal food out of your storage*, so be careful when building in the wilds!
-They can be &atamed by giving it an **Egg** and letting it wash it.
+Raccoons are adorable but mischeivous nocturnal creatures which will **beg you for food**{.green} if you happen to be holding some.
+They can also **steal food out of your storage**{.green}, so be careful when building in the wilds!
+They can be &atamed by giving it an **Egg**{.aqua} and letting it wash it.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Raccoon**
 ---

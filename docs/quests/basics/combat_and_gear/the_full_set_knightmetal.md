@@ -1,13 +1,13 @@
 
 # The Full Set: Knightmetal
 
-Obtain a full set of **Knightmetal Armor** from the *Twilight Forest*.
+Obtain a full set of **Knightmetal Armor**{.aqua} from the **Twilight Forest**{.red}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Knightmetal Helmet**
 	- **Knightmetal Chestplate**

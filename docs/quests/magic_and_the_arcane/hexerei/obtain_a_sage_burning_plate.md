@@ -1,13 +1,13 @@
 
 # Obtain a Sage Burning Plate
 
-The **Sage Burning Plate** will allow you to burn **Sage Bundles**, which *prevents hostile mobs from spawning* within a large radius.
+The **Sage Burning Plate**{.aqua} will allow you to burn **Sage Bundles**{.aqua}, which **prevents hostile mobs from spawning**{.green} within a large radius.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Sage Burning Plate**
 ---

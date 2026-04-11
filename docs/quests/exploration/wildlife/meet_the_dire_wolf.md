@@ -6,27 +6,27 @@
 ---
 
 
-They aren't man's best friend... yet. ==Try offering one== a **bone**. Find them in any type of *taiga biome*.
+They aren't man's best friend... yet. **Try offering one**{.gold} a **bone**{.aqua}. Find them in any type of **taiga biome**{.red}.
 
 
 ---
 
 
 List of All Biomes: 
-- *Old Growth Birch Forest*, 
-- *Old Growth Pine Taiga*, 
-- *Old Growth Spruce Taiga*, 
-- *Black Forest*, 
-- *Canadian Shield*, 
-- *Maple Taiga*, 
-- *Frosted Coniferous Forest*, 
-- *Dark Forest* (in Twilight Forest)
+- **Old Growth Birch Forest**{.red}, 
+- **Old Growth Pine Taiga**{.red}, 
+- **Old Growth Spruce Taiga**{.red}, 
+- **Black Forest**{.red}, 
+- **Canadian Shield**{.red}, 
+- **Maple Taiga**{.red}, 
+- **Frosted Coniferous Forest**{.red}, 
+- **Dark Forest**{.red} (in Twilight Forest)
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Direwolf**
 ---

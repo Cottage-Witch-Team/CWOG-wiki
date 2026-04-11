@@ -1,14 +1,14 @@
 
 # Rudimentary Gauntlet
 
-The **Rudimentary Gauntlet** is a weapon which, by itself, is not all that impressive. However, *upgrading it* will unlock its true potential!
-As it is, it is &acomparable to an **Iron Sword**.
+The **Rudimentary Gauntlet**{.aqua} is a weapon which, by itself, is not all that impressive. However, **upgrading it**{.green} will unlock its true potential!
+As it is, it is &acomparable to an **Iron Sword**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Rudimentary Gauntlet**
 ---

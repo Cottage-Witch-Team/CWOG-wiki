@@ -1,15 +1,15 @@
 
 # Belladonna Flowers
 
-**Belladonna** is used to upgrade your **Broom**, and can also be used to create **Compost**.
+**Belladonna**{.aqua} is used to upgrade your **Broom**{.aqua}, and can also be used to create **Compost**{.aqua}.
 
-Beware, though! The *Berries are poisonous*.
+Beware, though! The **Berries are poisonous**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Belladonna Flowers**
 ---

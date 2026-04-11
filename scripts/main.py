@@ -1,6 +1,5 @@
-from core import ae2_rename
-from core.loading_screen_tips import LoadingScreenTips
-from core.quests import Quests
+from scripts.tasks import LoadingScreenTips, ae2_rename
+from scripts.tasks.quests import Quests
 
 
 def main():

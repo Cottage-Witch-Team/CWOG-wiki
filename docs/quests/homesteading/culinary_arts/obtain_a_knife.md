@@ -6,13 +6,13 @@
 ---
 
 
-**Knives** from this mod will guarantee you *additional drops from animals*, such as **feathers** or **leather**, as well as *additional drops when breaking grass*. This makes it much easier to get started on your agricultural journey.
+**Knives**{.aqua} from this mod will guarantee you **additional drops from animals**{.green}, such as **feathers**{.aqua} or **leather**{.aqua}, as well as **additional drops when breaking grass**{.green}. This makes it much easier to get started on your agricultural journey.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Knives**
 ---

@@ -1,13 +1,13 @@
 
 # Polished Rose Quartz
 
-**Rose Quartz** is a glassy crystal that can be both decorative and useful. Its most important usage is in **Electron Tubes**, which help to power *"intelligent" machines*.
+**Rose Quartz**{.aqua} is a glassy crystal that can be both decorative and useful. Its most important usage is in **Electron Tubes**{.aqua}, which help to power **"intelligent" machines**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Polished Rose Quartz**
 	- **Rose Quartz**

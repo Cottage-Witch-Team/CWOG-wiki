@@ -1,14 +1,14 @@
 
 # Obtain Every End Eye
 
-You may only need 12 **Eyes** to pass into *The End*, but if you go above and beyond, and collect all possible eyes, you will be granted a reward.
-Once you have ==collected at least 1 of each Eye==, you may check this button and receive a unique armor set.
+You may only need 12 **Eyes**{.aqua} to pass into **The End**{.red}, but if you go above and beyond, and collect all possible eyes, you will be granted a reward.
+Once you have **collected at least 1 of each Eye**{.gold}, you may check this button and receive a unique armor set.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Obtain Every End Eye**
 ---

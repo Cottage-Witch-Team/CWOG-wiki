@@ -6,17 +6,17 @@
 ---
 
 
-The **Aetheric Core** is made using the *fairy ring*. Inside your fairy ring, toss an **Eye of Ender**, **Rough Lazurite**, **Tablet of Binding**, and **Consecrated Certus Quartz Crystal**. You will need to *wait about 15 seconds* and the items will combined into your **Aetheric Core**!
+The **Aetheric Core**{.aqua} is made using the **fairy ring**{.green}. Inside your fairy ring, toss an **Eye of Ender**{.aqua}, **Rough Lazurite**{.aqua}, **Tablet of Binding**{.aqua}, and **Consecrated Certus Quartz Crystal**{.aqua}. You will need to **wait about 15 seconds**{.green} and the items will combined into your **Aetheric Core**{.aqua}!
 
-==Exploding== an **Aetheric Core** and an **Ender Dust** will *irreversibly entangle two **Aetheric Fragments** &atogether*, but also put a hole in your base. ==Try dropping these two items next to a **Tiny TNT** &6and igniting the **Tiny TNT** &6with a **Flint and Steel** &6instead==! These **Entangled Aetheric Fragments** will help you gain cross dimensional storage access.
+**Exploding**{.gold} an **Aetheric Core**{.aqua} and an **Ender Dust**{.aqua} will **irreversibly entangle two **Aetheric Fragments**{.aqua} &atogether**{.green}, but also put a hole in your base. **Try dropping these two items next to a **Tiny TNT**{.aqua} &6and igniting the **Tiny TNT**{.aqua} &6with a **Flint and Steel**{.aqua} &6instead**{.gold}! These **Entangled Aetheric Fragments**{.aqua} will help you gain cross dimensional storage access.
 
-The two **Entangled Aetheric Fragments** you create represent *two halves of a shared connection*, ^^you will need both, so don't lose them^^! 
+The two **Entangled Aetheric Fragments**{.aqua} you create represent **two halves of a shared connection**{.green}, **you will need both, so don't lose them**{.pink}! 
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Singularity**
 	- **Quantum Entangled Singularity (2)**

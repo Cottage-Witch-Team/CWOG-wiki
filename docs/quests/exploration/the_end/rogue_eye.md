@@ -1,13 +1,13 @@
 
 # Rogue Eye
 
-A **Rogue Eye** can be found in a ^^Jungle Temple^^, and is rumored to have given our ancestors Redstone.
+A **Rogue Eye**{.aqua} can be found in a **Jungle Temple**{.pink}, and is rumored to have given our ancestors Redstone.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Rogue Eye**
 ---

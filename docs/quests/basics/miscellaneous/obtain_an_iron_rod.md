@@ -6,15 +6,15 @@
 ---
 
 
-The **Iron Rod** is not just a decoration, it is also functional. When it is placed on a **Sticky Piston**, it will *break the block* the Piston pushes it into.
+The **Iron Rod**{.aqua} is not just a decoration, it is also functional. When it is placed on a **Sticky Piston**{.aqua}, it will **break the block**{.green} the Piston pushes it into.
 
-This only works on blocks which can be pushed, so blocks like **Obsidian** will not be affected.
+This only works on blocks which can be pushed, so blocks like **Obsidian**{.aqua} will not be affected.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Iron Rod**
 ---

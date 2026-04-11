@@ -6,14 +6,14 @@
 ---
 
 
-You've found your way to ^^The End^^, congratulations. With luck, your journey will continue.
-Remember that if you need to explore out over the void, you can do so on your **Broom**, or by taming a **Space Whale**.
+You've found your way to **The End**{.pink}, congratulations. With luck, your journey will continue.
+Remember that if you need to explore out over the void, you can do so on your **Broom**{.aqua}, or by taming a **Space Whale**{.yellow}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Enter **The End**
 ---

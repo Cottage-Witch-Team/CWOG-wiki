@@ -6,17 +6,17 @@
 ---
 
 
-For an elegant and low-impact storage option, you need more than just magic: introducing Magitech, an unholy collaboration between computers and the arcane. This system is *compatible with most storage options* but we ^^caution you against^^ combining the power of ***Sophisticated Storage*** with ***Applied Energistics*** as it ^^can cause phantasmal warping (read: significant lag)^^. 
+For an elegant and low-impact storage option, you need more than just magic: introducing Magitech, an unholy collaboration between computers and the arcane. This system is **compatible with most storage options**{.green} but we **caution you against**{.pink} combining the power of **Sophisticated Storage**{.glow} with **Applied Energistics**{.glow} as it **can cause phantasmal warping (read: significant lag)**{.pink}. 
 
-The storage granted by this mod utilizes *gem resonance*, *Aetheric Core*, and *a Nexus network* to contain your items in a very compact area. Because of this, it is *entirely self-contained*, and does not require **mundane storage options** such as **chests**, **barrels**, or **drawers**.
+The storage granted by this mod utilizes **gem resonance**{.green}, **Aetheric Core**{.green}, and **a Nexus network**{.green} to contain your items in a very compact area. Because of this, it is **entirely self-contained**{.green}, and does not require **mundane storage options**{.aqua} such as **chests**{.aqua}, **barrels**{.aqua}, or **drawers**{.aqua}.
 
-Oh, and take this **squirrel** - &oit's a secret tool that will help us later!&r (It's not that secret, you need it for a later step.)
+Oh, and take this **squirrel**{.aqua} - &oit's a secret tool that will help us later!&r (It's not that secret, you need it for a later step.)
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Ready To Begin**
 ---

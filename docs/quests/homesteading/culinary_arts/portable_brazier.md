@@ -1,15 +1,15 @@
 
 # Portable Brazier
 
-In order to &athaw an **Aspic**, you can either &6place it in a **Stew Pot** and let it convert, or you can use a **Portable Brazier**.
+In order to &athaw an **Aspic**{.aqua}, you can either &6place it in a **Stew Pot**{.aqua} and let it convert, or you can use a **Portable Brazier**{.aqua}.
 
-The **Brazier** can be done while traveling, but it will require a **Bowl of Water** and some **Vivid Charcoal** in order to work.
+The **Brazier**{.aqua} can be done while traveling, but it will require a **Bowl of Water**{.aqua} and some **Vivid Charcoal**{.aqua} in order to work.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Portable Brazier**
 ---

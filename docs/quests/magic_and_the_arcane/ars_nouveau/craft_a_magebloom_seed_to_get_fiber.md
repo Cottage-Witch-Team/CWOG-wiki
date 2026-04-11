@@ -6,19 +6,19 @@
 ---
 
 
-**Magebloom** is an intensely magical plant which cannot be found naturally. You must create it using an **Enchanting Apparatus**. It requires **Source Gems** and **Seeds**.
+**Magebloom**{.aqua} is an intensely magical plant which cannot be found naturally. You must create it using an **Enchanting Apparatus**{.aqua}. It requires **Source Gems**{.aqua} and **Seeds**{.aqua}.
 
-==Place the Source Gems== on 4 of the Pedestals (order doesn't matter), and then ==place the Seeds in the Apparatus==.
+**Place the Source Gems**{.gold} on 4 of the Pedestals (order doesn't matter), and then **place the Seeds in the Apparatus**{.gold}.
 
-Magebloom is used in many recipes, but is especially valued for its **Fiber**, from which *mana-infused clothing, and spell parchments* can be made.
+Magebloom is used in many recipes, but is especially valued for its **Fiber**{.aqua}, from which **mana-infused clothing, and spell parchments**{.green} can be made.
 
-^^Don't forget to read your Spellbook's documentation in the top left tab!^^ It has more information than these quests do.
+**Don't forget to read your Spellbook's documentation in the top left tab!**{.pink} It has more information than these quests do.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Magebloom Crop**
 	- **Magebloom Fiber**

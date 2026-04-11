@@ -6,13 +6,13 @@
 ---
 
 
-This moldy meat is frankly pretty gross. But if you want to complete all your quests, you ==need to make it==. Bwahahaha.
+This moldy meat is frankly pretty gross. But if you want to complete all your quests, you **need to make it**{.gold}. Bwahahaha.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Warped Moldy Meat**
 ---

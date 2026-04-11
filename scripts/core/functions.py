@@ -11,8 +11,3 @@ def get_all_files(path: Path) -> Generator[Path, None, None]:
     for root, _, files in path.walk():
         for file in files:
             yield root / file
-
-
-def snbt_to_dict(file: TextIOWrapper) -> dict:
-    """Convert an SNBT file to a dictionary."""
-    return json.loads(json.dumps(slib.load(file)))

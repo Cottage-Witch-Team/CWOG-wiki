@@ -1,13 +1,13 @@
 
 # Rocky Shell
 
-Defeat a **Rocky Roller** and obtain its shell, plus get this little bonus!
+Defeat a **Rocky Roller**{.yellow} and obtain its shell, plus get this little bonus!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Rocky Shell**
 ---

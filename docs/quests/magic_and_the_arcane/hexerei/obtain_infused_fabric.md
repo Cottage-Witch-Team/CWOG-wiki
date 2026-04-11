@@ -6,13 +6,13 @@
 ---
 
 
-**Infused Fabric** is the basis for creating your very first set of **Witch Robes**. The warp and weft are perfectly balanced, giving this extra defense despite only being fabric.
+**Infused Fabric**{.aqua} is the basis for creating your very first set of **Witch Robes**{.aqua}. The warp and weft are perfectly balanced, giving this extra defense despite only being fabric.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Infused Fabric**
 ---

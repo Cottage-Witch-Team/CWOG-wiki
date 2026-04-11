@@ -6,13 +6,13 @@
 ---
 
 
-**Azalea Tea** is a delicious way to enjoy the beauty of the Azalea!
+**Azalea Tea**{.aqua} is a delicious way to enjoy the beauty of the Azalea!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Azalea Tea**
 ---

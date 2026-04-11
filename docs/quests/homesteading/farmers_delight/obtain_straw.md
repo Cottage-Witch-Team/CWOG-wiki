@@ -6,13 +6,13 @@
 ---
 
 
-**Straw** can be used to make **Rope**, which is very useful. It can also be used to make **Canvas**, **Compost**, and building materials such as **Daub**.
+**Straw**{.aqua} can be used to make **Rope**{.aqua}, which is very useful. It can also be used to make **Canvas**{.aqua}, **Compost**{.aqua}, and building materials such as **Daub**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Straw**
 ---

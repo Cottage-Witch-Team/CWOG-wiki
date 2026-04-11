@@ -1,17 +1,17 @@
 
 # The Odd Ones Out
 
-The **Shrooma** can both be caught in *Mushroom Islands*.
+The **Shrooma**{.aqua} can both be caught in **Mushroom Islands**{.red}.
 
-The **Starshell Turtle** can be found anywhere in the *Twilight Forest*.
+The **Starshell Turtle**{.aqua} can be found anywhere in the **Twilight Forest**{.red}.
 
-The **Box Turtle** and **Leech** are found exclusively in *Swamp biomes*. 
+The **Box Turtle**{.aqua} and **Leech**{.aqua} are found exclusively in **Swamp biomes**{.red}. 
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Red Shrooma**
 	- **Brown Shrooma**

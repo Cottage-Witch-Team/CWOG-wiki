@@ -1,13 +1,13 @@
 
 # Grilled Shulker Block
 
-An uncommonly known fact is that **Shulkers** are kind of like **Eggs**! And, unsurprisingly, rather *taste like them*, too. As such, they make a delicious addition to your *balanced diet*.
+An uncommonly known fact is that **Shulkers**{.yellow} are kind of like **Eggs**{.aqua}! And, unsurprisingly, rather **taste like them**{.green}, too. As such, they make a delicious addition to your **balanced diet**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Grilled Shulker Block**
 ---

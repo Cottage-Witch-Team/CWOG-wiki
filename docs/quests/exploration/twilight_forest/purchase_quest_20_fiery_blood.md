@@ -12,7 +12,7 @@ Earn yourself some loot by slaying a few Hydras and trading in their blood for a
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Fiery Blood (20)**
 ---

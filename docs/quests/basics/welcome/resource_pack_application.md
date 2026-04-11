@@ -1,7 +1,7 @@
 
 # Resource Pack Application
 
-This modpack comes with *a lot of resourcepacks* for you to use! Most of them should be enabled by default thanks to ***Resource Pack Overrides***, but they don't always work perfectly. If you find yourself needing to do something manually - 
+This modpack comes with **a lot of resourcepacks**{.green} for you to use! Most of them should be enabled by default thanks to **Resource Pack Overrides**{.glow}, but they don't always work perfectly. If you find yourself needing to do something manually - 
 
 We recommend enabling all of them, except for the following:
 - Fresh Animations (a spider and phantom-free version is already enabled!)
@@ -15,13 +15,13 @@ We recommend enabling all of them, except for the following:
 - Darker Ropes
 - White Icons
 
-The order in which you enable the resourcepacks *should not matter*, as they are ^^edited to be compatible with one another^^.
+The order in which you enable the resourcepacks **should not matter**{.green}, as they are **edited to be compatible with one another**{.pink}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Resource Pack Application**
 ---

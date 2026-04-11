@@ -8,13 +8,13 @@
 
 Black tea is the leaf with the greatest amount of tannins, making it the most resistant to heat and also the most strongly-flavored.
 
-Oh, it's also the most *Caffeinated*, and will grant you that effect.
+Oh, it's also the most **Caffeinated**{.green}, and will grant you that effect.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Black Tea**
 ---

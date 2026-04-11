@@ -6,14 +6,14 @@
 ---
 
 
-The Labyrinth, found in the depths of ^^the Swamp^^, houses a number of nasty creatures, culminating in the vicious **Minotaurs** and **Minoshroom**.
-The Minoshroom will drop **Meef Stroganoff**, which when eaten, will innoculate you against the curse of the ^^Fire Swamp^^, allowing you to progress.
+The Labyrinth, found in the depths of **the Swamp**{.pink}, houses a number of nasty creatures, culminating in the vicious **Minotaurs**{.yellow} and **Minoshroom**{.yellow}.
+The Minoshroom will drop **Meef Stroganoff**{.aqua}, which when eaten, will innoculate you against the curse of the **Fire Swamp**{.pink}, allowing you to progress.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Find **Labyrinth**
 ---

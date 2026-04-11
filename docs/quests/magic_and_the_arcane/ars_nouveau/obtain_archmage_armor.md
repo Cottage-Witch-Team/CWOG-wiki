@@ -1,13 +1,13 @@
 
 # Obtain Archmage Armor
 
-The highest tier armor, this **Archmage set** is almost as good as **Netherite**, with hefty bonuses to *mana*.
+The highest tier armor, this **Archmage set**{.aqua} is almost as good as **Netherite**{.aqua}, with hefty bonuses to **mana**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Archmage Hood**
 	- **Archmage Robes**

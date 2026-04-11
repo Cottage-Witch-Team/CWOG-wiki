@@ -1,15 +1,15 @@
 
 # Soul Elytra
 
-Obtain **Soul Dust^^ from the **Leechers** and &eSnappers^^, a **Soul Crystal** from defeating &eStalkers**, and **Sculk Bones** from defeated **Sculk Centipedes**.
+Obtain **Soul Dust** from the **Leechers**{.aqua} and &eSnappers**{.pink}, a **Soul Crystal**{.aqua} from defeating &eStalkers**{.yellow}, and **Sculk Bones**{.aqua} from defeated **Sculk Centipedes**{.yellow}.
 
-Once you have these ingredients, you can convert your **Elytra** to a **Soul Elytra**.
+Once you have these ingredients, you can convert your **Elytra**{.aqua} to a **Soul Elytra**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Soul Elytra**
 ---

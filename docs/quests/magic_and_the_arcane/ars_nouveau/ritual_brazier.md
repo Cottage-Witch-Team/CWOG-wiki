@@ -1,13 +1,13 @@
 
 # Ritual Brazier
 
-To move on, you'll need a **Ritual Brazier**, which accepts various **Ritual Tablets** in order to work.
+To move on, you'll need a **Ritual Brazier**{.aqua}, which accepts various **Ritual Tablets**{.aqua} in order to work.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Ritual Brazier**
 ---

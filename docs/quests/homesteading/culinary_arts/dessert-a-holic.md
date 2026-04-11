@@ -1,13 +1,13 @@
 
 # Dessert-a-holic
 
-Who doesn't love pie? ==Make each type of pie and cake==, and at the end you'll have a sumptuous feast!
+Who doesn't love pie? **Make each type of pie and cake**{.gold}, and at the end you'll have a sumptuous feast!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Pumpkin Pie**
 	- **Crimson Berry Pie**

@@ -6,16 +6,16 @@
 ---
 
 
-The **Pickarang** is a tool which can *remotely break blocks and return the drops to you*.
-It can also be used to *grab dropped items* and *damage enemies*.
+The **Pickarang**{.aqua} is a tool which can **remotely break blocks and return the drops to you**{.green}.
+It can also be used to **grab dropped items**{.green} and **damage enemies**{.green}.
 
-You can upgrade it to the **Flamarang**, and both versions can be Enchanted.
+You can upgrade it to the **Flamarang**{.aqua}, and both versions can be Enchanted.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Pickarang**
 ---

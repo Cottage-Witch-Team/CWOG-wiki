@@ -1,15 +1,15 @@
 
 # Ship Your Crops
 
-Have you ==automated your farm==? Then you probably know the pain of excessive crop ownership. ==Submit your crops to this quest== to earn rewards.
+Have you **automated your farm**{.gold}? Then you probably know the pain of excessive crop ownership. **Submit your crops to this quest**{.gold} to earn rewards.
 
-^^This quest is repeatable^^.
+**This quest is repeatable**{.pink}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Onion Crate (10)**
 	- **Carrot Crate (10)**

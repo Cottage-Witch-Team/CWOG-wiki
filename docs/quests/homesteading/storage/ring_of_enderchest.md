@@ -1,15 +1,15 @@
 
 # Ring Of Enderchest
 
-As you could guess, the **Ring of Enderchest** allows you to access your Ender Inventory without needing an **Ender Chest**.
+As you could guess, the **Ring of Enderchest**{.aqua} allows you to access your Ender Inventory without needing an **Ender Chest**{.aqua}.
 
-It *cannot be worn as a Curio* but instead must be ==held and right clicked== in order to be used.
+It **cannot be worn as a Curio**{.green} but instead must be **held and right clicked**{.gold} in order to be used.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Ring Of Enderchest**
 ---

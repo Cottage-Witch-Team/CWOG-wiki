@@ -18,10 +18,10 @@ site_url = "https://cottage-witch-team.github.io/CWOG-wiki/"
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "get_started.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+#nav = [
+#    { "Get started" = "get_started.md" },
+#    { "Markdown in 5min" = "markdown.md" },
+#]
 
 extra_css = ["stylesheets/extra.css"]
 

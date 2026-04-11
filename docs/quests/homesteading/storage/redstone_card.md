@@ -6,13 +6,13 @@
 ---
 
 
-When inserted, this upgrade allows you to *control the upgraded block with **Redstone**. This can include &apowering, deactivating, and pulsing*.
+When inserted, this upgrade allows you to **control the upgraded block with **Redstone**{.aqua}. This can include &apowering, deactivating, and pulsing**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Redstone Card**
 ---

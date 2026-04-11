@@ -1,13 +1,13 @@
 
 # Flower Box
 
-There are two types of **Flower Box**. One can hold 2 flowers, and the other one 3.
+There are two types of **Flower Box**{.aqua}. One can hold 2 flowers, and the other one 3.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Flower Box**
 ---

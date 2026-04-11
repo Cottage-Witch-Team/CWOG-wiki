@@ -6,14 +6,14 @@
 ---
 
 
-**Hummingbirds** are tiny birds which pollinate nearby plants.
-You can attract them using a **Hummingbird Feeder** filled with **Water** and **Sugar**,
+**Hummingbirds**{.yellow} are tiny birds which pollinate nearby plants.
+You can attract them using a **Hummingbird Feeder**{.aqua} filled with **Water**{.aqua} and **Sugar**{.aqua},
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Hummingbird Feeder**
 ---

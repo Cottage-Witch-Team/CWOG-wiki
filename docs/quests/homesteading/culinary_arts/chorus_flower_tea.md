@@ -6,13 +6,13 @@
 ---
 
 
-Possibly the *most helpful item* in the *Shulkren Forest*, this tea helpfully *clears the Levitation effect*! You may want to make... a few...
+Possibly the **most helpful item**{.green} in the **Shulkren Forest**{.red}, this tea helpfully **clears the Levitation effect**{.green}! You may want to make... a few...
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Chorus Flower Tea**
 ---

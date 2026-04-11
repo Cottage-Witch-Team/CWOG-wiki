@@ -7,7 +7,7 @@ Collect one each of every flower in the game to earn rewards!
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Pink Allium**
 	- **Tall Pink Allium**

@@ -6,15 +6,15 @@
 ---
 
 
-Some meals, like **Glazed Ham** or **Shepherd's Pie**, need to be ==placed in world== in order to eat them. They also make great decoration for your (visual) feasting pleasure!
+Some meals, like **Glazed Ham**{.aqua} or **Shepherd's Pie**{.aqua}, need to be **placed in world**{.gold} in order to eat them. They also make great decoration for your (visual) feasting pleasure!
 
-You'll also need a **bowl** in order to eat them, so here, take this one.
+You'll also need a **bowl**{.aqua} in order to eat them, so here, take this one.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Stuffed Pumpkin Block**
 ---

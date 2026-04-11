@@ -6,15 +6,15 @@
 ---
 
 
-**Bark** is obtained by ==placing a log on a Cutting Board and right clicking with an Axe==.
+**Bark**{.aqua} is obtained by **placing a log on a Cutting Board and right clicking with an Axe**{.gold}.
 
-It can be used when making **Compost**, **Paper**, or even *brewing Ale*.
+It can be used when making **Compost**{.aqua}, **Paper**{.aqua}, or even **brewing Ale**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Tree Bark**
 ---

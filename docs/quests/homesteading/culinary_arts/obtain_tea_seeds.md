@@ -6,19 +6,19 @@
 ---
 
 
-**Tea** is a small bush which can be grown in order to produce **tea leaves**, which can be brewed into **tea**. Let me say **tea** some more. **Tea**.
+**Tea**{.aqua} is a small bush which can be grown in order to produce **tea leaves**{.aqua}, which can be brewed into **tea**{.aqua}. Let me say **tea**{.aqua} some more. **Tea**{.aqua}.
 
-You'll need a **kettle** to brew it, which is made with some **leather**, a **bucket**, and **copper**.
+You'll need a **kettle**{.aqua} to brew it, which is made with some **leather**{.aqua}, a **bucket**{.aqua}, and **copper**{.aqua}.
 
-You can find **Wild Tea Bushes** in *Swamps*. To obtain different kinds of tea, ==allow the bush to continue growing== until it changes color. This will allow you to gather **yellow** and **black** tea leaves!
+You can find **Wild Tea Bushes**{.aqua} in **Swamps**{.red}. To obtain different kinds of tea, **allow the bush to continue growing**{.gold} until it changes color. This will allow you to gather **yellow**{.aqua} and **black**{.aqua} tea leaves!
 
-You cannot grow tea on **Farmland**, it must be planted on grass.
+You cannot grow tea on **Farmland**{.aqua}, it must be planted on grass.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Tea Seeds**
 ---

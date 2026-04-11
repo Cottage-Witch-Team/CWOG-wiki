@@ -6,13 +6,13 @@
 ---
 
 
-The **Dragon Scale** is an incredibly valuable item which is obtained after defeating the Ender Dragon ==a second time==. It can be used to *duplicate Elytra*.
+The **Dragon Scale**{.aqua} is an incredibly valuable item which is obtained after defeating the Ender Dragon **a second time**{.gold}. It can be used to **duplicate Elytra**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Dragon Scale**
 ---

@@ -6,15 +6,15 @@
 ---
 
 
-These **Glass Item Frames** display items on a surface just like the normal kind, but they will *become invisible* once they have an item inside them.
+These **Glass Item Frames**{.aqua} display items on a surface just like the normal kind, but they will **become invisible**{.green} once they have an item inside them.
 
-==Place a Banner inside== to display its pattern on that block.
+**Place a Banner inside**{.gold} to display its pattern on that block.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Glass Item Frame**
 	- **Glowing Glass Item Frame**

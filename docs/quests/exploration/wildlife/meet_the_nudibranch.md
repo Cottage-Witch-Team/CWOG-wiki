@@ -6,13 +6,13 @@
 ---
 
 
-These friendly *coral reef* dwellers are capable swimmers, and come in many patterns and colours! ==Tame one== with **seagrass** for an aquatic mount!
+These friendly **coral reef**{.red} dwellers are capable swimmers, and come in many patterns and colours! **Tame one**{.gold} with **seagrass**{.aqua} for an aquatic mount!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Nudibranch**
 ---

@@ -1,15 +1,15 @@
 
 # Handcraft your Home
 
-To begin with the furniture in ***Handcrafted***, you'll likely need some **Wooden Boards**. These can be easily obtained by &6placing planks in a **Stonecutter** or ***Create*** **Saw**.
+To begin with the furniture in **Handcrafted**{.glow}, you'll likely need some **Wooden Boards**{.aqua}. These can be easily obtained by &6placing planks in a **Stonecutter**{.aqua} or **Create**{.glow} **Saw**{.aqua}.
 
-You can &6right click the **Hammer** on Handcrafted blocks to *change their appearance*.
+You can &6right click the **Hammer**{.aqua} on Handcrafted blocks to **change their appearance**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Boards**
 ---

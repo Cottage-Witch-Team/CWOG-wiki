@@ -1,13 +1,13 @@
 
 # Glowing Pearl Modifier
 
-This **Glowing Pearl** will make your mermaid top and tail shimmer as if *enchanted*!
+This **Glowing Pearl**{.aqua} will make your mermaid top and tail shimmer as if **enchanted**{.green}!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Glowing Pearl Modifier**
 ---

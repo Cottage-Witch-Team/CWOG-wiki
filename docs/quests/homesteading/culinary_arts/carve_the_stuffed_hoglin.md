@@ -6,15 +6,15 @@
 ---
 
 
-Before you can chow down on your **Stuffed Hoglin**, you must first ==carve off the finest delicacy== - the **ears**. Delicious!
+Before you can chow down on your **Stuffed Hoglin**{.aqua}, you must first **carve off the finest delicacy**{.gold} - the **ears**{.aqua}. Delicious!
 
-Then, you can *obtain dishes* from the remainder of the meal by ==clicking on the Hoglin with a bowl==. Don't waste any!
+Then, you can **obtain dishes**{.green} from the remainder of the meal by **clicking on the Hoglin with a bowl**{.gold}. Don't waste any!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Hoglin Ear**
 	- **Plate Of Stuffed Hoglin Snout**

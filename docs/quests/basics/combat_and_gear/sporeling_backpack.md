@@ -6,7 +6,7 @@
 ---
 
 
-Have you met the **Sporelings**? Did you know you can befriend them and carry them around on your back?
+Have you met the **Sporelings**{.yellow}? Did you know you can befriend them and carry them around on your back?
 
 Well, you can!
 
@@ -14,7 +14,7 @@ Well, you can!
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Sporeling Backpack**
 ---

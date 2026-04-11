@@ -6,15 +6,15 @@
 ---
 
 
-The **Building Gadget** is a useful tool for building larger structures quickly. It *places multiple blocks at once&a from your inventory. &6Shift right click a block in world* to set that as your building block.
+The **Building Gadget**{.aqua} is a useful tool for building larger structures quickly. It **places multiple blocks at once&a from your inventory. &6Shift right click a block in world**{.green} to set that as your building block.
 
-The **Exchanging Gadget** is a tool which will *replace blocks in the world with a specific block from your inventory*. As with the BG, ==shift right click the replacer block== and then you can ==right click with the gadget==.
+The **Exchanging Gadget**{.aqua} is a tool which will **replace blocks in the world with a specific block from your inventory**{.green}. As with the BG, **shift right click the replacer block**{.gold} and then you can **right click with the gadget**{.gold}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Gadget Building**
 	- **Gadget Exchanging**

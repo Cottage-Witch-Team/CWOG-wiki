@@ -1,13 +1,13 @@
 
 # Spore Blossom
 
-Did you know that **Undead** are susceptible to *Spores* and *Grow* spells? You should test it out sometime.
+Did you know that **Undead**{.yellow} are susceptible to **Spores**{.green} and **Grow**{.green} spells? You should test it out sometime.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Spore Blossom**
 ---

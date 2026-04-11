@@ -1,13 +1,13 @@
 
 # Stink Ray
 
-The **Stink Ray** can be used to create a disturbance among creatures. While passive mobs will flee the scent, *neutral or hostile mobs will begin attacking the offending target*.
+The **Stink Ray**{.aqua} can be used to create a disturbance among creatures. While passive mobs will flee the scent, **neutral or hostile mobs will begin attacking the offending target**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Stink Ray**
 ---

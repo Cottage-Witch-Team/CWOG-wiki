@@ -6,13 +6,13 @@
 ---
 
 
-**Canvas** is a versatile material which can create **Mats**, **Signs**, and more!
+**Canvas**{.aqua} is a versatile material which can create **Mats**{.aqua}, **Signs**{.aqua}, and more!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Canvas**
 ---

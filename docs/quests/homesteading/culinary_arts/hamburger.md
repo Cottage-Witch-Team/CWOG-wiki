@@ -6,7 +6,7 @@
 ---
 
 
-Step one on your journey to the ultimate burger is this: the humble **Hamburger**.
+Step one on your journey to the ultimate burger is this: the humble **Hamburger**{.aqua}.
 
 The humbleburger, if you will. Hambumble? I don't know.
 
@@ -14,7 +14,7 @@ The humbleburger, if you will. Hambumble? I don't know.
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Hamburger**
 ---

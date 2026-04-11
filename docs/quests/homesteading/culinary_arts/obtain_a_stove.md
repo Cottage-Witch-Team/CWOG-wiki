@@ -1,15 +1,15 @@
 
 # Obtain a Stove
 
-The **Stove** is a helpful and aesthetically-pleasing *heat source*, which can be used to heat **Stew Pots, Stir Fry Pans, and Hypocausts**.
+The **Stove**{.aqua} is a helpful and aesthetically-pleasing **heat source**{.green}, which can be used to heat **Stew Pots, Stir Fry Pans, and Hypocausts**{.aqua}.
 
-Strictly speaking, a **Stove** is not the only *heat source usable by the mod*. However, it's very pretty.
+Strictly speaking, a **Stove**{.aqua} is not the only **heat source usable by the mod**{.green}. However, it's very pretty.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Stoves**
 ---

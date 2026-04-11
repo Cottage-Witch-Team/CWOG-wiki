@@ -1,13 +1,13 @@
 
 # The Full Set: Diamond Tools
 
-Obtain a **full set of Diamond Tools** to earn a unique armor set!
+Obtain a **full set of Diamond Tools**{.aqua} to earn a unique armor set!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Diamond Sword**
 	- **Diamond Shovel**

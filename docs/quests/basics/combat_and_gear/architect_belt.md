@@ -1,13 +1,13 @@
 
 # Architect Belt
 
-Increases *Reach Distance*. Level up by ==placing blocks==!
+Increases **Reach Distance**{.green}. Level up by **placing blocks**{.gold}!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Architect Belt**
 ---

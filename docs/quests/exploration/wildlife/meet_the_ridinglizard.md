@@ -6,28 +6,28 @@
 ---
 
 
-This reptilian mount hunts **rabbits** and **chickens** in their native enviroment of the *desert* and *badlands*. Though ^^hostile to players^^, ==offering some of their== **favourite meat** will make them a loyal friend.
+This reptilian mount hunts **rabbits**{.yellow} and **chickens**{.yellow} in their native enviroment of the **desert**{.red} and **badlands**{.red}. Though **hostile to players**{.pink}, **offering some of their**{.gold} **favourite meat**{.aqua} will make them a loyal friend.
 
 
 ---
 
 
 List of All Biomes:
-- *Desert*,
-- *Badlands*,
-- *Eroded Badlands*,
-- *Wooded Badlands*,
-- *Atacama Desert*,
-- *Windswept Desert*,
-- *Mojave Desert*,
-- *Red Rock Valley*,
-- *Sierra Badlands*
+- **Desert**{.red},
+- **Badlands**{.red},
+- **Eroded Badlands**{.red},
+- **Wooded Badlands**{.red},
+- **Atacama Desert**{.red},
+- **Windswept Desert**{.red},
+- **Mojave Desert**{.red},
+- **Red Rock Valley**{.red},
+- **Sierra Badlands**{.red}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Ridinglizard**
 ---

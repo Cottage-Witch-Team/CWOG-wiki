@@ -1,13 +1,13 @@
 
 # The Magicians
 
-Kill all three **Illager Magicians**. Please.
+Kill all three **Illager Magicians**{.yellow}. Please.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **The Magicians**
 ---

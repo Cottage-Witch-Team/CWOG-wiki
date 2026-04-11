@@ -6,13 +6,13 @@
 ---
 
 
-Yellow tea, known to most as Oolong, is an earthier flavored tea with the *ability to grant resistance*.
+Yellow tea, known to most as Oolong, is an earthier flavored tea with the **ability to grant resistance**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Yellow Tea**
 ---

@@ -6,13 +6,13 @@
 ---
 
 
-Much like Mushroom colonies, **Nether Fungus** can be grown in *complete darkness* using **Rich Soul Soil**. If you ==harvest one with shears==, you will get the whole colony. ==Harvest it with your hand== and you will get up to 5 fungi. I've heard they're enjoyable to hang out with.
+Much like Mushroom colonies, **Nether Fungus**{.aqua} can be grown in **complete darkness**{.green} using **Rich Soul Soil**{.aqua}. If you **harvest one with shears**{.gold}, you will get the whole colony. **Harvest it with your hand**{.gold} and you will get up to 5 fungi. I've heard they're enjoyable to hang out with.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Funguscolony**
 ---

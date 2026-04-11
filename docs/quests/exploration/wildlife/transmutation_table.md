@@ -1,14 +1,14 @@
 
 # Transmutation Table
 
-The **Transmutation Table** is an item which will drain your *experience* in exchange for *transforming your items*.
-You can *feed the Table items* for a chance at getting them back in exchange for something else.
+The **Transmutation Table**{.aqua} is an item which will drain your **experience**{.green} in exchange for **transforming your items**{.green}.
+You can **feed the Table items**{.green} for a chance at getting them back in exchange for something else.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Transmutation Table**
 ---

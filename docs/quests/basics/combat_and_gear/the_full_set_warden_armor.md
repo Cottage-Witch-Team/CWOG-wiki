@@ -1,13 +1,13 @@
 
 # The Full Set: Warden Armor
 
-You managed to get enough **Warden Carapaces** to upgrade a *full set of Netherite armor* to the stylish and powerful **Warden Armor**. Nicely done, enjoy your reward!
+You managed to get enough **Warden Carapaces**{.aqua} to upgrade a **full set of Netherite armor**{.green} to the stylish and powerful **Warden Armor**{.aqua}. Nicely done, enjoy your reward!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Warden Helmet**
 	- **Warden Chestplate**

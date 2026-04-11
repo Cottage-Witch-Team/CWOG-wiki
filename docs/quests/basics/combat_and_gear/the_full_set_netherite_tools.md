@@ -1,13 +1,13 @@
 
 # The Full Set: Netherite Tools
 
-A full set of **Netherite Tools**, well! That's an achievement to be lauded. Congratulations!
+A full set of **Netherite Tools**{.aqua}, well! That's an achievement to be lauded. Congratulations!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Netherite Sword**
 	- **Netherite Shovel**

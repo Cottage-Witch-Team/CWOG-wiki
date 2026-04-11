@@ -6,13 +6,13 @@
 ---
 
 
-Defeat **Naga** in the ^^Twilight Forest^^ to obtain their scales. Then, relinquish those scales in exchange for loot!
+Defeat **Naga**{.yellow} in the **Twilight Forest**{.pink} to obtain their scales. Then, relinquish those scales in exchange for loot!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Naga Scale (20)**
 ---

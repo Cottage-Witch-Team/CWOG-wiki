@@ -6,13 +6,13 @@
 ---
 
 
-Have yourself a beachy delight with a **Tropical Stew**. Authentic crab meat, savory onions, and rice inside a coconut shell - perfection!
+Have yourself a beachy delight with a **Tropical Stew**{.aqua}. Authentic crab meat, savory onions, and rice inside a coconut shell - perfection!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Tropical Stew**
 ---

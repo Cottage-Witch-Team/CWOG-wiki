@@ -1,13 +1,13 @@
 
 # Pickle some Pickles
 
-**Pickles** need a *nice, cold* Keg to marinate in.
+**Pickles**{.aqua} need a **nice, cold**{.green} Keg to marinate in.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Pickled Pickles**
 ---

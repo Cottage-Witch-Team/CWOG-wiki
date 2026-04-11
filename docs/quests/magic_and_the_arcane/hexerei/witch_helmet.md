@@ -6,13 +6,13 @@
 ---
 
 
-Every witch needs a good **hat**. You can craft yours out of **Infused Fabric**, or find it in a ^^Witch Coven^^ in a Swamp biome.
+Every witch needs a good **hat**{.aqua}. You can craft yours out of **Infused Fabric**{.aqua}, or find it in a **Witch Coven**{.pink} in a Swamp biome.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Witch Helmet**
 ---

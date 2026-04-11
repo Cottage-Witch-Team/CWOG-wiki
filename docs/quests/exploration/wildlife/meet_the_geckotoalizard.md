@@ -6,33 +6,33 @@
 ---
 
 
-These docile, gluttonous lizards love relaxing in *mountain caves* and slurpin' down **pumpkins or anything that looks like one. &6Tame one** with **pumpkins**, **melons**, or **hay blocks** to have a lounge lizard friend of your very own.
+These docile, gluttonous lizards love relaxing in **mountain caves**{.red} and slurpin' down **pumpkins or anything that looks like one. &6Tame one**{.aqua} with **pumpkins**{.aqua}, **melons**{.aqua}, or **hay blocks**{.aqua} to have a lounge lizard friend of your very own.
 
 
 ---
 
 
 List of All Biomes:
-- *Windswept Hills*,
-- *Badlands*,
-- *Eroded Badlands*,
-- *Stony Peaks*,
-- *Crag Gardens*,
-- *Guiana Shield*,
-- *Mojave Desert*,
-- *Red Rock Valley*,
-- *Sierra Badlands*,
-- *Pine Barrens*,
-- *Snowy Pine Barrens*,
-- *Old Growth Pine Barrens*,
-- *Old Growth Snowy Pine Barrens*,
-- *Pine Slopes*
+- **Windswept Hills**{.red},
+- **Badlands**{.red},
+- **Eroded Badlands**{.red},
+- **Stony Peaks**{.red},
+- **Crag Gardens**{.red},
+- **Guiana Shield**{.red},
+- **Mojave Desert**{.red},
+- **Red Rock Valley**{.red},
+- **Sierra Badlands**{.red},
+- **Pine Barrens**{.red},
+- **Snowy Pine Barrens**{.red},
+- **Old Growth Pine Barrens**{.red},
+- **Old Growth Snowy Pine Barrens**{.red},
+- **Pine Slopes**{.red}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Geckotoalizard**
 ---

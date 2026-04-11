@@ -6,13 +6,13 @@
 ---
 
 
-Much like the Waterproof Tip, the **Netherite Broom Tip** will prevent players getting dismounted due to lava. It is recommended to use this with a **Mahogany Broom**, as it is fire resistant.
+Much like the Waterproof Tip, the **Netherite Broom Tip**{.aqua} will prevent players getting dismounted due to lava. It is recommended to use this with a **Mahogany Broom**{.aqua}, as it is fire resistant.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Broom Netherite Tip**
 ---

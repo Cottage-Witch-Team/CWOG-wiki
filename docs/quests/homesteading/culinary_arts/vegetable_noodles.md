@@ -1,13 +1,13 @@
 
 # Vegetable Noodles
 
-Vegetarian? No worries, we got you covered! Why not make some delicious *vegetarian dishes?*
+Vegetarian? No worries, we got you covered! Why not make some delicious **vegetarian dishes?**{.green}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Vegetable Noodles**
 	- **Vegetable Soup**

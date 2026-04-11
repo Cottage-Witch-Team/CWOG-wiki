@@ -1,13 +1,13 @@
 
 # Magical Eye
 
-Starting a *Raid* might be the easiest way of obtaining the **Magical Eye**, which are used by **Evokers** for their powerful properties.
+Starting a **Raid**{.green} might be the easiest way of obtaining the **Magical Eye**{.aqua}, which are used by **Evokers**{.yellow} for their powerful properties.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Magical Eye**
 ---

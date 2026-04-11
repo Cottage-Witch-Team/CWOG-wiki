@@ -1,15 +1,15 @@
 
 # Brass Ingot
 
-Another important *alloy* is **Brass**, which is formed of **Copper** and **Zinc**.
-To craft it, you'll need a **Mixer** with a **Blaze Burner** underneath. Throw the ingredients into the mixer, ==feed the Blaze Burner==, and make sure the **Mixer** is receiving enough su.
-You can remove the finished product by setting up a **Conveyor Belt**, or just by ==right clicking with an empty hand==.
+Another important **alloy**{.green} is **Brass**{.aqua}, which is formed of **Copper**{.aqua} and **Zinc**{.aqua}.
+To craft it, you'll need a **Mixer**{.aqua} with a **Blaze Burner**{.aqua} underneath. Throw the ingredients into the mixer, **feed the Blaze Burner**{.gold}, and make sure the **Mixer**{.aqua} is receiving enough su.
+You can remove the finished product by setting up a **Conveyor Belt**{.aqua}, or just by **right clicking with an empty hand**{.gold}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Brass Ingot**
 ---

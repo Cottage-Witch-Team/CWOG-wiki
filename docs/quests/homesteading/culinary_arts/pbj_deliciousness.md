@@ -6,13 +6,13 @@
 ---
 
 
-With **Acorns** you can make **Nut Butter**. Combine that with some fresh-reduced **Jelly** and some **Bread** and you've got yourself a nutritionally sound, delicious lunch.
+With **Acorns**{.aqua} you can make **Nut Butter**{.aqua}. Combine that with some fresh-reduced **Jelly**{.aqua} and some **Bread**{.aqua} and you've got yourself a nutritionally sound, delicious lunch.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Nut Butter Bottle**
 	- **Jelly Bottle**

@@ -1,13 +1,13 @@
 
 # Thief Hood
 
-Increases your ability to *remain undetected*. Level it up by ==killing mobs==.
+Increases your ability to **remain undetected**{.green}. Level it up by **killing mobs**{.gold}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Thief Hood**
 ---

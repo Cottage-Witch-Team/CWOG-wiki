@@ -6,13 +6,13 @@
 ---
 
 
-This quest exists purely so that when you make a **S'more**...you get some more!
+This quest exists purely so that when you make a **S'more**{.aqua}...you get some more!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Smore**
 ---

@@ -6,13 +6,13 @@
 ---
 
 
-In order to obtain **Strider Slices**, you need to slay **Striders** with a **Knife**. It's quite tragic, really. But if you do so, you can ==cook them as they are==, or place the Slices on the **Cutting Board** to obtain **Ground Strider**, which has further recipe uses.
+In order to obtain **Strider Slices**{.aqua}, you need to slay **Striders**{.yellow} with a **Knife**{.aqua}. It's quite tragic, really. But if you do so, you can **cook them as they are**{.gold}, or place the Slices on the **Cutting Board**{.aqua} to obtain **Ground Strider**{.aqua}, which has further recipe uses.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Strider Slice**
 ---

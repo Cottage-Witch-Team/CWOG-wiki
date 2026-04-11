@@ -1,13 +1,13 @@
 
 # The Full Set: Fiery
 
-Obtain a full set of **Fiery Metal Armor** from the *Twilight Forest*.
+Obtain a full set of **Fiery Metal Armor**{.aqua} from the **Twilight Forest**{.red}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Fiery Helmet**
 	- **Fiery Chestplate**

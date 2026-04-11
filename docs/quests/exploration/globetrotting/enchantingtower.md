@@ -1,13 +1,13 @@
 
 # Enchantingtower
 
-Discover an *Enchanting Tower*, a small but cozy spire featuring a magical twist.
+Discover an **Enchanting Tower**{.red}, a small but cozy spire featuring a magical twist.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Enchantingtower**
 ---

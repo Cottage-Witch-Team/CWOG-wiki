@@ -1,13 +1,13 @@
 
 # Rough Rare Gems
 
-These rarer gems require a **Diamond Grindstone** to be polished.
+These rarer gems require a **Diamond Grindstone**{.aqua} to be polished.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Diamond Grindable**
 ---

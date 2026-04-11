@@ -1,15 +1,15 @@
 
 # Making The Crust
 
-**Blaze Cakes** begin with a crust, or **Base**. This is made by &acompacting **Cinder Flour** with **Sugar** and **an Egg**.
+**Blaze Cakes**{.aqua} begin with a crust, or **Base**{.aqua}. This is made by &acompacting **Cinder Flour**{.aqua} with **Sugar**{.aqua} and **an Egg**{.aqua}.
 
-Use the **Compactor** setup you created earlier!
+Use the **Compactor**{.aqua} setup you created earlier!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Cinder Flour**
 	- **Blaze Cake Base**

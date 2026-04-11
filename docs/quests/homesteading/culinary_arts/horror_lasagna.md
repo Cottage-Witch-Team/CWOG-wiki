@@ -1,13 +1,13 @@
 
 # Horror Lasagna
 
-Have you ever had lasagna so good that it was frightening? Well, *what are you waiting for?*
+Have you ever had lasagna so good that it was frightening? Well, **what are you waiting for?**{.green}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Horror Lasagna**
 ---

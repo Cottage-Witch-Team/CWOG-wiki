@@ -1,13 +1,13 @@
 
 # The Full Set: Diamond Armor
 
-Obtain a full set of **Diamond Armor** to keep those cute cheeks of yours safe and sound.
+Obtain a full set of **Diamond Armor**{.aqua} to keep those cute cheeks of yours safe and sound.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Diamond Helmet**
 	- **Diamond Chestplate**

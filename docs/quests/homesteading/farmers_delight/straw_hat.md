@@ -6,7 +6,7 @@
 ---
 
 
-The **Straw Hat** can be bartered from *Farmer Villagers*. It will give you a bonus to plant growth and an extra chance at *Overweight Crops*!
+The **Straw Hat**{.aqua} can be bartered from **Farmer Villagers**{.green}. It will give you a bonus to plant growth and an extra chance at **Overweight Crops**{.green}!
 
 It also gives a chance of breeding twins or triplets! ...of the animals. Not you. Probably.
 
@@ -14,7 +14,7 @@ It also gives a chance of breeding twins or triplets! ...of the animals. Not you
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Straw Hat**
 ---

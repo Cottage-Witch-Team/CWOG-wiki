@@ -1,19 +1,19 @@
 
 # Wireless Access Point
 
-The **Aetheric Beacon** is the core of *wireless access*. However, the magic of *wireless connectivity* can only reach so far. By default the range is *16 blocks*. You can *increase this range* by ==inserting== **Resonance Boosters** ==into the== **Aetheric Beacon**!
+The **Aetheric Beacon**{.aqua} is the core of **wireless access**{.green}. However, the magic of **wireless connectivity**{.green} can only reach so far. By default the range is **16 blocks**{.green}. You can **increase this range**{.green} by **inserting**{.gold} **Resonance Boosters**{.aqua} **into the**{.gold} **Aetheric Beacon**{.aqua}!
 
-Additional **Aetheric Beacons** can be *added to different physical sections* of your *Nexus* to enable another *16 block radius* of *wireless access* around that **Aetheric Beacon**.
+Additional **Aetheric Beacons**{.aqua} can be **added to different physical sections**{.green} of your **Nexus**{.green} to enable another **16 block radius**{.green} of **wireless access**{.green} around that **Aetheric Beacon**{.aqua}.
 
 {image:cottagewitch:textures/quest_images/ae2_access_point_range.png width:300 height:250 align:1}
 
-The image above shows the radius of two **Aetheric Beacons** that have no **Resonance Boosters**. The **Aetheric Beacon** on the left has a *radius shown in blue concrete*, while the **Aetheric Beacon** on the right has a *radius shown in green concrete*. ==While standing any where in the concrete areas==, you would have *access to your Nexus* via an attuned **Resonant Aperture** *(Explained in the following Quest)*.
+The image above shows the radius of two **Aetheric Beacons**{.aqua} that have no **Resonance Boosters**{.aqua}. The **Aetheric Beacon**{.aqua} on the left has a **radius shown in blue concrete**{.green}, while the **Aetheric Beacon**{.aqua} on the right has a **radius shown in green concrete**{.green}. **While standing any where in the concrete areas**{.gold}, you would have **access to your Nexus**{.green} via an attuned **Resonant Aperture**{.aqua} **(Explained in the following Quest)**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Wireless Access Point**
 ---

@@ -6,15 +6,15 @@
 ---
 
 
-The **Imbuement Chamber** is how you can create **Source Gems**. Simply ==place an Amethyst or Lapis== inside the Chamber and wait for it to slowly transform.
+The **Imbuement Chamber**{.aqua} is how you can create **Source Gems**{.aqua}. Simply **place an Amethyst or Lapis**{.gold} inside the Chamber and wait for it to slowly transform.
 
-This can be sped up later by *giving it access to Source*, such as that contained in a **Source Jar**.
+This can be sped up later by **giving it access to Source**{.green}, such as that contained in a **Source Jar**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Imbuement Chamber**
 ---

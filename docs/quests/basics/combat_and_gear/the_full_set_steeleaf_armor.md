@@ -1,13 +1,13 @@
 
 # The Full Set: Steeleaf Armor
 
-Obtain a full set of **Steeleaf Armor** from the ^^Twilight Forest^^.
+Obtain a full set of **Steeleaf Armor**{.aqua} from the **Twilight Forest**{.pink}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Steeleaf Helmet**
 	- **Steeleaf Chestplate**

@@ -6,13 +6,13 @@
 ---
 
 
-You can now *go fishing in lava*! Grab yourself a **Lava Fishing Rod** and cast your line! You'll find you can catch some *really interesting new fish*.
+You can now **go fishing in lava**{.green}! Grab yourself a **Lava Fishing Rod**{.aqua} and cast your line! You'll find you can catch some **really interesting new fish**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Lava Fishing Rod**
 ---

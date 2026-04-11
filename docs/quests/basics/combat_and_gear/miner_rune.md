@@ -6,15 +6,15 @@
 ---
 
 
-To obtain the **Miner Rune**, craft together a **Lucky Rock**, **Miner Guide, and &bTool Scraps**. The power of all three in a single curio!
+To obtain the **Miner Rune**{.aqua}, craft together a **Lucky Rock**{.aqua}, **Miner Guide, and &bTool Scraps**{.aqua}. The power of all three in a single curio!
 
-You can *craft duplicate accessories together* to get a chance at an accessory with *higher stats*! For maximum benefit, we recommend *levelling up your separate accessories first* for a more powerful **Miner Rune**. Runes can also be *combined with each other* to increase their power.
+You can **craft duplicate accessories together**{.green} to get a chance at an accessory with **higher stats**{.green}! For maximum benefit, we recommend **levelling up your separate accessories first**{.green} for a more powerful **Miner Rune**{.aqua}. Runes can also be **combined with each other**{.green} to increase their power.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Lucky Rock**
 	- **Miner Guide**

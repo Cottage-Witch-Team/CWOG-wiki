@@ -6,15 +6,15 @@
 ---
 
 
-**Bellows** are blocks that can *speed up furnaces*, *prevent fires from extinguishing*, and even *push entities*.
+**Bellows**{.aqua} are blocks that can **speed up furnaces**{.green}, **prevent fires from extinguishing**{.green}, and even **push entities**{.green}.
 
-The rate at which the Bellows pump is determined by the strength of the *Redstone signal* it is receiving.
+The rate at which the Bellows pump is determined by the strength of the **Redstone signal**{.green} it is receiving.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Bellows**
 ---

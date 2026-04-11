@@ -1,13 +1,13 @@
 
 # Stuffed Rice Cake
 
-Not a fan of red bean paste? Why not try **Chorus Fruit** in your **Rice Cakes** instead?
+Not a fan of red bean paste? Why not try **Chorus Fruit**{.aqua} in your **Rice Cakes**{.aqua} instead?
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Stuffed Rice Cake**
 ---

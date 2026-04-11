@@ -6,19 +6,19 @@
 ---
 
 
-For starters, let's make the **Harvest Glyph**. As you can see in ***JEI***, it requires an **Iron Hoe** and an **Earth Essence**.
+For starters, let's make the **Harvest Glyph**{.aqua}. As you can see in **JEI**{.glow}, it requires an **Iron Hoe**{.aqua} and an **Earth Essence**{.aqua}.
 
-To make the Earth Essence, you'll need to have your *Arcane Pedestals set up around your Imbuement Chamber*. You will need **Dirt, Seeds, and an Iron Ingot**. ==Right click each reagent on a pedestal== (the order doesn't matter). Once they're in place, put a **Source Gem** into the Imbuement Chamber.
+To make the Earth Essence, you'll need to have your **Arcane Pedestals set up around your Imbuement Chamber**{.green}. You will need **Dirt, Seeds, and an Iron Ingot**{.aqua}. **Right click each reagent on a pedestal**{.gold} (the order doesn't matter). Once they're in place, put a **Source Gem**{.aqua} into the Imbuement Chamber.
 
-If you have done everything correctly, it will begin crafting! It may go slowly unless there is a **filled Source Jar** within 6 blocks.
+If you have done everything correctly, it will begin crafting! It may go slowly unless there is a **filled Source Jar**{.aqua} within 6 blocks.
 
-Once it's done, pull it from the Chamber and ==throw both items== onto your Scribe's Table. Then, grab your finished **Glyph** and ==right click while holding it== to unlock the knowledge!
+Once it's done, pull it from the Chamber and **throw both items**{.gold} onto your Scribe's Table. Then, grab your finished **Glyph**{.aqua} and **right click while holding it**{.gold} to unlock the knowledge!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Glyph Harvest**
 	- **Earth Essence**

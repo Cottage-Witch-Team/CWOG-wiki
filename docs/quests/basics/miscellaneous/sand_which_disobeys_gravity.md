@@ -6,13 +6,13 @@
 ---
 
 
-This unique End-enchanted item will only *fall when provided with a Redstone signal*. If it is provided a redstone signal and *cannot fall, it will float up instead*.
+This unique End-enchanted item will only **fall when provided with a Redstone signal**{.green}. If it is provided a redstone signal and **cannot fall, it will float up instead**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Gravisand (5)**
 ---

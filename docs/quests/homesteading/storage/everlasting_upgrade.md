@@ -8,13 +8,13 @@
 
 You did it. You made the Perfect Backpack. a lever of infinite size could not pry this backpack from reality. 
 
-^^Just don't lose it somewhere.^^
+**Just don't lose it somewhere.**{.pink}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Everlasting Upgrade**
 ---

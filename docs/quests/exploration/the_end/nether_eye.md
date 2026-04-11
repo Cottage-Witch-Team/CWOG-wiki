@@ -1,13 +1,13 @@
 
 # Nether Eye
 
-The **Nether Eye** once belonged to a demon, who lost it in a might battle between the Aether and Nether. It can be found in chests inside - you guessed it - ^^Nether Fortresses^^.
+The **Nether Eye**{.aqua} once belonged to a demon, who lost it in a might battle between the Aether and Nether. It can be found in chests inside - you guessed it - **Nether Fortresses**{.pink}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Nether Eye**
 ---

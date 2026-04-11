@@ -1,13 +1,13 @@
 
 # Cold Eye
 
-The **Cold Eye** once belonged to an Iceologer, and can be found hidden in ^^an igloo's hidden basement^^.
+The **Cold Eye**{.aqua} once belonged to an Iceologer, and can be found hidden in **an igloo's hidden basement**{.pink}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Cold Eye**
 ---

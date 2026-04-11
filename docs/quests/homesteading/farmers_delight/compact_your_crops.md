@@ -6,13 +6,13 @@
 ---
 
 
-Crops can be easily compacted into Bags or Crates in order to *save on storage space*. ==Place 9 of each item in a Crafting Grid== to obtain a Crate or Bag of it!
+Crops can be easily compacted into Bags or Crates in order to **save on storage space**{.green}. **Place 9 of each item in a Crafting Grid**{.gold} to obtain a Crate or Bag of it!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Rice Bag**
 	- **Onion Crate**

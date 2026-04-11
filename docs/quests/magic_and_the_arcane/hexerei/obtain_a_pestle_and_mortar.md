@@ -6,13 +6,13 @@
 ---
 
 
-The **Mortar and Pestle** is a tool for grinding herbs. For right now, its primary use is to create a **Seed Mixture** to befriend *Crows*. A worthy use!
+The **Mortar and Pestle**{.aqua} is a tool for grinding herbs. For right now, its primary use is to create a **Seed Mixture**{.aqua} to befriend **Crows**{.green}. A worthy use!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Pestle And Mortar**
 ---

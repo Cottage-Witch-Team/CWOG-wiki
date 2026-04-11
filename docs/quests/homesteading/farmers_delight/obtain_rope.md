@@ -6,13 +6,13 @@
 ---
 
 
-**Rope** can be used to make tools such as the **Safety Net**, which *negates falling damage when landed on*. It can also be crafted into **Rope Arrows**, which will unroll a length of rope to the ground beneath where the arrow lands, allowing you to climb up it.
+**Rope**{.aqua} can be used to make tools such as the **Safety Net**{.aqua}, which **negates falling damage when landed on**{.green}. It can also be crafted into **Rope Arrows**{.aqua}, which will unroll a length of rope to the ground beneath where the arrow lands, allowing you to climb up it.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Rope**
 ---

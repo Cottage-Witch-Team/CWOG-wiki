@@ -6,13 +6,13 @@
 ---
 
 
-The **Obsidian Pressure Plate** can *only be activated by players*, making it very useful for base entrances and such.
+The **Obsidian Pressure Plate**{.aqua} can **only be activated by players**{.green}, making it very useful for base entrances and such.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Obsidian Pressure Plate**
 ---

@@ -1,13 +1,13 @@
 
 # Sack Up
 
-Similar to **Crates**, many crops can be compacted into **Sacks**. These can be used decoratively, or *used to free up storage space*!
+Similar to **Crates**{.aqua}, many crops can be compacted into **Sacks**{.aqua}. These can be used decoratively, or **used to free up storage space**{.green}!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Salmonberry Sack**
 	- **Acorn Sack**

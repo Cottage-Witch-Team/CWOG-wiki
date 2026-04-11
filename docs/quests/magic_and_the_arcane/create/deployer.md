@@ -1,13 +1,13 @@
 
 # Deployer
 
-**Deployers** are used to automate **Casings**, craft **Precision Mechanisms**, and to *generally simulate right or left clicks*. This allows the **Deployer** to automate things which ***Ars Nouveau*** cannot.
+**Deployers**{.aqua} are used to automate **Casings**{.aqua}, craft **Precision Mechanisms**{.aqua}, and to **generally simulate right or left clicks**{.green}. This allows the **Deployer**{.aqua} to automate things which **Ars Nouveau**{.glow} cannot.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Deployer**
 ---

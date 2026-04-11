@@ -6,13 +6,13 @@
 ---
 
 
-A saddle which allows the player to ride a **Lavathian**.
+A saddle which allows the player to ride a **Lavathian**{.yellow}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Straddle Saddle**
 ---

@@ -6,15 +6,15 @@
 ---
 
 
-Combine a **Discount Voucher**, **Dream Catcher**, and **Secret Ingredient** to get a **Household Rune**. The power of all three in a single curio!
+Combine a **Discount Voucher**{.aqua}, **Dream Catcher**{.aqua}, and **Secret Ingredient**{.aqua} to get a **Household Rune**{.aqua}. The power of all three in a single curio!
 
-You can *craft duplicate accessories together* to get a chance at an accessory with *higher stats*! For maximum benefit, we recommend *levelling up your separate accessories first* for a more powerful **Household Rune**. Runes can also be *combined with each other* to increase their power.
+You can **craft duplicate accessories together**{.green} to get a chance at an accessory with **higher stats**{.green}! For maximum benefit, we recommend **levelling up your separate accessories first**{.green} for a more powerful **Household Rune**{.aqua}. Runes can also be **combined with each other**{.green} to increase their power.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Discount Voucher**
 	- **Dream Catcher**

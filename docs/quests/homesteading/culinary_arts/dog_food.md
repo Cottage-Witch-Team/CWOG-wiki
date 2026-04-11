@@ -6,13 +6,13 @@
 ---
 
 
-**Dog food**, and its companion, **Horse Food**, will grant potion effects to their users such as *speed*, *resistance*, or *jump boost*.
+**Dog food**{.aqua}, and its companion, **Horse Food**{.aqua}, will grant potion effects to their users such as **speed**{.green}, **resistance**{.green}, or **jump boost**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Dog Food**
 ---

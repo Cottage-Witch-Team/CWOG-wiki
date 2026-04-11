@@ -6,18 +6,18 @@
 ---
 
 
-At times, **Elder Guardians** will drop **Pearls**, which can be used to make rather fetching jewelry.
-You can also get them from &6feeding Clams to **Otters**.
+At times, **Elder Guardians**{.yellow} will drop **Pearls**{.aqua}, which can be used to make rather fetching jewelry.
+You can also get them from &6feeding Clams to **Otters**{.yellow}.
 
-Obtain clams by *fishing* in rivers, and then ==drop them on the ground== by some **Otters**, and they will *crack them open for you*.
+Obtain clams by **fishing**{.green} in rivers, and then **drop them on the ground**{.gold} by some **Otters**{.yellow}, and they will **crack them open for you**{.green}.
 
-These *grant bonuses* when held in inventory, but ^^cannot be worn as Curios^^.
+These **grant bonuses**{.green} when held in inventory, but **cannot be worn as Curios**{.pink}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Pearl Necklace 1**
 	- **Pearl**

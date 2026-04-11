@@ -1,13 +1,13 @@
 
 # Ender Drawer
 
-The **Ender Drawer** can be *attuned to a frequency&a using the **Linking Tool**. Any other **Ender Drawer** attuned to the same frequency will contain the &asame inventory*.
+The **Ender Drawer**{.aqua} can be **attuned to a frequency&a using the **Linking Tool**{.aqua}. Any other **Ender Drawer**{.aqua} attuned to the same frequency will contain the &asame inventory**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Ender Drawer**
 ---

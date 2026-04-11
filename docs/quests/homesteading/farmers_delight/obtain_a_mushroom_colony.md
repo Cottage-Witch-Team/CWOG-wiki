@@ -6,13 +6,13 @@
 ---
 
 
-Mushroom colonies can be *grown in complete darkness* using **Rich Soil**. If you ==harvest one with shears==, you will get the whole colony. ==Harvest it with your hand== and you will get up to 5 mushrooms. Hooray for mush!
+Mushroom colonies can be **grown in complete darkness**{.green} using **Rich Soil**{.aqua}. If you **harvest one with shears**{.gold}, you will get the whole colony. **Harvest it with your hand**{.gold} and you will get up to 5 mushrooms. Hooray for mush!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Mushcolony**
 ---

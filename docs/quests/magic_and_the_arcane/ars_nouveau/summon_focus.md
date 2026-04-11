@@ -1,15 +1,15 @@
 
 # Summon Focus
 
-The **Focus of Summoning** allows your summoned companions to last longer.
+The **Focus of Summoning**{.aqua} allows your summoned companions to last longer.
 
-It also *damages nearby enemies* which try to attack them, and *causes the "self" form to count them* as well as the player.
+It also **damages nearby enemies**{.green} which try to attack them, and **causes the "self" form to count them**{.green} as well as the player.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Summon Focus**
 ---

@@ -1,15 +1,15 @@
 
 # Peel A Carrot
 
-Peel your **Overweight Crops** to obtain different appearances, and gain **Vegetable Peels**, which can be made into **Compost** or fed to **Pigs**!
+Peel your **Overweight Crops**{.aqua} to obtain different appearances, and gain **Vegetable Peels**{.aqua}, which can be made into **Compost**{.aqua} or fed to **Pigs**{.yellow}!
 
-Peeled **Melons** can have their seeds removed with an **Axe**, and then juiced by ==right clicking them with a bottle==.
+Peeled **Melons**{.aqua} can have their seeds removed with an **Axe**{.aqua}, and then juiced by **right clicking them with a bottle**{.gold}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Peeled Overweight Carrot Block**
 ---

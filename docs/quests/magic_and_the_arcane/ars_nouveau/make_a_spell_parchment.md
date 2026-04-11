@@ -6,17 +6,17 @@
 ---
 
 
-**Spell Parchment** is a way for you to store a spell on paper. They are *single-use*, and can be printed at the **Scribe's Table**.
+**Spell Parchment**{.aqua} is a way for you to store a spell on paper. They are **single-use**{.green}, and can be printed at the **Scribe's Table**{.aqua}.
 
-First, make a **Blank Parchment** with Paper and **Magebloom Fiber**. Then, combine that with **Source Gems** to create the final product.
+First, make a **Blank Parchment**{.aqua} with Paper and **Magebloom Fiber**{.aqua}. Then, combine that with **Source Gems**{.aqua} to create the final product.
 
-Once you have placed your Scroll on the Scribe's Table, ^^set your desired spell in your Spellbook^^ and then ==shift right click your Spellbook on the Table==. This will inscribe the spell onto the Parchment for you!
+Once you have placed your Scroll on the Scribe's Table, **set your desired spell in your Spellbook**{.pink} and then **shift right click your Spellbook on the Table**{.gold}. This will inscribe the spell onto the Parchment for you!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Spell Parchment**
 	- **Blank Parchment**

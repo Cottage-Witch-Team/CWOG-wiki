@@ -6,17 +6,17 @@
 ---
 
 
-The **Glyph Workbench** is used to *alter the behavior of **Glyphstones**. When accessing its interface, you can place the **Glyph** you wish to edit into the upper right slot, and then use the center inventory to &adefine what items this Glyph will accept*.
+The **Glyph Workbench**{.aqua} is used to **alter the behavior of **Glyphstones**{.aqua}. When accessing its interface, you can place the **Glyph**{.aqua} you wish to edit into the upper right slot, and then use the center inventory to &adefine what items this Glyph will accept**{.green}.
 
-You can define items by ==clicking and dragging them into the Workbench==, either from your own inventory, or from ***JEI***. Additionally, if you already have the desired items stored on the Glyphstone, you can ==choose the wrench icon in the upper left==. You can also clear configured items by *clicking the x icon*.
+You can define items by **clicking and dragging them into the Workbench**{.gold}, either from your own inventory, or from **JEI**{.glow}. Additionally, if you already have the desired items stored on the Glyphstone, you can **choose the wrench icon in the upper left**{.gold}. You can also clear configured items by **clicking the x icon**{.green}.
 
-You can insert an **Inverter Tablet** to make the Glyphstone *reject the configured items* instead.
+You can insert an **Inverter Tablet**{.aqua} to make the Glyphstone **reject the configured items**{.green} instead.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Cell Workbench**
 ---

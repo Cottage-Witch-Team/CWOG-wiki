@@ -1,13 +1,13 @@
 
 # The Full Set: Golden Glory
 
-Obtain a full set of **Golden Everything** to earn the right to *Praise the Sun*.
+Obtain a full set of **Golden Everything**{.aqua} to earn the right to **Praise the Sun**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Golden Helmet**
 	- **Golden Chestplate**

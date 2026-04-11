@@ -6,13 +6,13 @@
 ---
 
 
-You can also use **Hoglin Hides** to create Soul **Compost**, which will slowly convert into **Rich Soul Soil**. Simply ==place the Compost near Lava==.
+You can also use **Hoglin Hides**{.aqua} to create Soul **Compost**{.aqua}, which will slowly convert into **Rich Soul Soil**{.aqua}. Simply **place the Compost near Lava**{.gold}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Soul Compost**
 ---

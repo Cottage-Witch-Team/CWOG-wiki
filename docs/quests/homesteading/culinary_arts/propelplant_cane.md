@@ -6,15 +6,15 @@
 ---
 
 
-**Propelcane** is obtained from **Propelplants**, but must be ==harvested with a Knife==. It can be chopped into **Gunpowder** at a Cutting Board, or used to &acreate special **Propelplant Torches**.
+**Propelcane**{.aqua} is obtained from **Propelplants**{.aqua}, but must be **harvested with a Knife**{.gold}. It can be chopped into **Gunpowder**{.aqua} at a Cutting Board, or used to &acreate special **Propelplant Torches**{.aqua}.
 
-The **Cane** can also be &aplanted on **Rich Soul Soil**.
+The **Cane**{.aqua} can also be &aplanted on **Rich Soul Soil**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Propelplant Cane**
 ---

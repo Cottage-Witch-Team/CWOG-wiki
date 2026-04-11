@@ -6,13 +6,13 @@
 ---
 
 
-This item seeks out the rarest creature in the world: the **Devil's Hole Pupfish**, a creature which spawns only in a single chunk, ever, in a given world.
+This item seeks out the rarest creature in the world: the **Devil's Hole Pupfish**{.yellow}, a creature which spawns only in a single chunk, ever, in a given world.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Pupfish Locator**
 ---

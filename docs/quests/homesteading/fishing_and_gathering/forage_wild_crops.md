@@ -1,18 +1,18 @@
 
 # Forage Wild Crops
 
-Scattered around the world, you can find **Wild Crops** growing.
-Find all of them to build your *lovely witchy garden*!
+Scattered around the world, you can find **Wild Crops**{.aqua} growing.
+Find all of them to build your **lovely witchy garden**{.green}!
 Did you know that corn hung over a mirror will bring good luck to your household?
 Take a small white onion and stick it full of black-headed pins. When placed in the window, this will protect against negativity.
 And carrots are said to promote... physical desire. *wink*
-You can find **Eggplant** in *Jungles*, **Cucumber** in *Swamps*, **Corn** in *Plains*, and **Avocado** in *Jungles*.
+You can find **Eggplant**{.aqua} in **Jungles**{.red}, **Cucumber**{.aqua} in **Swamps**{.red}, **Corn**{.aqua} in **Plains**{.red}, and **Avocado**{.aqua} in **Jungles**{.red}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Break :
 	- **Wild Cabbages**
 	- **Wild Potatoes**

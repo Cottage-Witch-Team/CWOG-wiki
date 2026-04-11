@@ -6,13 +6,13 @@
 ---
 
 
-The **Destruction Gadget** is a dangerous tool which will *completely delete blocks*. It is mostly used to clear a large area for building.
+The **Destruction Gadget**{.aqua} is a dangerous tool which will **completely delete blocks**{.green}. It is mostly used to clear a large area for building.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Gadget Destruction**
 ---

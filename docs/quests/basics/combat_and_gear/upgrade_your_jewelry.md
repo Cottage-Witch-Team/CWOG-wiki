@@ -6,13 +6,13 @@
 ---
 
 
-Upgrade to the next tier by &6adding an **Ender Pearl** to the Necklace!
+Upgrade to the next tier by &6adding an **Ender Pearl**{.aqua} to the Necklace!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Pearl Necklace 2**
 	- **Ender Pearl**

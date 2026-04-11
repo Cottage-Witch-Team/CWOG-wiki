@@ -6,14 +6,14 @@
 ---
 
 
-While some **Elephants** are large and occasionally aggressive, there are variants which are *small and friendly*. These **Elephants** can be &6tamed with **Peanuts**, and will *help you water your gardens*!
+While some **Elephants**{.yellow} are large and occasionally aggressive, there are variants which are **small and friendly**{.green}. These **Elephants**{.yellow} can be &6tamed with **Peanuts**{.aqua}, and will **help you water your gardens**{.green}!
 {image:cottagewitch:textures/elephant.png width:150 height:150 align:1}
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Elephant**
 ---

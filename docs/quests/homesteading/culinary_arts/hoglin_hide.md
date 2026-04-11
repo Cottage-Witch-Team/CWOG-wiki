@@ -6,13 +6,13 @@
 ---
 
 
-**Hoglin Hide** can be used in cooking recipes, or cleaned on a **Cutting Board** to create **Leather**.
+**Hoglin Hide**{.aqua} can be used in cooking recipes, or cleaned on a **Cutting Board**{.aqua} to create **Leather**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Hoglin Hide**
 ---

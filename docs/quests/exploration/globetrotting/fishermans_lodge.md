@@ -1,13 +1,13 @@
 
 # Fishermans Lodge
 
-This quaint *Fisherman's Lodge* is water-bound, and is a great place to go fishing.
+This quaint **Fisherman's Lodge**{.red} is water-bound, and is a great place to go fishing.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Fishermans Lodge**
 ---

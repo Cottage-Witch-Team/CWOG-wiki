@@ -6,15 +6,15 @@
 ---
 
 
-The Yeti Cave can be found in the Snowy Forest, and houses both **Yetis** (which are neutral), and the **Alpha Yeti**, who is the boss you must face in this area.
-Engaging this foe in melee combat can be dangerous, but even at range one must *beware of falling icicles*!
-His death will grant you access to ^^the Glacier^^.
+The Yeti Cave can be found in the Snowy Forest, and houses both **Yetis**{.yellow} (which are neutral), and the **Alpha Yeti**{.yellow}, who is the boss you must face in this area.
+Engaging this foe in melee combat can be dangerous, but even at range one must **beware of falling icicles**{.green}!
+His death will grant you access to **the Glacier**{.pink}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Find **Yeti Cave**
 ---

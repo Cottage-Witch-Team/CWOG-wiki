@@ -1,13 +1,13 @@
 
 # Customize Your Bed
 
-Sick of boring old flat beds? Make a *fancy one*! To craft a **Bed**, you'll need planks, wool, and **a Cushion**!
+Sick of boring old flat beds? Make a **fancy one**{.green}! To craft a **Bed**{.aqua}, you'll need planks, wool, and **a Cushion**{.aqua}!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Fancy Beds**
 ---

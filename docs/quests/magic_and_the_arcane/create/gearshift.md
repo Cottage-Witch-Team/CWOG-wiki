@@ -1,13 +1,13 @@
 
 # Gearshift
 
-Among other things, the **Gearshift** allows you to *reverse the direction of rotation*, by placing it between two **Shafts** or **Cogs**, and ==applying a Redstone signal==.
+Among other things, the **Gearshift**{.aqua} allows you to **reverse the direction of rotation**{.green}, by placing it between two **Shafts**{.aqua} or **Cogs**{.aqua}, and **applying a Redstone signal**{.gold}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Gearshift**
 ---

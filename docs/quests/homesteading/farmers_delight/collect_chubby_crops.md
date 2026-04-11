@@ -1,13 +1,13 @@
 
 # Collect Chubby Crops
 
-Gather &6one of each kind of **Overweight Crop**, which can be used as decoration, or &6cut on a **Cutting Board**.
+Gather &6one of each kind of **Overweight Crop**{.aqua}, which can be used as decoration, or &6cut on a **Cutting Board**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Overweight Beetroot Block**
 	- **Overweight Carrot Block**

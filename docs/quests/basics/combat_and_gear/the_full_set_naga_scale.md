@@ -1,13 +1,13 @@
 
 # The Full Set: Naga Scale
 
-Obtain a full set of **Naga Scale Armor** from the *Twilight Forest*.
+Obtain a full set of **Naga Scale Armor**{.aqua} from the **Twilight Forest**{.red}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Naga Chestplate**
 	- **Naga Leggings**

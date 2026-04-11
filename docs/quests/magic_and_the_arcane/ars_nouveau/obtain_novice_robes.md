@@ -6,13 +6,13 @@
 ---
 
 
-Use your newly-acquired **Magebloom Fiber** to craft yourself a set of **Novice Robes**, which will *increase the amount of mana* you have access to.
+Use your newly-acquired **Magebloom Fiber**{.aqua} to craft yourself a set of **Novice Robes**{.aqua}, which will **increase the amount of mana**{.green} you have access to.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Novice Hood**
 	- **Novice Robes**

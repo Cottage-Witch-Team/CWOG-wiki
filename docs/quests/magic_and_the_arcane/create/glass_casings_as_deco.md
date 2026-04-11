@@ -1,13 +1,13 @@
 
 # Glass Casings as Deco
 
-You can enhance your Create machines by integrating **Glass Casings**, which are both aesthetic and functional blocks with connective textures.
+You can enhance your Create machines by integrating **Glass Casings**{.aqua}, which are both aesthetic and functional blocks with connective textures.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Glass Casings**
 ---

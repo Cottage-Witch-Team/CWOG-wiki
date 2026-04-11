@@ -6,13 +6,13 @@
 ---
 
 
-Lucky you, you found a **Message in a Bottle**! What does it say?
+Lucky you, you found a **Message in a Bottle**{.aqua}! What does it say?
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Message In A Bottle**
 ---

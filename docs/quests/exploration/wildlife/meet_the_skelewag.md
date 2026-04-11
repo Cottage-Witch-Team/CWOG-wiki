@@ -6,14 +6,14 @@
 ---
 
 
-The **Skelewag** is a common mount for **Drowned**, and lives near Shipwrecks. It is a fearsome foe, but is worth defeating, as it can drop **Fish Bones**, which allow the player to craft the **Strange Fish Finder**.
-The *Skelewag* also has an exceptionally small chance at dropping the **Novelty Hat**.
+The **Skelewag**{.yellow} is a common mount for **Drowned**{.yellow}, and lives near Shipwrecks. It is a fearsome foe, but is worth defeating, as it can drop **Fish Bones**{.aqua}, which allow the player to craft the **Strange Fish Finder**{.aqua}.
+The **Skelewag**{.green} also has an exceptionally small chance at dropping the **Novelty Hat**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Skelewag**
 ---

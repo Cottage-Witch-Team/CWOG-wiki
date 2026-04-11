@@ -8,35 +8,35 @@
 
 This pack adds a number of new crop types! Wild versions of these can be found throughout the world while exploring, and then you can plant them in your garden at home.
 
-From ***Farmer's Delight***:
--**Tomatoes** come from *Hot and Dry biomes*.
--**Rice** can be found in *Wet biomes*, but only above ground.
--**Cabbage** can be found on *Beaches*!
--**Onions** grow *everywhere* except Mushroom Biomes and Lush Caves.
+From **Farmer's Delight**{.glow}:
+-**Tomatoes**{.aqua} come from **Hot and Dry biomes**{.red}.
+-**Rice**{.aqua} can be found in **Wet biomes**{.red}, but only above ground.
+-**Cabbage**{.aqua} can be found on **Beaches**{.red}!
+-**Onions**{.aqua} grow **everywhere**{.red} except Mushroom Biomes and Lush Caves.
 
 
-***Extra Delight***:
-- You can find **Ginger** in *hot climates*, look for red flowering leaves!
-- **Cinnamon** is found commonly in *Jungle Biomes*.
-- And finally, **Mint** can be found in *Cold biomes*, and will *spread to a 5x5 region when planted*.
+**Extra Delight**{.glow}:
+- You can find **Ginger**{.aqua} in **hot climates**{.red}, look for red flowering leaves!
+- **Cinnamon**{.aqua} is found commonly in **Jungle Biomes**{.red}.
+- And finally, **Mint**{.aqua} can be found in **Cold biomes**{.red}, and will **spread to a 5x5 region when planted**{.green}.
 
-***Cultural Delight***:
-- **Cucumbers** come from *Swamps*.
-- **Eggplant** and **Avocado** can be found in *Jungle* biomes.
-- **Corn** grows in *Plains*.
+**Cultural Delight**{.glow}:
+- **Cucumbers**{.aqua} come from **Swamps**{.red}.
+- **Eggplant**{.aqua} and **Avocado**{.aqua} can be found in **Jungle**{.red} biomes.
+- **Corn**{.aqua} grows in **Plains**{.red}.
 
-***Miner's Delight***:
-- **Cave Carrots** can be found *underground*, except in Lush Caves.
+**Miner's Delight**{.glow}:
+- **Cave Carrots**{.aqua} can be found **underground**{.red}, except in Lush Caves.
 
-***Collector's Reap***:
-- **Limes** are located solely in *Flower Forest* biomes, and require *pollination by &eBees* to produce fruit.
-- **Pomegranates** can only be found in *Warped Forest* biomes, and either need to be *grown in the *Nether*, or &arequire &apollination by &eBees* to produce fruit.
+**Collector's Reap**{.glow}:
+- **Limes**{.aqua} are located solely in **Flower Forest**{.red} biomes, and require **pollination by &eBees**{.green} to produce fruit.
+- **Pomegranates**{.aqua} can only be found in **Warped Forest**{.red} biomes, and either need to be **grown in the **Nether**{.red}, or &arequire &apollination by &eBees**{.green} to produce fruit.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Tomato**
 	- **Onion**

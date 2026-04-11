@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
 
 [data-md-color-scheme="cw-light"] {
 
@@ -14,8 +15,10 @@
     --md-default-bg-color: #bad4a6;
     --md-default-fg-color: #2E3A2C;
 
-    --md-code-fg-color: #ffffff;
-    --md-code-bg-color: #2E3A2C;
+    --md-color-shadow: white;
+
+    --md-code-fg-color: goldenrod;
+    --md-code-bg-color: #310100;
 
     /* text */
     --md-typeset-color: #2E3A2C;
@@ -47,4 +50,50 @@
 
 .md-typeset table:not([class]) {
     display: table;
+}
+
+.red {
+    color: red;
+    text-shadow: 0 0 5px var(--md-color-shadow);
+}
+
+.gold {
+    color: darkgoldenrod;
+    text-shadow: 0 0 5px var(--md-color-shadow);
+}
+
+.yellow {
+    color: goldenrod;
+    text-shadow: 0 0 5px var(--md-color-shadow);
+}
+
+.green {
+    color: forestgreen;
+    text-shadow: 0 0 5px var(--md-color-shadow);
+}
+
+.pink {
+    color: hotpink;
+    text-shadow: 0 0 5px var(--md-color-shadow);
+}
+
+.aqua {
+    color: teal;
+    text-shadow: 0 0 5px var(--md-color-shadow);
+}
+
+.navy {
+
+    color: navy;
+    text-shadow: 0 0 5px var(--md-color-shadow);
+}
+
+.glow {
+    color: dodgerblue;
+    text-shadow: 0 0 5px white;
+}
+
+.purple {
+    color: rebeccapurple;
+    text-shadow: 0 0 5px white;
 }

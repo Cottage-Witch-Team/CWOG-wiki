@@ -1,13 +1,13 @@
 
 # Crafting Upgrades
 
-The **Crafting** and **Stonecutter** upgrades provide those *crafting interfaces* in the storage you place them in.
+The **Crafting**{.aqua} and **Stonecutter**{.aqua} upgrades provide those **crafting interfaces**{.green} in the storage you place them in.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Stonecutter Upgrade**
 	- **Crafting Upgrade**

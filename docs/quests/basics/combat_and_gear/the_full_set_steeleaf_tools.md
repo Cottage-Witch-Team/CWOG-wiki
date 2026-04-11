@@ -1,13 +1,13 @@
 
 # The Full Set: Steeleaf Tools
 
-Did you know that **Steeleaf tools** come *pre-enchanted when you craft them*? Pretty cool stuff.
+Did you know that **Steeleaf tools**{.aqua} come **pre-enchanted when you craft them**{.green}? Pretty cool stuff.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Steeleaf Knife**
 	- **Steeleaf Sword**

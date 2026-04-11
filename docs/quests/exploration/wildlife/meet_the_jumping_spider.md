@@ -6,15 +6,15 @@
 ---
 
 
-Oh wow, a **Jumping Spider**! Tame it with **dragonfly wings** and it will protect you. They also drop **spider silk**, which can be used to craft the **silk leash** and **silk grappling hook**.
+Oh wow, a **Jumping Spider**{.yellow}! Tame it with **dragonfly wings**{.aqua} and it will protect you. They also drop **spider silk**{.aqua}, which can be used to craft the **silk leash**{.aqua} and **silk grappling hook**{.aqua}.
 
-Note: dragonflies from this mod do not spawn in the world, due to their laggy AI. However, you can find them- and many other creepy crawlies- in the **Insectoid Gatepearl**.
+Note: dragonflies from this mod do not spawn in the world, due to their laggy AI. However, you can find them- and many other creepy crawlies- in the **Insectoid Gatepearl**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Meet **Jumping Spider**
 ---

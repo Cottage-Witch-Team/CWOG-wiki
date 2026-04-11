@@ -6,13 +6,13 @@
 ---
 
 
-These special buttons function similarly to other **Buttons**, except that the **Iron Button** gives a *much longer signal* than usual, and the **Gold Button** a *much shorter signal* than usual.
+These special buttons function similarly to other **Buttons**{.aqua}, except that the **Iron Button**{.aqua} gives a **much longer signal**{.green} than usual, and the **Gold Button**{.aqua} a **much shorter signal**{.green} than usual.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Iron Button**
 	- **Gold Button**

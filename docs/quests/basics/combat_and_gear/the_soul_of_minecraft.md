@@ -6,17 +6,17 @@
 ---
 
 
-You did it! You got all the Runes! Shame you can't *equip them all*... or can you?
+You did it! You got all the Runes! Shame you can't **equip them all**{.green}... or can you?
 
-In a **crafting table**, combine all five runes: **Adventurer Rune**, **Angler Rune**, **Household Rune**, **Miner Rune**, and **Nature Rune**. 
+In a **crafting table**{.aqua}, combine all five runes: **Adventurer Rune**{.aqua}, **Angler Rune**{.aqua}, **Household Rune**{.aqua}, **Miner Rune**{.aqua}, and **Nature Rune**{.aqua}. 
 
-The **Soul of Minecraft** can be equipped in your pocket. 
+The **Soul of Minecraft**{.aqua} can be equipped in your pocket. 
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Adventurer Rune**
 	- **Angler Rune**

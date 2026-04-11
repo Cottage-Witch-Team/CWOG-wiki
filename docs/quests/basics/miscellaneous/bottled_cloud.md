@@ -6,15 +6,15 @@
 ---
 
 
-You can obtain a **Cloud in a Bottle** by ascending to *cloud height* and ==right clicking the air with a glass bottle==.
+You can obtain a **Cloud in a Bottle**{.aqua} by ascending to **cloud height**{.green} and **right clicking the air with a glass bottle**{.gold}.
 
-You can release the Cloud by right-clicking the bottle in the air. It will shortly disappear. However, if the cloud is ==replaced with another block==, it returns to the bottle. This allows you to *place blocks in midair*.
+You can release the Cloud by right-clicking the bottle in the air. It will shortly disappear. However, if the cloud is **replaced with another block**{.gold}, it returns to the bottle. This allows you to **place blocks in midair**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Bottled Cloud**
 ---

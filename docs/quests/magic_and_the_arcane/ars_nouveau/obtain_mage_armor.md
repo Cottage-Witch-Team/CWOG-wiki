@@ -1,13 +1,13 @@
 
 # Obtain Mage Armor
 
-This armor grants additional *Mana* over the basic set.
+This armor grants additional **Mana**{.green} over the basic set.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Apprentice Hood**
 	- **Apprentice Robes**

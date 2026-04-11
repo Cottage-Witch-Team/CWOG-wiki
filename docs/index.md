@@ -6,4 +6,4 @@ title: Home
 
 ![Welcome!](assets/cottagewitchsplash.png)
 
-Click on any of the tabs in the top bar to navigate
+Click on any of the tabs in the top bar to navigate.

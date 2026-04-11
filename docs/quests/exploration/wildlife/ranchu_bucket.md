@@ -1,14 +1,14 @@
 
 # Ranchu Bucket
 
-**Ranchu Goldfish** are a chubby fish that love to eat **Water Lettuce**, which can be used to breed them.
-There are *over 300 variants* of the Ranchu Goldfish!
+**Ranchu Goldfish**{.yellow} are a chubby fish that love to eat **Water Lettuce**{.aqua}, which can be used to breed them.
+There are **over 300 variants**{.green} of the Ranchu Goldfish!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Ranchu Bucket**
 ---

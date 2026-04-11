@@ -6,13 +6,13 @@
 ---
 
 
-By killing **Hoglins** with your trusty **Knife**, you can gain **Hoglin Loin**, **Hoglin Hide**, and sometimes **Ham**! These can be used in cooking recipes.
+By killing **Hoglins**{.yellow} with your trusty **Knife**{.aqua}, you can gain **Hoglin Loin**{.aqua}, **Hoglin Hide**{.aqua}, and sometimes **Ham**{.aqua}! These can be used in cooking recipes.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Hoglin Loin**
 ---

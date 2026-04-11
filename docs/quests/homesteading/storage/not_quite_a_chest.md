@@ -6,15 +6,15 @@
 ---
 
 
-**Ender Luggages** are a tight knit group- unlike regular **Luggages**, every** Ender Luggage** you own will share the same storage space!
+**Ender Luggages**{.yellow} are a tight knit group- unlike regular **Luggages**{.yellow}, every** Ender Luggage**{.yellow} you own will share the same storage space!
 
-it's just like an **Ender Chest**- with feet!
+it's just like an **Ender Chest**{.aqua}- with feet!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Ender Luggage**
 ---

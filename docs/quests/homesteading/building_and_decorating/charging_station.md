@@ -1,13 +1,13 @@
 
 # Charging Station
 
-The **Charging Station** will *burn fuel in order to charge your Building Gadgets*.
+The **Charging Station**{.aqua} will **burn fuel in order to charge your Building Gadgets**{.green}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Charging Station**
 ---

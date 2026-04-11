@@ -1,7 +1,7 @@
 
 # Epic Hats
 
-If you manage to collect every **Epic Hat**, you will unlock the ultimate hat... proclaiming you the ^^ultimate fisherman^^.
+If you manage to collect every **Epic Hat**{.aqua}, you will unlock the ultimate hat... proclaiming you the **ultimate fisherman**{.pink}.
 
 You did it. &oYou won fishing&r.
 
@@ -9,7 +9,7 @@ You did it. &oYou won fishing&r.
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 	### Acquire :
 	- **Angel And Devil**
 	- **Artsy**

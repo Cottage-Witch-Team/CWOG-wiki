@@ -6,13 +6,13 @@
 ---
 
 
-Is there much overlap between Ninjas and Witches? I'm not sure, but this armor is pretty cool, so why not stop asking questions and just do the quest, eh? Whippersnapper. Go ==climb 90,000cm== to prove your worth.
+Is there much overlap between Ninjas and Witches? I'm not sure, but this armor is pretty cool, so why not stop asking questions and just do the quest, eh? Whippersnapper. Go **climb 90,000cm**{.gold} to prove your worth.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Stats: **Climb One Cm = 90000**
 ---

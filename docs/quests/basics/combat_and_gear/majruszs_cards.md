@@ -6,19 +6,19 @@
 ---
 
 
-Purchased from **Wandering Traders**, these cards can be used to modify your &1Majrusz's Accessories&r ==by crafting them together==. 
+Purchased from **Wandering Traders**{.yellow}, these cards can be used to modify your **Majrusz's Accessories**{.navy} **by crafting them together**{.gold}. 
 
-the **Reverse Card** is a Card that negates the efficiency bonus of any accessory. 
+the **Reverse Card**{.aqua} is a Card that negates the efficiency bonus of any accessory. 
 
-the **Gambling Card** is a Card that redraws efficiency bonus of any accessory based on the last efficiency range. 
+the **Gambling Card**{.aqua} is a Card that redraws efficiency bonus of any accessory based on the last efficiency range. 
 
-the **Removal Card** is a Card that returns all **Boosters** applied to any accessory. 
+the **Removal Card**{.aqua} is a Card that returns all **Boosters**{.aqua} applied to any accessory. 
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Any Maj Cards**
 ---

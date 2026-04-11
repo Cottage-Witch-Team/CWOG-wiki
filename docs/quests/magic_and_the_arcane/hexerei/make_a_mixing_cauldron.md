@@ -6,14 +6,14 @@
 ---
 
 
-A cauldron is fine and dandy, but you'll want something a little more magical for your endeavors. Enhance a regular **Cauldron** with **iron** and **torches** in order to create this advanced crafting tool.
-^^Beware! Do not use your Infinity water bucket with this cauldron!^^. It will consume the water and the enchantment.
+A cauldron is fine and dandy, but you'll want something a little more magical for your endeavors. Enhance a regular **Cauldron**{.aqua} with **iron**{.aqua} and **torches**{.aqua} in order to create this advanced crafting tool.
+**Beware! Do not use your Infinity water bucket with this cauldron!**{.pink}. It will consume the water and the enchantment.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Mixing Cauldron**
 ---

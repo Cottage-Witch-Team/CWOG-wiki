@@ -6,13 +6,13 @@
 ---
 
 
-Using your **Spout** setup from earlier, you can &apipe lava into your **Blaze Cake Base**! The resulting **Blaze Cake** can be used to power **Blaze Burners** very significantly.
+Using your **Spout**{.aqua} setup from earlier, you can &apipe lava into your **Blaze Cake Base**{.aqua}! The resulting **Blaze Cake**{.aqua} can be used to power **Blaze Burners**{.aqua} very significantly.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Blaze Cake**
 ---

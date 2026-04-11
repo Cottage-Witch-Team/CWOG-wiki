@@ -6,13 +6,13 @@
 ---
 
 
-50 deaths, and you're just getting started! Congrats...I guess? Anyway, here ==take this Totem==, it seems like you need it.
+50 deaths, and you're just getting started! Congrats...I guess? Anyway, here **take this Totem**{.gold}, it seems like you need it.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Stats: **Deaths = 50**
 ---

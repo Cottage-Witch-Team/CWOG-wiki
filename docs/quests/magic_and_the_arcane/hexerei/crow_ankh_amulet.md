@@ -1,13 +1,13 @@
 
 # Crow Ankh Amulet
 
-Equip your **Crow** with this **Ankh** to protect it from danger. It will grant it *Regen* while it's playing dead, and *acts as a **Totem of Undying** in case the &eCrow* dies.
+Equip your **Crow**{.yellow} with this **Ankh**{.aqua} to protect it from danger. It will grant it **Regen**{.green} while it's playing dead, and **acts as a **Totem of Undying**{.aqua} in case the &eCrow**{.green} dies.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Crow Ankh Amulet**
 ---

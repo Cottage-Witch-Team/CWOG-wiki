@@ -7,7 +7,7 @@
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Kill **Creeper (100)**
 ---
@@ -16,13 +16,13 @@
             
 # Kill: Creeper
 
-If you can manage to slay 500 **Creepers**, then you shall have earned this **Creeper Spawn Egg**.
+If you can manage to slay 500 **Creepers**{.yellow}, then you shall have earned this **Creeper Spawn Egg**{.aqua}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Kill **Creeper (500)**
 ---

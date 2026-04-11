@@ -1,13 +1,13 @@
 
 # Poof Mob
 
-Gift a **Wild Starbuncle** a **Gold Nugget** and see what happens!
+Gift a **Wild Starbuncle**{.yellow} a **Gold Nugget**{.aqua} and see what happens!
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- **Poof Mob**
 ---

@@ -1,17 +1,17 @@
 
 # Keeping in "Contact" via Snail Mail
 
-**Postcards** and **Parcels** are from the mod ***Contact***. Unfortunately, this mod's **Mailboxes** have a ^^bad habit of coming unclaimed^^, so that ^^no one can receive mail^^. However, they can still be sent via ***Snail Mail***, an idea come up with by a very smart witch.
+**Postcards**{.aqua} and **Parcels**{.aqua} are from the mod **Contact**{.glow}. Unfortunately, this mod's **Mailboxes**{.aqua} have a **bad habit of coming unclaimed**{.pink}, so that **no one can receive mail**{.pink}. However, they can still be sent via **Snail Mail**{.glow}, an idea come up with by a very smart witch.
 
-Postcards can be *obtained from the Wandering Trader* or earned through quest rewards. You can ==right click== while holding them to write on them.
+Postcards can be **obtained from the Wandering Trader**{.green} or earned through quest rewards. You can **right click**{.gold} while holding them to write on them.
 
-You can wrap gifts up in **Wrapping Paper**. Each parcel can hold 4 items. There is no functional difference between the regular and Ender versions when using them with ***Snail Mail***.
+You can wrap gifts up in **Wrapping Paper**{.aqua}. Each parcel can hold 4 items. There is no functional difference between the regular and Ender versions when using them with **Snail Mail**{.glow}.
 
 ---
 
 
 
-!!! tip 'TASK' 
+!!! tip "TASK" 
 
 	- Acquire **Postcard**
 ---
