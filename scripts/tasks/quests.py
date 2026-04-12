@@ -4,13 +4,14 @@ import shutil
 from markdown.extensions.toc import slugify
 
 from scripts.core.constants import DOCS_ROOT, MODPACK_ROOT
-from scripts.core.entities import ModpackFile, SourceFile
+from scripts.core.entities import ModpackDirectory, ModpackFile, SourceFile
 from scripts.core.functions import get_all_files
 from scripts.core.parsers import SnbtParser
 from scripts.core.wiki_builder import WikiBuildTask
 
 
 class Quests(WikiBuildTask):
+    quests_chapters_source = ModpackDirectory(rel_path="config/ftbquests/quests/chapters").get_files()
     source_directory = MODPACK_ROOT / "config/ftbquests/quests/chapters"
     destination = DOCS_ROOT / "quests"
     quest_book = {}
@@ -25,6 +26,46 @@ class Quests(WikiBuildTask):
         "e": "{.yellow}",
         "6": "{.gold}",
     }
+
+    def prepare_data(self) -> None:
+        chapters = {}
+        quest_book = {}
+
+        for source_chapter in self.quests_chapters_source:
+            parsed = SnbtParser.parse(source_chapter)
+            chapters[parsed.title] = parsed.content
+
+        for raw_title, chapter in chapters.items():
+            chapter_title = raw_title.replace("__", "_and_")
+            chapter_group, group_ordinal = self.__get_chapter_group(chapter)
+
+            group = quest_book.setdefault(
+                chapter_group,
+                {"ordinal": group_ordinal},
+            )
+
+            chapter_entry = group.setdefault(
+                chapter_title,
+                {"ordinal": chapter["order_index"]},
+            )
+
+            for i, quest in enumerate(chapter["quests"]):
+                if quest.get("secret"):
+                    continue
+
+                quest_title, quest_text = self._process_quest_to_string(quest)
+
+                if not quest_text:
+                    continue
+                quest_title = quest_title or chapter_title
+
+                quest_entry = chapter_entry.setdefault(
+                    quest_title,
+                    {"ordinal": i, "text": ""},
+                )
+                quest_entry["text"] += quest_text
+
+            self.quest_book = quest_book
 
     def launch(self):
 
@@ -64,38 +105,43 @@ class Quests(WikiBuildTask):
         return x[1].get("ordinal") + 1
 
     def build_quest_book(self) -> None:
-        self.quest_book = {}
+        quest_book = {}
 
         chapters = self._build_chapter_dict_from_files()
 
-        for chapter_title, chapter in chapters.items():
-            chapter_title = chapter_title.replace("__", "_and_")
+        for raw_title, chapter in chapters.items():
+            chapter_title = raw_title.replace("__", "_and_")
             chapter_group, group_ordinal = self.__get_chapter_group(chapter)
 
-            chapter_quests = chapter["quests"]
-            chapter_ordinal = chapter["order_index"]
+            group = quest_book.setdefault(
+                chapter_group,
+                {"ordinal": group_ordinal},
+            )
 
-            if chapter_group not in self.quest_book:
-                self.quest_book[chapter_group] = {"ordinal": group_ordinal}
-            if chapter_title not in self.quest_book[chapter_group]:
-                self.quest_book[chapter_group][chapter_title] = {"ordinal": chapter_ordinal}
+            chapter_entry = group.setdefault(
+                chapter_title,
+                {"ordinal": chapter["order_index"]},
+            )
 
-            for i, quest in enumerate(chapter_quests):
-                quest_is_secret = quest.get("secret")
-                if not quest_is_secret:
-                    quest_title, quest_text = self._process_quest_to_string(quest)
-                    quest_title = quest_title or chapter_title
+            for i, quest in enumerate(chapter["quests"]):
+                if quest.get("secret"):
+                    continue
 
-                    if not quest_text:
-                        continue
+                quest_title, quest_text = self._process_quest_to_string(quest)
 
-                    if quest_title not in self.quest_book[chapter_group][chapter_title]:
-                        self.quest_book[chapter_group][chapter_title][quest_title] = {
-                            "ordinal": i,
-                            "text": "",
-                        }
+                if not quest_text:
+                    continue
 
-                    self.quest_book[chapter_group][chapter_title][quest_title]["text"] += quest_text
+                quest_title = quest_title or chapter_title
+
+                quest_entry = chapter_entry.setdefault(
+                    quest_title,
+                    {"ordinal": i, "text": ""},
+                )
+
+                quest_entry["text"] += quest_text
+
+                self.quest_book = quest_book
 
     def _build_chapter_dict_from_files(self) -> dict:
         chapters = {}

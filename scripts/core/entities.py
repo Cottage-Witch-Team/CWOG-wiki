@@ -1,6 +1,6 @@
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any
+from typing import Any, Generator
 from urllib.parse import urlparse
 from urllib.request import urlretrieve
 
@@ -9,7 +9,7 @@ from scripts.core.constants import DOCS_ROOT, MODPACK_ROOT, REPO_ROOT, TEMP_FILE
 
 @dataclass
 class SourceFile:
-    path: Path = field(init=False)
+    path: Path | None = field(init=False)
 
     @property
     def extension(self) -> str:
@@ -47,6 +47,22 @@ class GitRawFile(SourceFile):
 
     def delete_file(self) -> None:
         self.path.unlink(missing_ok=True)
+
+
+@dataclass
+class ModpackDirectory:
+    rel_path: Path | str
+    path: Path = field(init=False)
+
+    def __post_init__(self) -> None:
+        if isinstance(self.rel_path, str):
+            self.rel_path = Path(self.rel_path)
+        self.path = MODPACK_ROOT / self.rel_path
+
+    def get_files(self) -> Generator[ModpackFile, Any, None]:
+        for root, _, files in self.path.walk():
+            for file in files:
+                yield ModpackFile(rel_path=(root / file).relative_to(MODPACK_ROOT))
 
 
 @dataclass
