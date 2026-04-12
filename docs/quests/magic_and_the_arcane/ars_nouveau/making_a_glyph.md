@@ -6,7 +6,7 @@
 ---
 
 
-For starters, let's make the **Harvest Glyph**{.aqua}. As you can see in **JEI**{.glow}, it requires an **Iron Hoe**{.aqua} and an **Earth Essence**{.aqua}.
+For starters, let's make the **Harvest Glyph**{.aqua}. As you can see in **JEI**{.blue}, it requires an **Iron Hoe**{.aqua} and an **Earth Essence**{.aqua}.
 
 To make the Earth Essence, you'll need to have your **Arcane Pedestals set up around your Imbuement Chamber**{.green}. You will need **Dirt, Seeds, and an Iron Ingot**{.aqua}. **Right click each reagent on a pedestal**{.gold} (the order doesn't matter). Once they're in place, put a **Source Gem**{.aqua} into the Imbuement Chamber.
 

@@ -1,7 +1,7 @@
 
 # Automation
 
-Depending on how robust your storage network is, you may find it useful to **automagically transfer items**{.green} from - for example - your **Sophisticated Storage**{.glow} setup to your **Applied Energistics**{.glow} Nexus.
+Depending on how robust your storage network is, you may find it useful to **automagically transfer items**{.green} from - for example - your **Sophisticated Storage**{.blue} setup to your **Applied Energistics**{.blue} Nexus.
 
 To do this, you'll want **Import and Export Fulcrums**{.aqua}.
 

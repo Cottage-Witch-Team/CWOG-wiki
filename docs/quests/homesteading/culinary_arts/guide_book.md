@@ -1,9 +1,9 @@
 
 # Guide Book
 
-**Caupona**{.glow} is a cooking mod that employs a freeform style of recipe.
+**Caupona**{.blue} is a cooking mod that employs a freeform style of recipe.
 With most recipes, you will **maintain a ratio**{.green} of ingredients, such as ensuring that you have **"mostly beef"**{.green} and **"some vegetables"**{.green}, with **"no fish"**{.green}, and so on.
-You can use **the guidebook**{.aqua} or **JEI**{.glow} to learn the recipes.
+You can use **the guidebook**{.aqua} or **JEI**{.blue} to learn the recipes.
 {image:cottagewitch:textures/cauponajei.png width:100 height:80 align:1 fit:true}
 When viewing **Stews and Soups**{.aqua}, ensure that you **click these icons**{.gold} to access their recipes.
 

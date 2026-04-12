@@ -12,7 +12,7 @@ The **Diamond Magnum Torch**{.aqua} prevents **hostile mobs**{.yellow} from spaw
 
 The **Emerald Magnum Torch**{.aqua} prevents **neutral and passive mobs**{.yellow} from spawning.
 
-The **Amethyst Magnum Torch**{.aqua} prevents **ALL**{.glow} mob spawns.
+The **Amethyst Magnum Torch**{.aqua} prevents **ALL**{.blue} mob spawns.
 
 ---
 

@@ -31,7 +31,7 @@ Note: once you start connecting multiple storages, you will want to start Priori
 
 The number here can be **adjusted using the buttons**{.gold}, or by **typing a value**{.gold} into the box. **Priority**{.green} can be a positive or negative number.
 
-**Here's an example**{.pink}: you keep much of your storage in your **Glyphic Repository**{.aqua}. But you have a gold farm which feeds into a simple **Functional Storage**{.glow} **drawer**{.aqua} setup. If you set a higher priority to the **Storage Anchor**{.aqua} connected to these drawers, any time you **add or remove gold from your console**{.green}, the system will **check the priority list**{.green} and choose this location first.
+**Here's an example**{.pink}: you keep much of your storage in your **Glyphic Repository**{.aqua}. But you have a gold farm which feeds into a simple **Functional Storage**{.blue} **drawer**{.aqua} setup. If you set a higher priority to the **Storage Anchor**{.aqua} connected to these drawers, any time you **add or remove gold from your console**{.green}, the system will **check the priority list**{.green} and choose this location first.
 
 ---
 

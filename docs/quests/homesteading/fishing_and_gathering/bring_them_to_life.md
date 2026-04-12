@@ -6,7 +6,7 @@
 ---
 
 
-Where are all the fish...? **Aquaculture**{.glow} fish **do not spawn in the world**{.green}, you can only **fish them up**{.gold}. 
+Where are all the fish...? **Aquaculture**{.blue} fish **do not spawn in the world**{.green}, you can only **fish them up**{.gold}. 
 
 Don't worry though, they aren't dead- only sleeping! **Combine that fish with a water bucket**{.gold} to wake them right up.
 

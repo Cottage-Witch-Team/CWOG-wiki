@@ -1,7 +1,7 @@
 
 # Apple Crates for Commerce and Deco!
 
-If you're playing with others, you can use Crates from the **Apple Crates**{.glow} mod to **sell items to one another**{.green}!
+If you're playing with others, you can use Crates from the **Apple Crates**{.blue} mod to **sell items to one another**{.green}!
 
 {image:cottagewitch:textures/quest_images/applecrates.png width:250 height:250 align:1}
 

@@ -17,7 +17,7 @@ Which brings us nicely to our next order of business:
 {image:cottagewitch:textures/quest_ui/nonbtstorage.png width:200 height:200 align:1}
 It seemed deserving of a graphic. **NBT data is a form of eldritch curse, stemming from the depths**{.green}.
 
-It is used to determine things such as how much damage a tool has taken, what kind of animal is caught in the lasso, or what enchantments are placed on your armor. Due to the arcane nature of this data, it causes **phantasmal warping (read: significant lag)**{.pink} when in the network, so it is recommended you **keep your storage uncursed**{.green} by **periodically removing all items with NBT from your Resonance network**{.gold}. You can easily do this by **searching "nbt"**{.gold} in your **Aperture**{.aqua} &4(toggle on advanced tooltips with F3+H first)&r, and then **removing those items**{.gold} to store elsewhere (such as **Sophisticated**{.glow} containers that are not connected to the **Resonance Network**{.aqua}).
+It is used to determine things such as how much damage a tool has taken, what kind of animal is caught in the lasso, or what enchantments are placed on your armor. Due to the arcane nature of this data, it causes **phantasmal warping (read: significant lag)**{.pink} when in the network, so it is recommended you **keep your storage uncursed**{.green} by **periodically removing all items with NBT from your Resonance network**{.gold}. You can easily do this by **searching "nbt"**{.gold} in your **Aperture**{.aqua} &4(toggle on advanced tooltips with F3+H first)&r, and then **removing those items**{.gold} to store elsewhere (such as **Sophisticated**{.blue} containers that are not connected to the **Resonance Network**{.aqua}).
 
 ---
 

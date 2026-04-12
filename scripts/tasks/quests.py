@@ -15,7 +15,7 @@ class Quests(WikiBuildTask):
     destination = DOCS_ROOT / "quests"
     quest_book = {}
     regex_sub = {
-        "l": "{.glow}",
+        "l": "{.blue}",
         "1": "{.navy}",
         "5": "{.purple}",
         "b": "{.aqua}",

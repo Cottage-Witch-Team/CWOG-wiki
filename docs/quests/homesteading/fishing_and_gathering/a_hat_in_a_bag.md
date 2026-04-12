@@ -6,7 +6,7 @@
 ---
 
 
-Hats! Who doesn't live the simple pleasure of a Nice Hat? **Simple Hats**{.glow} is just that: hats, nothing else. These are exclusively equipped in your Head curio slot, and can **only be found through fishing**{.green} (or a lucky neptunian chest).
+Hats! Who doesn't live the simple pleasure of a Nice Hat? **Simple Hats**{.blue} is just that: hats, nothing else. These are exclusively equipped in your Head curio slot, and can **only be found through fishing**{.green} (or a lucky neptunian chest).
 
 Each regular hatbag contains one hat of corresponding rarity: Common, **Uncommon**{.yellow}, **Rare**{.aqua}, and **Epic**{.pink}! 
 

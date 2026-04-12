@@ -1,7 +1,7 @@
 
 # Resource Pack Application
 
-This modpack comes with **a lot of resourcepacks**{.green} for you to use! Most of them should be enabled by default thanks to **Resource Pack Overrides**{.glow}, but they don't always work perfectly. If you find yourself needing to do something manually - 
+This modpack comes with **a lot of resourcepacks**{.green} for you to use! Most of them should be enabled by default thanks to **Resource Pack Overrides**{.blue}, but they don't always work perfectly. If you find yourself needing to do something manually - 
 
 We recommend enabling all of them, except for the following:
 - Fresh Animations (a spider and phantom-free version is already enabled!)

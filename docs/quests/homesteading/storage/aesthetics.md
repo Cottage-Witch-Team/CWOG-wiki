@@ -1,7 +1,7 @@
 
 # Aesthetics
 
-Nearly every part of your **Applied Energistics 2**{.glow} system can be coloured simply by **attaching it to a colored cable**{.gold}! 
+Nearly every part of your **Applied Energistics 2**{.blue} system can be coloured simply by **attaching it to a colored cable**{.gold}! 
 
 To hide unsightly cables, you can **craft any block with **4 Cable Anchors**{.aqua} to make 4 **Facades**{.aqua}. **Facades**{.aqua} can be &6applied to any side**{.gold} of a **cable**{.aqua}, including sides with attachments such as the **Nexus Crafting Aperture**{.aqua} and will be **inside the block &owith**{.green} **the cable**{.green}- not taking up any extra space! 
 

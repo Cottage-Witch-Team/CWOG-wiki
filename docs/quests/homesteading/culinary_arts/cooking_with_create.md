@@ -1,7 +1,7 @@
 
 # Cooking with Create
 
-Did you know that you can &aautomate your cooking with **Create**{.glow}? You can!
+Did you know that you can &aautomate your cooking with **Create**{.blue}? You can!
 
 Right click the **Cooking Guide**{.aqua} onto a **Blaze Burner**{.aqua} to **create a Blaze Stove**{.gold}.
 
