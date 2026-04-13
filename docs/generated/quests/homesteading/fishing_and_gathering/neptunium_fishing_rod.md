@@ -1,0 +1,11 @@
+# Neptunium Fishing Rod
+
+> The rod of ol' neptune himself
+
+The ultimate rod! The **Neptunium Rod**{.aqua} has more durability and is more enchantable than any other rod. It's also inherently more attractive to fish somehow.
+
+---
+
+!!! tip "TASK" 
+
+	- [ ] Acquire **Neptunium Fishing Rod**

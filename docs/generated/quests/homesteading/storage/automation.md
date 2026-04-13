@@ -1,0 +1,27 @@
+# Automation
+
+Depending on how robust your storage network is, you may find it useful to **automagically transfer items**{.green} from - for example - your **Sophisticated Storage**{.blue} setup to your **Applied Energistics**{.blue} Nexus.
+
+
+
+To do this, you'll want **Import and Export Fulcrums**{.aqua}.
+
+
+
+The **Import Fulcrum**{.aqua} and **Export Fulcrum**{.aqua} are a must for a busy witch. Consider them to be **upgradeable, filterable hoppers**{.green} that can feed **directly into and out of your system**{.green}. This is particularly helpful for unloading or loading **Shulkers**{.aqua} and **Backpacks**{.aqua}.
+
+
+
+The **Vibrant Communicator**{.aqua} is similar, but instead of interacting with external storage, it allows you to **transfer items into and out of**{.green} **Glyphstones**{.aqua}. **Switch the Transfer Direction to**{.gold} **Network**{.green} **or**{.gold} **Storage Glyph**{.green} and **place your**{.gold} **Glyphstone**{.aqua} **in the left slot**{.gold}. When the transfer is complete your **Glyphstone**{.aqua} will be automatically **moved to the right slot**{.green}. 
+
+
+
+![ae2_vibrant_communicator_1.png](/assets/textures/quest_images/ae2_vibrant_communicator_1.png)
+
+---
+
+!!! tip "TASK" 
+
+	- [ ] Acquire **Import Bus**
+	- [ ] Acquire **Export Bus**
+	- [ ] Acquire **Io Port**

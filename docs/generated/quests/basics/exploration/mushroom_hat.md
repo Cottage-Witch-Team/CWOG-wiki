@@ -1,0 +1,15 @@
+# Mushroom Hat
+
+Would you like a Mushroom Hat? Cool! Click the box above.
+
+Be careful, because if you place it on the ground **it will turn into a pumpkin**{.pink}. And it doesn't even need to be midnight.
+
+
+
+This quest is **Repeatable!**{.pink}
+
+---
+
+!!! tip "TASK" 
+
+	- [ ]  **I want a mushroom hat!!**
