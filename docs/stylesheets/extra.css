@@ -53,47 +53,61 @@
 }
 
 .red {
-    color: red;
-    text-shadow: 0 0 5px var(--md-color-shadow);
+    color: #FF5555;
+    text-shadow: 1px 1px dimgrey;
+
 }
 
 .gold {
-    color: darkgoldenrod;
-    text-shadow: 0 0 5px var(--md-color-shadow);
+    color: #FFAA00;
+    text-shadow: 1px 1px dimgrey;
+
 }
 
 .yellow {
-    color: goldenrod;
-    text-shadow: 0 0 5px var(--md-color-shadow);
+    color: #FFFF55;
+    text-shadow: 1px 1px dimgrey;
+
 }
 
 .green {
-    color: forestgreen;
-    text-shadow: 0 0 5px var(--md-color-shadow);
+    color: #55FF55;
+    text-shadow: 1px 1px dimgrey;
 }
 
 .pink {
-    color: hotpink;
-    text-shadow: 0 0 5px var(--md-color-shadow);
+    color: #FF55FF;
+    text-shadow: 1px 1px dimgrey;
 }
 
 .aqua {
-    color: teal;
-    text-shadow: 0 0 5px var(--md-color-shadow);
+    color: #55FFFF;
+    text-shadow: 1px 1px dimgrey;
 }
 
 .navy {
 
-    color: navy;
-    text-shadow: 0 0 5px var(--md-color-shadow);
+    color: #0000AA;
+    text-shadow: 1px 1px dimgrey;
+
 }
 
 .blue {
-    color: dodgerblue;
-    text-shadow: 0 0 5px white;
+    color: #5555FF;
+    text-shadow: 1px 1px dimgrey;
+
 }
 
 .purple {
-    color: rebeccapurple;
-    text-shadow: 0 0 5px white;
+    color: #AA00AA;
+    text-shadow: 1px 1px dimgrey;
+
+}
+
+.big {
+    font-size: larger;
+}
+
+.italic {
+    font-style: italic;
 }

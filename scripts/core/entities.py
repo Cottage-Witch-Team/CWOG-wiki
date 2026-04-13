@@ -76,12 +76,20 @@ class ConfigDocument:
 @dataclass
 class MarkdownPage:
     title: str
+
     description: str
     rel_output_path: Path | str
     content: str
 
+    subtitle: str | None = None
+
     def __post_init__(self) -> None:
-        self.full_text = f"# {self.title}\n\n{self.description}\n\n---\n\n{self.content}"
+        self.full_text = f"# {self.title}\n\n"
+
+        if self.subtitle:
+            self.full_text += f"> {self.subtitle}\n\n"
+
+        self.full_text += f"{self.description}\n\n---\n\n{self.content}"
         if isinstance(self.rel_output_path, str):
             self.rel_output_path = Path(self.rel_output_path)
         if not (path := self.rel_output_path).suffix:
