@@ -1,3 +1,6 @@
+# This Page Moved
+Use: `wiki/resources/resource-pack-setup.md` and `wiki/resources/resource-pack-credits/index.md`
+
 # What Resource Packs Should I Enable?
 We recommend enabling everything except the following, which are user-preference only:
 - Black Icons

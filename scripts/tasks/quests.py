@@ -1,13 +1,15 @@
 import logging
 import re
 import shutil
+import tomllib
 from collections.abc import Generator
+from copy import deepcopy
 from pathlib import Path
 from typing import Any
 
 from markdown.extensions.toc import slugify
 
-from scripts.core.constants import DOCS_ROOT
+from scripts.core.constants import DOCS_ROOT, REPO_ROOT
 from scripts.core.entities import MarkdownPage, ModpackDirectory, ModpackFile
 from scripts.core.markdown_funcs import ImageRegistry, advancement_to_string, item_to_string, tag_to_string
 from scripts.core.mc_formatter import parse_mc_formatting_to_markdown
@@ -21,18 +23,19 @@ class Quests(WikiBuildTask):
     quests_chapters_source = ModpackDirectory(rel_path="config/ftbquests/quests/chapters").get_files()
     chapter_groups_source = ModpackFile(rel_path="config/ftbquests/quests/chapter_groups.snbt")
 
-    quest_pages: list[MarkdownPage] = []
-
     quest_root = "generated/quests"
+    zensical_config_path = REPO_ROOT / "zensical.toml"
+    quest_nav_start_marker = "# BEGIN GENERATED QUEST NAV"
+    quest_nav_end_marker = "# END GENERATED QUEST NAV"
 
     image_re = re.compile(r"\{image:cottagewitch:([^ \}]+)(.*?)\}")
 
-    quest_book = None
-
-    def run_task(self) -> None:
-        self.prepare_data()
-        self.render_files()
-        self.write_files()
+    def __init__(self) -> None:
+        """Initialize transient state used during a run."""
+        self.quest_book: dict[str, Any] = {}
+        self.quest_pages: list[MarkdownPage] = []
+        self.quest_nav: list[tuple[str, list[tuple[str, list[str]]]]]
+        self.quest_nav = []
 
     def prepare_data(self) -> None:
         chapters = {}
@@ -82,14 +85,16 @@ class Quests(WikiBuildTask):
 
             self.quest_book = quest_book
 
-    def render_files(self) -> None:
+    def render_output(self) -> None:
         quest_book = self.quest_book
 
         for chapter_group_title, chapter_group in self._iter_sorted_entries(quest_book):
             logger.info("Chapter group: %s", chapter_group_title.upper())
+            chapter_nav_entries: list[tuple[str, list[str]]] = []
 
             for chapter_title, chapter in self._iter_sorted_entries(chapter_group):
                 logger.info("  Chapter: %s", chapter_title)
+                quest_paths: list[str] = []
 
                 for quest_title, quest in self._iter_sorted_entries(chapter):
                     logger.debug("    Quest: %s", quest_title)
@@ -104,12 +109,19 @@ class Quests(WikiBuildTask):
                         rel_output_path=path_to_write,
                     )
                     self.quest_pages.append(file)
+                    quest_paths.append(path_to_write.as_posix())
 
-    def write_files(self) -> None:
+                chapter_nav_entries.append((chapter_title, quest_paths))
+
+            self.quest_nav.append((chapter_group_title, chapter_nav_entries))
+
+    def write_output(self) -> None:
         shutil.rmtree(DOCS_ROOT / self.quest_root, ignore_errors=True)
 
         for page in self.quest_pages:
             page.write_to_file()
+
+        self._write_quest_nav_to_config()
 
     # region Private
 
@@ -332,7 +344,81 @@ class Quests(WikiBuildTask):
 
         return task_string
 
+    def _write_quest_nav_to_config(self) -> None:
+        config_text = self.zensical_config_path.read_text(encoding="utf-8")
+        original_config = tomllib.loads(config_text)
+        quest_nav_block = self.build_generated_nav_block()
+        updated_text = self._upsert_generated_nav_block(config_text, quest_nav_block)
+        updated_config = tomllib.loads(updated_text)
+        self.assert_only_nav_changed(original_config, updated_config)
+        self.zensical_config_path.write_text(updated_text, encoding="utf-8")
+
+    def build_generated_nav_block(self) -> str:
+        lines = [
+            "    " + self.quest_nav_start_marker,
+            '    { "Quests" = [',
+        ]
+
+        for group_title, chapters in self.quest_nav:
+            group_display = self._format_nav_label(group_title)
+            lines.append(f'        {{ "{group_display}" = [')
+
+            for chapter_title, quest_paths in chapters:
+                chapter_display = self._format_nav_label(chapter_title)
+                lines.append(f'            {{ "{chapter_display}" = [')
+                lines.extend(f'                "{quest_path}",' for quest_path in quest_paths)
+                lines.append("            ] },")
+
+            lines.append("        ] },")
+
+        lines.extend(
+            [
+                "    ] },",
+                "    " + self.quest_nav_end_marker,
+            ],
+        )
+        return "\n".join(lines)
+
+    def _upsert_generated_nav_block(self, config_text: str, quest_nav_block: str) -> str:
+        if self.quest_nav_start_marker in config_text and self.quest_nav_end_marker in config_text:
+            pattern = (
+                re.escape(self.quest_nav_start_marker)
+                + r".*?"
+                + re.escape(self.quest_nav_end_marker)
+            )
+            return re.sub(pattern, quest_nav_block.strip(), config_text, flags=re.DOTALL)
+
+        nav_start = config_text.find("nav = [")
+        if nav_start == -1:
+            message = "Could not find `nav = [` in zensical.toml"
+            raise ValueError(message)
+
+        nav_end = re.search(r"^]\s*$", config_text[nav_start:], flags=re.MULTILINE)
+        if nav_end is None:
+            message = "Could not find closing bracket for nav section in zensical.toml"
+            raise ValueError(message)
+
+        insert_at = nav_start + nav_end.start()
+        insertion = quest_nav_block + "\n"
+        return config_text[:insert_at] + insertion + config_text[insert_at:]
+
+    @staticmethod
+    def assert_only_nav_changed(
+        original_config: dict[str, Any],
+        updated_config: dict[str, Any],
+    ) -> None:
+        original = deepcopy(original_config)
+        updated = deepcopy(updated_config)
+
+        original.get("project", {}).pop("nav", None)
+        updated.get("project", {}).pop("nav", None)
+
+        if original != updated:
+            message = "Unexpected zensical.toml changes outside `project.nav`"
+            raise ValueError(message)
+
+    @staticmethod
+    def _format_nav_label(raw_label: str) -> str:
+        return raw_label.replace("_", " ").title()
+
     # endregion
-
-
-Quests().run_task()

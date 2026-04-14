@@ -1,3 +1,6 @@
+# This Page Moved
+Use: `wiki/customization/remove-balance-changes/index.md`
+
 # Removing Changes
 
 # Ars Nouveau

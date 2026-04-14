@@ -161,9 +161,9 @@ Many of the items in AE2 have been renamed to a more magical vibe. See a list of
 | `ae2:redstone_card` | Redstone Card | **Redstone Tablet** | :lucide-check:{.green} |
 | `ae2:redstone_p2p_tunnel` | Redstone P2P Tunnel | **Redstone Transference Focus** | :lucide-check:{.green} |
 | `ae2:singularity` | Singularity | **Aetheric Core** | :lucide-check:{.green} |
-| `ae2:spatial_storage_cell_128` | ~~128Â³ Spatial Storage Cell~~ | ~~128Â³ Spatial Storage Glyph~~ | :lucide-x:{.red} |
-| `ae2:spatial_storage_cell_16` | ~~16Â³ Spatial Storage Cell~~ | ~~16Â³ Spatial Storage Glyph~~ | :lucide-x:{.red} |
-| `ae2:spatial_storage_cell_2` | ~~2Â³ Spatial Storage Cell~~ | ~~2Â³ Spatial Storage Glyph~~ | :lucide-x:{.red} |
+| `ae2:spatial_storage_cell_128` | ~~128³ Spatial Storage Cell~~ | ~~128³ Spatial Storage Glyph~~ | :lucide-x:{.red} |
+| `ae2:spatial_storage_cell_16` | ~~16³ Spatial Storage Cell~~ | ~~16³ Spatial Storage Glyph~~ | :lucide-x:{.red} |
+| `ae2:spatial_storage_cell_2` | ~~2³ Spatial Storage Cell~~ | ~~2³ Spatial Storage Glyph~~ | :lucide-x:{.red} |
 | `ae2:speed_card` | Acceleration Card | **Acceleration Tablet** | :lucide-check:{.green} |
 | `ae2:storage_bus` | ME Storage Bus | **Nexus Storage Anchor** | :lucide-check:{.green} |
 | `ae2:storage_monitor` | ME Storage Monitor | **Nexus Storage Monitor** | :lucide-check:{.green} |

@@ -1,16 +1,14 @@
-# This Page Moved
-Use: `wiki/performance-and-compat/mods-without-quests.md`
+# Mods Without Associated Quests
 
-## Mods Without Associated Quests:
-Remove these from your mods folder if you have a weaker PC and need to cut some fat.
+If you need to reduce load on a weaker PC, these are common candidates to remove first.
 
 - Snad
 - Ambient Sounds
 - Auto-Smelting
 - Baby Fat
-- Beautify (I think?)
+- Beautify
 - Better Lily Pads
-- Casting Crystals?
+- Casting Crystals
 - Caupona (for now)
 - Chef's Delight
 - Chimes
@@ -20,11 +18,11 @@ Remove these from your mods folder if you have a weaker PC and need to cut some 
 - Colorful Azaleas
 - Connected Glass
 - Dark Paintings
-- Decorative Blocks?
+- Decorative Blocks
 - Double Slabs
 - Dramatic Doors
 - Effortless Building
-- Extended Mushrooms?
+- Extended Mushrooms
 - Fairy Lights
 - Farsight
 - Macaw's Bridges
@@ -38,9 +36,9 @@ Remove these from your mods folder if you have a weaker PC and need to cut some 
 - Macaw's Trapdoors
 - Macaw's Windows
 - Mallard's Paintings
-- Missings Wilds
+- Missing Wilds
 - Night Lights
 - Snail Mail (for now)
 - Sooty Chimneys
-- Structory?
+- Structory
 - Twilight Forest: The Lost Blocks

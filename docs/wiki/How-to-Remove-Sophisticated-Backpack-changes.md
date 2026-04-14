@@ -1,3 +1,6 @@
+# This Page Moved
+Use: `wiki/customization/sophisticated-backpacks/index.md`
+
 # Changes Cottage Witch made to Sophisticated Backpacks
 - Removed the Crafting Recipes for base backpacks
 - Added base backpacks as loot in End Cities

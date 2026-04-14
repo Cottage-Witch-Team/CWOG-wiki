@@ -1,3 +1,6 @@
+# This Page Moved
+Use: `wiki/performance-and-compat/client-side-mods.md`
+
 This list is updated for 1.19, but contains some mods from 1.18 as well.
 
 ## Client-Sided Mods:
